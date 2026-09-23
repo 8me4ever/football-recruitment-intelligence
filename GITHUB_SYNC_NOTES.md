@@ -7,59 +7,62 @@
 
 ## 0. 当前状态
 
-本地 git 仓库**已准备好**（`F:\Samuel\football recruitment\.git`），含 3 个提交、221 个文件、约 14 MB：
+本地 git 仓库**已准备好**（`F:\Samuel\football recruitment\.git`），含 **6 个提交、233 个文件、约 14.4 MB**：
 
 ```
+4c66476  chore: 报告中改用相对路径，避免写入本机绝对路径
+d17d839  fix: 纳入 M1 交付产物（此前被 .gitignore 误排除）
+fce9b2b  docs: GitHub 同步与换机接续指南
 c3181ea  docs(audit): 旧项目取证审计与迁移路线图
 a686437  chore(archive): 归档原 MSc 项目（移动而非删除）
 44d6fc1  feat: M1 clean data layer for Recruitment & Squad Intelligence System
 ```
 
+**已完成的推送前检查**：
+
+| 检查 | 结果 |
+|---|---|
+| `git fsck` 完整性 | ✅ 无损坏 |
+| 硬编码凭据 / token / 私钥 | ✅ 无 |
+| 邮箱地址 | ✅ 无 |
+| 真实学号 | ✅ 无（仅 PPT 大纲里一行清单文字「姓名、学号、导师」） |
+| 本机绝对路径（泄露用户名） | ✅ 已改为相对路径 |
+| 大文件（>5 MB） | ✅ 无，最大 1.99 MB |
+| venv 排除（457 MB） | ✅ 已排除 |
+| 工作区状态 | ✅ 干净 |
+
 **尚未推送** —— 执行环境被沙箱完全断网（连 pypi/baidu 均不可达），
-必须在你自己的终端里执行推送。`gh` CLI 已用你的账号登录且 token 有 `repo` 权限，一条命令即可。
+必须在你自己终端执行。`gh` 已用账号 `8me4ever` 登录且 token 有 `repo` 权限。
 
 ---
 
-## ⚠️ 1. 重要：仓库可见性必须先决定
+## 1. 仓库可见性：Public（已确认）
 
-`_audit/DOC_CLAIMS_RAW.md`（163 KB）与 `_audit/EXISTING_PROJECT_AUDIT.md`（59 KB）中，
-完整记录了旧 MSc 项目的以下事实：
+你已确认**公开仓库**（理由：早已毕业，数据伪造不构成在读期间的学术风险）。据此：
 
-- 论文第 6 章的统计显著性检验，所依据的"实验数据"由 `np.random.normal()` 生成；
-- `Run_Statistical_Tests.py` 的检验结论是硬编码的；
-- 论文第 4 章的数据表（球员数、标签分布、完整度）与磁盘数据不一致；
-- 泛化测试框架从未真正运行过。
+- `_audit/DOC_CLAIMS_RAW.md` 与 `EXISTING_PROJECT_AUDIT.md` 中的取证内容**保留完整**；
+- 学生姓名（Ziming Chen）、院校（University of Birmingham）作为作品署名保留。
 
-这些是**新系统"诚实化"的依据，不是要隐瞒的内容**。但请注意：
-
-| 仓库可见性 | 后果 |
-|---|---|
-| **Private（强烈建议）** | 只有你和被邀请的协作者可见。上述内容安全，可完整保留 |
-| **Public** | 任何人（包括导师、同学、未来的雇主）都能搜到。**存在实际的学术诚信风险** |
-
-> **建议：建为 private 仓库。** 若将来需要公开展示，先按第 5 节做一份脱敏版本。
+> 如果以后改变主意，`gh repo edit --visibility private` 可随时改回私有。
 
 ---
 
 ## 2. 推送步骤（在你自己的终端执行）
 
-`gh` 已登录，以下命令**不要加 `--public`**（`gh repo create` 默认就是 private）：
-
 ```powershell
-# 进入仓库
 cd "F:\Samuel\football recruitment"
 
 # 确认还没有远端
 git remote -v
 
-# 创建 private 仓库并推送（一条命令完成）
-gh repo create football-recruitment-intelligence --private --source=. --remote=origin --push
+# 创建 Public 仓库并推送（一条命令完成）
+gh repo create football-recruitment-intelligence --public --source=. --remote=origin --push
 ```
 
-如果希望**先手动建仓库再推送**：
+若希望**先手动建仓库再推送**：
 
 ```powershell
-# 1) 在 GitHub 网页上新建一个 private 仓库，例如 football-recruitment-intelligence
+# 1) 在 GitHub 网页新建 Public 仓库 football-recruitment-intelligence
 #    不要勾选 "Add a README / .gitignore / license"（避免与本地历史冲突）
 # 2) 关联并推送
 git remote add origin https://github.com/8me4ever/football-recruitment-intelligence.git
@@ -72,7 +75,7 @@ git push -u origin main
 ```powershell
 git remote -v
 git log --oneline -3
-gh repo view --web     # 在浏览器打开确认是 Private
+gh repo view --web
 ```
 
 ---
@@ -169,20 +172,34 @@ python scripts/run_m1_build_data.py
 
 ---
 
-## 5. 如果将来要公开仓库
+## 5. 公开仓库的说明（本仓库已按此设置）
 
-公开前**必须**处理 `_audit/` 中的敏感内容。可选方案：
+仓库为 **Public**，因此以下内容对所有人可见，请知悉：
 
-| 方案 | 做法 |
+| 内容 | 说明 |
 |---|---|
-| **A. 移到私有仓库** | 把 `_audit/DOC_CLAIMS_RAW.md` 与 `EXISTING_PROJECT_AUDIT.md` 第 6 节移到另一个 private 仓库，公开仓库只留 `MIGRATION_PLAN.md` 与 `GAP_ANALYSIS.md` |
-| **B. 脱敏重写** | 保留"旧项目存在方法论缺陷"的结论，去掉"伪造数据"的具体指控与行号 |
-| **C. 压缩为教训清单** | 只保留"我们学到的 10 条实施纪律"（MIGRATION_PLAN.md 第 15 节已有），删掉对旧论文的取证细节 |
+| `_audit/DOC_CLAIMS_RAW.md` | 含对旧论文"统计显著性数据由 `np.random.normal()` 生成"的逐条取证与行号 |
+| `_audit/EXISTING_PROJECT_AUDIT.md` | 含旧项目的 39 项技术债清单 |
+| `archive/` | 旧 MSc 项目的全部代码、论文 LaTeX 源码、演示 PPT 与图表 |
+| 作者姓名 / 院校 | Ziming Chen / University of Birmingham（作为署名保留） |
 
-**建议 A**：公开的是**新系统**，审计细节留在私有侧。这既保护你，也不削弱新系统的价值。
+**已确认无**：凭据、token、私钥、邮箱、真实学号、本机绝对路径。
 
-同时，公开前应确认 `archive/` 是否要一起公开 —— 归档里包含旧论文全文与演示 PPT，
-如需保留作品集展示，建议只公开 `recruitment-squad-intelligence/` 一个子目录。
+如果将来希望改变可见性：
+
+```powershell
+gh repo edit --visibility private      # 改回私有
+```
+
+如果希望把"新系统"与"旧项目归档+取证"分开（例如想让招聘方只看到新系统）：
+
+```powershell
+# 方案：另建一个只含新系统的公开仓库
+# 1) 复制出干净目录
+git subtree split --prefix=recruitment-squad-intelligence -b portfolio-only
+# 2) 推送到新仓库
+gh repo create recruitment-squad-intelligence --public --source=. --push   # 需先切换到该分支
+```
 
 ---
 
@@ -191,10 +208,21 @@ python scripts/run_m1_build_data.py
 | 项 | 状态 |
 |---|---|
 | 本地 git 仓库初始化 | ✅ 完成 |
-| 3 个结构化提交 | ✅ 完成 |
+| 6 个结构化提交 | ✅ 完成 |
 | venv 排除（457 MB） | ✅ 完成 |
-| `.gitignore` / `.gitattributes` | ✅ 完成 |
-| 归档完整性校验（SHA256 清单） | ✅ 171 个文件，无丢失 |
+| `.gitignore` / `.gitattributes`（跨平台） | ✅ 完成 |
+| M1 交付产物纳入版本控制（约 1.5 MB） | ✅ 完成 |
+| 归档完整性校验（SHA256 清单，171 个文件） | ✅ 无丢失 |
+| 推送前隐私扫描（凭据/邮箱/学号/绝对路径） | ✅ 全部通过 |
 | 新系统在新环境可复现（77 项测试） | ✅ 已验证 |
 | **推送到 GitHub** | ⏳ **需你在本地终端执行（见第 2 节）** |
-| **仓库可见性决策** | ⏳ **建议 private（见第 1 节）** |
+| 仓库可见性 | ✅ Public（已确认） |
+
+---
+
+## 7. 推送后建议立即做的事
+
+1. **在另一台电脑上克隆并按第 3 节验证** —— 确认 `run_m1_build_data.py` 输出与本文档记录的期望值一致；
+2. **在 `README.md` 顶部加上仓库链接**（可选，便于以后引用）；
+3. **继续 M2/M3** —— 按 `_audit/MIGRATION_PLAN.md`，下一步是表现引擎 v2 与评估层，
+   两者必须**同批交付**，否则会重演旧项目"先造模型再想评估"的错误。
