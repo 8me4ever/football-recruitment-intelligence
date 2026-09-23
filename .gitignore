@@ -1,0 +1,59 @@
+# =============================================================================
+# 工作区根 .gitignore
+# 目标：把可同步的内容控制在约 30 MB 以内，排除所有可再生的重型产物。
+# =============================================================================
+
+# ---- 虚拟环境（457.6 MB，必须排除）----
+# 新机器上用 requirements.txt 重建即可：
+#     python -m venv venv && venv\Scripts\pip install -r recruitment-squad-intelligence/requirements.txt
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- 编辑器 / 工具配置（含本机路径与凭据痕迹）----
+.idea/
+.vscode/
+.claude/
+*.iml
+*.swp
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 空文件与临时产物 ----
+claude-code
+*.tmp
+*.bak
+~$*
+
+# ---- 生成的产物（可由脚本重建）----
+# 注意：data/processed/ 是 M1 的**交付物**，体积小（约 1.5 MB）且需要同步，
+# 因此**不**排除。仅排除临时目录与图表缓存。
+recruitment-squad-intelligence/data/interim/*
+recruitment-squad-intelligence/reports/figures/*.png
+!recruitment-squad-intelligence/data/interim/.gitkeep
+!recruitment-squad-intelligence/reports/figures/.gitkeep
+
+# ---- 本地覆盖配置与凭据 ----
+.env
+.env.*
+*.local.yaml
+config/local.yaml
+
+# ---- GitHub 上传清单（本机生成，含绝对路径，无需同步）----
+GITHUB_UPLOAD_MANIFEST.txt
+
+# ---- 逐文件排除清单（见 GITHUB_SYNC_NOTES.md 说明）----
+_audit/.sensitive_exclude

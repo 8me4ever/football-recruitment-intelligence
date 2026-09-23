@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 虚拟环境（复用 ../final project/venv，不在此处重建）
+venv/
+.venv/
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
+
+# 生成的产物（可由 scripts/run_m1_build_data.py 重新生成）
+data/processed/*.csv
+data/interim/*
+reports/figures/*.png
+
+# 但保留目录占位
+!data/processed/.gitkeep
+!data/interim/.gitkeep
+!reports/figures/.gitkeep
+
+# 本地覆盖配置
+config/local.yaml
+.env

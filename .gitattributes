@@ -1,0 +1,45 @@
+# =============================================================================
+# 跨平台与编码规范
+# 目标：从 Windows 换到 macOS / Linux 时不产生大规模"整文件被改写"的假 diff。
+# =============================================================================
+
+# 默认：文本文件在仓库内统一存为 LF。
+# 但 Windows 专用脚本保留 CRLF，避免 PowerShell 解析问题。
+* text=auto eol=lf
+
+# ---- Windows 专用脚本：保留 CRLF ----
+*.ps1 text eol=crlf
+*.psm1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# ---- 明确的文本类型 ----
+*.py    text diff=python
+*.md    text
+*.txt   text
+*.csv   text
+*.json  text
+*.tex   text
+*.yaml  text
+*.yml   text
+*.toml  text
+*.cfg   text
+*.ini   text
+*.html  text
+
+# ---- 二进制类型（禁止任何行尾转换，否则文件损坏）----
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.pptx  binary
+*.xlsx  binary
+*.pdf   binary
+*.ico   binary
+
+# ---- 大体积数据/归档文件：不做 diff 展示 ----
+*.html  -diff
+*.csv   -diff
+
+# ---- 语言识别（GitHub 统计用）----
+*.py    linguist-language=Python

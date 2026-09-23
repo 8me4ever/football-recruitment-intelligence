@@ -1,0 +1,26 @@
+# Recruitment & Squad Planning Intelligence System —— 直接依赖
+#
+# 版本与旧项目已验证的 venv 一致（该 venv 位于 ../final project/venv，
+# 可直接复用以免重建 457 MB；本文件用于在别处重建环境）。
+#
+# 安装：
+#     python -m pip install -r requirements.txt
+#
+# 注意：本系统刻意**不引入**以下依赖（见 _audit/MIGRATION_PLAN.md §12）：
+#   - 不引入 UMAP / 深度学习框架 —— 样本量与需求都不支持
+#   - 不引入 SHAP —— 优先用系数与置换重要性，更轻量
+#   - 不引入 Streamlit —— 报告层稳定前不做交互界面
+
+pandas==2.3.0
+numpy==2.3.1
+scipy==1.16.1
+scikit-learn==1.7.1
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# HTML 解析（2024-2025 赛季的数据源是 FBref 原始 HTML）
+lxml>=5.0
+
+# 测试。若环境无法联网安装 pytest，可用内置的零依赖运行器：
+#     python scripts/run_tests.py
+pytest>=8.0

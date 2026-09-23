@@ -1,0 +1,229 @@
+{
+  "generated_at_utc": "2026-09-23T16:00:56.405640+00:00",
+  "raw_data_dir": "F:\\Samuel\\football recruitment\\archive\\msc-inter-departure-2025\\data excel",
+  "seasons": {
+    "2022-2023": {
+      "raw_rows": 603,
+      "raw_unique_players": 577,
+      "raw_teams": 20,
+      "players_after_cleaning": 577,
+      "midseason_transfers_merged": 26,
+      "multi_position_players": 116,
+      "low_sample_players": 147,
+      "position_distribution": {
+        "Defender": 215,
+        "Midfielder": 193,
+        "Forward": 121,
+        "Goalkeeper": 48
+      },
+      "contract_coverage": {
+        "with_info": 25,
+        "total": 577,
+        "loans": 4
+      },
+      "inter_squad": {
+        "n_players": 25,
+        "departed": 12,
+        "stayed": 13,
+        "by_position": {
+          "Defender": {
+            "n": 11,
+            "departed": 4
+          },
+          "Forward": {
+            "n": 4,
+            "departed": 2
+          },
+          "Goalkeeper": {
+            "n": 3,
+            "departed": 3
+          },
+          "Midfielder": {
+            "n": 7,
+            "departed": 3
+          }
+        },
+        "low_sample_players": [
+          {
+            "player_name": "Alex Cordaz",
+            "Min": 26
+          },
+          {
+            "player_name": "Mattia Zanotti",
+            "Min": 27
+          },
+          {
+            "player_name": "Valentin Carboni",
+            "Min": 25
+          }
+        ]
+      },
+      "candidate_pool_size": 430
+    },
+    "2023-2024": {
+      "raw_rows": 616,
+      "raw_unique_players": 590,
+      "raw_teams": 20,
+      "players_after_cleaning": 590,
+      "midseason_transfers_merged": 26,
+      "multi_position_players": 140,
+      "low_sample_players": 168,
+      "position_distribution": {
+        "Defender": 213,
+        "Midfielder": 175,
+        "Forward": 151,
+        "Goalkeeper": 51
+      },
+      "contract_coverage": {
+        "with_info": 27,
+        "total": 590,
+        "loans": 4
+      },
+      "inter_squad": {
+        "n_players": 27,
+        "departed": 7,
+        "stayed": 20,
+        "by_position": {
+          "Defender": {
+            "n": 11,
+            "departed": 1
+          },
+          "Forward": {
+            "n": 4,
+            "departed": 1
+          },
+          "Goalkeeper": {
+            "n": 3,
+            "departed": 1
+          },
+          "Midfielder": {
+            "n": 9,
+            "departed": 4
+          }
+        },
+        "low_sample_players": [
+          {
+            "player_name": "Davy Klaassen",
+            "Min": 206
+          },
+          {
+            "player_name": "Ebenezer Akinsanmiro",
+            "Min": 15
+          },
+          {
+            "player_name": "Emil Audero",
+            "Min": 337
+          },
+          {
+            "player_name": "Juan Cuadrado",
+            "Min": 267
+          },
+          {
+            "player_name": "Lucien Agoume",
+            "Min": 5
+          },
+          {
+            "player_name": "Raffaele Di Gennaro",
+            "Min": 23
+          },
+          {
+            "player_name": "Stefano Sensi",
+            "Min": 46
+          },
+          {
+            "player_name": "Tajon Buchanan",
+            "Min": 161
+          }
+        ]
+      },
+      "candidate_pool_size": 422
+    },
+    "2024-2025": {
+      "source": "raw_html",
+      "stat_categories_available": [
+        "standard"
+      ],
+      "stat_categories_missing": [
+        "goal",
+        "shooting",
+        "passing",
+        "possession",
+        "defensive",
+        "goalkeeper",
+        "goalkeeper_advance"
+      ],
+      "has_departure_labels": false,
+      "has_contract_data": false,
+      "raw_rows": 634,
+      "raw_unique_players": 599,
+      "raw_teams": 20,
+      "players_after_cleaning": 599,
+      "midseason_transfers_merged": 35,
+      "multi_position_players": 160,
+      "low_sample_players": 170,
+      "position_distribution": {
+        "Defender": 221,
+        "Midfielder": 190,
+        "Forward": 141,
+        "Goalkeeper": 47
+      },
+      "inter_squad": {
+        "n_players": 26,
+        "departed": null,
+        "stayed": null,
+        "by_position": {
+          "Defender": {
+            "n": 12,
+            "departed": null
+          },
+          "Forward": {
+            "n": 5,
+            "departed": null
+          },
+          "Goalkeeper": {
+            "n": 2,
+            "departed": null
+          },
+          "Midfielder": {
+            "n": 7,
+            "departed": null
+          }
+        },
+        "low_sample_players": [
+          {
+            "player_name": "Luka Topalović",
+            "Min": 11
+          },
+          {
+            "player_name": "Tajon Buchanan",
+            "Min": 95
+          }
+        ]
+      },
+      "candidate_pool_size": 429
+    }
+  },
+  "known_data_gaps": [
+    "无转会费 / 球员估值 —— 因此不做性价比与预算分析",
+    "无薪资数据 —— 因此不做薪资结构分析",
+    "无伤病历史 —— 因此不做可用性风险",
+    "无位置坐标（x/y）数据 —— 角色刻画基于行为统计而非触球热区",
+    "候选池仅限 Serie A —— 无法推荐其他联赛球员",
+    "合同信息仅覆盖国米球员（每赛季约 25-27 人），联赛其他球员无合同数据"
+  ],
+  "combined_rows": 1766,
+  "processed_files": [
+    "candidate_pool_2022_2023.csv",
+    "candidate_pool_2023_2024.csv",
+    "candidate_pool_2024_2025.csv",
+    "contracts_2022_2023.csv",
+    "contracts_2023_2024.csv",
+    "inter_squad_2022_2023.csv",
+    "inter_squad_2023_2024.csv",
+    "inter_squad_2024_2025.csv",
+    "players_2022_2023.csv",
+    "players_2023_2024.csv",
+    "players_2024_2025.csv",
+    "players_all_seasons.csv"
+  ]
+}
