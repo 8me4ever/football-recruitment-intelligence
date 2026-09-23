@@ -1,0 +1,88 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[
+  backend=biber,
+  style=authoryear,
+  sorting=ynt
+]{biblatex}
+\addbibresource{references.bib}
+\usepackage[english]{babel}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{mathptmx} % Times font
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{chngcntr}
+\usepackage{tikz}
+\usetikzlibrary{positioning,shapes.geometric,arrows.meta}
+
+% Page setup - 减少页边距和页眉高度
+\geometry{left=2.5cm,right=2.5cm,top=2cm,bottom=2cm}
+\onehalfspacing
+
+% 章节编号设置 - 每个大章的小节从x.1开始
+\counterwithin{subsection}{section}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=blue,
+    urlcolor=blue,
+    pdftitle={Multi-layer Probability Fusion Algorithm Based on Relative Percentile Ranking},
+    pdfauthor={Ziming Chen}
+}
+
+\pagestyle{empty} % 前置部分不显示页码
+
+\begin{document}
+
+% 前置部分
+\include{Preamble/FrontPage}
+\include{Preamble/Abstract}
+\include{Preamble/Acknowledge}
+
+\tableofcontents
+\newpage
+
+% 正文开始 - 页码从1开始并显示在页面下方
+\pagestyle{plain}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% 正文章节 - 每章重新开始编号
+\setcounter{section}{0}
+\include{Chapter 1/introduction}
+
+\setcounter{section}{1}
+\include{Chapter 2/analysis_requirements}
+
+\setcounter{section}{2}
+\include{Chapter 3/design}
+
+\setcounter{section}{3}
+\include{Chapter 4/data_collection}
+
+\setcounter{section}{4}
+\include{Chapter 5/implementation}
+
+\setcounter{section}{5}
+\include{Chapter 6/results}
+
+\setcounter{section}{6}
+\include{Chapter 7/discussion_conclusion}
+
+
+
+\end{document}

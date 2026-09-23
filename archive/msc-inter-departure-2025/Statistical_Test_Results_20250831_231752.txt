@@ -1,0 +1,180 @@
+Statistical Testing Results for Algorithm Performance
+============================================================
+Generated: 2025-08-31 23:17:52
+
+1. ONE-SAMPLE T-TESTS (Algorithm vs Baseline)
+---------------------------------------------
+
+PSO Algorithm:
+  accuracy: t=110.429, p=0.0000 (Significant*)
+    Mean=0.9325, Baseline=0.6800
+    Cohen's d=34.921
+  pr_auc: t=141.129, p=0.0000 (Significant*)
+    Mean=0.9571, Baseline=0.6200
+    Cohen's d=44.629
+  balanced_accuracy: t=75.906, p=0.0000 (Significant*)
+    Mean=0.9249, Baseline=0.6500
+    Cohen's d=24.004
+  f1_score: t=123.469, p=0.0000 (Significant*)
+    Mean=0.9178, Baseline=0.6000
+    Cohen's d=39.044
+
+GA Algorithm:
+  accuracy: t=55.293, p=0.0000 (Significant*)
+    Mean=0.9162, Baseline=0.6800
+    Cohen's d=17.485
+  pr_auc: t=102.494, p=0.0000 (Significant*)
+    Mean=0.9630, Baseline=0.6200
+    Cohen's d=32.412
+  balanced_accuracy: t=41.906, p=0.0000 (Significant*)
+    Mean=0.9193, Baseline=0.6500
+    Cohen's d=13.252
+  f1_score: t=75.377, p=0.0000 (Significant*)
+    Mean=0.9148, Baseline=0.6000
+    Cohen's d=23.836
+
+SA Algorithm:
+  accuracy: t=10.697, p=0.0000 (Significant*)
+    Mean=0.7300, Baseline=0.6800
+    Cohen's d=3.383
+  pr_auc: t=42.410, p=0.0000 (Significant*)
+    Mean=0.7950, Baseline=0.6200
+    Cohen's d=13.411
+  balanced_accuracy: t=10.389, p=0.0000 (Significant*)
+    Mean=0.7288, Baseline=0.6500
+    Cohen's d=3.285
+  f1_score: t=21.702, p=0.0000 (Significant*)
+    Mean=0.7190, Baseline=0.6000
+    Cohen's d=6.863
+
+RS Algorithm:
+  accuracy: t=54.862, p=0.0000 (Significant*)
+    Mean=0.9208, Baseline=0.6800
+    Cohen's d=17.349
+  pr_auc: t=89.060, p=0.0000 (Significant*)
+    Mean=0.9584, Baseline=0.6200
+    Cohen's d=28.163
+  balanced_accuracy: t=83.242, p=0.0000 (Significant*)
+    Mean=0.9208, Baseline=0.6500
+    Cohen's d=26.324
+  f1_score: t=85.254, p=0.0000 (Significant*)
+    Mean=0.9173, Baseline=0.6000
+    Cohen's d=26.960
+
+
+2. PAIRED T-TESTS (Algorithm Comparisons)
+----------------------------------------
+
+PSO_vs_GA:
+  accuracy: t=3.464, p=0.0071 (Significant*)
+    Mean Diff=0.0163, Cohen's d=1.095
+  pr_auc: t=-1.140, p=0.2836 (Not Significant)
+    Mean Diff=-0.0059, Cohen's d=-0.361
+  f1_score: t=0.665, p=0.5230 (Not Significant)
+    Mean Diff=0.0030, Cohen's d=0.210
+  balanced_accuracy: t=0.714, p=0.4934 (Not Significant)
+    Mean Diff=0.0056, Cohen's d=0.226
+
+PSO_vs_SA:
+  accuracy: t=47.952, p=0.0000 (Significant*)
+    Mean Diff=0.2025, Cohen's d=15.164
+  pr_auc: t=35.364, p=0.0000 (Significant*)
+    Mean Diff=0.1621, Cohen's d=11.183
+  f1_score: t=28.009, p=0.0000 (Significant*)
+    Mean Diff=0.1988, Cohen's d=8.857
+  balanced_accuracy: t=22.858, p=0.0000 (Significant*)
+    Mean Diff=0.1961, Cohen's d=7.228
+
+PSO_vs_RS:
+  accuracy: t=1.964, p=0.0811 (Not Significant)
+    Mean Diff=0.0116, Cohen's d=0.621
+  pr_auc: t=-0.293, p=0.7761 (Not Significant)
+    Mean Diff=-0.0014, Cohen's d=-0.093
+  f1_score: t=0.107, p=0.9172 (Not Significant)
+    Mean Diff=0.0005, Cohen's d=0.034
+  balanced_accuracy: t=1.026, p=0.3317 (Not Significant)
+    Mean Diff=0.0041, Cohen's d=0.324
+
+GA_vs_SA:
+  accuracy: t=30.796, p=0.0000 (Significant*)
+    Mean Diff=0.1862, Cohen's d=9.739
+  pr_auc: t=25.863, p=0.0000 (Significant*)
+    Mean Diff=0.1680, Cohen's d=8.179
+  f1_score: t=35.976, p=0.0000 (Significant*)
+    Mean Diff=0.1958, Cohen's d=11.377
+  balanced_accuracy: t=21.371, p=0.0000 (Significant*)
+    Mean Diff=0.1905, Cohen's d=6.758
+
+GA_vs_RS:
+  accuracy: t=-0.726, p=0.4864 (Not Significant)
+    Mean Diff=-0.0046, Cohen's d=-0.230
+  pr_auc: t=1.015, p=0.3366 (Not Significant)
+    Mean Diff=0.0045, Cohen's d=0.321
+  f1_score: t=-0.491, p=0.6349 (Not Significant)
+    Mean Diff=-0.0025, Cohen's d=-0.155
+  balanced_accuracy: t=-0.203, p=0.8434 (Not Significant)
+    Mean Diff=-0.0016, Cohen's d=-0.064
+
+SA_vs_RS:
+  accuracy: t=-28.403, p=0.0000 (Significant*)
+    Mean Diff=-0.1908, Cohen's d=-8.982
+  pr_auc: t=-25.391, p=0.0000 (Significant*)
+    Mean Diff=-0.1634, Cohen's d=-8.029
+  f1_score: t=-25.993, p=0.0000 (Significant*)
+    Mean Diff=-0.1983, Cohen's d=-8.220
+  balanced_accuracy: t=-21.702, p=0.0000 (Significant*)
+    Mean Diff=-0.1921, Cohen's d=-6.863
+
+
+3. WILCOXON SIGNED-RANK TESTS
+------------------------------
+
+PSO_vs_GA:
+  accuracy: W=3.0, p=0.0098 (Significant*)
+  pr_auc: W=17.0, p=0.3223 (Not Significant)
+  f1_score: W=23.0, p=0.6953 (Not Significant)
+  balanced_accuracy: W=23.0, p=0.6953 (Not Significant)
+
+PSO_vs_SA:
+  accuracy: W=0.0, p=0.0020 (Significant*)
+  pr_auc: W=0.0, p=0.0020 (Significant*)
+  f1_score: W=0.0, p=0.0020 (Significant*)
+  balanced_accuracy: W=0.0, p=0.0020 (Significant*)
+
+PSO_vs_RS:
+  accuracy: W=11.0, p=0.1055 (Not Significant)
+  pr_auc: W=25.0, p=0.8457 (Not Significant)
+  f1_score: W=27.0, p=1.0000 (Not Significant)
+  balanced_accuracy: W=18.0, p=0.3750 (Not Significant)
+
+GA_vs_SA:
+  accuracy: W=0.0, p=0.0020 (Significant*)
+  pr_auc: W=0.0, p=0.0020 (Significant*)
+  f1_score: W=0.0, p=0.0020 (Significant*)
+  balanced_accuracy: W=0.0, p=0.0020 (Significant*)
+
+GA_vs_RS:
+  accuracy: W=23.0, p=0.6953 (Not Significant)
+  pr_auc: W=25.0, p=0.8457 (Not Significant)
+  f1_score: W=22.0, p=0.6250 (Not Significant)
+  balanced_accuracy: W=27.0, p=1.0000 (Not Significant)
+
+SA_vs_RS:
+  accuracy: W=0.0, p=0.0020 (Significant*)
+  pr_auc: W=0.0, p=0.0020 (Significant*)
+  f1_score: W=0.0, p=0.0020 (Significant*)
+  balanced_accuracy: W=0.0, p=0.0020 (Significant*)
+
+
+4. SUMMARY
+----------
+Significant Improvements: 16/16
+Improvement Rate: 100.0%
+
+Algorithm Ranking:
+  1. PSO: 4 significant improvements
+  2. GA: 4 significant improvements
+  3. SA: 4 significant improvements
+  4. RS: 4 significant improvements
+
+* p < 0.05

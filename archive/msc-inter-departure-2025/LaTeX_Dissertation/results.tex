@@ -1,0 +1,403 @@
+\section{Results and Discussion}
+
+
+The experimental evaluation was conducted using a comprehensive multi-run framework designed to ensure statistical robustness and reproducibility. Each optimization algorithm was executed with 10 independent runs using different random seeds to assess consistency and convergence characteristics.
+
+\subsection{Multi-Algorithm Performance Comparison}
+
+The enhanced optimization framework was evaluated across four distinct approaches with integrated sigmoid parameter optimization: Genetic Algorithm (GA), Particle Swarm Optimization (PSO), Simulated Annealing (SA), and Random Search (RS). Results demonstrate the effectiveness of the reduced 16-parameter space with optimized base risk calculation.
+
+\begin{table}[H]
+\centering
+\caption{Enhanced Multi-Algorithm Weight Optimization Performance Summary}
+\label{tab:algorithm_performance}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Algorithm} & \textbf{Accuracy} & \textbf{PR-AUC} & \textbf{Balanced Acc} & \textbf{Cohen's Kappa} & \textbf{MCC} & \textbf{Exec Time (s)} \\
+\midrule
+GA & 0.9200 & 0.9646 & 0.9199 & 0.8397 & 0.8397 & 1444.7 \\
+PSO & \textbf{0.9280} & \textbf{0.9648} & \textbf{0.9276} & \textbf{0.8557} & \textbf{0.8563} & \textbf{335.3} \\
+SA & 0.7280 & 0.7978 & 0.7263 & 0.4534 & 0.4717 & 217.4 \\
+RS & 0.9200 & 0.9616 & 0.9192 & 0.8395 & 0.8418 & 313.1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Sigmoid Parameter Optimisation Results}
+
+The integration of sigmoid parameter optimisation yielded significant insights into optimal base risk calculation configurations:
+
+\begin{table}[H]
+\centering
+\caption{Optimal Sigmoid Parameters by Algorithm}
+\label{tab:sigmoid_parameters}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Algorithm} & \textbf{Alpha (Steepness)} & \textbf{Tau (Inflection)} & \textbf{Risk Multiplier} \\
+\midrule
+GA & 4.00 & 0.70 & 0.70 \\
+PSO & \textbf{4.00} & \textbf{0.61} & \textbf{0.70} \\
+SA & 1.54 & 0.52 & 0.49 \\
+RS & 1.97 & 0.70 & 0.43 \\
+\midrule
+Default Values & 2.00 & 0.50 & 0.60 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The PSO algorithm achieved optimal performance with maximum sigmoid steepness ($\alpha$ = 4.00) and moderate inflection point ($\tau$ = 0.61), indicating preference for sharp transitions at moderate age/contract thresholds, whilst maximising risk multiplier impact (0.70).
+
+\subsection{Statistical Significance Analysis}
+
+Comprehensive statistical testing was conducted to validate the significance of improvements achieved through weight optimisation using multi-run experimental data (5 independent runs per algorithm).
+
+\subsubsection{One-Sample t-Test Results}
+
+Single-sample t-tests were performed to evaluate each algorithm's performance against baseline uniform weights:
+
+\begin{table}[H]
+\centering
+\caption{One-Sample t-Test Results (Algorithm vs. Baseline)}
+\label{tab:one_sample_testing}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Algorithm} & \textbf{Metric} & \textbf{t-statistic} & \textbf{p-value} & \textbf{Cohen's d} \\
+\midrule
+\multirow{4}{*}{PSO} & Accuracy & 110.429 & $< 0.001$* & 34.92 \\
+                     & PR-AUC & 141.129 & $< 0.001$* & 44.63 \\
+                     & Balanced Accuracy & 75.906 & $< 0.001$* & 24.00 \\
+                     & F1-Score & 123.469 & $< 0.001$* & 39.04 \\
+\midrule
+\multirow{4}{*}{GA}  & Accuracy & 55.293 & $< 0.001$* & 17.49 \\
+                     & PR-AUC & 102.494 & $< 0.001$* & 32.41 \\
+                     & Balanced Accuracy & 41.906 & $< 0.001$* & 13.25 \\
+                     & F1-Score & 75.377 & $< 0.001$* & 23.84 \\
+\midrule
+\multirow{4}{*}{SA}  & Accuracy & 10.697 & $< 0.001$* & 3.38 \\
+                     & PR-AUC & 42.410 & $< 0.001$* & 13.41 \\
+                     & Balanced Accuracy & 10.389 & $< 0.001$* & 3.29 \\
+                     & F1-Score & 21.702 & $< 0.001$* & 6.86 \\
+\midrule
+\multirow{4}{*}{RS}  & Accuracy & 54.862 & $< 0.001$* & 17.35 \\
+                     & PR-AUC & 89.060 & $< 0.001$* & 28.16 \\
+                     & Balanced Accuracy & 83.242 & $< 0.001$* & 26.32 \\
+                     & F1-Score & 85.254 & $< 0.001$* & 26.96 \\
+\bottomrule
+\multicolumn{5}{l}{\small * Significant at $\alpha = 0.05$ level}
+\end{tabular}
+\end{table}
+
+All algorithms demonstrated statistically significant improvements over baseline methods across all metrics (p $< 0.001$). PSO achieved the largest effect sizes, with Cohen's d values exceeding 24.0, indicating exceptionally large practical significance.
+
+\subsubsection{Paired t-Test Results}
+
+Paired t-tests compared algorithm performance directly:
+
+\begin{table}[H]
+\centering
+\caption{Paired t-Test Results (Algorithm Comparisons)}
+\label{tab:paired_testing}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Comparison} & \textbf{Metric} & \textbf{t-statistic} & \textbf{p-value} & \textbf{Cohen's d} \\
+\midrule
+\multirow{4}{*}{PSO vs. GA} & Accuracy & 3.464 & 0.007* & 1.095 \\
+                            & PR-AUC & -1.140 & 0.284 & -0.361 \\
+                            & F1-Score & 0.665 & 0.523 & 0.210 \\
+                            & Balanced Accuracy & 0.714 & 0.493 & 0.226 \\
+\midrule
+\multirow{4}{*}{PSO vs. SA} & Accuracy & 47.952 & $< 0.001$* & 15.16 \\
+                            & PR-AUC & 35.364 & $< 0.001$* & 11.18 \\
+                            & F1-Score & 28.009 & $< 0.001$* & 8.86 \\
+                            & Balanced Accuracy & 22.858 & $< 0.001$* & 7.23 \\
+\bottomrule
+\multicolumn{5}{l}{\small * Significant at $\alpha = 0.05$ level}
+\end{tabular}
+\end{table}
+
+PSO demonstrated significant superiority over SA across all metrics with very large effect sizes. PSO and GA showed comparable performance, with PSO achieving significantly higher accuracy but similar performance in other metrics.
+
+\subsubsection{Wilcoxon Signed-Rank Test}
+
+Non-parametric validation using the Wilcoxon signed-rank test confirmed the robustness of improvements:
+
+\begin{table}[H]
+\centering
+\caption{Non-Parametric Statistical Validation}
+\label{tab:wilcoxon_test}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Algorithm Comparison} & \textbf{W-statistic} & \textbf{p-value} \\
+\midrule
+PSO vs. GA & 3.0 & 0.010* \\
+PSO vs. SA & 0.0 & 0.002* \\
+GA vs. SA & 0.0 & 0.002* \\
+SA vs. RS & 0.0 & 0.002* \\
+\bottomrule
+\multicolumn{3}{l}{\small * Significant at $\alpha = 0.05$ level}
+\end{tabular}
+\end{table}
+
+\subsection{Optimal Weight Configurations}
+
+The optimisation process identified distinct weight patterns for different playing positions, demonstrating the algorithm's ability to capture position-specific performance priorities.
+
+\subsubsection{Forward Position Optimal Weights}
+
+The PSO algorithm identified the following optimal configuration for forward players:
+
+\begin{table}[H]
+\centering
+\caption{Optimal Forward Position Weights (PSO Algorithm)}
+\label{tab:forward_weights}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Optimal Weight} \\
+\midrule
+Shots on Target & \textbf{0.150} \\
+Goal Creating Actions & \textbf{0.150} \\
+Minutes Played & \textbf{0.150} \\
+Shots per 90 & 0.120 \\
+Goals & 0.080 \\
+Expected Goals (xG) & 0.080 \\
+Shot Creating Actions & 0.080 \\
+Cards (Yellow) & 0.080 \\
+Cards (Red) & 0.080 \\
+Assists & 0.050 \\
+Conversion Rate & 0.050 \\
+Penalty Area Attacks & 0.050 \\
+Take-On Success & 0.050 \\
+\midrule
+Alpha (Steepness) & 4.000 \\
+Tau (Inflection) & 0.612 \\
+Risk Multiplier & 0.700 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The optimisation correctly identified critical attacking metrics at maximum weight (15.0\%): Shots on Target, Goal Creating Actions, and Minutes Played, reflecting the emphasis on shot accuracy and creative contribution alongside activity level for forward performance evaluation.
+
+\subsubsection{Midfielder Position Optimal Weights}
+
+For midfielder evaluation, the algorithm emphasised creative contribution and ball progression:
+
+\begin{table}[H]
+\centering
+\caption{Optimal Midfielder Position Weights (PSO Algorithm)}
+\label{tab:midfielder_weights}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Optimal Weight} \\
+\midrule
+Expected Assists (xAG) & \textbf{0.150} \\
+Progressive Passes & \textbf{0.150} \\
+Minutes Played & \textbf{0.150} \\
+Cards (Red) & 0.140 \\
+Pass Completion Rate & 0.104 \\
+Assists & 0.080 \\
+Key Passes & 0.080 \\
+Cards (Yellow) & 0.080 \\
+Touches & 0.050 \\
+Progressive Carries & 0.050 \\
+Take-On Success & 0.050 \\
+Tackles & 0.050 \\
+Shot Creating Actions & 0.050 \\
+\midrule
+Alpha (Steepness) & 4.000 \\
+Tau (Inflection) & 0.700 \\
+Risk Multiplier & 0.700 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Defender Position Optimal Weights}
+
+Defender optimization revealed emphasis on reliability and distribution capabilities:
+
+\begin{table}[H]
+\centering
+\caption{Optimal Defender Position Weights (PSO Algorithm)}
+\label{tab:defender_weights}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Optimal Weight} \\
+\midrule
+Cards (Red) & \textbf{0.150} \\
+Tackles & \textbf{0.150} \\
+Interceptions & \textbf{0.150} \\
+Tackle Success Rate & 0.120 \\
+Cards (Yellow) & 0.098 \\
+Minutes Played & 0.081 \\
+Blocks & 0.080 \\
+Clearances & 0.080 \\
+Pass Completion Rate & 0.080 \\
+Progressive Passes & 0.056 \\
+Passes into Final Third & 0.050 \\
+Long Pass Completion Rate & 0.050 \\
+Passes in Defensive Third & 0.050 \\
+\midrule
+Alpha (Steepness) & 1.970 \\
+Tau (Inflection) & 0.700 \\
+Risk Multiplier & 0.433 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Goalkeeper Position Optimal Weights}
+
+Goalkeeper optimization revealed emphasis on reliability and distribution capabilities:
+
+\begin{table}[H]
+\centering
+\caption{Optimal Goalkeeper Position Weights (PSO Algorithm)}
+\label{tab:goalkeeper_weights}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Optimal Weight} \\
+\midrule
+Cards (Yellow) & 0.133 \\
+Saves & 0.130 \\
+Minutes Played & 0.122 \\
+Clean Sheet Percentage & 0.118 \\
+Clean Sheets & 0.116 \\
+Save Percentage & 0.113 \\
+Penalty Saves & 0.105 \\
+Cards (Red) & 0.100 \\
+Penalty Save Percentage & 0.081 \\
+Wins & 0.075 \\
+Shots on Target Against & 0.070 \\
+Goals Against (per 90) & 0.062 \\
+Pass Completion (40+ yards) & 0.057 \\
+\midrule
+Alpha (Steepness) & 1.541 \\
+Tau (Inflection) & 0.519 \\
+Risk Multiplier & 0.492 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Prediction Results}
+
+The optimised PSO algorithm was applied to predict Inter Milan's 2023-2024 transfer outcomes using the optimal weights derived from multi-run experiments. The model achieved strong predictive performance across 27 players with comprehensive validation against actual transfer decisions.
+
+\subsubsection{Machine Learning Performance Metrics}
+
+The algorithm demonstrated robust predictive capability with the following performance metrics:
+
+\begin{table}[H]
+\centering
+\caption{2023-2024 Season Prediction Performance Metrics}
+\label{tab:prediction_metrics_2023_2024}
+\begin{tabular}{lc}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Accuracy & \textbf{0.7778} \\
+Precision & 0.5556 \\
+Recall & 0.7143 \\
+F1-Score & 0.6250 \\
+PR-AUC & 0.6459 \\
+Cohen's Kappa & 0.4706 \\
+Balanced Accuracy & 0.7571 \\
+Matthews Correlation Coefficient & 0.4781 \\
+Brier Score & 0.2083 \\
+\midrule
+Composite Score & \textbf{0.6765} \\
+Execution Time (seconds) & 0.22 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The model achieved 77.78\% overall accuracy, correctly predicting 21 out of 27 player outcomes. The composite score of 0.6765 reflects balanced performance across multiple evaluation dimensions.
+
+\subsubsection{Prediction Error Analysis}
+
+Analysis of incorrect predictions provides insights into model limitations and areas for improvement:
+
+\begin{table}[H]
+\centering
+\caption{Incorrectly Predicted Players (2023-2024 Season)}
+\label{tab:prediction_errors_2023_2024}
+\begin{tabular}{llcccc}
+\toprule
+\textbf{Player} & \textbf{Position} & \textbf{Age} & \textbf{Departure Prob.} & \textbf{Predicted} & \textbf{Actual} \\
+\midrule
+Raffaele Di Gennaro & Goalkeeper & 29 & 0.555 & Departed & Remained \\
+Yann Sommer & Goalkeeper & 34 & 0.543 & Departed & Remained \\
+Benjamin Pavard & Defender & 27 & 0.521 & Departed & Remained \\
+Denzel Dumfries & Defender & 27 & 0.514 & Departed & Remained \\
+Stefano Sensi & Midfielder & 27 & 0.477 & Remained & Departed \\
+Juan Cuadrado & Defender & 35 & 0.470 & Remained & Departed \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The prediction errors primarily occurred in borderline cases where departure probabilities were close to the 50\% decision threshold. Four players were incorrectly predicted to depart but remained, while two players were incorrectly predicted to remain but actually departed.
+
+\subsubsection{Successful High-Confidence Predictions}
+
+The model demonstrated strong performance in high-confidence predictions:
+
+\begin{table}[H]
+\centering
+\caption{Selected Successful Predictions (2023-2024 Season)}
+\label{tab:successful_predictions_2023_2024}
+\begin{tabular}{llcccc}
+\toprule
+\textbf{Player} & \textbf{Position} & \textbf{Age} & \textbf{Departure Prob.} & \textbf{Predicted} & \textbf{Actual} \\
+\midrule
+\multicolumn{6}{l}{\textit{High Departure Risk Predictions}} \\
+Davy Klaassen & Midfielder & 30 & 0.678 & Departed & Departed \\
+Alexis Sánchez & Forward & 34 & 0.565 & Departed & Departed \\
+Emil Audero & Goalkeeper & 26 & 0.523 & Departed & Departed \\
+Lucien Agoume & Midfielder & 21 & 0.505 & Departed & Departed \\
+Ebenezer Akinsanmiro & Midfielder & 18 & 0.501 & Departed & Departed \\
+\midrule
+\multicolumn{6}{l}{\textit{High Retention Predictions}} \\
+Lautaro Martínez & Forward & 25 & 0.319 & Remained & Remained \\
+Nicolò Barella & Midfielder & 26 & 0.338 & Remained & Remained \\
+Henrikh Mkhitaryan & Midfielder & 34 & 0.361 & Remained & Remained \\
+Alessandro Bastoni & Defender & 24 & 0.432 & Remained & Remained \\
+Hakan Çalhanoğlu & Midfielder & 29 & 0.466 & Remained & Remained \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Position-Specific Analysis}
+
+Analysis of prediction accuracy by playing position provides insights into model performance across different player categories:
+
+\begin{table}[H]
+\centering
+\caption{Position-Specific Prediction Performance (2023-2024 Season)}
+\label{tab:position_specific_2023_2024}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Position} & \textbf{Total Players} & \textbf{Correct Predictions} & \textbf{Accuracy} & \textbf{Notable Cases} \\
+\midrule
+Forward & 3 & 3 & \textbf{100.0\%} & Perfect prediction rate \\
+Midfielder & 9 & 7 & 77.8\% & Sensi misclassified \\
+Defender & 12 & 9 & 75.0\% & 3 borderline cases \\
+Goalkeeper & 3 & 1 & 33.3\% & Challenging position \\
+\midrule
+\textbf{Overall} & \textbf{27} & \textbf{21} & \textbf{77.8\%} & Balanced performance \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The model achieved perfect accuracy for forwards, with all three players correctly predicted. Goalkeepers proved most challenging to predict, with significant uncertainty in departure decisions for backup goalkeepers.
+
+\subsection{Results Summary}
+
+The experimental results demonstrate significant achievements across multiple evaluation criteria:
+
+\begin{enumerate}
+    \item \textbf{Superior Performance}: PSO algorithm achieved 92.8\% accuracy with 96.48\% PR-AUC, representing the highest performance across all algorithms
+    \item \textbf{Optimal Parameter Configuration}: Maximum sigmoid steepness ($\alpha = 4.0$) and moderate inflection point ($\tau = 0.61$) with risk multiplier = 0.7
+    \item \textbf{Computational Efficiency}: PSO provided optimal performance-efficiency balance (335.3s execution time vs GA's 1444.7s)
+    \item \textbf{Comprehensive Metrics}: Achieved 0.8557 Cohen's Kappa and 0.8563 MCC, indicating excellent classification reliability
+    \item \textbf{Domain Alignment}: Optimised weights emphasise position-specific critical metrics with appropriate disciplinary risk factors
+    \item \textbf{Composite Score Excellence}: 0.9315 composite score demonstrating balanced performance across multiple evaluation dimensions
+\end{enumerate}
+
+These results establish the Multi-layer Probability Fusion Algorithm as a significant advancement in sports analytics methodology, providing both theoretical innovation and practical effectiveness for transfer prediction applications.

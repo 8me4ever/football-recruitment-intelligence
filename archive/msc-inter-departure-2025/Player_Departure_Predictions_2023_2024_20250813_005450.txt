@@ -1,0 +1,157 @@
+Inter Milan 2023-2024赛季球员离队概率预测报告
+======================================================================
+预测时间: 2025-08-13 00:54:50
+使用模型: PSO优化权重模型 (综合评分: 0.9275)
+分析球员总数: 21名
+
+📊 风险统计汇总:
+  总球员数: 21名
+  高风险离队 (≥70%): 5名
+  中等风险 (50-70%): 5名
+  低风险离队 (<50%): 11名
+
+📍 GOALKEEPER位置 (3名球员):
+------------------------------------------------------------
+ 1. Raffaele Di Gennaro (GK)
+    离队概率: 100.0% | 留队概率: 0.0%
+    风险等级: 🔴高风险离队
+    预测说明: 基于Goalkeeper位置优化权重计算
+
+ 2. Emil Audero (GK)
+    离队概率: 86.6% | 留队概率: 13.4%
+    风险等级: 🔴高风险离队
+    预测说明: 基于Goalkeeper位置优化权重计算
+
+ 3. Yann Sommer (GK)
+    离队概率: 60.3% | 留队概率: 39.7%
+    风险等级: 🟡中等风险
+    预测说明: 基于Goalkeeper位置优化权重计算
+
+📍 MIDFIELDER位置 (6名球员):
+------------------------------------------------------------
+ 1. Stefano Sensi (MF)
+    离队概率: 75.2% | 留队概率: 24.8%
+    风险等级: 🔴高风险离队
+    预测说明: 基于Midfielder位置优化权重计算
+
+ 2. Kristjan Asllani (MF)
+    离队概率: 66.4% | 留队概率: 33.6%
+    风险等级: 🟡中等风险
+    预测说明: 基于Midfielder位置优化权重计算
+
+ 3. Davide Frattesi (MF)
+    离队概率: 55.6% | 留队概率: 44.4%
+    风险等级: 🟡中等风险
+    预测说明: 基于Midfielder位置优化权重计算
+
+ 4. Henrikh Mkhitaryan (MF)
+    离队概率: 44.7% | 留队概率: 55.3%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Midfielder位置优化权重计算
+
+ 5. Hakan Calhanoglu (MF)
+    离队概率: 44.0% | 留队概率: 56.0%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Midfielder位置优化权重计算
+
+ 6. Nicolo Barella (MF)
+    离队概率: 34.8% | 留队概率: 65.2%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Midfielder位置优化权重计算
+
+📍 FORWARD位置 (4名球员):
+------------------------------------------------------------
+ 1. Alexis Sanchez (FW)
+    离队概率: 72.8% | 留队概率: 27.2%
+    风险等级: 🔴高风险离队
+    预测说明: 基于Forward位置优化权重计算
+
+ 2. Marko Arnautovic (FW)
+    离队概率: 72.5% | 留队概率: 27.5%
+    风险等级: 🔴高风险离队
+    预测说明: 基于Forward位置优化权重计算
+
+ 3. Marcus Thuram (FW)
+    离队概率: 44.1% | 留队概率: 55.9%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Forward位置优化权重计算
+
+ 4. Lautaro Martinez (FW)
+    离队概率: 42.9% | 留队概率: 57.1%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Forward位置优化权重计算
+
+📍 DEFENDER位置 (8名球员):
+------------------------------------------------------------
+ 1. Carlos Augusto (DF)
+    离队概率: 54.8% | 留队概率: 45.2%
+    风险等级: 🟡中等风险
+    预测说明: 基于Defender位置优化权重计算
+
+ 2. Matteo Darmian (DF)
+    离队概率: 52.2% | 留队概率: 47.8%
+    风险等级: 🟡中等风险
+    预测说明: 基于Defender位置优化权重计算
+
+ 3. Federico Dimarco (DF)
+    离队概率: 44.4% | 留队概率: 55.6%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+ 4. Denzel Dumfries (DF)
+    离队概率: 43.2% | 留队概率: 56.8%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+ 5. Stefan de Vrij (DF)
+    离队概率: 42.3% | 留队概率: 57.7%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+ 6. Benjamin Pavard (DF)
+    离队概率: 40.5% | 留队概率: 59.5%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+ 7. Francesco Acerbi (DF)
+    离队概率: 37.4% | 留队概率: 62.6%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+ 8. Alessandro Bastoni (DF)
+    离队概率: 34.2% | 留队概率: 65.8%
+    风险等级: 🟢低风险离队
+    预测说明: 基于Defender位置优化权重计算
+
+🏆 全队离队风险总排名:
+============================================================
+ 1. Raffaele Di Gennaro (Goalkeeper) - 离队: 100.0%, 留队: 0.0% 🔴高风险离队
+ 2. Emil Audero (Goalkeeper) - 离队: 86.6%, 留队: 13.4% 🔴高风险离队
+ 3. Stefano Sensi (Midfielder) - 离队: 75.2%, 留队: 24.8% 🔴高风险离队
+ 4. Alexis Sanchez (Forward) - 离队: 72.8%, 留队: 27.2% 🔴高风险离队
+ 5. Marko Arnautovic (Forward) - 离队: 72.5%, 留队: 27.5% 🔴高风险离队
+ 6. Kristjan Asllani (Midfielder) - 离队: 66.4%, 留队: 33.6% 🟡中等风险
+ 7. Yann Sommer (Goalkeeper) - 离队: 60.3%, 留队: 39.7% 🟡中等风险
+ 8. Davide Frattesi (Midfielder) - 离队: 55.6%, 留队: 44.4% 🟡中等风险
+ 9. Carlos Augusto (Defender) - 离队: 54.8%, 留队: 45.2% 🟡中等风险
+10. Matteo Darmian (Defender) - 离队: 52.2%, 留队: 47.8% 🟡中等风险
+11. Henrikh Mkhitaryan (Midfielder) - 离队: 44.7%, 留队: 55.3% 🟢低风险离队
+12. Federico Dimarco (Defender) - 离队: 44.4%, 留队: 55.6% 🟢低风险离队
+13. Marcus Thuram (Forward) - 离队: 44.1%, 留队: 55.9% 🟢低风险离队
+14. Hakan Calhanoglu (Midfielder) - 离队: 44.0%, 留队: 56.0% 🟢低风险离队
+15. Denzel Dumfries (Defender) - 离队: 43.2%, 留队: 56.8% 🟢低风险离队
+16. Lautaro Martinez (Forward) - 离队: 42.9%, 留队: 57.1% 🟢低风险离队
+17. Stefan de Vrij (Defender) - 离队: 42.3%, 留队: 57.7% 🟢低风险离队
+18. Benjamin Pavard (Defender) - 离队: 40.5%, 留队: 59.5% 🟢低风险离队
+19. Francesco Acerbi (Defender) - 离队: 37.4%, 留队: 62.6% 🟢低风险离队
+20. Nicolo Barella (Midfielder) - 离队: 34.8%, 留队: 65.2% 🟢低风险离队
+21. Alessandro Bastoni (Defender) - 离队: 34.2%, 留队: 65.8% 🟢低风险离队
+
+重点关注球员 (离队概率 ≥ 60%):
+  1. Raffaele Di Gennaro (Goalkeeper) - 100.0%
+  2. Emil Audero (Goalkeeper) - 86.6%
+  3. Stefano Sensi (Midfielder) - 75.2%
+  4. Alexis Sanchez (Forward) - 72.8%
+  5. Marko Arnautovic (Forward) - 72.5%
+  6. Kristjan Asllani (Midfielder) - 66.4%
+  7. Yann Sommer (Goalkeeper) - 60.3%

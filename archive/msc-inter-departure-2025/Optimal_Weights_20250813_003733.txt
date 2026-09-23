@@ -1,0 +1,327 @@
+================================================================================
+多算法权重优化实验 - 最优权重报告
+生成时间: 2025-08-13 00:37:33
+实验规模: 每个算法运行 10 次
+================================================================================
+
+🏆 全局最优算法及权重
+----------------------------------------
+算法: PSO
+综合评分: 0.9275
+
+最优权重配置:
+
+【Forward 位置权重】
+  goals_weight: 0.150000
+  assists_weight: 0.120000
+  minutes_weight: 0.120000
+  age_weight: 0.050000
+  shots_on_target_weight: 0.080000
+  conversion_rate_weight: 0.050000
+  expected_goals_weight: 0.080000
+  shot_creating_actions_weight: 0.080000
+  goal_creating_actions_weight: 0.050000
+  shots_per_90_weight: 0.050000
+  base_risk: 0.257264
+  risk_multiplier: 0.700000
+
+【Midfielder 位置权重】
+  assists_weight: 0.150000
+  minutes_weight: 0.120000
+  age_weight: 0.083103
+  pass_completion_weight: 0.050000
+  progressive_passes_weight: 0.080000
+  key_passes_weight: 0.150000
+  expected_assists_weight: 0.080000
+  touches_weight: 0.050000
+  progressive_carries_weight: 0.050000
+  successful_take_ons_weight: 0.050000
+  base_risk: 0.200000
+  risk_multiplier: 0.700000
+
+【Defender 位置权重】
+  minutes_weight: 0.150000
+  age_weight: 0.050000
+  progressive_passes_weight: 0.120000
+  pass_completion_weight: 0.080000
+  long_pass_completion_weight: 0.050000
+  passes_to_final_third_weight: 0.050000
+  tackles_weight: 0.080000
+  interceptions_weight: 0.080000
+  blocks_weight: 0.050000
+  clearances_weight: 0.050000
+  base_risk: 0.200000
+  risk_multiplier: 0.685508
+
+【Goalkeeper 位置权重】
+  minutes_weight: 0.120000
+  age_weight: 0.071191
+  saves_weight: 0.150000
+  save_percentage_weight: 0.098458
+  clean_sheets_weight: 0.080000
+  clean_sheet_percentage_weight: 0.067658
+  goals_against_per_90_weight: 0.082167
+  penalty_save_rate_weight: 0.059067
+  shots_faced_weight: 0.120000
+  wins_weight: 0.084329
+  base_risk: 0.400000
+  risk_multiplier: 0.700000
+
+================================================================================
+
+📊 各算法最佳权重详情
+----------------------------------------
+
+算法: GA
+平均准确率: 0.920 ± 0.000
+平均PR-AUC: 0.953 ± 0.000
+成功率: 100.0%
+权重配置:
+  【Forward】
+    goals_weight: 0.127965
+    assists_weight: 0.107626
+    minutes_weight: 0.116721
+    age_weight: 0.077705
+    shots_on_target_weight: 0.090896
+    conversion_rate_weight: 0.062878
+    expected_goals_weight: 0.083831
+    shot_creating_actions_weight: 0.095163
+    goal_creating_actions_weight: 0.079323
+    shots_per_90_weight: 0.072696
+    base_risk: 0.242043
+    risk_multiplier: 0.698018
+  【Midfielder】
+    assists_weight: 0.147726
+    minutes_weight: 0.116449
+    age_weight: 0.073193
+    pass_completion_weight: 0.056309
+    progressive_passes_weight: 0.120920
+    key_passes_weight: 0.084743
+    expected_assists_weight: 0.086526
+    touches_weight: 0.078935
+    progressive_carries_weight: 0.066098
+    successful_take_ons_weight: 0.080137
+    base_risk: 0.205611
+    risk_multiplier: 0.695448
+  【Defender】
+    minutes_weight: 0.143423
+    age_weight: 0.053650
+    progressive_passes_weight: 0.118292
+    pass_completion_weight: 0.084433
+    long_pass_completion_weight: 0.059776
+    passes_to_final_third_weight: 0.092463
+    tackles_weight: 0.082908
+    interceptions_weight: 0.099945
+    blocks_weight: 0.106247
+    clearances_weight: 0.056677
+    base_risk: 0.202685
+    risk_multiplier: 0.669906
+  【Goalkeeper】
+    minutes_weight: 0.076491
+    age_weight: 0.060762
+    saves_weight: 0.130654
+    save_percentage_weight: 0.121719
+    clean_sheets_weight: 0.085381
+    clean_sheet_percentage_weight: 0.082390
+    goals_against_per_90_weight: 0.137267
+    penalty_save_rate_weight: 0.099485
+    shots_faced_weight: 0.090653
+    wins_weight: 0.071698
+    base_risk: 0.400000
+    risk_multiplier: 0.700000
+
+------------------------------------------------------------
+
+算法: PSO
+平均准确率: 0.920 ± 0.000
+平均PR-AUC: 0.960 ± 0.009
+成功率: 100.0%
+权重配置:
+  【Forward】
+    goals_weight: 0.150000
+    assists_weight: 0.120000
+    minutes_weight: 0.120000
+    age_weight: 0.050000
+    shots_on_target_weight: 0.080000
+    conversion_rate_weight: 0.050000
+    expected_goals_weight: 0.080000
+    shot_creating_actions_weight: 0.080000
+    goal_creating_actions_weight: 0.050000
+    shots_per_90_weight: 0.050000
+    base_risk: 0.257264
+    risk_multiplier: 0.700000
+  【Midfielder】
+    assists_weight: 0.150000
+    minutes_weight: 0.120000
+    age_weight: 0.083103
+    pass_completion_weight: 0.050000
+    progressive_passes_weight: 0.080000
+    key_passes_weight: 0.150000
+    expected_assists_weight: 0.080000
+    touches_weight: 0.050000
+    progressive_carries_weight: 0.050000
+    successful_take_ons_weight: 0.050000
+    base_risk: 0.200000
+    risk_multiplier: 0.700000
+  【Defender】
+    minutes_weight: 0.150000
+    age_weight: 0.050000
+    progressive_passes_weight: 0.120000
+    pass_completion_weight: 0.080000
+    long_pass_completion_weight: 0.050000
+    passes_to_final_third_weight: 0.050000
+    tackles_weight: 0.080000
+    interceptions_weight: 0.080000
+    blocks_weight: 0.050000
+    clearances_weight: 0.050000
+    base_risk: 0.200000
+    risk_multiplier: 0.685508
+  【Goalkeeper】
+    minutes_weight: 0.120000
+    age_weight: 0.071191
+    saves_weight: 0.150000
+    save_percentage_weight: 0.098458
+    clean_sheets_weight: 0.080000
+    clean_sheet_percentage_weight: 0.067658
+    goals_against_per_90_weight: 0.082167
+    penalty_save_rate_weight: 0.059067
+    shots_faced_weight: 0.120000
+    wins_weight: 0.084329
+    base_risk: 0.400000
+    risk_multiplier: 0.700000
+
+------------------------------------------------------------
+
+算法: SA
+平均准确率: 0.684 ± 0.099
+平均PR-AUC: 0.830 ± 0.064
+成功率: 100.0%
+权重配置:
+  【Forward】
+    goals_weight: 0.101068
+    assists_weight: 0.067294
+    minutes_weight: 0.114843
+    age_weight: 0.112412
+    shots_on_target_weight: 0.127829
+    conversion_rate_weight: 0.089682
+    expected_goals_weight: 0.118288
+    shot_creating_actions_weight: 0.094730
+    goal_creating_actions_weight: 0.103883
+    shots_per_90_weight: 0.112736
+    base_risk: 0.344330
+    risk_multiplier: 0.499512
+  【Midfielder】
+    assists_weight: 0.094697
+    minutes_weight: 0.085503
+    age_weight: 0.070022
+    pass_completion_weight: 0.120000
+    progressive_passes_weight: 0.114992
+    key_passes_weight: 0.142474
+    expected_assists_weight: 0.111380
+    touches_weight: 0.057032
+    progressive_carries_weight: 0.050000
+    successful_take_ons_weight: 0.058141
+    base_risk: 0.247257
+    risk_multiplier: 0.554483
+  【Defender】
+    minutes_weight: 0.141791
+    age_weight: 0.067432
+    progressive_passes_weight: 0.114253
+    pass_completion_weight: 0.130467
+    long_pass_completion_weight: 0.107122
+    passes_to_final_third_weight: 0.053265
+    tackles_weight: 0.132904
+    interceptions_weight: 0.118921
+    blocks_weight: 0.105310
+    clearances_weight: 0.112703
+    base_risk: 0.263742
+    risk_multiplier: 0.495730
+  【Goalkeeper】
+    minutes_weight: 0.106557
+    age_weight: 0.086907
+    saves_weight: 0.082001
+    save_percentage_weight: 0.103928
+    clean_sheets_weight: 0.119827
+    clean_sheet_percentage_weight: 0.063073
+    goals_against_per_90_weight: 0.120185
+    penalty_save_rate_weight: 0.086507
+    shots_faced_weight: 0.077957
+    wins_weight: 0.108861
+    base_risk: 0.289053
+    risk_multiplier: 0.489965
+
+------------------------------------------------------------
+
+算法: RS
+平均准确率: 0.920 ± 0.000
+平均PR-AUC: 0.954 ± 0.008
+成功率: 100.0%
+权重配置:
+  【Forward】
+    goals_weight: 0.150000
+    assists_weight: 0.112524
+    minutes_weight: 0.120000
+    age_weight: 0.057330
+    shots_on_target_weight: 0.080110
+    conversion_rate_weight: 0.050000
+    expected_goals_weight: 0.085725
+    shot_creating_actions_weight: 0.080094
+    goal_creating_actions_weight: 0.050000
+    shots_per_90_weight: 0.050000
+    base_risk: 0.256642
+    risk_multiplier: 0.700000
+  【Midfielder】
+    assists_weight: 0.105571
+    minutes_weight: 0.120000
+    age_weight: 0.064337
+    pass_completion_weight: 0.096207
+    progressive_passes_weight: 0.130240
+    key_passes_weight: 0.080000
+    expected_assists_weight: 0.095885
+    touches_weight: 0.054796
+    progressive_carries_weight: 0.085721
+    successful_take_ons_weight: 0.050258
+    base_risk: 0.201429
+    risk_multiplier: 0.672352
+  【Defender】
+    minutes_weight: 0.149288
+    age_weight: 0.052471
+    progressive_passes_weight: 0.120000
+    pass_completion_weight: 0.104279
+    long_pass_completion_weight: 0.068201
+    passes_to_final_third_weight: 0.083356
+    tackles_weight: 0.086052
+    interceptions_weight: 0.096534
+    blocks_weight: 0.063345
+    clearances_weight: 0.050005
+    base_risk: 0.200000
+    risk_multiplier: 0.672265
+  【Goalkeeper】
+    minutes_weight: 0.080833
+    age_weight: 0.092572
+    saves_weight: 0.126228
+    save_percentage_weight: 0.093578
+    clean_sheets_weight: 0.128877
+    clean_sheet_percentage_weight: 0.050000
+    goals_against_per_90_weight: 0.116674
+    penalty_save_rate_weight: 0.077515
+    shots_faced_weight: 0.108066
+    wins_weight: 0.080462
+    base_risk: 0.400000
+    risk_multiplier: 0.700000
+
+------------------------------------------------------------
+
+📈 权重分析总结
+----------------------------------------
+注释说明:
+1. 综合评分 = 0.4×PR-AUC + 0.3×F1-Score + 0.2×平衡准确率 + 0.1×(1-Brier Score)
+2. 权重范围: 重要指标 [0.08, 0.15], 一般指标 [0.05, 0.12]
+3. base_risk: 基础离队风险 [0.2, 0.4]
+4. risk_multiplier: 风险倍数 [0.3, 0.7]
+
+实验结论:
+- 最优算法: PSO
+- 最高综合评分: 0.9275
+- 实验运行总次数: 40
+- 成功运行算法数: 4/4

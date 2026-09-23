@@ -1,0 +1,31 @@
+================================================================================
+Multi-Algorithm Weight Optimization - Optimal Weights Report
+Generation Time: 2025-08-14 02:20:08
+Experiment Scale: 10 runs per algorithm
+================================================================================
+
+Best Weights for Each Algorithm
+----------------------------------------
+
+Algorithm: GA - No valid weights
+------------------------------------------------------------
+
+Algorithm: PSO - No valid weights
+------------------------------------------------------------
+
+Algorithm: SA - No valid weights
+------------------------------------------------------------
+
+Algorithm: RS - No valid weights
+------------------------------------------------------------
+
+Weight Analysis Summary
+----------------------------------------
+Notes:
+1. Composite Score = 0.4×PR-AUC + 0.3×F1-Score + 0.2×Balanced Accuracy + 0.1×(1-Brier Score)
+2. Weight Range: Important metrics [0.08, 0.15], General metrics [0.05, 0.12]
+3. base_risk: Base departure risk [0.2, 0.4]
+4. risk_multiplier: Risk multiplier [0.3, 0.7]
+
+Experiment Conclusions:
+- Total Experiment Runs: 40

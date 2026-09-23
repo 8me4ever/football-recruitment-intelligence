@@ -1,0 +1,360 @@
+\section{Methodology}
+
+\subsection{System Architecture Overview}
+
+The Multi-layer Probability Fusion Algorithm is designed as a modular, extensible system that transforms traditional absolute performance metrics into contextually-aware relative percentile rankings, then applies systematic weight optimisation to maximise transfer prediction accuracy. The system architecture comprises four primary components: Data Processing Module, Percentile Ranking Engine, Multi-Algorithm Optimisation Framework, and Prediction Generation System.
+
+The architecture follows a pipeline design pattern that ensures modularity, testability, and extensibility. Each component can be independently validated and optimised, whilst the overall system maintains data integrity and reproducibility through comprehensive logging and configuration management.
+
+\begin{figure}[!htbp]
+\centering
+\begin{tikzpicture}[
+  font=\footnotesize,
+  node distance=8mm and 8mm,
+  box/.style={draw, rounded corners, minimum width=4.5cm, minimum height=8mm, align=center, fill=#1},
+  arrow/.style={-Stealth, thick, blue!60}
+]
+
+% ---------- INPUTS ----------
+\node[font=\small\bfseries] (head_inputs) {INPUTS};
+
+\node[box=blue!15, below left=6mm and 3.5cm of head_inputs] (performance)
+  {Player Performance Data $\mathbf{X}$\\ Six Statistical Categories};
+\node[box=blue!15, below=6mm of head_inputs] (context)
+  {Contextual Data $\mathbf{C}$\\ Age, Contract, Position};
+\node[box=blue!15, below right=6mm and 3.5cm of head_inputs] (reference)
+  {Serie A Reference Dataset $\mathbf{R}$\\ League-wide Performance};
+
+% ---------- METHODOLOGY ----------
+\node[font=\small\bfseries, below=20mm of head_inputs] (head_method) {METHODOLOGY};
+
+\node[box=green!15, minimum width=7.5cm, below=6mm of head_method] (percentile)
+  {Percentile-Based Feature Engineering\\ $\phi(\mathbf{X}, \mathbf{R}) \rightarrow \mathbf{P}$};
+
+\node[box=green!15, minimum width=7.5cm, below=6mm of percentile] (optimization)
+  {Multi-Algorithm Weight Optimization\\ GA, PSO, SA, RS};
+
+\node[box=green!15, minimum width=7.5cm, below=6mm of optimization] (fusion)
+  {Probability Fusion\\ $\sigma(\mathbf{C}) + f(\mathbf{W}^{*}, \mathbf{P})$};
+
+% ---------- OUTPUTS ----------
+\node[font=\small\bfseries, below=18mm of fusion] (head_outputs) {OUTPUTS};
+
+\node[box=orange!15, below left=6mm and 2.8cm of head_outputs] (probability)
+  {Departure Probability\\ $P \in [0.05,\,0.95]$};
+\node[box=orange!15, below right=6mm and 2.8cm of head_outputs] (weights)
+  {Optimal Weights\\ $\mathbf{W}^{*}$};
+
+% ---------- ARROWS ----------
+\draw[arrow] (performance.south) -- (percentile.north west);
+\draw[arrow] (context.south)    -- (percentile.north);
+\draw[arrow] (reference.south)  -- (percentile.north east);
+
+\draw[arrow] (percentile) -- (optimization);
+\draw[arrow] (optimization) -- (fusion);
+
+\draw[arrow] (fusion.south west) -- (probability.north);
+\draw[arrow] (fusion.south east) -- (weights.north);
+
+\end{tikzpicture}
+
+\caption{Multi-layer Probability Fusion Algorithm pipeline.}
+\label{fig:pipeline_architecture}
+\end{figure}
+
+
+\subsection{Position-Specific Metric Selection}
+
+In the dataset employed for this research, players are categorised into four primary positions: Forward, Midfielder, Defender, and Goalkeeper. In data-driven models of player performance, the relevant evaluation metrics vary significantly across positions. Applying identical indicators to all positions would introduce substantial methodological errors and undermine the validity of the model.
+
+For instance, it would be inappropriate to evaluate players solely on the basis of goals scored, as the disparity between a forward and a goalkeeper in this metric is inherently vast and not reflective of their respective contributions. Similarly, midfielders are best assessed by their passing efficiency and chance creation, whereas defenders are more appropriately evaluated using defensive actions such as interceptions, tackles, and clearances. Ignoring these distinctions would substantially weaken both the interpretability and predictive accuracy of the model.
+
+Accordingly, this study selects position-specific performance indicators tailored to the functional responsibilities of each role. Forwards are evaluated on shooting efficiency and attacking output; midfielders on passing, possession, and creativity; defenders on defensive metrics; and goalkeepers on saves and shot-stopping abilities. This position-based selection framework ensures that the subsequent modelling and analysis remain both rigorous and contextually appropriate.
+
+\subsubsection{Universal Metrics}
+
+Five universal metrics provide baseline comparison across all positions:
+
+\begin{table}[H]
+\centering
+\caption{Universal Player Evaluation Metrics}
+\label{tab:universal_metrics}
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric Category} & \textbf{Metric Name} & \textbf{Purpose} \\
+\midrule
+Playing Time & Minutes Played & Activity level indicator \\
+Disciplinary & Yellow Cards & Discipline assessment \\
+ & Red Cards & Serious misconduct risk \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Note: Age and Contract expiry date are excluded from performance scoring as they directly contribute to the base departure risk calculation through the sigmoid function.
+
+\subsubsection{Forward Position Metrics}
+
+Forward evaluation emphasises goal-scoring ability, chance creation, and attacking contribution:
+
+\begin{table}[H]
+\centering
+\caption{Forward Position Evaluation Metrics}
+\label{tab:forward_metrics}
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric Category} & \textbf{Metric Name} & \textbf{Data Source} \\
+\midrule
+Goal Scoring & Goals & Standard Stats \\
+ & Expected Goals (xG) & Shooting Stats \\
+ & Shots on Target & Shooting Stats \\
+ & Goals per Shot & Shooting Stats \\
+ & Shots per 90 & Shooting Stats \\
+Creativity & Assists & Standard Stats \\
+ & Shot Creating Actions & Goal Stats \\
+ & Goal Creating Actions & Goal Stats \\
+Movement & Penalty Area Touches & Possession Stats \\
+ & Successful Take-ons & Possession Stats \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Midfielder Position Metrics}
+
+Midfielder evaluation focuses on passing ability, ball progression, and creative contribution:
+
+\begin{table}[H]
+\centering
+\caption{Midfielder Position Evaluation Metrics}
+\label{tab:midfielder_metrics}
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric Category} & \textbf{Metric Name} & \textbf{Data Source} \\
+\midrule
+Passing & Pass Completion Rate & Passing Stats \\
+ & Progressive Passes & Passing Stats \\
+ & Key Passes & Passing Stats \\
+Creativity & Assists & Standard Stats \\
+ & Expected Assists (xAG) & Passing Stats \\
+ & Shot Creating Actions & Goal Stats \\
+Ball Control & Touches & Possession Stats \\
+ & Progressive Carries & Possession Stats \\
+ & Successful Take-ons & Possession Stats \\
+Defence & Tackles & Defensive Stats \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Defender Position Metrics}
+
+Defender evaluation emphasises defensive actions, ball distribution, and positional reliability through ten specialised metrics:
+
+\begin{table}[H]
+\centering
+\caption{Defender Position Evaluation Metrics}
+\label{tab:defender_metrics}
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric Category} & \textbf{Metric Name} & \textbf{Data Source} \\
+\midrule
+Defensive Actions & Tackles & Defensive Stats \\
+ & Interceptions & Defensive Stats \\
+ & Blocks & Defensive Stats \\
+ & Clearances & Defensive Stats \\
+ & Tackle Success Rate & Defensive Stats \\
+Ball Distribution & Pass Completion Rate & Passing Stats \\
+ & Long Pass Completion & Passing Stats \\
+ & Progressive Passes & Passing Stats \\
+ & Passes to Final Third & Passing Stats \\
+Ball Control & Defensive Third Touches & Possession Stats \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Goalkeeper Position Metrics}
+
+Goalkeeper evaluation focuses on shot-stopping ability, distribution quality, and game management through ten specialised metrics:
+
+\begin{table}[H]
+\centering
+\caption{Goalkeeper Position Evaluation Metrics}
+\label{tab:goalkeeper_metrics}
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric Category} & \textbf{Metric Name} & \textbf{Data Source} \\
+\midrule
+Shot Stopping & Saves & Goalkeeper Stats \\
+ & Save Percentage & Goalkeeper Stats \\
+ & Shots on Target Against & Goalkeeper Stats \\
+ & Penalty Saves & Goalkeeper Stats \\
+ & Penalty Save Rate & Goalkeeper Stats \\
+Game Management & Clean Sheets & Goalkeeper Stats \\
+ & Clean Sheet Percentage & Goalkeeper Stats \\
+ & Goals Against per 90 & Goalkeeper Stats \\
+ & Wins & Goalkeeper Stats \\
+Distribution & Long Pass Completion 40+ & Goalkeeper Stats \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Machine Learning Evaluation Metrics Selection}
+
+The selection of appropriate evaluation metrics is crucial for assessing model performance in transfer prediction tasks. This research employs five complementary metrics that capture different aspects of model quality, ensuring comprehensive evaluation across classification accuracy, probability calibration, and class imbalance handling. The selected metrics provide both threshold-dependent and threshold-independent assessments, enabling robust model comparison and optimization.
+
+\subsubsection{Accuracy}
+
+Accuracy measures the proportion of correct predictions across all instances, providing a straightforward assessment of overall model performance. This metric is particularly valuable for establishing baseline performance expectations and communicating model effectiveness to stakeholders. However, accuracy can be misleading in imbalanced datasets where high accuracy may result from predicting the majority class.
+
+\begin{equation}
+\text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}
+\end{equation}
+
+\subsubsection{Precision-Recall Area Under Curve (PR-AUC)}
+
+PR-AUC evaluates model performance across different decision thresholds, focusing specifically on positive class prediction quality. This metric is particularly suitable for imbalanced datasets as it emphasizes the model's ability to correctly identify positive instances (departures) while minimizing false positives. PR-AUC provides threshold-independent evaluation that is robust to class distribution variations.
+
+\begin{equation}
+\text{PR-AUC} = \int_0^1 P(r) \, dr
+\end{equation}
+
+where $P(r)$ represents precision as a function of recall $r$.
+
+\subsubsection{Balanced Accuracy}
+
+Balanced Accuracy addresses class imbalance by averaging the recall obtained on each class, ensuring equal treatment of both departure and retention predictions. This metric prevents models from achieving high accuracy by simply predicting the majority class. Balanced Accuracy provides a fair assessment of model performance across both classes, making it essential for transfer prediction evaluation.
+
+\begin{equation}
+\text{Balanced Accuracy} = \frac{1}{2}\left(\frac{TP}{TP + FN} + \frac{TN}{TN + FP}\right)
+\end{equation}
+
+\subsubsection{F1 Score}
+
+F1 Score provides the harmonic mean of precision and recall, offering a balanced assessment of model performance that considers both false positives and false negatives equally. This metric is particularly valuable for imbalanced datasets as it penalizes models that achieve high precision at the expense of recall or vice versa. F1 Score ranges from 0 to 1, where higher values indicate better overall classification performance.
+
+\begin{equation}
+\text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}} = \frac{2TP}{2TP + FP + FN}
+\end{equation}
+
+\subsubsection{Brier Score}
+
+Brier Score measures the accuracy of probabilistic predictions by calculating the mean squared difference between predicted probabilities and actual binary outcomes. This metric evaluates probability calibration quality, ensuring that predicted probabilities accurately reflect the likelihood of actual events. Lower Brier scores indicate better calibrated probability predictions, with perfect calibration achieving a score of 0.
+
+\begin{equation}
+\text{Brier Score} = \frac{1}{N} \sum_{i=1}^{N} (p_i - y_i)^2
+\end{equation}
+
+where $p_i$ is the predicted probability and $y_i$ is the actual binary outcome for instance $i$.
+
+\subsection{Percentile-Based Feature Engineering Design}
+
+\subsubsection{Theoretical Foundation}
+
+The core innovation of this research lies in the transformation of absolute performance metrics into relative percentile rankings. This approach addresses the fundamental challenge of cross-context player comparison by providing a standardised evaluation framework that accounts for competitive environment variations.
+
+The percentile ranking algorithm is mathematically defined as:
+
+\begin{equation}
+P_{i,j} = \frac{\text{rank}(x_{i,j}, R_j)}{|R_j|}
+\end{equation}
+
+where $P_{i,j}$ represents the percentile score for player $i$ on metric $j$, $x_{i,j}$ is the absolute value for player $i$ on metric $j$, $R_j$ is the reference cohort for metric $j$, and $\text{rank}(x_{i,j}, R_j)$ returns the ranking position within the reference cohort.
+
+For metrics where higher values indicate better performance (ascending=True), the percentile is calculated directly. For metrics where lower values are preferable (ascending=False), the percentile is inverted:
+
+\begin{equation}
+P_{i,j} = 1 - \frac{\text{rank}(x_{i,j}, R_j)}{|R_j|}
+\end{equation}
+
+\subsubsection{League-Wide Comparison}
+
+All percentile calculations utilise the complete Serie A dataset as the reference population, providing comprehensive context for relative performance evaluation across varying team strengths and tactical systems.
+
+\subsection{Probability Fusion Algorithm}
+
+\subsubsection{Sigmoid Base Risk Calculation}
+
+The base departure risk is calculated using an optimised sigmoid function that incorporates age and contract expiry information:
+
+\begin{equation}
+\text{base\_risk} = \sigma(\alpha \cdot (s - \tau))
+\end{equation}
+
+where $s$ is the combined risk score:
+
+\begin{equation}
+s = 0.6 \cdot \text{year\_score} + 0.4 \cdot \text{age\_score}
+\end{equation}
+
+The year score reflects contract urgency:
+
+\begin{equation}
+\text{year\_score} = \frac{L_0 - \text{years\_left}}{L_0}
+\end{equation}
+
+with $L_0 = 3$ representing standard contract length.
+
+The age score utilises a triangular kernel centred at optimal playing age:
+
+\begin{equation}
+\text{age\_score} = \max\left(0, 1 - \frac{|\text{age} - 30|}{6}\right)
+\end{equation}
+
+The sigmoid transformation parameters $\alpha$ and $\tau$ are optimised through the multi-algorithm framework:
+\begin{itemize}
+    \item $\alpha \in [1.0, 4.0]$: Controls sigmoid steepness (1.0 = gradual transition, 4.0 = sharp transition)
+    \item $\tau \in [0.3, 0.7]$: Controls inflection point (0.3 = early high risk, 0.7 = late high risk)
+\end{itemize}
+
+The final output is bounded to $[0.1, 0.3]$ to ensure reasonable base risk levels that can be modulated by performance factors.
+
+\subsubsection{Performance Score Calculation}
+
+The performance score integrates universal and position-specific metrics:
+
+\begin{equation}
+\text{performance\_score} = \frac{\sum_{i=1}^{3} w_{u,i} \times P_{u,i} + \sum_{j=1}^{10} w_{p,j} \times P_{p,j}}{\sum_{i=1}^{3} w_{u,i} + \sum_{j=1}^{10} w_{p,j}}
+\end{equation}
+
+where $w_{u,i}$ and $P_{u,i}$ represent universal metric weights and percentiles, and $w_{p,j}$ and $P_{p,j}$ represent position-specific metric weights and percentiles.
+
+\subsubsection{Final Departure Probability Calculation}
+
+The final departure probability combines base risk with performance-adjusted factors through a risk multiplier mechanism:
+
+\begin{equation}
+\text{departure\_probability} = \text{base\_risk} + (1 - \text{performance\_score}) \times \text{risk\_multiplier}
+\end{equation}
+
+where:
+\begin{itemize}
+    \item $\text{base\_risk}$ represents the sigmoid-transformed age and contract risk
+    \item $(1 - \text{performance\_score})$ converts high performance to low departure risk
+    \item $\text{risk\_multiplier} \in [0.3, 0.7]$ controls the relative influence of performance factors
+\end{itemize}
+
+The final probability is bounded to the range $[0.05, 0.95]$ to ensure numerical stability and realistic departure predictions.
+
+\subsubsection{Composite Objective Function Design}
+
+The optimization framework maximizes a composite score that balances multiple evaluation criteria:
+
+\begin{equation}
+\text{Composite Score} = 0.4 \times \text{PR-AUC} + 0.3 \times \text{F1-Score} + 0.2 \times \text{Balanced Accuracy} + 0.1 \times (1 - \text{Brier Score})
+\end{equation}
+
+This formulation prioritizes:
+\begin{itemize}
+    \item \textbf{Ranking Quality (40\%)}: PR-AUC emphasizes correct ordering of departure probabilities
+    \item \textbf{Classification Performance (30\%)}: F1-Score balances precision and recall
+    \item \textbf{Class Balance (20\%)}: Balanced Accuracy handles imbalanced departure rates
+    \item \textbf{Probability Calibration (10\%)}: Inverted Brier Score rewards well-calibrated probabilities
+\end{itemize}
+
+This multi-objective approach ensures the optimization process produces models that excel across different evaluation dimensions rather than optimizing for a single metric.
+
+\subsection{Algorithm Design}
+
+Through a review of the literature, this study ultimately selected four algorithms for optimal weight configuration: Genetic Algorithm, Particle Swarm Optimisation, Simulated Annealing, and Random Search.
+
+All the algorithm optimizes a comprehensive 16-parameter space that includes universal metrics (minutes played, disciplinary records), position-specific performance indicators, and sigmoid transformation parameters (alpha, tau, risk multiplier). Universal metrics receive bounds of [0.08, 0.15] to ensure sufficient influence while preventing dominance over position-specific factors. Position-critical metrics (goals, assists, tackles, saves depending on position) utilize bounds [0.08, 0.15] based on domain expertise identifying these as primary performance indicators. Supporting metrics employ bounds [0.05, 0.12] to provide complementary information without overwhelming the model.
+
+Sigmoid parameters alpha and tau range [1.0, 4.0] and [0.3, 0.7] respectively, determined through preliminary testing to capture meaningful age and contract risk variations. The risk multiplier bounds [0.3, 0.7] balance base risk and performance factors, preventing either component from dominating departure probability calculations.

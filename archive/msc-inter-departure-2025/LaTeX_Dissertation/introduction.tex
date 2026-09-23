@@ -1,0 +1,69 @@
+\section{Introduction}
+
+\subsection{Background and Motivation}
+
+Football transfer strategies represent one of the most critical decision-making processes in modern professional football, with clubs investing hundreds of millions of pounds annually in player acquisitions. The ability to accurately predict player departures and identify optimal transfer targets has become increasingly sophisticated, yet remains heavily reliant on subjective assessments and incomplete analysis frameworks. Traditional scouting methods, while incorporating extensive domain expertise, often lack the systematic quantitative approach necessary to consistently identify value in an increasingly competitive market.
+
+The challenge of football transfer prediction is fundamentally a multi-dimensional optimisation problem, where clubs must balance numerous factors including player performance metrics, age profiles, contract situations, and team tactical requirements. However, existing approaches predominantly rely on absolute performance measures that fail to account for contextual factors such as league competitiveness, team playing style, and positional role variations. This limitation creates systematic biases that can lead to suboptimal transfer decisions.
+
+Inter Milan's transfer strategy during the 2022-2023 season provides an exemplary case study for investigating these challenges. As one of Europe's elite clubs competing in multiple competitions whilst operating under financial constraints, Inter's transfer decisions required precise evaluation of player contributions relative to potential replacements. The club's actual transfer activities in the subsequent 2023-2024 season offer ground truth data for validating predictive models, making this an ideal testing ground for algorithmic innovation in football analytics.
+
+\subsection{Research Problem and Innovation}
+
+This research addresses the fundamental limitation in current football transfer prediction methodologies: the reliance on absolute performance metrics that fail to provide fair cross-player comparisons within varying competitive contexts. Traditional approaches comparing raw statistics across different tactical systems, league competitiveness levels, and positional roles introduce systematic evaluation biases that compromise prediction accuracy.
+
+The core innovation proposed in this dissertation is the development of a \textit{Multi-layer Probability Fusion Algorithm Based on Relative Percentile Ranking}, which transforms absolute statistical measures into contextually-aware relative percentile scores. This approach provides three key algorithmic contributions:
+
+\begin{enumerate}
+    \item \textbf{Percentile-Based Feature Engineering}: Development of an algorithm that converts absolute performance metrics into relative percentile rankings within appropriate comparison cohorts, eliminating systematic biases introduced by varying competitive contexts.
+    
+    \item \textbf{Multi-Algorithm Weight Optimisation Framework}: Implementation of four complementary optimisation algorithms—Genetic Algorithm, Simulated Annealing, Particle Swarm Optimisation, and Random Search—to systematically determine optimal weight configurations for different player positions.
+    
+    \item \textbf{Position-Specific Evaluation Models}: Creation of tailored predictive models that account for the distinct performance characteristics and evaluation criteria relevant to different playing positions.
+\end{enumerate}
+
+The research hypothesis posits that this algorithmic approach will significantly improve transfer prediction accuracy compared to traditional absolute metric-based methods, whilst providing interpretable results that align with football domain expertise.
+
+\subsection{Research Objectives}
+
+The primary objectives of this research are structured to address both methodological innovation and practical application:
+
+\subsubsection{Methodological Objectives}
+
+\begin{enumerate}
+    \item \textbf{Algorithm Development}: Design and implement a comprehensive percentile-based feature engineering algorithm that transforms absolute performance metrics into contextually-appropriate relative rankings.
+    
+    \item \textbf{Optimisation Framework Implementation}: Develop and compare multiple weight optimisation algorithms to systematically identify optimal parameter configurations for transfer prediction models.
+    
+    \item \textbf{Empirical Validation}: Conduct rigorous experimental validation using Inter Milan's 2022-2023 season data with ground truth verification from actual 2023-2024 transfer activities.
+    
+    \item \textbf{Performance Quantification}: Demonstrate statistically significant improvements in prediction accuracy compared to baseline methods through comprehensive evaluation metrics.
+\end{enumerate}
+
+\subsubsection{Practical Objectives}
+
+\begin{enumerate}
+    \item \textbf{Interpretability Analysis}: Ensure that optimised weight configurations align with established football domain knowledge and provide actionable insights for transfer decision-making.
+    
+    \item \textbf{Computational Efficiency}: Assess the computational complexity and practical scalability of the proposed optimisation algorithms.
+    
+    \item \textbf{Methodological Contribution}: Establish a reproducible framework for applying algorithmic optimisation techniques to sports analytics problems.
+\end{enumerate}
+
+\subsection{Dissertation Structure}
+
+This dissertation follows a systematic progression from theoretical foundations through algorithmic development to empirical validation and practical implications:
+
+\textbf{Chapter 2: Literature Review} examines existing literature in AI-driven sports analytics and football transfer prediction, provides comprehensive theoretical foundations for the four optimisation algorithms (Genetic Algorithm, Particle Swarm Optimisation, Simulated Annealing, Random Search), and establishes the mathematical frameworks underlying machine learning applications in sports prediction.
+
+\textbf{Chapter 3: Methodology} presents the complete system architecture overview with detailed pipeline visualisation, specifies position-specific metric selection criteria for forwards, midfielders, defenders, and goalkeepers, develops the theoretical foundation for percentile-based feature engineering, and formulates the probability fusion algorithm with sigmoid base risk calculation and composite objective function design.
+
+\textbf{Chapter 4: Data Collection} describes the comprehensive Serie A dataset covering 535+ players across two seasons (2022-2023, 2023-2024), details the six statistical categories (standard, shooting, passing, possession, defensive, goalkeeping), presents Inter Milan's 25-player focus dataset with ground truth transfer outcomes, and documents rigorous data quality assessment and validation procedures.
+
+\textbf{Chapter 5: Experiments} provides detailed implementation of the multi-source data processing framework, documents the core percentile calculation algorithm with position-specific metric configurations, presents the unified 16-parameter optimisation space design, and describes the comprehensive multi-layer probability fusion algorithm implementation with extensive performance evaluation metrics.
+
+\textbf{Chapter 6: Results and Discussion} presents multi-algorithm performance comparisons across GA, PSO, SA, and RS with statistical significance analysis, documents optimal weight configurations for all four playing positions, provides comprehensive prediction results for Inter Milan's 2023-2024 transfer outcomes achieving 77.8\% accuracy, and includes detailed position-specific analysis and prediction error assessment.
+
+\textbf{Chapter 7: Conclusion and Future Work} synthesises the research achievements including 92.8\% optimisation accuracy and successful percentile-based feature engineering innovation, discusses the core methodological contributions and algorithmic limitations, and proposes future research directions encompassing multi-club validation, advanced machine learning integration, and broader sports analytics applications.
+
+Each chapter builds systematically upon previous work, ensuring that the Multi-layer Probability Fusion Algorithm innovations are properly contextualised within existing knowledge whilst clearly demonstrating their novel contributions to sports analytics methodology and practical transfer prediction applications.

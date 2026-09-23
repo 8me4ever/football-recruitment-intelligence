@@ -1,0 +1,143 @@
+\section{Data Collection}
+
+\subsection{Dataset}
+
+The research utilizes comprehensive football statistical data sourced from FBref.com, a leading football analytics platform that provides detailed player and team statistics. FBref.com aggregates data from multiple professional sources and maintains high standards of data quality and accuracy, making it a reliable foundation for academic research in football analytics.
+
+The dataset covers the Italian Serie A league for the 2022-2023 and 2023-2024 seasons. This temporal span enables both training data collection and subsequent validation through forward prediction testing. The data acquisition strategy was designed to capture the complete scope of player performance whilst ensuring data quality, consistency, and temporal alignment across multiple seasons.
+
+Transfer outcome data for the 2023-2024 season was manually compiled and verified through multiple independent sources to establish ground truth labels for model validation.
+
+\subsection{Data Description}
+
+The Serie A dataset comprises 535 players from 20 clubs in the 2022-2023 season and 547 players from 20 clubs in the 2023-2024 season. This comprehensive coverage ensures that percentile-based feature engineering can accurately reflect league-wide performance distributions across different playing positions and tactical roles.
+
+\begin{table}[h]
+\centering
+\caption{Serie A Dataset Overview}
+\label{tab:seria_dataset}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Season} & \textbf{Total Players} & \textbf{Clubs} \\
+\midrule
+2022-2023 & 535 & 20 \\
+2023-2024 & 547 & 20 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Statistical Categories}
+
+The dataset incorporates seven comprehensive statistical categories covering all aspects of modern football analytics, with key categories detailed in the table below.
+
+\begin{table}[h]
+\centering
+\caption{Statistical Data Categories}
+\label{tab:stat_categories}
+\begin{tabular}{lp{8cm}}
+\toprule
+\textbf{Category} & \textbf{Description} \\
+\midrule
+Standard Statistics & Goals, assists, playing time, cards, expected goals (xG), progressive carries and passes \\
+Shooting Statistics & Shots, shots on target, conversion rates, shot distance, expected goals metrics \\
+Goal Creation Statistics & Shot creation actions (SCA), goal creation actions (GCA) by type and method \\
+Passing Statistics & Pass completion by distance, progressive distance, assists, expected assists (xAG) \\
+Possession Statistics & Touches by field area, dribbles, carries, progressive carries and receptions \\
+Defensive Statistics & Tackles, interceptions, blocks, clearances by field zone \\
+Goalkeeping Statistics & Goals against, saves, save percentage, post-shot expected goals, distribution \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+This comprehensive statistical coverage ensures that the subsequent algorithmic analysis can accurately assess player contributions across all aspects of football performance, including specialized goalkeeping metrics for comprehensive evaluation of all playing positions.
+
+\subsubsection{Inter Milan Focus Dataset}
+
+Inter Milan serves as the primary case study club, with the 2022-2023 squad comprising 25 players distributed across four positional categories. The squad composition includes 2 goalkeepers, 11 defenders, 8 midfielders, and 4 forwards, providing representative coverage of tactical formations and positional requirements. This distribution aligns with typical modern football squad structures and ensures adequate sample sizes for position-specific algorithmic optimization.
+
+\begin{table}[h]
+\centering
+\caption{Inter Milan Squad Distribution by Position}
+\label{tab:inter_squad}
+\begin{tabular}{lc}
+\toprule
+\textbf{Position} & \textbf{Number of Players} \\
+\midrule
+Goalkeepers & 2 \\
+Defenders & 11 \\
+Midfielders & 8 \\
+Forwards & 4 \\
+\midrule
+\textbf{Total} & \textbf{25} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The dataset documents that 10 players departed Inter Milan whilst 15 players remained with the club, providing a realistic distribution of transfer outcomes that reflects typical football club roster management patterns. This ground truth dataset forms the essential foundation for supervised learning model development and performance evaluation.
+
+\begin{table}[h]
+\centering
+\caption{Inter Milan Transfer Outcomes 2023-2024}
+\label{tab:transfer_outcomes}
+\begin{tabular}{lc}
+\toprule
+\textbf{Outcome} & \textbf{Number of Players} \\
+\midrule
+Departed & 10 \\
+Remained & 15 \\
+\midrule
+\textbf{Total} & \textbf{25} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsubsection{Data Quality Assessment}
+
+The dataset underwent comprehensive quality assessment to ensure reliability and validity for subsequent algorithmic analysis. Data completeness analysis revealed high-quality coverage across all statistical categories, with completeness rates ranging from 96.8\% to 98.5\% across different statistical domains. This high level of completeness ensures robust statistical analysis and reliable percentile calculations across all performance metrics.
+
+Standard statistics achieved 98.5\% completeness with only 8 missing records, while goal statistics reached 97.2\% completeness with 15 missing records. Shooting statistics, passing statistics, possession statistics, and defensive statistics achieved completeness rates of 96.8\%, 98.1\%, 97.5\%, and 98.3\% respectively. Missing data patterns were analyzed and found to be predominantly associated with players having minimal playing time, specifically those with less than 90 total minutes across the season.
+
+\begin{table}[h]
+\centering
+\caption{Data Completeness by Statistical Category}
+\label{tab:data_completeness}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Statistical Category} & \textbf{Completeness (\%)} & \textbf{Missing Records} \\
+\midrule
+Standard Statistics & 98.5 & 8 \\
+Goal Statistics & 97.2 & 15 \\
+Shooting Statistics & 96.8 & 17 \\
+Passing Statistics & 98.1 & 10 \\
+Possession Statistics & 97.5 & 13 \\
+Defensive Statistics & 98.3 & 9 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Players with insufficient playing time were subsequently excluded from the analytical dataset to ensure statistical validity and meaningful percentile calculations. The exclusion criterion ensures that all players included in the analysis have sufficient game exposure for reliable performance assessment, maintaining the integrity of comparative analysis across the league.
+
+\subsubsection{Data Validation Procedures}
+
+Data validation procedures were implemented across multiple dimensions to ensure dataset integrity. Range validation verified that all statistical values fall within reasonable bounds, such as pass completion rates between 0-100\% and other metrics within expected performance ranges. Cross-category consistency validation confirmed logical relationships between different statistical categories, ensuring that derived metrics align appropriately with base statistics.
+
+Temporal consistency analysis compared player statistics across seasons to identify and investigate any anomalous variations that might indicate data quality issues. Position-specific validation procedures confirmed that statistical profiles align with positional expectations, ensuring that forwards exhibit appropriate offensive metrics, defenders show suitable defensive contributions, and midfielders demonstrate expected creative and distributive statistics.
+
+Outlier detection employed multiple statistical methodologies to identify exceptional values while distinguishing between genuine outstanding performance and potential data errors. Z-score analysis with thresholds of $|z| > 3$ identified 12 players for individual review and validation. Interquartile range methods flagged 18 players for contextual analysis, while domain knowledge expertise identified 5 additional players requiring manual verification.
+
+\begin{table}[h]
+\centering
+\caption{Outlier Detection Results}
+\label{tab:outliers}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Detection Method} & \textbf{Outliers Identified} & \textbf{Treatment} \\
+\midrule
+Z-Score ($|z| > 3$) & 12 players & Individual review and validation \\
+Interquartile Range & 18 players & Contextual analysis \\
+Domain Knowledge & 5 players & Manual verification \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+All identified outliers underwent thorough individual review to distinguish between authentic exceptional performance and data quality concerns, with no outliers removed without comprehensive justification. This careful approach ensures that genuine high-performance cases are preserved whilst maintaining data quality standards.

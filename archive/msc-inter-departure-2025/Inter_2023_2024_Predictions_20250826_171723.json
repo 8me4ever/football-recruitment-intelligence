@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-26T17:17:23.492258",
+  "season": "2023-2024",
+  "algorithm": "PSO_Optimal_Weights",
+  "total_players": 27,
+  "predictions": [
+    {
+      "player": "Alessandro Bastoni",
+      "position": "Unknown",
+      "age": 25,
+      "years_left": 

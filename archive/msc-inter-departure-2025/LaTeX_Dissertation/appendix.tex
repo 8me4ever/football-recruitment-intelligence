@@ -1,0 +1,199 @@
+\appendix
+
+\section{Core Implementation Files}
+
+This appendix provides an overview of the core implementation files used in the Multi-layer Probability Fusion Algorithm for football player transfer prediction.
+
+\subsection{Primary Execution Files}
+
+\subsubsection{2023\_2024\_Prediction.py}
+\textbf{Purpose:} Forward prediction validation using optimized weights from training phase.
+
+\textbf{Usage:}
+\begin{verbatim}
+python 2023_2024_Prediction.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Loads 2023-2024 season data for Inter Milan squad
+\item Applies PSO-optimized weights from training phase
+\item Generates departure probability predictions
+\item Evaluates prediction accuracy against actual transfers
+\item Outputs comprehensive performance metrics (Accuracy, PR-AUC, F1-Score, etc.)
+\end{itemize}
+
+\subsubsection{weight\_optimization\_core\_updated.py}
+\textbf{Purpose:} Core data processing and probability calculation functions.
+
+\textbf{Usage:} Imported by other modules as dependency.
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Data loading and preprocessing functions
+\item Percentile-based feature engineering implementation
+\item Departure probability calculation with sigmoid base risk
+\item Position-specific metric handling
+\item Universal and position-specific weight application
+\end{itemize}
+
+\subsection{Algorithm Implementation Files}
+
+\subsubsection{GA\_Weight\_Optimization\_Experiment\_Final.py}
+\textbf{Purpose:} Genetic Algorithm implementation for weight optimization.
+
+\textbf{Usage:}
+\begin{verbatim}
+python GA_Weight_Optimization_Experiment_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Genetic operators: selection, crossover, mutation
+\item Population-based weight evolution
+\item Composite fitness function optimization
+\item Multi-position weight parameter tuning
+\end{itemize}
+
+\subsubsection{PSO\_Weight\_Optimization\_Experiment\_Final.py}
+\textbf{Purpose:} Particle Swarm Optimization implementation for weight optimization.
+
+\textbf{Usage:}
+\begin{verbatim}
+python PSO_Weight_Optimization_Experiment_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Particle velocity and position updates
+\item Global and personal best tracking
+\item Inertia weight adaptation
+\item Swarm intelligence-based optimization
+\end{itemize}
+
+\subsubsection{SA\_Weight\_Optimization\_Experiment\_Final.py}
+\textbf{Purpose:} Simulated Annealing implementation for weight optimization.
+
+\textbf{Usage:}
+\begin{verbatim}
+python SA_Weight_Optimization_Experiment_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Temperature-controlled acceptance probability
+\item Cooling schedule implementation
+\item Neighborhood solution generation
+\item Metropolis acceptance criterion
+\end{itemize}
+
+\subsubsection{RS\_Weight\_Optimization\_Experiment\_Final.py}
+\textbf{Purpose:} Random Search baseline implementation for weight optimization.
+
+\textbf{Usage:}
+\begin{verbatim}
+python RS_Weight_Optimization_Experiment_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Uniform random weight generation
+\item Constraint-based parameter bounds
+\item Baseline performance establishment
+\item Simple optimization strategy
+\end{itemize}
+
+\subsection{Framework and Testing Files}
+
+\subsubsection{Multi\_Run\_Experiment\_Framework\_Final.py}
+\textbf{Purpose:} Orchestrates multiple algorithm runs for statistical validation.
+
+\textbf{Usage:}
+\begin{verbatim}
+python Multi_Run_Experiment_Framework_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Automated multi-run execution across all algorithms
+\item Performance metric aggregation and averaging
+\item Statistical significance preparation
+\item Result serialization and storage
+\end{itemize}
+
+\subsubsection{Single\_Run\_Test\_Framework\_Final.py}
+\textbf{Purpose:} Individual algorithm testing and validation framework.
+
+\textbf{Usage:}
+\begin{verbatim}
+python Single_Run_Test_Framework_Final.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item Single algorithm execution and evaluation
+\item Detailed performance analysis
+\item Weight configuration testing
+\item Development and debugging support
+\end{itemize}
+
+\subsubsection{Statistical\_Testing\_Framework.py}
+\textbf{Purpose:} Statistical significance testing for algorithm comparison.
+
+\textbf{Usage:}
+\begin{verbatim}
+python Statistical_Testing_Framework.py
+\end{verbatim}
+
+\textbf{Key Features:}
+\begin{itemize}
+\item One-sample t-tests against baseline performance
+\item Paired t-tests for algorithm comparison
+\item Wilcoxon signed-rank tests (non-parametric)
+\item Effect size calculation (Cohen's d)
+\item Statistical significance reporting
+\end{itemize}
+
+\subsection{File Dependencies and Execution Order}
+
+\begin{table}[h]
+\centering
+\caption{Recommended Execution Sequence}
+\label{tab:execution_sequence}
+\begin{tabular}{cl}
+\toprule
+\textbf{Order} & \textbf{File} \\
+\midrule
+1 & Single\_Run\_Test\_Framework\_Final.py \\
+2 & Multi\_Run\_Experiment\_Framework\_Final.py \\
+3 & Statistical\_Testing\_Framework.py \\
+4 & 2023\_2024\_Prediction.py \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Output Files Generated}
+
+Each execution generates timestamped output files:
+\begin{itemize}
+\item \texttt{Multi\_Run\_Average\_Metrics\_YYYYMMDD\_HHMMSS.txt} - Aggregated performance results
+\item \texttt{Statistical\_Test\_Results\_YYYYMMDD\_HHMMSS.txt} - Statistical analysis results  
+\item Individual algorithm logs with optimization traces
+\item Best weight configurations for each algorithm and position
+\end{itemize}
+
+\subsection{System Requirements}
+
+\textbf{Python Dependencies:}
+\begin{itemize}
+\item pandas, numpy - Data processing
+\item scikit-learn - Machine learning metrics
+\item scipy - Statistical testing
+\end{itemize}
+
+\textbf{Hardware Requirements:}
+\begin{itemize}
+\item Minimum 8GB RAM for multi-run experiments
+\item Multi-core CPU recommended for parallel processing
+\item Approximately 1GB disk space for results storage
+\end{itemize}

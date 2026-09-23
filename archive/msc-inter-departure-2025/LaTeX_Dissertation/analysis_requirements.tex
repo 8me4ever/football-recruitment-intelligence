@@ -1,0 +1,206 @@
+\section{Literature Review}
+
+\subsection{AI-Driven sport analytic}
+
+\subsubsection{Sports Analytics and Football Transfer Prediction}
+
+Over the past decade, the application of data science in football analytics has matured substantially, propelled by enhanced data availability and computing power. Initially, research focused on descriptive statistics and foundational performance metrics—for instance, pioneering use of Prozone tracking and basic shot or pass counts in the Premier League. Over time, the field evolved rapidly toward predictive modeling, with transfer prediction becoming one of the most commercially valuable domains.
+
+Traditional transfer prediction methods have largely depended on absolute performance metrics, financial valuations, and expert judgement. In one sport context, statistical models outperformed expert forecasts in predicting outcomes, highlighting the limitations of purely subjective approaches\citep{vanarem2025forecastingfuturedevelopmentquality}. Likewise, some studies underscore the merit of relative performance measures in player evaluation, though these have not yet been systematized via algorithmic optimization.
+
+Recent advances in football analytics increasingly emphasize contextual performance evaluation. The Expected Possession Value (EPV) framework, for instance, integrates tactical context into performance modeling by estimating the value of in-game actions considering spatiotemporal dynamics\citep{fernandez2021framework}. On the monetary side, supervised learning models like Random Forests, XGBoost, GAMs, and Quantile Additive Models have shown success in predicting player transfer fees and market values, often exceeding benchmarks such as Transfermarkt estimates.
+
+However, a critical gap remains: there is still no systematic treatment of cross-context player comparison via percentile-based feature engineering, allowing performance indicators to be normalized across varying tactical systems, leagues, and player roles.
+
+\subsubsection{Machine Learning in Sports Prediction}
+
+The application of machine learning techniques to sports prediction has demonstrated significant potential across various domains. \citet{bunker2019machine} provided a comprehensive review of machine learning applications in sports, identifying prediction accuracy as a key performance indicator whilst acknowledging the importance of model interpretability in practical applications.
+
+In football-specific contexts, several researchers have explored predictive modelling approaches. \citet{razali2017predicting} applied multiple machine learning algorithms to match outcome prediction, while \citet{hubacek2019learning} focused on player performance prediction using recurrent neural networks. However, these studies have not addressed the specific challenge of transfer prediction or incorporated systematic weight optimisation frameworks.
+
+The challenge of feature engineering in sports analytics has been recognised as crucial for model performance. \citet{bransen2017chemistry} demonstrated that engineered features incorporating domain knowledge significantly outperformed raw statistical measures. This finding supports the theoretical foundation for the percentile-based approach proposed in this research.
+
+\subsubsection{Optimisation Algorithms in Sports Analytics}
+
+The application of optimisation algorithms to sports analytics problems has gained increasing attention. \citet{metulini2018modelling} applied genetic algorithms to team formation optimisation, while \citet{singh2020optimizing} used particle swarm optimisation for fantasy football team selection. However, systematic comparison of multiple optimisation algorithms for parameter tuning in sports prediction models remains underexplored.
+
+Bayesian optimisation has shown particular promise in hyperparameter tuning for machine learning applications \citep{shahriari2015taking}, with demonstrated advantages in terms of convergence speed and exploration-exploitation balance. The application of Bayesian optimisation to sports analytics parameter tuning represents a novel contribution of this research.
+
+
+\subsection{Optimization Algorithm}
+
+\subsubsection{Genetic Algorithm}
+
+Genetic Algorithm (GA) is a metaheuristic optimization technique inspired by the process of natural selection and evolutionary biology. The algorithm simulates the evolutionary process where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. In the context of weight optimization for transfer prediction, each individual represents a potential weight configuration, and the fitness function evaluates the predictive performance of that configuration.
+
+The GA operates through several key mechanisms. The population consists of a collection of candidate solutions (chromosomes), where each chromosome encodes the weight parameters as a vector of real numbers. Selection mechanisms choose parent individuals based on their fitness values, with higher-performing configurations having greater probability of being selected for reproduction. The selection probability for individual $i$ with fitness $f_i$ is given by:
+
+\begin{equation}
+P_i = \frac{f_i}{\sum_{j=1}^{N} f_j}
+\end{equation}
+
+where $N$ is the population size. Crossover operations combine genetic information from two parent chromosomes to create offspring. For real-valued parameters, arithmetic crossover generates offspring as:
+
+\begin{equation}
+\mathbf{c}_1 = \alpha \mathbf{p}_1 + (1-\alpha) \mathbf{p}_2
+\end{equation}
+
+\begin{equation}
+\mathbf{c}_2 = (1-\alpha) \mathbf{p}_1 + \alpha \mathbf{p}_2
+\end{equation}
+
+where $\mathbf{p}_1$ and $\mathbf{p}_2$ are parent vectors, $\mathbf{c}_1$ and $\mathbf{c}_2$ are offspring vectors, and $\alpha \in [0,1]$ is a random crossover parameter.
+
+Mutation introduces random variations to maintain genetic diversity. For real-valued parameters, Gaussian mutation modifies each parameter according to:
+
+\begin{equation}
+x'_i = x_i + \mathcal{N}(0, \sigma^2)
+\end{equation}
+
+where $x'_i$ is the mutated parameter, $x_i$ is the original parameter, and $\mathcal{N}(0, \sigma^2)$ represents a normal distribution with zero mean and variance $\sigma^2$.
+
+For transfer prediction weight optimization, the GA utilizes differential evolution as the underlying mechanism. The mutation operation creates donor vectors through the formula:
+
+\begin{equation}
+\mathbf{v}_{i,g+1} = \mathbf{x}_{r1,g} + F \cdot (\mathbf{x}_{r2,g} - \mathbf{x}_{r3,g})
+\end{equation}
+
+where $\mathbf{v}_{i,g+1}$ is the donor vector for individual $i$ in generation $g+1$, $\mathbf{x}_{r1,g}$, $\mathbf{x}_{r2,g}$, and $\mathbf{x}_{r3,g}$ are randomly selected distinct individuals from generation $g$, and $F \in [0,2]$ is the mutation factor that controls the amplification of differential variations.
+
+\subsubsection{Particle Swarm Optimization}
+
+Particle Swarm Optimization (PSO) is a population-based optimization algorithm inspired by the social behavior of bird flocking or fish schooling. In PSO, each candidate solution is represented as a particle in the search space, and particles move through the solution space by following the currently known best positions. The algorithm combines individual particle experience with collective swarm knowledge to guide the search process toward optimal solutions.
+
+Each particle $i$ maintains several key attributes: position vector $\mathbf{x}_i(t)$ representing the current solution (weight configuration), velocity vector $\mathbf{v}_i(t)$ determining the direction and magnitude of movement, personal best position $\mathbf{p}_i$ representing the best solution found by the individual particle, and global best position $\mathbf{g}$ representing the best solution found by any particle in the swarm.
+
+The PSO algorithm operates through iterative updates of particle positions and velocities. The velocity update equation incorporates three components:
+
+\begin{equation}
+\mathbf{v}_i(t+1) = w \cdot \mathbf{v}_i(t) + c_1 \cdot r_1 \cdot (\mathbf{p}_i - \mathbf{x}_i(t)) + c_2 \cdot r_2 \cdot (\mathbf{g} - \mathbf{x}_i(t))
+\end{equation}
+
+where $w$ is the inertia weight maintaining the particle's current direction, $c_1$ is the cognitive acceleration coefficient attracting the particle toward its personal best position, $c_2$ is the social acceleration coefficient attracting the particle toward the global best position, and $r_1, r_2 \in [0,1]$ are random numbers introducing stochastic exploration.
+
+Position updates follow a simple kinematic equation:
+
+\begin{equation}
+\mathbf{x}_i(t+1) = \mathbf{x}_i(t) + \mathbf{v}_i(t+1)
+\end{equation}
+
+The personal best position is updated according to:
+
+\begin{equation}
+\mathbf{p}_i(t+1) = \begin{cases}
+\mathbf{x}_i(t+1) & \text{if } f(\mathbf{x}_i(t+1)) > f(\mathbf{p}_i(t)) \\
+\mathbf{p}_i(t) & \text{otherwise}
+\end{cases}
+\end{equation}
+
+where $f(\cdot)$ represents the fitness function. The global best position is updated as:
+
+\begin{equation}
+\mathbf{g}(t+1) = \arg\max_{\mathbf{p}_j(t+1)} f(\mathbf{p}_j(t+1))
+\end{equation}
+
+For weight optimization in transfer prediction, PSO parameters require careful tuning. The inertia weight $w$ typically decreases linearly from $w_{\text{max}} = 0.9$ to $w_{\text{min}} = 0.4$ according to:
+
+\begin{equation}
+w = w_{\text{max}} - \frac{w_{\text{max}} - w_{\text{min}}}{T_{\text{max}}} \cdot t
+\end{equation}
+
+where $t$ is the current iteration and $T_{\text{max}}$ is the maximum number of iterations.
+
+\subsubsection{Simulated Annealing}
+
+Simulated Annealing (SA) is a probabilistic optimization technique inspired by the annealing process in metallurgy, where controlled cooling of materials allows atoms to settle into minimum energy configurations. The algorithm uses a temperature parameter that gradually decreases over time, controlling the probability of accepting worse solutions during the optimization process. This mechanism enables the algorithm to escape local optima early in the search and converge to better solutions as the temperature decreases.
+
+The SA algorithm begins with an initial solution $\mathbf{x}_0$ and temperature setting $T_0$. At each iteration $k$, a neighboring solution $\mathbf{x}'$ is generated through a perturbation mechanism:
+
+\begin{equation}
+\mathbf{x}' = \mathbf{x}_k + \boldsymbol{\epsilon}
+\end{equation}
+
+where $\boldsymbol{\epsilon}$ represents a random perturbation vector, typically drawn from a multivariate normal distribution $\mathcal{N}(\mathbf{0}, \sigma^2 \mathbf{I})$.
+
+The fitness difference between the new solution and current solution is calculated as:
+
+\begin{equation}
+\Delta E = f(\mathbf{x}') - f(\mathbf{x}_k)
+\end{equation}
+
+The acceptance decision follows the Metropolis criterion:
+
+\begin{equation}
+P(\text{accept}) = \begin{cases}
+1 & \text{if } \Delta E \geq 0 \text{ (improvement)} \\
+\exp\left(\frac{\Delta E}{T_k}\right) & \text{if } \Delta E < 0 \text{ (deterioration)}
+\end{cases}
+\end{equation}
+
+where $T_k$ is the temperature at iteration $k$. The temperature reduction follows a cooling schedule. The geometric cooling schedule is commonly used:
+
+\begin{equation}
+T_{k+1} = \alpha \cdot T_k
+\end{equation}
+
+where $\alpha \in (0,1)$ is the cooling rate, typically $\alpha \in [0.8, 0.99]$. Alternatively, the logarithmic cooling schedule provides theoretical convergence guarantees:
+
+\begin{equation}
+T_k = \frac{T_0}{\log(1 + k)}
+\end{equation}
+
+The algorithm continues until a termination criterion is met, such as reaching a minimum temperature $T_{\text{min}}$ or completing a maximum number of iterations $k_{\text{max}}$. The equilibrium condition at each temperature can be enforced by performing multiple iterations before cooling:
+
+\begin{equation}
+N_{\text{eq}}(T_k) = \lceil C \cdot \log(T_k) \rceil
+\end{equation}
+
+where $C$ is a constant controlling the equilibrium length, and $N_{\text{eq}}(T_k)$ represents the number of iterations at temperature $T_k$.
+
+\subsubsection{Random Search}
+
+Random Search represents the simplest optimization approach, serving as both a baseline comparison method and a surprisingly effective technique for certain high-dimensional optimization problems. The algorithm generates candidate solutions by randomly sampling from the parameter space according to a specified probability distribution, evaluating each candidate's fitness, and tracking the best solution encountered during the search process.
+
+The basic Random Search algorithm can be formulated as follows. At each iteration $i$, a candidate solution $\mathbf{x}_i$ is generated by sampling from a probability distribution $\mathcal{D}$ over the feasible region $\Omega$:
+
+\begin{equation}
+\mathbf{x}_i \sim \mathcal{D}(\Omega)
+\end{equation}
+
+For bounded optimization problems with constraints $\mathbf{l} \leq \mathbf{x} \leq \mathbf{u}$, uniform sampling is commonly used:
+
+\begin{equation}
+x_j^{(i)} = l_j + r_j \cdot (u_j - l_j)
+\end{equation}
+
+where $x_j^{(i)}$ is the $j$-th component of solution $\mathbf{x}_i$, $l_j$ and $u_j$ are the lower and upper bounds for dimension $j$, and $r_j \sim \mathcal{U}(0,1)$ is a uniform random variable.
+
+The best solution is maintained and updated throughout the search process:
+
+\begin{equation}
+\mathbf{x}^* = \arg\max_{k \leq i} f(\mathbf{x}_k)
+\end{equation}
+
+For Gaussian sampling around a reference point $\mathbf{x}_c$ with covariance matrix $\boldsymbol{\Sigma}$:
+
+\begin{equation}
+\mathbf{x}_i \sim \mathcal{N}(\mathbf{x}_c, \boldsymbol{\Sigma})
+\end{equation}
+
+The convergence rate of Random Search for smooth functions follows:
+
+\begin{equation}
+\mathbb{E}[f(\mathbf{x}^*)] - f^* \leq \frac{C \cdot L \cdot d^{1/2}}{n^{1/2}}
+\end{equation}
+
+where $f^*$ is the global optimum, $C$ is a constant, $L$ is the Lipschitz constant, $d$ is the dimensionality, and $n$ is the number of evaluations.
+
+Despite its simplicity, Random Search exhibits several theoretical advantages. For high-dimensional problems with effective intrinsic dimensionality $d_{\text{eff}} \ll d$, Random Search maintains performance proportional to $d_{\text{eff}}$ rather than the nominal dimensionality $d$. The algorithm requires no gradient information and exhibits excellent parallelization properties, as multiple samples can be evaluated independently.
+
+The probability of finding a solution within $\epsilon$ of the global optimum after $n$ evaluations, assuming the optimal region occupies volume fraction $p$ of the search space, follows:
+
+\begin{equation}
+P(\|\mathbf{x}^* - \mathbf{x}_{\text{opt}}\| \leq \epsilon) = 1 - (1-p)^n
+\end{equation}
+
+This expression demonstrates that Random Search provides exponential convergence in probability to regions of high fitness concentration.

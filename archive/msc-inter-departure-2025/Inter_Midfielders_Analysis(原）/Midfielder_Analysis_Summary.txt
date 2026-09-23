@@ -1,0 +1,20 @@
+Inter米兰中场球员表现分析汇总
+==================================================
+
+分析基于2022-2023赛季意甲联赛数据
+数据来源: standard_stats + passing_stats + possession_stats
+
+分析的中场球员:
+• Hakan Çalhanoğlu - 0助攻 0关键传球
+• Henrikh Mkhitaryan - 0助攻 0关键传球
+• Kristjan Asllani - 0助攻 0关键传球
+• Marcelo Brozović - 0助攻 0关键传球
+• Nicolò Barella - 0助攻 0关键传球
+• Roberto Gagliardini - 0助攻 0关键传球
+• Valentin Carboni - 0助攻 0关键传球
+
+关键指标说明:
+基础数据: 助攻数、预期助攻、关键传球、渐进传球等
+传球数据: 各距离传球成功率、禁区传球、横传等
+控球数据: 触球次数、过人成功率、被犯规次数等
+百分位排名: 与意甲联赛所有中场对比的排名

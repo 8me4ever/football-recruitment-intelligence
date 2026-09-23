@@ -1,0 +1,117 @@
+Multi-Run Algorithm Performance Analysis
+======================================================================
+Generated: 2025-08-26 17:16:31
+Number of runs per algorithm: 5
+
+AVERAGE MACHINE LEARNING PERFORMANCE METRICS
+------------------------------------------------------------
+Algorithm    Accuracy   PR-AUC     Bal-Acc    Cohen-K    MCC        Brier      Exec-Time   
+--------------------------------------------------------------------------------------------------------
+GA           0.9200     0.9646     0.9199     0.8397     0.8397     0.1843     1444.67     
+PSO          0.9280     0.9648     0.9276     0.8557     0.8563     0.1832     335.34      
+SA           0.7280     0.7978     0.7263     0.4534     0.4717     0.2177     217.40      
+RS           0.9200     0.9616     0.9192     0.8395     0.8418     0.1844     313.11      
+
+======================================================================
+
+BEST PERFORMING ALGORITHM (AVERAGE ACROSS RUNS)
+--------------------------------------------------
+Best Algorithm: PSO
+Average Composite Score: 0.931497
+Composite Formula: 0.4×PR-AUC + 0.3×F1 + 0.2×Balanced_Acc + 0.1×(1-Brier)
+
+PERFORMANCE STATISTICS SUMMARY (PSO)
+----------------------------------------
+Valid Runs: 5/5
+Success Rate: 100.0%
+Average Execution Time: 335.34 ± 51.08 seconds
+
+OPTIMAL WEIGHTS CONFIGURATION (PSO)
+----------------------------------------
+Forward:
+  Special Parameters:
+    alpha: 4.000000
+    tau: 0.611825
+    risk_multiplier: 0.700000
+  Universal Weights:
+    minutes_weight: 0.150000
+    CrdY_weight: 0.080000
+    CrdR_weight: 0.080000
+  Position-Specific Weights:
+    Gls_weight: 0.080000
+    Ast_weight: 0.050000
+    xG_weight: 0.080000
+    SoT_weight: 0.150000
+    G_per_Sh_weight: 0.050000
+    Sh_per90_weight: 0.120000
+    SCA_weight: 0.080000
+    GCA_weight: 0.150000
+    Att_Pen_weight: 0.050000
+    TakeOn_Succ_weight: 0.050000
+
+Midfielder:
+  Special Parameters:
+    alpha: 4.000000
+    tau: 0.700000
+    risk_multiplier: 0.700000
+  Universal Weights:
+    minutes_weight: 0.150000
+    CrdY_weight: 0.080000
+    CrdR_weight: 0.139911
+  Position-Specific Weights:
+    Ast_weight: 0.080000
+    xAG_weight: 0.150000
+    KP_weight: 0.080000
+    Cmp_pct_weight: 0.104396
+    PrgP_weight: 0.150000
+    Touches_weight: 0.050000
+    PrgC_weight: 0.050000
+    TakeOn_Succ_weight: 0.050000
+    Tkl_weight: 0.050000
+    SCA_weight: 0.050000
+
+Defender:
+  Special Parameters:
+    alpha: 1.969604
+    tau: 0.700000
+    risk_multiplier: 0.433024
+  Universal Weights:
+    minutes_weight: 0.080673
+    CrdY_weight: 0.097681
+    CrdR_weight: 0.150000
+  Position-Specific Weights:
+    Tkl_weight: 0.149751
+    Int_weight: 0.150000
+    Blocks_weight: 0.080343
+    Clr_weight: 0.080000
+    Tkl_pct_weight: 0.120000
+    Cmp_pct_weight: 0.080000
+    Cmp_pct_Long_weight: 0.050000
+    PrgP_weight: 0.055806
+    Final_Third_weight: 0.050000
+    Def_3rd_weight: 0.050000
+
+Goalkeeper:
+  Special Parameters:
+    alpha: 1.541406
+    tau: 0.519183
+    risk_multiplier: 0.492299
+  Universal Weights:
+    minutes_weight: 0.121718
+    CrdY_weight: 0.133025
+    CrdR_weight: 0.099819
+  Position-Specific Weights:
+    Saves_weight: 0.130262
+    Save_pct_weight: 0.112501
+    CS_weight: 0.116150
+    CS_pct_weight: 0.117921
+    GA90_weight: 0.062131
+    SoTA_weight: 0.069787
+    PK_Save_weight: 0.105331
+    PK_Save_pct_weight: 0.080525
+    W_weight: 0.075160
+    Cmp_40_plus_weight: 0.056702
+
+
+Analysis completed at: 2025-08-26 17:16:31
+======================================================================
