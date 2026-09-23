@@ -1,6 +1,7 @@
 {
-  "generated_at_utc": "2026-09-23T16:00:56.405640+00:00",
-  "raw_data_dir": "F:\\Samuel\\football recruitment\\archive\\msc-inter-departure-2025\\data excel",
+  "generated_at_utc": "2026-09-23T16:07:04.913420+00:00",
+  "raw_data_dir_relative": "archive\\msc-inter-departure-2025\\data excel",
+  "project_root_relative": "recruitment-squad-intelligence",
   "seasons": {
     "2022-2023": {
       "raw_rows": 603,

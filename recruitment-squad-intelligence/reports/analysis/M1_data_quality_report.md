@@ -1,7 +1,7 @@
 # M1 数据质量报告
 
-生成时间（UTC）: 2026-09-23T16:00:56.405640+00:00
-原始数据目录: `F:\Samuel\football recruitment\archive\msc-inter-departure-2025\data excel`
+生成时间（UTC）: 2026-09-23T16:07:04.913420+00:00
+原始数据目录（相对工作区根）: `archive\msc-inter-departure-2025\data excel`
 
 ## 各赛季概况
 

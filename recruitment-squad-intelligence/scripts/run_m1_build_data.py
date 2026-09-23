@@ -36,15 +36,28 @@ def hr(title: str = "", width: int = 92) -> None:
 def main() -> int:
     config.ensure_output_dirs()
     started = datetime.now(timezone.utc)
+
+    def rel(p) -> str:
+        """把路径转成相对工作区根的字符串。
+
+        不写入绝对路径，原因：① 报告可能被公开或跨机使用，绝对路径无意义；
+        ② 避免泄露本机用户名与目录结构。
+        """
+        try:
+            return str(Path(p).resolve().relative_to(config.WORKSPACE_ROOT))
+        except ValueError:
+            return str(p)
+
     print("=" * 92)
     print("M1 — 构建干净数据层")
     print("=" * 92)
-    print(f"原始数据目录: {config.LEGACY_RAW_DIR}")
-    print(f"输出目录    : {config.PROCESSED_DIR}")
+    print(f"原始数据目录: {rel(config.LEGACY_RAW_DIR)}")
+    print(f"输出目录    : {rel(config.PROCESSED_DIR)}")
 
     quality: dict = {
         "generated_at_utc": started.isoformat(),
-        "raw_data_dir": str(config.LEGACY_RAW_DIR),
+        "raw_data_dir_relative": rel(config.LEGACY_RAW_DIR),
+        "project_root_relative": rel(config.PROJECT_ROOT),
         "seasons": {},
         "known_data_gaps": [
             "无转会费 / 球员估值 —— 因此不做性价比与预算分析",
@@ -275,8 +288,7 @@ def main() -> int:
         "# M1 数据质量报告",
         "",
         f"生成时间（UTC）: {quality['generated_at_utc']}",
-        f"原始数据目录: `{quality['raw_data_dir']}`",
-        "",
+        f"原始数据目录（相对工作区根）: `{quality['raw_data_dir_relative']}`",        "",
         "## 各赛季概况",
         "",
         "| 赛季 | 原始行 | 唯一球员 | 清洗后 | 合并中场转会 | 多位置 | 低样本 | 候选池 |",
