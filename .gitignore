@@ -38,13 +38,32 @@ claude-code
 *.bak
 ~$*
 
-# ---- 生成的产物（可由脚本重建）----
-# 注意：data/processed/ 是 M1 的**交付物**，体积小（约 1.5 MB）且需要同步，
-# 因此**不**排除。仅排除临时目录与图表缓存。
+# ---- 生成的产物 ----
+# 判断原则：**体积小 + 换机后需要直接可用 -> 纳入**；**体积大或可秒级重建 -> 排除**。
+#
+# recruitment-squad-intelligence/data/processed/ 是 M1 的交付物（约 1.5 MB），
+# 换机后应能直接使用，因此**纳入**（下面的 ! 规则显式放行）。
+# 中间产物与图表缓存可重建，故排除。
 recruitment-squad-intelligence/data/interim/*
 recruitment-squad-intelligence/reports/figures/*.png
+
+# 默认忽略 processed 下的所有内容，再显式放行交付物。
+# 这样新增的临时文件不会意外被提交，而交付物始终受版本控制。
+recruitment-squad-intelligence/data/processed/*
+!recruitment-squad-intelligence/data/processed/.gitkeep
+!recruitment-squad-intelligence/data/processed/players_*.csv
+!recruitment-squad-intelligence/data/processed/inter_squad_*.csv
+!recruitment-squad-intelligence/data/processed/candidate_pool_*.csv
+!recruitment-squad-intelligence/data/processed/contracts_*.csv
+
+# 数据质量报告（体积小，且是 M1 的验收依据）
+!recruitment-squad-intelligence/reports/analysis/M1_*.md
+!recruitment-squad-intelligence/reports/analysis/M1_*.json
 !recruitment-squad-intelligence/data/interim/.gitkeep
 !recruitment-squad-intelligence/reports/figures/.gitkeep
+
+# 审计阶段的干净数据层原型（体积小，作为可行性证据保留，已在首次提交中纳入）
+!\_audit/processed/*.csv
 
 # ---- 本地覆盖配置与凭据 ----
 .env
