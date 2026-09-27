@@ -1,0 +1,51 @@
+{
+  "source": "Sofascore rendered webpage DOM and accessibility tree",
+  "observed_on": "2026-09-26",
+  "record_type": "starting_lineup_rating_snapshot",
+  "match_id": "16863671",
+  "source_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671,tab:lineups",
+  "lineup_disclaimer_visible": "Ratings for this competition are calculated on the basis of statistics from the official AFC Champions League Elite data provider.",
+  "teams": [
+    {
+      "team": "Beijing Guoan",
+      "formation": "4-4-2",
+      "team_rating": 7.71,
+      "players": [
+        {"shirt_number": 34, "display_name": "H. Sen", "rating": 7.2, "player_id": null, "started": true},
+        {"shirt_number": 21, "display_name": "T. Yue", "rating": 6.2, "player_id": null, "started": true},
+        {"shirt_number": 27, "display_name": "G. Wang", "rating": 6.5, "player_id": null, "started": true},
+        {"shirt_number": 5, "display_name": "G. Ramos", "rating": 7.5, "player_id": null, "started": true},
+        {"shirt_number": 47, "display_name": "D. Jiefu", "rating": 5.9, "player_id": null, "started": true},
+        {"shirt_number": 28, "display_name": "J. Dudziak", "rating": 8.0, "player_id": null, "started": true},
+        {"shirt_number": 23, "display_name": "Dawhan", "rating": 7.0, "player_id": null, "started": true},
+        {"shirt_number": 7, "display_name": "S. Erjini'ao", "rating": 7.6, "player_id": null, "started": true},
+        {"shirt_number": 10, "display_name": "Z. Xizhe", "rating": 7.6, "player_id": null, "started": true, "captain": true},
+        {"shirt_number": 20, "display_name": "B. Nkololo", "rating": 6.8, "player_id": null, "started": true},
+        {"shirt_number": 77, "display_name": "C. Akolo", "rating": 8.1, "player_id": null, "started": true}
+      ]
+    },
+    {
+      "team": "Pohang Steelers",
+      "formation": "5-4-1",
+      "team_rating": 6.41,
+      "players": [
+        {"shirt_number": 1, "display_name": "P. Yun", "rating": 6.4, "player_id": null, "started": true},
+        {"shirt_number": 14, "display_name": "C. Lee", "rating": 5.8, "player_id": null, "started": true},
+        {"shirt_number": 5, "display_name": "J. Si-Woo", "rating": 6.0, "player_id": null, "started": true},
+        {"shirt_number": 33, "display_name": "J. Sung-wook", "rating": 5.9, "player_id": null, "started": true, "captain": true},
+        {"shirt_number": 36, "display_name": "H. Kim", "rating": 5.9, "player_id": null, "started": true},
+        {"shirt_number": 3, "display_name": "K. Ye-Sung", "rating": 5.9, "player_id": null, "started": true},
+        {"shirt_number": 37, "display_name": "H. M. Jung", "rating": 5.8, "player_id": null, "started": true},
+        {"shirt_number": 31, "display_name": "K. Nishiya", "rating": 6.7, "player_id": null, "started": true},
+        {"shirt_number": 8, "display_name": "S. Kim", "rating": 6.6, "player_id": null, "started": true},
+        {"shirt_number": 9, "display_name": "A. Jae-joon", "rating": 6.2, "player_id": null, "started": true},
+        {"shirt_number": 10, "display_name": "J. Tranziska", "rating": 7.1, "player_id": null, "started": true}
+      ]
+    }
+  ],
+  "limitations": [
+    "These rows contain starting status, displayed shirt number and Sofascore rating only; no six-category technical player statistics were exposed in this view.",
+    "Player IDs were not resolved from the rendered starting-lineup labels and are left null rather than guessed.",
+    "This 22-row lineup snapshot is provisional until checked against the team's displayed player links or an authoritative match sheet."
+  ]
+}

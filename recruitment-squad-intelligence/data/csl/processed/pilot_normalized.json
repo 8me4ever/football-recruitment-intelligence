@@ -1,0 +1,661 @@
+[
+  {
+    "source": "sofascore",
+    "match_id": "13400350",
+    "player_id": "817886",
+    "match_date": "2025-02-22",
+    "source_url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Yongjing Cao",
+    "goals": 1,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 29,
+      "attempted": 32,
+      "displayed_pct": 91.0
+    },
+    "duels": {
+      "total": 15,
+      "successful": 6
+    },
+    "ground_duels": {
+      "total": 13,
+      "successful": 5
+    },
+    "aerial_duels": {
+      "total": 2,
+      "successful": 1
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "F",
+    "rating_provider": 7.6,
+    "empty_fields": [
+      "assists"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Yongjing Cao",
+      "1",
+      "",
+      "1",
+      "29/32 (91%)",
+      "15 (6)",
+      "13 (5)",
+      "2 (1)",
+      "90'",
+      "F",
+      "7.6"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13400350",
+    "player_id": "962859",
+    "match_date": "2025-02-22",
+    "source_url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Han Jiaqi",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": null,
+      "successful": null
+    },
+    "passes": {
+      "completed": 18,
+      "attempted": 33,
+      "displayed_pct": 55.0
+    },
+    "duels": {
+      "total": 1,
+      "successful": 1
+    },
+    "ground_duels": {
+      "total": 0,
+      "successful": 0
+    },
+    "aerial_duels": {
+      "total": 1,
+      "successful": 1
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "G",
+    "rating_provider": 7.2,
+    "empty_fields": [
+      "assists",
+      "tackles"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Han Jiaqi",
+      "0",
+      "",
+      "",
+      "18/33 (55%)",
+      "1 (1)",
+      "0 (0)",
+      "1 (1)",
+      "90'",
+      "G",
+      "7.2"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13400350",
+    "player_id": "828227",
+    "match_date": "2025-02-22",
+    "source_url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Zhang Yuning",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": null,
+      "successful": null
+    },
+    "passes": {
+      "completed": 2,
+      "attempted": 4,
+      "displayed_pct": 50.0
+    },
+    "duels": {
+      "total": 3,
+      "successful": 0
+    },
+    "ground_duels": {
+      "total": 0,
+      "successful": 0
+    },
+    "aerial_duels": {
+      "total": 3,
+      "successful": 0
+    },
+    "minutes_provider": 18,
+    "minutes_convention": "unverified",
+    "position_coarse": "F",
+    "rating_provider": 6.5,
+    "empty_fields": [
+      "assists",
+      "tackles"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Zhang Yuning",
+      "0",
+      "",
+      "",
+      "2/4 (50%)",
+      "3 (0)",
+      "0 (0)",
+      "3 (0)",
+      "18'",
+      "F",
+      "6.5"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522670",
+    "player_id": "828227",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Zhang Yuning",
+    "goals": 1,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 27,
+      "attempted": 31,
+      "displayed_pct": 87.0
+    },
+    "duels": {
+      "total": 7,
+      "successful": 3
+    },
+    "ground_duels": {
+      "total": 5,
+      "successful": 2
+    },
+    "aerial_duels": {
+      "total": 2,
+      "successful": 1
+    },
+    "minutes_provider": 70,
+    "minutes_convention": "unverified",
+    "position_coarse": "F",
+    "rating_provider": 7.7,
+    "empty_fields": [
+      "assists"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Zhang Yuning",
+      "1",
+      "",
+      "1",
+      "27/31 (87%)",
+      "7 (3)",
+      "5 (2)",
+      "2 (1)",
+      "70'",
+      "F",
+      "7.7"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522670",
+    "player_id": "793878",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Hou Sen",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": null,
+      "successful": null
+    },
+    "passes": {
+      "completed": 25,
+      "attempted": 29,
+      "displayed_pct": 86.0
+    },
+    "duels": {
+      "total": null,
+      "successful": null
+    },
+    "ground_duels": {
+      "total": 0,
+      "successful": 0
+    },
+    "aerial_duels": {
+      "total": null,
+      "successful": null
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "G",
+    "rating_provider": 7.4,
+    "empty_fields": [
+      "assists",
+      "tackles",
+      "duels",
+      "aerial_duels"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Hou Sen",
+      "0",
+      "",
+      "",
+      "25/29 (86%)",
+      "",
+      "0 (0)",
+      "",
+      "90'",
+      "G",
+      "7.4"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522670",
+    "player_id": "817886",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+    "observed_on": "2026-09-24",
+    "team": "Beijing Guoan",
+    "player_name": "Yongjing Cao",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 16,
+      "attempted": 19,
+      "displayed_pct": 84.0
+    },
+    "duels": {
+      "total": 9,
+      "successful": 2
+    },
+    "ground_duels": {
+      "total": 8,
+      "successful": 2
+    },
+    "aerial_duels": {
+      "total": 1,
+      "successful": 0
+    },
+    "minutes_provider": 60,
+    "minutes_convention": "unverified",
+    "position_coarse": "M",
+    "rating_provider": 6.9,
+    "empty_fields": [
+      "assists"
+    ],
+    "raw_cells": [
+      "Beijing Guoan",
+      "Yongjing Cao",
+      "0",
+      "",
+      "1",
+      "16/19 (84%)",
+      "9 (2)",
+      "8 (2)",
+      "1 (0)",
+      "60'",
+      "M",
+      "6.9"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13400348",
+    "player_id": "609730",
+    "match_date": "2025-02-22",
+    "source_url": "https://www.sofascore.com/football/match/wuhan-three-towns-chengdu-rongcheng/QzNbscdtc#id:13400348",
+    "observed_on": "2026-09-24",
+    "team": "Chengdu Rongcheng",
+    "player_name": "Rômulo",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 27,
+      "attempted": 42,
+      "displayed_pct": 64.0
+    },
+    "duels": {
+      "total": 11,
+      "successful": 6
+    },
+    "ground_duels": {
+      "total": 9,
+      "successful": 6
+    },
+    "aerial_duels": {
+      "total": 2,
+      "successful": 0
+    },
+    "minutes_provider": 89,
+    "minutes_convention": "unverified",
+    "position_coarse": "F",
+    "rating_provider": 8.2,
+    "empty_fields": [
+      "assists"
+    ],
+    "raw_cells": [
+      "Chengdu Rongcheng",
+      "Rômulo",
+      "0",
+      "",
+      "1",
+      "27/42 (64%)",
+      "11 (6)",
+      "9 (6)",
+      "2 (0)",
+      "89'",
+      "F",
+      "8.2"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13400348",
+    "player_id": "823609",
+    "match_date": "2025-02-22",
+    "source_url": "https://www.sofascore.com/football/match/wuhan-three-towns-chengdu-rongcheng/QzNbscdtc#id:13400348",
+    "observed_on": "2026-09-24",
+    "team": "Wuhan Three Towns",
+    "player_name": "Puliang Shao",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": null,
+      "successful": null
+    },
+    "passes": {
+      "completed": 19,
+      "attempted": 30,
+      "displayed_pct": 63.0
+    },
+    "duels": {
+      "total": null,
+      "successful": null
+    },
+    "ground_duels": {
+      "total": 0,
+      "successful": 0
+    },
+    "aerial_duels": {
+      "total": null,
+      "successful": null
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "G",
+    "rating_provider": 8.0,
+    "empty_fields": [
+      "assists",
+      "tackles",
+      "duels",
+      "aerial_duels"
+    ],
+    "raw_cells": [
+      "Wuhan Three Towns",
+      "Puliang Shao",
+      "0",
+      "",
+      "",
+      "19/30 (63%)",
+      "",
+      "0 (0)",
+      "",
+      "90'",
+      "G",
+      "8.0"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522671",
+    "player_id": "97006",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13522671",
+    "observed_on": "2026-09-24",
+    "team": "Shanghai Shenhua",
+    "player_name": "João Carlos Teixeira",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": 2,
+      "successful": null
+    },
+    "passes": {
+      "completed": 37,
+      "attempted": 40,
+      "displayed_pct": 93.0
+    },
+    "duels": {
+      "total": 12,
+      "successful": 7
+    },
+    "ground_duels": {
+      "total": 12,
+      "successful": 7
+    },
+    "aerial_duels": {
+      "total": null,
+      "successful": null
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "M",
+    "rating_provider": 7.6,
+    "empty_fields": [
+      "assists",
+      "aerial_duels"
+    ],
+    "raw_cells": [
+      "Shanghai Shenhua",
+      "João Carlos Teixeira",
+      "0",
+      "",
+      "2",
+      "37/40 (93%)",
+      "12 (7)",
+      "12 (7)",
+      "",
+      "90'",
+      "M",
+      "7.6"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522671",
+    "player_id": "904297",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13522671",
+    "observed_on": "2026-09-24",
+    "team": "Shanghai Shenhua",
+    "player_name": "André Luis",
+    "goals": 1,
+    "assists": null,
+    "tackles": {
+      "total": null,
+      "successful": null
+    },
+    "passes": {
+      "completed": 13,
+      "attempted": 23,
+      "displayed_pct": 57.0
+    },
+    "duels": {
+      "total": 9,
+      "successful": 6
+    },
+    "ground_duels": {
+      "total": 5,
+      "successful": 3
+    },
+    "aerial_duels": {
+      "total": 4,
+      "successful": 3
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "F",
+    "rating_provider": 7.5,
+    "empty_fields": [
+      "assists",
+      "tackles"
+    ],
+    "raw_cells": [
+      "Shanghai Shenhua",
+      "André Luis",
+      "1",
+      "",
+      "",
+      "13/23 (57%)",
+      "9 (6)",
+      "5 (3)",
+      "4 (3)",
+      "90'",
+      "F",
+      "7.5"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522678",
+    "player_id": "1401160",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678",
+    "observed_on": "2026-09-24",
+    "team": "Shanghai Port",
+    "player_name": "Guangtai Jiang",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 50,
+      "attempted": 60,
+      "displayed_pct": 83.0
+    },
+    "duels": {
+      "total": 11,
+      "successful": 9
+    },
+    "ground_duels": {
+      "total": 1,
+      "successful": 1
+    },
+    "aerial_duels": {
+      "total": 10,
+      "successful": 8
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "D",
+    "rating_provider": 7.9,
+    "empty_fields": [
+      "assists"
+    ],
+    "raw_cells": [
+      "Shanghai Port",
+      "Guangtai Jiang",
+      "0",
+      "",
+      "1",
+      "50/60 (83%)",
+      "11 (9)",
+      "1 (1)",
+      "10 (8)",
+      "90'",
+      "D",
+      "7.9"
+    ]
+  },
+  {
+    "source": "sofascore",
+    "match_id": "13522678",
+    "player_id": "823653",
+    "match_date": "2025-11-22",
+    "source_url": "https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678",
+    "observed_on": "2026-09-24",
+    "team": "Shanghai Port",
+    "player_name": "Mateus Vital",
+    "goals": 0,
+    "assists": null,
+    "tackles": {
+      "total": 1,
+      "successful": null
+    },
+    "passes": {
+      "completed": 40,
+      "attempted": 47,
+      "displayed_pct": 85.0
+    },
+    "duels": {
+      "total": 7,
+      "successful": 4
+    },
+    "ground_duels": {
+      "total": 7,
+      "successful": 4
+    },
+    "aerial_duels": {
+      "total": null,
+      "successful": null
+    },
+    "minutes_provider": 90,
+    "minutes_convention": "unverified",
+    "position_coarse": "M",
+    "rating_provider": 7.7,
+    "empty_fields": [
+      "assists",
+      "aerial_duels"
+    ],
+    "raw_cells": [
+      "Shanghai Port",
+      "Mateus Vital",
+      "0",
+      "",
+      "1",
+      "40/47 (85%)",
+      "7 (4)",
+      "7 (4)",
+      "",
+      "90'",
+      "M",
+      "7.7"
+    ]
+  }
+]

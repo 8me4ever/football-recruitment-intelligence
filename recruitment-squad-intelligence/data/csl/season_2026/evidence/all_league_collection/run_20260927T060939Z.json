@@ -1,0 +1,50 @@
+{
+  "started_at": "2026-09-27T06:09:39.026798+00:00",
+  "source": "Sofascore rendered webpages",
+  "route": "CSL tournament > season > round > exact fixture card > Player stats > six categories",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "headed": true,
+  "viewport": "1440x1000",
+  "locale": "en-GB",
+  "timezone": "Asia/Shanghai",
+  "temp_dir": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\season_2026\\runtime_temp",
+  "fixtures_requested": 2,
+  "results": [
+    {
+      "match_id": "15549789",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549789_823e7a49b8d9.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "07/03/26 FT Shenhua Dalian Yingbo 5 3"
+    },
+    {
+      "match_id": "15551884",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551884_6ca1fc7221d5.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "07/03/26 FT Jinmen Tiger Tongliang Long 0 0"
+    }
+  ],
+  "failures": [],
+  "browser_version": "153.0.8010.53"
+}

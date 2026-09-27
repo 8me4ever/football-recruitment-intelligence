@@ -1,0 +1,287 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+  "observed_at": "2026-09-27T05:22:31.421532+00:00",
+  "width": 1440,
+  "headed": true,
+  "via_team": true,
+  "stages": [
+    {
+      "name": "team",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 6553,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Finished",
+        "Upcoming",
+        "Standings",
+        "Statistics",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "finished",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 6553,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Finished",
+        "Upcoming",
+        "Standings",
+        "Statistics",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "match_5",
+      "url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+      "title": "Shanghai Port vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "text_length": 6829,
+      "tabs": [
+        "All",
+        "Key events",
+        "Lineups",
+        "Statistics",
+        "Standings",
+        "H2H",
+        "AI Insights",
+        "Lineups",
+        "Player stats",
+        "Performance",
+        "Distance",
+        "Nationality",
+        "Age",
+        "Market value",
+        "Height"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "match_15",
+      "url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+      "title": "Shanghai Port vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "text_length": 6829,
+      "tabs": [
+        "All",
+        "Key events",
+        "Lineups",
+        "Statistics",
+        "Standings",
+        "H2H",
+        "AI Insights",
+        "Lineups",
+        "Player stats",
+        "Performance",
+        "Distance",
+        "Nationality",
+        "Age",
+        "Market value",
+        "Height"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "match_30",
+      "url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+      "title": "Shanghai Port vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "text_length": 6829,
+      "tabs": [
+        "All",
+        "Key events",
+        "Lineups",
+        "Statistics",
+        "Standings",
+        "H2H",
+        "AI Insights",
+        "Lineups",
+        "Player stats",
+        "Performance",
+        "Distance",
+        "Nationality",
+        "Age",
+        "Market value",
+        "Height"
+      ],
+      "tables": 0
+    }
+  ],
+  "status": "observed",
+  "team_match_links": [
+    {
+      "href": "/football/match/new-zealand-china/fVbsJVb#id:17175620",
+      "text": "19:35\n-"
+    },
+    {
+      "href": "/football/match/england-spain/YTbsnUb#id:15534084",
+      "text": "FT\n2\n-\n3"
+    },
+    {
+      "href": "/football/match/croatia-czechia/oUbspUb#id:15534090",
+      "text": "FT\n1\n-\n2"
+    },
+    {
+      "href": "/football/match/north-macedonia-switzerland/ZTbsCVb#id:15534115",
+      "text": "FT\n0\n-\n3"
+    },
+    {
+      "href": "/football/match/cruz-azul-cd-toluca/GNsXN#id:16317972",
+      "text": "FT\n3\n-\n3"
+    },
+    {
+      "href": "/football/match/los-angeles-fc-fc-dallas/mabsaTjc#id:15168417",
+      "text": "FT\n1\n-\n0"
+    },
+    {
+      "href": "/football/match/colombia-mexico/GVbsvWb#id:17080689",
+      "text": "FT\n1\n-\n1"
+    },
+    {
+      "href": "/football/match/vancouver-whitecaps-dc-united/cabskPi#id:15168426",
+      "text": "FT\n3\n-\n3"
+    },
+    {
+      "href": "/football/match/serbia-netherlands/fUbsfCc#id:15534068",
+      "text": "00:00\n-"
+    },
+    {
+      "href": "/football/match/germany-greece/kUbslUb#id:15534060",
+      "text": "02:45\n-"
+    },
+    {
+      "href": "/football/match/portugal-norway/AObseUb#id:15534096",
+      "text": "02:45\n-"
+    },
+    {
+      "href": "/football/match/inter-miami-cf-columbus-crew/eabsccKc#id:15168422",
+      "text": "07:00\n-"
+    },
+    {
+      "href": "/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "text": "AFC Champions League Elite"
+    },
+    {
+      "href": "/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "text": "15/09/26\nFT\nGuoan\nPohang Steelers\n3\n3\n1\n1"
+    },
+    {
+      "href": "/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "Chinese Super League"
+    },
+    {
+      "href": "/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "09/10/26\n19:35\nHainiu\nGuoan"
+    },
+    {
+      "href": "/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "text": "15/09/26\nFT\nGuoan\nPohang Steelers\n3\n1\nW"
+    },
+    {
+      "href": "/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+      "text": "05/09/26\nFT\nPort\nGuoan\n0\n0\nD"
+    },
+    {
+      "href": "/football/match/lanzhou-longyuan-athletic-fc-beijing-guoan/BrbsfqPd#id:16616209",
+      "text": "01/09/26\nFT\nLongyuan Athletic\nGuoan\n1\n3\nW"
+    },
+    {
+      "href": "/football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:15552624",
+      "text": "28/08/26\nFT\nDalian Yingbo\nGuoan\n1\n1\nD"
+    },
+    {
+      "href": "/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:15552619",
+      "text": "22/08/26\nFT\nGuoan\nYukun\n3\n3\nD"
+    },
+    {
+      "href": "/football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:16851672",
+      "text": "18/08/26\nFT\nShenhua\nGuoan\n0\n3\nW"
+    },
+    {
+      "href": "/football/match/chengdu-rongcheng-beijing-guoan/BrbsQzNb#id:15552587",
+      "text": ""
+    },
+    {
+      "href": "/football/match/zhejiang-beijing-guoan/BrbsXTn#id:15552596",
+      "text": ""
+    },
+    {
+      "href": "/football/match/shenzhen-peng-city-beijing-guoan/BrbsGBmc#id:15552600",
+      "text": ""
+    },
+    {
+      "href": "/football/match/beijing-guoan-tianjin-jinmen-tiger/rrbsBrb#id:15552613",
+      "text": ""
+    },
+    {
+      "href": "/football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:16851672",
+      "text": ""
+    },
+    {
+      "href": "/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:15552619",
+      "text": ""
+    },
+    {
+      "href": "/football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:15552624",
+      "text": ""
+    },
+    {
+      "href": "/football/match/lanzhou-longyuan-athletic-fc-beijing-guoan/BrbsfqPd#id:16616209",
+      "text": ""
+    },
+    {
+      "href": "/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+      "text": ""
+    },
+    {
+      "href": "/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "text": ""
+    },
+    {
+      "href": "/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "Hainiu\n09/10/2026\nFri 19:35\nGuoan"
+    },
+    {
+      "href": "https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "Qingdao Hainiu vs Beijing Guoan"
+    },
+    {
+      "href": "/football/match/brazil-australia/QUbsYUb#id:16814493",
+      "text": "Australia - Brazil"
+    },
+    {
+      "href": "/football/match/england-spain/YTbsnUb#id:15534084",
+      "text": "England - Spain"
+    },
+    {
+      "href": "/football/match/portugal-wales/cUbseUb#id:15534097",
+      "text": "Portugal - Wales"
+    },
+    {
+      "href": "/football/match/turkiye-france/GObsaUb#id:15534031",
+      "text": "Türkiye - France"
+    },
+    {
+      "href": "/football/match/germany-netherlands/fUbslUb#id:15534057",
+      "text": "Netherlands - Germany"
+    },
+    {
+      "href": "/football/match/belgium-italy/hUbsrUb#id:15534037",
+      "text": "Italy - Belgium"
+    },
+    {
+      "href": "/football/match/morocco-gabon/lVbsDVb#id:17018552",
+      "text": "Morocco - Gabon"
+    },
+    {
+      "href": "/football/match/denmark-norway/AObsBOb#id:15534100",
+      "text": "Norway - Denmark"
+    }
+  ],
+  "http_status": 200
+}

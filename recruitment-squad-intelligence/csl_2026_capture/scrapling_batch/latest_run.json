@@ -1,0 +1,29 @@
+{
+  "started_at": "2026-09-27T05:39:44.971864+00:00",
+  "source": "Sofascore rendered webpages",
+  "route": "Guoan team page > Finished card > Player stats > six categories",
+  "headed": true,
+  "viewport": "1440x1000",
+  "fixtures_requested": 1,
+  "results": [
+    {
+      "match_id": "15551891",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551891_e144460102b0.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "card": null,
+      "pages_back": 3,
+      "route": "direct_fallback_after_missing_fixture_card"
+    }
+  ],
+  "initial_http_status": 200,
+  "finished_at": "2026-09-27T05:39:55.526344+00:00",
+  "elapsed_seconds": 10.6
+}

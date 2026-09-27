@@ -1,13 +1,13 @@
 # GITHUB_SYNC_NOTES — 同步到 GitHub 与换机接续
 
 > 本文档说明如何把这个工作区同步到 GitHub，并在另一台电脑上继续开发。
-> 生成于审计与 M1 完成之后。
+> 本文于 2026-09-27 更新，记录现有仓库接续方式；项目进度见 Recruitment & Squad Intelligence 交接文档。
 
 ---
 
 ## 0. 当前状态
 
-本地 git 仓库**已准备好**（`F:\Samuel\football recruitment\.git`），含 **6 个提交、233 个文件、约 14.4 MB**：
+本地 Git 仓库位于工作区根目录，当前分支为 `main`，`origin` 已指向 `https://github.com/8me4ever/football-recruitment-intelligence.git`。仓库包含旧 Inter 项目归档、M1 交付物，以及当前 Recruitment & Squad Planning 项目的代码、文档和数据。
 
 ```
 4c66476  chore: 报告中改用相对路径，避免写入本机绝对路径
@@ -18,7 +18,11 @@ a686437  chore(archive): 归档原 MSc 项目（移动而非删除）
 44d6fc1  feat: M1 clean data layer for Recruitment & Squad Intelligence System
 ```
 
-**已完成的推送前检查**：
+原先记录的 233 个文件、约 14.4 MB 是 2026-09-27 本轮 CSL 交付加入前的仓库基线，不能代表当前仓库大小。当前中超规范数据与原始可见页面记录也纳入版本控制，以便离线复核和重建审计导出；虚拟环境、浏览器配置目录和临时运行状态仍排除在外。
+
+本轮新增的项目状态与接续建议见 [`recruitment-squad-intelligence/docs/HANDOFF_2026-09-27.md`](recruitment-squad-intelligence/docs/HANDOFF_2026-09-27.md)。
+
+以下是旧版仓库的历史推送前检查记录，不代表 2026 CSL 文件加入后的新扫描结果。每次同步较大的新增文件集时，都应重新核对敏感信息与单文件体积：
 
 | 检查 | 结果 |
 |---|---|
@@ -31,8 +35,7 @@ a686437  chore(archive): 归档原 MSc 项目（移动而非删除）
 | venv 排除（457 MB） | ✅ 已排除 |
 | 工作区状态 | ✅ 干净 |
 
-**尚未推送** —— 执行环境被沙箱完全断网（连 pypi/baidu 均不可达），
-必须在你自己终端执行。`gh` 已用账号 `8me4ever` 登录且 token 有 `repo` 权限。
+公开可见性仍为 Public。更新仓库内容时，先检查 `git status` 和待提交文件，再提交并推送到现有 `origin`；不要重复创建仓库或把本机认证信息写入文件。
 
 ---
 
@@ -47,35 +50,27 @@ a686437  chore(archive): 归档原 MSc 项目（移动而非删除）
 
 ---
 
-## 2. 推送步骤（在你自己的终端执行）
+## 2. 同步到现有 GitHub 仓库
 
 ```powershell
-cd "F:\Samuel\football recruitment"
+# 在本地仓库根目录执行以下命令
 
-# 确认还没有远端
+# 检查现有远端
 git remote -v
 
-# 创建 Public 仓库并推送（一条命令完成）
-gh repo create football-recruitment-intelligence --public --source=. --remote=origin --push
-```
-
-若希望**先手动建仓库再推送**：
-
-```powershell
-# 1) 在 GitHub 网页新建 Public 仓库 football-recruitment-intelligence
-#    不要勾选 "Add a README / .gitignore / license"（避免与本地历史冲突）
-# 2) 关联并推送
-git remote add origin https://github.com/8me4ever/football-recruitment-intelligence.git
-git branch -M main
+# 检查待提交内容，然后提交并推送；本项目变更可按需明确添加以下路径
+git status --short
+git add .gitignore GITHUB_SYNC_NOTES.md recruitment-squad-intelligence/
+git commit -m "feat(data): add recruitment intelligence evidence"
 git push -u origin main
 ```
 
-推送后验证：
+仓库已存在时不要再次运行 `gh repo create`。推送后可用以下命令核对远端提交：
 
 ```powershell
 git remote -v
 git log --oneline -3
-gh repo view --web
+git ls-remote origin refs/heads/main
 ```
 
 ---
@@ -181,6 +176,7 @@ python scripts/run_m1_build_data.py
 | `_audit/DOC_CLAIMS_RAW.md` | 含对旧论文"统计显著性数据由 `np.random.normal()` 生成"的逐条取证与行号 |
 | `_audit/EXISTING_PROJECT_AUDIT.md` | 含旧项目的 39 项技术债清单 |
 | `archive/` | 旧 MSc 项目的全部代码、论文 LaTeX 源码、演示 PPT 与图表 |
+| `recruitment-squad-intelligence/data/csl/` 与 `csl_2026_capture/` | 含中超及亚冠规范数据、原始可见网页记录和审计证据；用于复核采集结果 |
 | 作者姓名 / 院校 | Ziming Chen / University of Birmingham（作为署名保留） |
 
 **已确认无**：凭据、token、私钥、邮箱、真实学号、本机绝对路径。
@@ -215,7 +211,7 @@ gh repo create recruitment-squad-intelligence --public --source=. --push   # 需
 | 归档完整性校验（SHA256 清单，171 个文件） | ✅ 无丢失 |
 | 推送前隐私扫描（凭据/邮箱/学号/绝对路径） | ✅ 全部通过 |
 | 新系统在新环境可复现（77 项测试） | ✅ 已验证 |
-| **推送到 GitHub** | ⏳ **需你在本地终端执行（见第 2 节）** |
+| GitHub 远端 | ✅ `origin` 已关联现有 Public 仓库；每批变更按第 2 节同步并复核 |
 | 仓库可见性 | ✅ Public（已确认） |
 
 ---
@@ -224,5 +220,4 @@ gh repo create recruitment-squad-intelligence --public --source=. --push   # 需
 
 1. **在另一台电脑上克隆并按第 3 节验证** —— 确认 `run_m1_build_data.py` 输出与本文档记录的期望值一致；
 2. **在 `README.md` 顶部加上仓库链接**（可选，便于以后引用）；
-3. **继续 M2/M3** —— 按 `_audit/MIGRATION_PLAN.md`，下一步是表现引擎 v2 与评估层，
-   两者必须**同批交付**，否则会重演旧项目"先造模型再想评估"的错误。
+3. **继续 C1/C2** —— 按 `recruitment-squad-intelligence/docs/正式项目章程.md` 与项目交接文档，先补齐逐人公开来源追溯和效力区间证据，再完成正式阵容需求诊断；不要把旧 Inter 原型的 M2/M3 阶段当作当前 CSL Gate。

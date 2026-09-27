@@ -1,0 +1,24 @@
+{
+  "fixture": {
+    "match_date": "2026-09-15",
+    "home_team": "Beijing Guoan",
+    "away_team": "Pohang Steelers",
+    "home_goals": 3,
+    "away_goals": 1,
+    "competition": "AFC Champions League Elite",
+    "competition_id": 463,
+    "competition_season_id": 99217,
+    "round": "East Region, Round 1",
+    "source_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd"
+  },
+  "observed_at": "2026-09-26T11:50:30.493699+00:00",
+  "source": "Sofascore rendered webpage DOM",
+  "parser_version": "2026-pilot-1",
+  "debug_page": {
+    "url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+    "title": "Football Live Score - Sofascore",
+    "body_text": "Trending\nSCORES\nNEWS\nFANTASY\nTORNEO\nSearch Sofascore\nCtrlK\nFootball\nBasketball\nTennis\nHockey\nTable tennis\nBaseball\nHandball\n19\nMore\nFavourites\nTV schedule\nDownload the app\nAbout\nFootball live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches.\nThe latest stories\nFootball\nLaLiga\nPremier League\nLigue 1\nSerie A\nBundesliga\nFIFA Rankings\nUEFA Champions League\nUEFA Rankings\nBasketball\nNBA\nEuroleague\nStoiximan GBL\nLiga ACB\nLega A Basket\nTurkish Basketball Super League\nTennis\nShanghai\nBeijing\nUS Open, Men\nUS Open, Women\nATP Rankings\nWTA Rankings\nATP\nLaver Cup\nTrending\nUFC\nMLB\nNHL\nItaly GP\nSpain GP\nEHF Champions League\nFootball Scores\nAustralia - Brazil\nEngland - Spain\nPortugal - Wales\nTürkiye - France\nNetherlands - Germany\nItaly - Belgium\nMorocco - Gabon\nNorway - Denmark\nBasketball Scores\nDubai - Real Madrid\nCrvena zvezda - Žalgiris\nPartizan Mozzart - EA7 Milano\nPanathinaikos - Paris Basketball\nBaskonia - Olympiacos\nBarça - Anadolu Efes\nFenerbahçe - V. Bologna\nBorac Mozzart - Crvena zvezda\nADVERTISE\nCONTACT\nTORNEO BY SOFASCORE\nSOFASCORE NEWS\nWhen the fun stops, STOP\n© 2026 Sofascore – All rights reserved.\nPrivacy Policy\nCookie Policy\nAccessibility Policy\nTerms & Conditions\nGDPR & Journalism\nImpressum"
+  },
+  "http_status": 200,
+  "elapsed_seconds": 8.2
+}

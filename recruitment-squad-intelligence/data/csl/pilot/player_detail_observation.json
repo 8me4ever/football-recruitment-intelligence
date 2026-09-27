@@ -1,0 +1,37 @@
+{
+  "observed_on": "2026-09-24",
+  "source": "sofascore",
+  "capture_method": "Browser-rendered player detail panel, transcribed selected fields",
+  "match_id": "13522665",
+  "match_id_evidence": "DOM checkbox id checkbox-showSubstitutes-13522665-right-undefined",
+  "match_date": "2025-11-01",
+  "home_team": "Changchun Yatai",
+  "away_team": "Beijing Guoan",
+  "score": "0-4",
+  "source_url": "https://www.sofascore.com/football/match/changchun-yatai-beijing-guoan/BrbsUTn#id:13522665",
+  "player_id": "817886",
+  "player_name": "Yongjing Cao",
+  "displayed": {
+    "Minutes played": "90'",
+    "Goals": "0",
+    "Assists": "0",
+    "Key passes": "1",
+    "Crosses (accurate)": "2 (1)",
+    "Accurate passes": "20/26 (77%)",
+    "Touches": "58",
+    "Total shots": "1",
+    "Shots on target": "0",
+    "Tackles (won)": "6 (5)",
+    "Interceptions": "2",
+    "Clearances": "4",
+    "Ground duels (won)": "23 (10)",
+    "Aerial duels (won)": "1 (1)",
+    "Distance covered": "9.6 km",
+    "Top speed": "32.4 km/h",
+    "Number of sprints": "20"
+  },
+  "notes": [
+    "Physical metric thresholds and availability are not established.",
+    "No xG/xA field was observed in this panel; absence here does not establish absence throughout source."
+  ]
+}

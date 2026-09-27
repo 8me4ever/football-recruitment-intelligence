@@ -1,0 +1,1375 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "FT BC Dubai 78 - 77 Real Madrid":
+    - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+    - img
+    - text: FT
+    - img "BC Dubai"
+    - text: 78 - 77
+    - img "Real Madrid"
+  - link "FT DR Congo 2 - 0 Equatorial Guinea":
+    - /url: /football/match/equatorial-guinea-dr-congo/yWbsHkd#id:17018596
+    - img
+    - text: FT
+    - img "DR Congo"
+    - text: 2 - 0
+    - img "Equatorial Guinea"
+  - link "FT KK Crvena zvezda 77 - 83 Kauno Žalgiris":
+    - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+    - img
+    - text: FT
+    - img "KK Crvena zvezda"
+    - text: 77 - 83
+    - img "Kauno Žalgiris"
+  - link "FT Netherlands 1 - 1 Germany":
+    - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+    - img
+    - text: FT
+    - img "Netherlands"
+    - text: 1 - 1
+    - img "Germany"
+  - link "FT Serbia 1 - 2 Greece":
+    - /url: /football/match/serbia-greece/kUbsfCc#id:15534071
+    - img
+    - text: FT
+    - img "Serbia"
+    - text: 1 - 2
+    - img "Greece"
+  - link "FT Portugal 1 - 0 Wales":
+    - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+    - img
+    - text: FT
+    - img "Portugal"
+    - text: 1 - 0
+    - img "Wales"
+  - link "FT Norway 3 - 2 Denmark":
+    - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+    - img
+    - text: FT
+    - img "Norway"
+    - text: 3 - 2
+    - img "Denmark"
+  - link "FT Austria 3 - 1 Israel":
+    - /url: /football/match/austria-israel/FObstUb#id:15534155
+    - img
+    - text: FT
+    - img "Austria"
+    - text: 3 - 1
+    - img "Israel"
+  - link "FT Côte d'Ivoire 2 - 0 Ghana":
+    - /url: /football/match/cote-divoire-ghana/oVbstVb#id:17018592
+    - img
+    - text: FT
+    - img "Côte d'Ivoire"
+    - text: 2 - 0
+    - img "Ghana"
+  - link "FT Australia 1 - 1 Brazil":
+    - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+    - img
+    - text: FT
+    - img "Australia"
+    - text: 1 - 1
+    - img "Brazil"
+  - text: Tomorrow
+  - link "01:00 Beşiktaş JK - Valencia Basket":
+    - /url: /basketball/match/besiktas-gain-valencia-basket/VvbsDIc#id:16670556
+    - img
+    - text: 01:00
+    - img "Beşiktaş JK"
+    - text: "-"
+    - img "Valencia Basket"
+  - link "01:05 Boston Red Sox - Chicago Cubs":
+    - /url: /baseball/match/boston-red-sox-chicago-cubs/CxbsWxb#id:15507820
+    - img
+    - text: 01:05
+    - img "Boston Red Sox"
+    - text: "-"
+    - img "Chicago Cubs"
+  - link "01:45 Fenerbahçe Tarfin - Virtus Bologna":
+    - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+    - img
+    - text: 01:45
+    - img "Fenerbahçe Tarfin"
+    - text: "-"
+    - img "Virtus Bologna"
+  - link "02:45 Türkiye - France":
+    - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+    - img
+    - text: 02:45
+    - img "Türkiye"
+    - text: "-"
+    - img "France"
+  - link "02:45 Italy - Belgium":
+    - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+    - img
+    - text: 02:45
+    - img "Italy"
+    - text: "-"
+    - img "Belgium"
+  - link "02:45 Poland - Bosnia & Herzegovina":
+    - /url: /football/match/poland-bosnia-and-herzegovina/EObsdUb#id:15534167
+    - img
+    - text: 02:45
+    - img "Poland"
+    - text: "-"
+    - img "Bosnia & Herzegovina"
+  - link "02:45 KK Partizan Mozzart Bet - EA7 Emporio Armani Milano":
+    - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+    - img
+    - text: 02:45
+    - img "KK Partizan Mozzart Bet"
+    - text: "-"
+    - img "EA7 Emporio Armani Milano"
+  - link "03:00 Morocco - Gabon":
+    - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+    - img
+    - text: 03:00
+    - img "Morocco"
+    - text: "-"
+    - img "Gabon"
+  - link "03:00 Egypt - Angola":
+    - /url: /football/match/egypt-angola/RTbsiVb#id:17018557
+    - img
+    - text: 03:00
+    - img "Egypt"
+    - text: "-"
+    - img "Angola"
+  - link "07:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507800
+    - img
+    - text: 07:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "21:45 Olympiacos BC - AEK BC":
+    - /url: /basketball/match/aek-bc-olympiacos-bc/bvbscvb#id:17135038
+    - img
+    - text: 21:45
+    - img "Olympiacos BC"
+    - text: "-"
+    - img "AEK BC"
+  - link "22:00 England - New Zealand":
+    - /url: /rugby/match/new-zealand-england/cRpbskRpb#id:17051537
+    - img
+    - text: 22:00
+    - img "England"
+    - text: "-"
+    - img "New Zealand"
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 21":
+        - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - listitem:
+      - heading "Shanghai Port vs Henan FC live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Compare teams":
+    - /url: /football/team/compare?ids=41537%2C34692&s_ids=71364%2C71364&ut_ids=649%2C649
+    - button "Compare teams":
+      - img
+      - text: Compare teams
+  - link "Shanghai Port Port":
+    - /url: /football/team/shanghai-port/41537
+    - img "Shanghai Port"
+    - text: Port
+  - text: 4 - 1 Finished
+  - link "Henan FC Henan":
+    - /url: /football/team/henan-songshan-longmen/34692
+    - img "Henan FC"
+    - text: Henan
+  - text: Óscar Melendo 55' Leonardo 45' +5 Mateus Vital 37' Wang Shenchao 21'
+  - img
+  - text: Felippe Cardoso 65' (Pen.)
+  - img
+  - text: 15/08/2025 19:35
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - img
+  - text: Pudong Football Stadium Full-time
+  - link "7Stars Partners New Zealand":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - img "7Stars Partners New Zealand"
+  - link "1 1.27":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 1 1.27
+    - img
+  - link "X 6.25":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: X 6.25
+    - img
+  - link "2 9.00":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 2 9.00
+    - img
+  - button "Additional odds":
+    - text: Additional odds
+    - img
+  - text: Match Momentum
+  - button:
+    - img
+  - img "Shanghai Port"
+  - img "Henan FC"
+  - img:
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: FT 4 - 1 90'
+  - superscript: "+3"
+  - img "Yellow card"
+  - link "F. Acheampong":
+    - /url: /football/player/frank-acheampong/311970
+  - text: Argument 90'
+  - superscript: "+1"
+  - img "Yellow card"
+  - link "Y. Shiyuan":
+    - /url: /football/player/yang-shiyuan/806479
+  - text: Time wasting Additional time 12 89'
+  - img
+  - link "S. Li":
+    - /url: /football/player/shenglong-li/308228
+  - link "Leonardo":
+    - /url: /football/player/leonardo/979522
+  - text: 87'
+  - img
+  - link "K. Jiwen":
+    - /url: /football/player/kuai-jiwen/1501972
+  - link "Ó. Melendo":
+    - /url: /football/player/oscar-melendo/861317
+  - text: 80'
+  - img
+  - link "L. Xinxiang":
+    - /url: /football/player/li-xinxiang/1933818
+  - link "L. Ruofan":
+    - /url: /football/player/liu-ruofan/874136
+  - text: 80'
+  - img
+  - link "A. Jojo":
+    - /url: /football/player/alex-jojo/1126271
+  - link "W. Shenchao":
+    - /url: /football/player/wang-shenchao/797337
+  - text: 80'
+  - img
+  - link "Y. Shiyuan":
+    - /url: /football/player/yang-shiyuan/806479
+  - link "M. Vital":
+    - /url: /football/player/mateus-vital/823653
+  - text: 77'
+  - img "Yellow card"
+  - link "J. Guangtai":
+    - /url: /football/player/jiang-guangtai/1401160
+  - text: Foul 73'
+  - img
+  - link "Z. Huang":
+    - /url: /football/player/zichang-huang/873898
+  - link "B. Nazário":
+    - /url: /football/player/bruno-nazario/288247
+  - text: 66'
+  - img "Yellow card"
+  - link "W. Shenchao":
+    - /url: /football/player/wang-shenchao/797337
+  - text: Foul 65'
+  - img
+  - link "S. Wang":
+    - /url: /football/player/shangyuan-wang/337015
+  - link "Y. Yang":
+    - /url: /football/player/yilin-yang/1000249
+  - text: 65'
+  - img "Penalty made"
+  - button "4 - 1":
+    - img
+    - text: 4 - 1
+  - link "F. Cardoso":
+    - /url: /football/player/felippe-cardoso/922616
+  - text: 63'
+  - img "VAR decision"
+  - text: Penalty awarded
+  - link "B. Nazário":
+    - /url: /football/player/bruno-nazario/288247
+  - text: 58'
+  - img "Yellow card"
+  - link "C. He":
+    - /url: /football/player/chao-he/797636
+  - text: Foul 55'
+  - img "Goal"
+  - button "4 - 0":
+    - img
+    - text: 4 - 0
+  - link "Ó. Melendo":
+    - /url: /football/player/oscar-melendo/861317
+  - link "Gabrielzinho":
+    - /url: /football/player/gabrielzinho/870188
+  - text: 46'
+  - img
+  - link "F. Cardoso":
+    - /url: /football/player/felippe-cardoso/922616
+  - link "Y. Liu":
+    - /url: /football/player/yixin-liu/1215902
+  - text: 46'
+  - img
+  - link "F. Acheampong":
+    - /url: /football/player/frank-acheampong/311970
+  - link "Y. Zhong":
+    - /url: /football/player/yihao-zhong/840893
+  - text: 46'
+  - img "Substitution"
+  - link "G. Wang":
+    - /url: /football/player/gouming-wang/797507
+  - link "J. Xu":
+    - /url: /football/player/jiamin-xu/797568
+  - text: HT 3 - 0 45'
+  - superscript: "+5"
+  - img "Goal"
+  - button "3 - 0":
+    - img
+    - text: 3 - 0
+  - link "Leonardo":
+    - /url: /football/player/leonardo/979522
+  - link "M. Vital":
+    - /url: /football/player/mateus-vital/823653
+  - text: Additional time 6 40'
+  - img "Yellow card"
+  - link "O. Gerbig":
+    - /url: /football/player/oliver-gerbig/1396680
+  - text: Argument 37'
+  - img "Goal"
+  - button "2 - 0":
+    - img
+    - text: 2 - 0
+  - link "M. Vital":
+    - /url: /football/player/mateus-vital/823653
+  - link "L. Ruofan":
+    - /url: /football/player/liu-ruofan/874136
+  - text: 21'
+  - img "Goal"
+  - button "1 - 0":
+    - img
+    - text: 1 - 0
+  - link "W. Shenchao":
+    - /url: /football/player/wang-shenchao/797337
+  - link "M. Vital":
+    - /url: /football/player/mateus-vital/823653
+  - text: Player of the match
+  - link "Mateus Vital M. Vital Shanghai Port Port 8.8":
+    - /url: /football/player/mateus-vital/823653
+    - img "Mateus Vital"
+    - text: M. Vital
+    - img "Shanghai Port"
+    - text: Port
+    - meter
+  - link "Bruno Nazário Henan FC B. Nazário 8.2":
+    - /url: /football/player/bruno-nazario/288247
+    - img "Bruno Nazário"
+    - img "Henan FC"
+    - text: B. Nazário
+    - meter
+  - link "Óscar Melendo Shanghai Port Ó. Melendo 7.8":
+    - /url: /football/player/oscar-melendo/861317
+    - img "Óscar Melendo"
+    - img "Shanghai Port"
+    - text: Ó. Melendo
+    - meter
+  - link "Wang Shenchao Shanghai Port W. Shenchao 7.8":
+    - /url: /football/player/wang-shenchao/797337
+    - img "Wang Shenchao"
+    - img "Shanghai Port"
+    - text: W. Shenchao
+    - meter
+  - link "Explore videos, news, facts, and more from this event. View media":
+    - /url: "#tab:media"
+    - text: Explore videos, news, facts, and more from this event. View media
+    - img
+    - img
+    - img
+  - text: "Who will win? Total votes: 10k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shanghai Port"
+  - text: 84% X 12%
+  - img "Henan FC"
+  - text: "4% Will both teams score? Total votes: 1.8k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Yes 77% No 23% Who will score first? Total votes: 1.6k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shanghai Port"
+  - text: 93%
+  - img
+  - text: 3%
+  - img "Henan FC"
+  - text: 4%
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - text: Commentary
+  - scrollbar:
+    - tablist:
+      - tab "All" [selected]
+      - tab "Key events"
+  - img
+  - text: "- Match ends, Shanghai Port 4, Henan 1. 103' Second Half ends, Shanghai Port 4, Henan 1. 102' Attempt blocked. Felippe Cardoso (Henan) left footed shot from the centre of the box is blocked."
+  - img
+  - img
+  - text: 102' Corner,Henan. Conceded by Yan Junling.
+  - img
+  - img
+  - text: 102' Attempt saved. Frank Acheampong (Henan) left footed shot from the left side of the box is saved in the bottom left corner by Yan Junling (Shanghai Port). Assisted by Huang Zichang with a through ball.
+  - img
+  - img
+  - text: 101' Attempt missed. Li Xinxiang (Shanghai Port) left footed shot from the right side of the box is close, but misses to the right. Assisted by Yang Shiyuan following a fast break.
+  - img
+  - img
+  - text: 98' Attempt missed. Abdurasul Abudulam (Henan) right footed shot from outside the box is too high following a corner.
+  - img
+  - img
+  - text: 98' Attempt blocked. Felippe Cardoso (Henan) header from the centre of the box is blocked. Assisted by Wang Shangyuan with a cross.
+  - img
+  - img
+  - text: 97' Corner,Henan. Conceded by Jiang Guangtai.
+  - img
+  - img
+  - text: 94' Delay over. They are ready to continue.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: "Pre-match standings # Team Latest Pts 2"
+  - link:
+    - /url: /football/team/shanghai-port/41537
+    - img
+  - text: W W D W W
+  - meter
+  - text: 44 12
+  - link:
+    - /url: /football/team/henan-songshan-longmen/34692
+    - img
+  - text: D D L L W
+  - meter
+  - text: "19"
+  - img
+  - text: Date and time 15/08/2025 19:35
+  - link "Competition Football, China, Chinese Super League, Round 21":
+    - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 21
+    - img
+  - img
+  - text: Venue Pudong Football Stadium
+  - img "CN"
+  - text: Location Shanghai, China
+  - link "Referee Tao Wan CN Avg. cards 0.18 4.73":
+    - /url: /football/referee/wan-tao/788253
+    - img
+    - text: Referee Tao Wan
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.18"
+    - img
+    - text: "4.73"
+    - img
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Gamble responsibly 18+ Advertisement
+  - scrollbar:
+    - tablist:
+      - tab "Lineups" [selected]:
+        - link "Lineups":
+          - /url: "#id:13522595,tab:lineups"
+          - heading "Lineups" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#id:13522595,tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#id:13522595,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "H2H":
+        - link "H2H":
+          - /url: "#id:13522595,tab:matches"
+          - heading "H2H" [level=2]
+      - tab "Media":
+        - link "Media":
+          - /url: "#id:13522595,tab:media"
+          - heading "Media" [level=2]
+      - tab "AI Insights":
+        - link "AI Insights":
+          - /url: "#id:13522595,tab:ai_insights"
+          - heading "AI Insights" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Lineups"
+        - tab "Player stats" [selected]
+    - tabpanel:
+      - scrollbar:
+        - tablist:
+          - tab "General" [selected]
+          - tab "Attacking"
+          - tab "Defending"
+          - tab "Passing"
+          - tab "Duels"
+          - tab "Goalkeeping"
+      - tabpanel:
+        - scrollbar:
+          - table:
+            - rowgroup:
+              - row "Shanghai Port + Henan FC Shanghai Port Henan FC Goals Assists Tackles (won) Accurate passes Duels (won) Ground duels (won) Aerial duels (won) Minutes played Position Sofascore Rating":
+                - columnheader
+                - columnheader "Shanghai Port + Henan FC Shanghai Port Henan FC":
+                  - img "Shanghai Port"
+                  - text: +
+                  - img "Henan FC"
+                  - img "Shanghai Port"
+                  - img "Henan FC"
+                - columnheader "Goals":
+                  - text: Goals
+                  - img
+                - columnheader "Assists":
+                  - text: Assists
+                  - img
+                - columnheader "Tackles (won)":
+                  - text: Tackles (won)
+                  - img
+                - columnheader "Accurate passes":
+                  - text: Accurate passes
+                  - img
+                - columnheader "Duels (won)":
+                  - text: Duels (won)
+                  - img
+                - columnheader "Ground duels (won)":
+                  - text: Ground duels (won)
+                  - img
+                - columnheader "Aerial duels (won)":
+                  - text: Aerial duels (won)
+                  - img
+                - columnheader "Minutes played":
+                  - text: Minutes played
+                  - img
+                - columnheader "Position":
+                  - text: Position
+                  - img
+                - columnheader "Sofascore Rating":
+                  - text: Sofascore Rating
+                  - img
+            - rowgroup:
+              - row "Shanghai Port Mateus Vital 1 2 2 37/39 (95%) 10 (4) 8 (4) 2 (0) 80' M 8.8":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Mateus Vital":
+                  - link "Mateus Vital":
+                    - /url: /football/player/mateus-vital/823653
+                - cell "1"
+                - cell "2"
+                - cell "2"
+                - cell "37/39 (95%)"
+                - cell "10 (4)"
+                - cell "8 (4)"
+                - cell "2 (0)"
+                - cell "80'"
+                - cell "M"
+                - cell "8.8":
+                  - meter
+              - row "Henan FC Bruno Nazário 0 30/34 (88%) 9 (5) 7 (3) 2 (2) 73' F 8.2":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Bruno Nazário":
+                  - link "Bruno Nazário":
+                    - /url: /football/player/bruno-nazario/288247
+                - cell "0"
+                - cell
+                - cell
+                - cell "30/34 (88%)"
+                - cell "9 (5)"
+                - cell "7 (3)"
+                - cell "2 (2)"
+                - cell "73'"
+                - cell "F"
+                - cell "8.2":
+                  - meter
+              - row "Shanghai Port Wang Shenchao 1 4 34/37 (92%) 10 (7) 7 (5) 3 (2) 80' D 7.8":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Wang Shenchao":
+                  - link "Wang Shenchao":
+                    - /url: /football/player/wang-shenchao/797337
+                - cell "1"
+                - cell
+                - cell "4"
+                - cell "34/37 (92%)"
+                - cell "10 (7)"
+                - cell "7 (5)"
+                - cell "3 (2)"
+                - cell "80'"
+                - cell "D"
+                - cell "7.8":
+                  - meter
+              - row "Shanghai Port Óscar Melendo 1 20/25 (80%) 5 (4) 5 (4) 87' M 7.8":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Óscar Melendo":
+                  - link "Óscar Melendo":
+                    - /url: /football/player/oscar-melendo/861317
+                - cell "1"
+                - cell
+                - cell
+                - cell "20/25 (80%)"
+                - cell "5 (4)"
+                - cell "5 (4)"
+                - cell
+                - cell "87'"
+                - cell "M"
+                - cell "7.8":
+                  - meter
+              - row "Shanghai Port Leonardo 1 1 11/18 (61%) 5 (4) 3 (2) 2 (2) 89' F 7.6":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Leonardo":
+                  - link "Leonardo":
+                    - /url: /football/player/leonardo/979522
+                - cell "1"
+                - cell
+                - cell "1"
+                - cell "11/18 (61%)"
+                - cell "5 (4)"
+                - cell "3 (2)"
+                - cell "2 (2)"
+                - cell "89'"
+                - cell "F"
+                - cell "7.6":
+                  - meter
+              - row "Henan FC Felippe Cardoso 1 6/11 (55%) 5 (5) 1 (1) 4 (4) 45' F 7.4":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Felippe Cardoso":
+                  - link "Felippe Cardoso":
+                    - /url: /football/player/felippe-cardoso/922616
+                - cell "1"
+                - cell
+                - cell
+                - cell "6/11 (55%)"
+                - cell "5 (5)"
+                - cell "1 (1)"
+                - cell "4 (4)"
+                - cell "45'"
+                - cell "F"
+                - cell "7.4":
+                  - meter
+              - row "Shanghai Port Gabrielzinho 0 1 1 23/25 (92%) 14 (6) 10 (6) 4 (0) 90' M 7.4":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Gabrielzinho":
+                  - link "Gabrielzinho":
+                    - /url: /football/player/gabrielzinho/870188
+                - cell "0"
+                - cell "1"
+                - cell "1"
+                - cell "23/25 (92%)"
+                - cell "14 (6)"
+                - cell "10 (6)"
+                - cell "4 (0)"
+                - cell "90'"
+                - cell "M"
+                - cell "7.4":
+                  - meter
+              - row "Shanghai Port Ruofan Liu 0 1 1 11/17 (65%) 8 (4) 5 (2) 3 (2) 80' M 7.2":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Ruofan Liu":
+                  - link "Ruofan Liu":
+                    - /url: /football/player/liu-ruofan/874136
+                - cell "0"
+                - cell "1"
+                - cell "1"
+                - cell "11/17 (65%)"
+                - cell "8 (4)"
+                - cell "5 (2)"
+                - cell "3 (2)"
+                - cell "80'"
+                - cell "M"
+                - cell "7.2":
+                  - meter
+              - row "Shanghai Port Matheus Jussa 0 3 35/41 (85%) 9 (6) 9 (6) 90' M 7.2":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Matheus Jussa":
+                  - link "Matheus Jussa":
+                    - /url: /football/player/matheus-jussa/794849
+                - cell "0"
+                - cell
+                - cell "3"
+                - cell "35/41 (85%)"
+                - cell "9 (6)"
+                - cell "9 (6)"
+                - cell
+                - cell "90'"
+                - cell "M"
+                - cell "7.2":
+                  - meter
+              - row "Henan FC Shangyuan Wang 0 2 16/23 (70%) 3 (2) 3 (2) 25' M 7.2":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Shangyuan Wang":
+                  - link "Shangyuan Wang":
+                    - /url: /football/player/shangyuan-wang/337015
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "16/23 (70%)"
+                - cell "3 (2)"
+                - cell "3 (2)"
+                - cell
+                - cell "25'"
+                - cell "M"
+                - cell "7.2":
+                  - meter
+              - row "Shanghai Port Guangtai Jiang 0 51/58 (88%) 8 (2) 4 (0) 4 (2) 90' D 7.0":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Guangtai Jiang":
+                  - link "Guangtai Jiang":
+                    - /url: /football/player/jiang-guangtai/1401160
+                - cell "0"
+                - cell
+                - cell
+                - cell "51/58 (88%)"
+                - cell "8 (2)"
+                - cell "4 (0)"
+                - cell "4 (2)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.0":
+                  - meter
+              - row "Henan FC Yihao Zhong 0 15/17 (88%) 5 (3) 5 (3) 45' F 6.9":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Yihao Zhong":
+                  - link "Yihao Zhong":
+                    - /url: /football/player/yihao-zhong/840893
+                - cell "0"
+                - cell
+                - cell
+                - cell "15/17 (88%)"
+                - cell "5 (3)"
+                - cell "5 (3)"
+                - cell
+                - cell "45'"
+                - cell "F"
+                - cell "6.9":
+                  - meter
+              - row "Henan FC Frank Acheampong 0 1 5/5 (100%) 12 (6) 10 (6) 2 (0) 45' F 6.8":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Frank Acheampong":
+                  - link "Frank Acheampong":
+                    - /url: /football/player/frank-acheampong/311970
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "5/5 (100%)"
+                - cell "12 (6)"
+                - cell "10 (6)"
+                - cell "2 (0)"
+                - cell "45'"
+                - cell "F"
+                - cell "6.8":
+                  - meter
+              - row "Shanghai Port Yan Junling 0 19/22 (86%) 0 (0) 90' G 6.8":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Yan Junling":
+                  - link "Yan Junling":
+                    - /url: /football/player/yan-junling/786053
+                - cell "0"
+                - cell
+                - cell
+                - cell "19/22 (86%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "90'"
+                - cell "G"
+                - cell "6.8":
+                  - meter
+              - row "Henan FC Zichang Huang 0 1 2/5 (40%) 3 (2) 3 (2) 17' F 6.8":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Zichang Huang":
+                  - link "Zichang Huang":
+                    - /url: /football/player/zichang-huang/873898
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "2/5 (40%)"
+                - cell "3 (2)"
+                - cell "3 (2)"
+                - cell
+                - cell "17'"
+                - cell "F"
+                - cell "6.8":
+                  - meter
+              - row "Shanghai Port Alex Jojo 0 7/8 (88%) 2 (1) 1 (0) 1 (1) 10' D 6.7":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Alex Jojo":
+                  - link "Alex Jojo":
+                    - /url: /football/player/alex-jojo/1126271
+                - cell "0"
+                - cell
+                - cell
+                - cell "7/8 (88%)"
+                - cell "2 (1)"
+                - cell "1 (0)"
+                - cell "1 (1)"
+                - cell "10'"
+                - cell "D"
+                - cell "6.7":
+                  - meter
+              - row "Shanghai Port Xinxiang Li 0 1 2/6 (33%) 4 (2) 3 (1) 1 (1) 10' F 6.7":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Xinxiang Li":
+                  - link "Xinxiang Li":
+                    - /url: /football/player/li-xinxiang/1933818
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "2/6 (33%)"
+                - cell "4 (2)"
+                - cell "3 (1)"
+                - cell "1 (1)"
+                - cell "10'"
+                - cell "F"
+                - cell "6.7":
+                  - meter
+              - row "Shanghai Port Shenglong Li 0 1 2/3 (67%) 1 (1) 1 (1) 14' F 6.7":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Shenglong Li":
+                  - link "Shenglong Li":
+                    - /url: /football/player/shenglong-li/308228
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "2/3 (67%)"
+                - cell "1 (1)"
+                - cell "1 (1)"
+                - cell
+                - cell "14'"
+                - cell "F"
+                - cell "6.7":
+                  - meter
+              - row "Henan FC Yeljan Shinar 0 4 28/40 (70%) 12 (10) 7 (6) 5 (4) 90' D 6.7":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Yeljan Shinar":
+                  - link "Yeljan Shinar":
+                    - /url: /football/player/yeljan-shinar/987829
+                - cell "0"
+                - cell
+                - cell "4"
+                - cell "28/40 (70%)"
+                - cell "12 (10)"
+                - cell "7 (6)"
+                - cell "5 (4)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.7":
+                  - meter
+              - row "Shanghai Port Yang Shiyuan 0 8/11 (73%) 3 (1) 3 (1) 10' M 6.7":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Yang Shiyuan":
+                  - link "Yang Shiyuan":
+                    - /url: /football/player/yang-shiyuan/806479
+                - cell "0"
+                - cell
+                - cell
+                - cell "8/11 (73%)"
+                - cell "3 (1)"
+                - cell "3 (1)"
+                - cell
+                - cell "10'"
+                - cell "M"
+                - cell "6.7":
+                  - meter
+              - row "Henan FC Abdurasul Abudulam 0 35/40 (88%) 4 (2) 4 (2) 90' M 6.6":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Abdurasul Abudulam":
+                  - link "Abdurasul Abudulam":
+                    - /url: /football/player/abdurasul-abudulam/1000171
+                - cell "0"
+                - cell
+                - cell
+                - cell "35/40 (88%)"
+                - cell "4 (2)"
+                - cell "4 (2)"
+                - cell
+                - cell "90'"
+                - cell "M"
+                - cell "6.6":
+                  - meter
+              - row "Henan FC Gouming Wang 0 8/8 (100%) 0 (0) 45' G 6.5":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Gouming Wang":
+                  - link "Gouming Wang":
+                    - /url: /football/player/gouming-wang/797507
+                - cell "0"
+                - cell
+                - cell
+                - cell "8/8 (100%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "45'"
+                - cell "G"
+                - cell "6.5":
+                  - meter
+              - row "Shanghai Port Kuai Jiwen 0 3/3 (100%) 2 (0) 2 (0) 16' M 6.5":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Kuai Jiwen":
+                  - link "Kuai Jiwen":
+                    - /url: /football/player/kuai-jiwen/1501972
+                - cell "0"
+                - cell
+                - cell
+                - cell "3/3 (100%)"
+                - cell "2 (0)"
+                - cell "2 (0)"
+                - cell
+                - cell "16'"
+                - cell "M"
+                - cell "6.5":
+                  - meter
+              - row "Shanghai Port Shuai Li 0 17/23 (74%) 4 (1) 2 (0) 2 (1) 90' D 6.4":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Shuai Li":
+                  - link "Shuai Li":
+                    - /url: /football/player/li-shuai/840640
+                - cell "0"
+                - cell
+                - cell
+                - cell "17/23 (74%)"
+                - cell "4 (1)"
+                - cell "2 (0)"
+                - cell "2 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.4":
+                  - meter
+              - row "Shanghai Port Zhen Wei 0 45/54 (83%) 4 (0) 2 (0) 2 (0) 90' D 6.4":
+                - cell "Shanghai Port":
+                  - img "Shanghai Port"
+                - cell "Zhen Wei":
+                  - link "Zhen Wei":
+                    - /url: /football/player/zhen-wei/844086
+                - cell "0"
+                - cell
+                - cell
+                - cell "45/54 (83%)"
+                - cell "4 (0)"
+                - cell "2 (0)"
+                - cell "2 (0)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.4":
+                  - meter
+              - row "Henan FC Huang Ruifeng 0 2 21/26 (81%) 11 (5) 8 (4) 3 (1) 90' D 6.3":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Huang Ruifeng":
+                  - link "Huang Ruifeng":
+                    - /url: /football/player/huang-ruifeng/989246
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "21/26 (81%)"
+                - cell "11 (5)"
+                - cell "8 (4)"
+                - cell "3 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.3":
+                  - meter
+              - row "Henan FC Yilin Yang 0 1 14/14 (100%) 8 (2) 5 (2) 3 (0) 65' M 6.3":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Yilin Yang":
+                  - link "Yilin Yang":
+                    - /url: /football/player/yilin-yang/1000249
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "14/14 (100%)"
+                - cell "8 (2)"
+                - cell "5 (2)"
+                - cell "3 (0)"
+                - cell "65'"
+                - cell "M"
+                - cell "6.3":
+                  - meter
+              - row "Henan FC Chao He 0 1 31/36 (86%) 7 (1) 6 (1) 1 (0) 90' M 6.2":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Chao He":
+                  - link "Chao He":
+                    - /url: /football/player/chao-he/797636
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "31/36 (86%)"
+                - cell "7 (1)"
+                - cell "6 (1)"
+                - cell "1 (0)"
+                - cell "90'"
+                - cell "M"
+                - cell "6.2":
+                  - meter
+              - row "Henan FC Jiamin Xu 0 8/11 (73%) 0 (0) 45' G 6.2":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Jiamin Xu":
+                  - link "Jiamin Xu":
+                    - /url: /football/player/jiamin-xu/797568
+                - cell "0"
+                - cell
+                - cell
+                - cell "8/11 (73%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "45'"
+                - cell "G"
+                - cell "6.2":
+                  - meter
+              - row "Henan FC Iago Maidana 0 54/64 (84%) 2 (1) 1 (0) 1 (1) 90' D 6.1":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Iago Maidana":
+                  - link "Iago Maidana":
+                    - /url: /football/player/iago-maidana/599686
+                - cell "0"
+                - cell
+                - cell
+                - cell "54/64 (84%)"
+                - cell "2 (1)"
+                - cell "1 (0)"
+                - cell "1 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.1":
+                  - meter
+              - row "Henan FC Oliver Gerbig 0 42/52 (81%) 1 (0) 1 (0) 90' D 6.1":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Oliver Gerbig":
+                  - link "Oliver Gerbig":
+                    - /url: /football/player/oliver-gerbig/1396680
+                - cell "0"
+                - cell
+                - cell
+                - cell "42/52 (81%)"
+                - cell "1 (0)"
+                - cell "1 (0)"
+                - cell
+                - cell "90'"
+                - cell "D"
+                - cell "6.1":
+                  - meter
+              - row "Henan FC Yixin Liu 0 1 13/21 (62%) 7 (2) 4 (1) 3 (1) 45' D 6.0":
+                - cell "Henan FC":
+                  - img "Henan FC"
+                - cell "Yixin Liu":
+                  - link "Yixin Liu":
+                    - /url: /football/player/yixin-liu/1215902
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "13/21 (62%)"
+                - cell "7 (2)"
+                - cell "4 (1)"
+                - cell "3 (1)"
+                - cell "45'"
+                - cell "D"
+                - cell "6.0":
+                  - meter
+          - button:
+            - img
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Shanghai Port played against Henan FC in 2 matches this season. Currently, Shanghai Port rank 12th, while Henan FC hold 7th position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement Advertisement Advertisement
+  - img
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- link "George Russell takes Azerbaijan GP pole in Baku qualifying":
+  - /url: /news/george-russell-takes-azerbaijan-gp-pole-in-baku-qualifying
+- text: •
+- 'link "U20 Women’s World Cup Team of the Week: Semifinals standouts"':
+  - /url: /news/u20-womens-world-cup-team-of-the-week-semifinals-standouts
+- text: •
+- link "Brazil held to disappointing draw by Australia after World Cup":
+  - /url: /news/brazil-held-to-disappointing-draw-by-australia-after-world-cup
+- text: •
+- 'link "Sofascore Player of the Season Award: Vitinha (Ligue 1)"':
+  - /url: /news/sofascore-player-of-the-season-award-vitinha-ligue-1
+- text: •
+- 'link "Fenerbahçe Tarfin vs Virtus Bologna: EuroLeague Round 1 preview"':
+  - /url: /news/fenerbahce-tarfin-vs-virtus-bologna-euroleague-round-1-preview
+- text: •
+- 'link "Partizan vs EA7 Milano: Euroleague opener preview with odds, H2H trends and what to expect in Belgrade"':
+  - /url: /news/partizan-vs-ea7-milano-euroleague-opener-preview-with-odds-h2h-trends-and-what-to-expect-in-belgrade
+- text: •
+- link "Statistical Anomaly or Form Crisis?":
+  - /url: /news/statistical-anomaly-or-form-crisis
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13522595
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13522595
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

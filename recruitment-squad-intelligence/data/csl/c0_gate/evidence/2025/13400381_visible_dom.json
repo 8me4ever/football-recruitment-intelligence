@@ -1,0 +1,7745 @@
+{
+  "source": "Sofascore webpage DOM",
+  "competition_id": 649,
+  "season_id": 71364,
+  "match_id": "13400381",
+  "match_date": "2025-02-22",
+  "round": 1,
+  "home_team": "Shanghai Shenhua",
+  "away_team": "Changchun Yatai",
+  "home_goals": "2",
+  "away_goals": "1",
+  "source_url": "https://www.sofascore.com/football/match/changchun-yatai-shanghai-shenhua/yrbsUTn#id:13400381",
+  "observed_at": "2026-09-27T09:37:06.925861+00:00",
+  "parser_version": "2.0-card-click",
+  "route": {
+    "route": "2025 CSL tournament > selected round > exact visible finished card click",
+    "selected_round": "Round 1",
+    "card_text": "22/02/25 FT Shenhua Yatai 2 1",
+    "event_title": "Shanghai Shenhua vs Changchun Yatai live score, H2H and lineups | Sofascore"
+  },
+  "categories": {
+    "General": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Goals",
+        "Tackles (won)",
+        "Accurate passes",
+        "Duels (won)",
+        "Ground duels (won)",
+        "Aerial duels (won)",
+        "Minutes played",
+        "Position",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "97006",
+          "player_name": "João Carlos Teixeira",
+          "player_href": "/football/player/joao-carlos-teixeira/97006",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "João Carlos Teixeira",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "44/55 (80%)",
+              "meters": []
+            },
+            {
+              "text": "24 (18)",
+              "meters": []
+            },
+            {
+              "text": "23 (17)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "869573",
+          "player_name": "Saulo Mineiro",
+          "player_href": "/football/player/saulo-mineiro/869573",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Saulo Mineiro",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "9/15 (60%)",
+              "meters": []
+            },
+            {
+              "text": "8 (1)",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941131",
+          "player_name": "Chenjie Zhu",
+          "player_href": "/football/player/chenjie-zhu/941131",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Chenjie Zhu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "56/63 (89%)",
+              "meters": []
+            },
+            {
+              "text": "6 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "4 (4)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "904297",
+          "player_name": "André Luis",
+          "player_href": "/football/player/andre-luis/904297",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "André Luis",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "9/15 (60%)",
+              "meters": []
+            },
+            {
+              "text": "13 (6)",
+              "meters": []
+            },
+            {
+              "text": "6 (2)",
+              "meters": []
+            },
+            {
+              "text": "7 (4)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840708",
+          "player_name": "Piao Taoyu",
+          "player_href": "/football/player/piao-taoyu/840708",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Piao Taoyu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "26/39 (67%)",
+              "meters": []
+            },
+            {
+              "text": "18 (10)",
+              "meters": []
+            },
+            {
+              "text": "18 (10)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "195722",
+          "player_name": "Wu Xi",
+          "player_href": "/football/player/wu-xi/195722",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wu Xi",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "41/51 (80%)",
+              "meters": []
+            },
+            {
+              "text": "11 (7)",
+              "meters": []
+            },
+            {
+              "text": "9 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941132",
+          "player_name": "Shenglong Jiang",
+          "player_href": "/football/player/shenglong-jiang/941132",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenglong Jiang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "50/57 (88%)",
+              "meters": []
+            },
+            {
+              "text": "8 (7)",
+              "meters": []
+            },
+            {
+              "text": "3 (2)",
+              "meters": []
+            },
+            {
+              "text": "5 (5)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "18/27 (67%)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840909",
+          "player_name": "Tianyi Gao",
+          "player_href": "/football/player/gao-tianyi/840909",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Tianyi Gao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "20/21 (95%)",
+              "meters": []
+            },
+            {
+              "text": "5 (3)",
+              "meters": []
+            },
+            {
+              "text": "5 (3)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "33'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "149073",
+          "player_name": "Long Tan",
+          "player_href": "/football/player/long-tan/149073",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Long Tan",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "12/22 (55%)",
+              "meters": []
+            },
+            {
+              "text": "16 (6)",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "13 (6)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "975784",
+          "player_name": "Shinichi Chan",
+          "player_href": "/football/player/shinichi-chan/975784",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shinichi Chan",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "32/41 (78%)",
+              "meters": []
+            },
+            {
+              "text": "16 (6)",
+              "meters": []
+            },
+            {
+              "text": "7 (4)",
+              "meters": []
+            },
+            {
+              "text": "9 (2)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "177175",
+          "player_name": "Lazar Rosić",
+          "player_href": "/football/player/lazar-rosic/177175",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Lazar Rosić",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "12/15 (80%)",
+              "meters": []
+            },
+            {
+              "text": "4 (3)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "51453",
+          "player_name": "Stoppila Sunzu",
+          "player_href": "/football/player/stoppila-sunzu/51453",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Stoppila Sunzu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "15/23 (65%)",
+              "meters": []
+            },
+            {
+              "text": "8 (4)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "6 (2)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "344205",
+          "player_name": "Wilson Manafá",
+          "player_href": "/football/player/wilson-manafa/344205",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wilson Manafá",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "42/53 (79%)",
+              "meters": []
+            },
+            {
+              "text": "11 (4)",
+              "meters": []
+            },
+            {
+              "text": "9 (4)",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "77'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "257421",
+          "player_name": "Ibrahim Amadou",
+          "player_href": "/football/player/ibrahim-amadou/257421",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ibrahim Amadou",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "40/46 (87%)",
+              "meters": []
+            },
+            {
+              "text": "18 (8)",
+              "meters": []
+            },
+            {
+              "text": "14 (4)",
+              "meters": []
+            },
+            {
+              "text": "4 (4)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941369",
+          "player_name": "Shenyuan Li",
+          "player_href": "/football/player/shenyuan-li/941369",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenyuan Li",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "25/32 (78%)",
+              "meters": []
+            },
+            {
+              "text": "8 (6)",
+              "meters": []
+            },
+            {
+              "text": "6 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "308054",
+          "player_name": "Wylan Cyprien",
+          "player_href": "/football/player/wylan-cyprien/308054",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wylan Cyprien",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "12/16 (75%)",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "29'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000202",
+          "player_name": "Yue Xu",
+          "player_href": "/football/player/yue-xu/1000202",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yue Xu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "14/19 (74%)",
+              "meters": []
+            },
+            {
+              "text": "11 (8)",
+              "meters": []
+            },
+            {
+              "text": "10 (8)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "81'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "136169",
+          "player_name": "Ohi Omoijuanfo",
+          "player_href": "/football/player/ohi-omoijuanfo/136169",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ohi Omoijuanfo",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "25/36 (69%)",
+              "meters": []
+            },
+            {
+              "text": "13 (3)",
+              "meters": []
+            },
+            {
+              "text": "8 (2)",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000301",
+          "player_name": "Xuchen Yao",
+          "player_href": "/football/player/xuchen-yao/1000301",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xuchen Yao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "9'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "49120",
+          "player_name": "Robert Berić",
+          "player_href": "/football/player/robert-beric/49120",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Robert Berić",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "9/10 (90%)",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "29'",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941374",
+          "player_name": "Shilong Wang",
+          "player_href": "/football/player/shilong-wang/941374",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shilong Wang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "4/5 (80%)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "13'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1035322",
+          "player_name": "Xu Haofeng",
+          "player_href": "/football/player/xu-haofeng/1035322",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xu Haofeng",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "17/29 (59%)",
+              "meters": []
+            },
+            {
+              "text": "17 (8)",
+              "meters": []
+            },
+            {
+              "text": "15 (6)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1196019",
+          "player_name": "Dilümüt Tudi",
+          "player_href": "/football/player/dilumut-tudi/1196019",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Dilümüt Tudi",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "12/20 (60%)",
+              "meters": []
+            },
+            {
+              "text": "13 (5)",
+              "meters": []
+            },
+            {
+              "text": "11 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "61'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "23/33 (70%)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "90'",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1801199",
+          "player_name": "Haoyu Yang",
+          "player_href": "/football/player/yang-haoyu/1801199",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Haoyu Yang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "9/11 (82%)",
+              "meters": []
+            },
+            {
+              "text": "14 (5)",
+              "meters": []
+            },
+            {
+              "text": "13 (4)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "57'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "833507",
+          "player_name": "Yingjie Zhao",
+          "player_href": "/football/player/yingjie-zhao/833507",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yingjie Zhao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "10/13 (77%)",
+              "meters": []
+            },
+            {
+              "text": "12 (4)",
+              "meters": []
+            },
+            {
+              "text": "8 (2)",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "61'",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Attacking": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Shots on target",
+        "Shots off target",
+        "Shots blocked",
+        "Dribbles (successful)",
+        "Notes",
+        "Position",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "97006",
+          "player_name": "João Carlos Teixeira",
+          "player_href": "/football/player/joao-carlos-teixeira/97006",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "João Carlos Teixeira",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "869573",
+          "player_name": "Saulo Mineiro",
+          "player_href": "/football/player/saulo-mineiro/869573",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Saulo Mineiro",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "Hit woodwork: 1\nBig chances missed: 2",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941131",
+          "player_name": "Chenjie Zhu",
+          "player_href": "/football/player/chenjie-zhu/941131",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Chenjie Zhu",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "904297",
+          "player_name": "André Luis",
+          "player_href": "/football/player/andre-luis/904297",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "André Luis",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "Big chances missed: 1",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840708",
+          "player_name": "Piao Taoyu",
+          "player_href": "/football/player/piao-taoyu/840708",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Piao Taoyu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "195722",
+          "player_name": "Wu Xi",
+          "player_href": "/football/player/wu-xi/195722",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wu Xi",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3 (1)",
+              "meters": []
+            },
+            {
+              "text": "Big chances missed: 1",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941132",
+          "player_name": "Shenglong Jiang",
+          "player_href": "/football/player/shenglong-jiang/941132",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenglong Jiang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840909",
+          "player_name": "Tianyi Gao",
+          "player_href": "/football/player/gao-tianyi/840909",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Tianyi Gao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "149073",
+          "player_name": "Long Tan",
+          "player_href": "/football/player/long-tan/149073",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Long Tan",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "975784",
+          "player_name": "Shinichi Chan",
+          "player_href": "/football/player/shinichi-chan/975784",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shinichi Chan",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "177175",
+          "player_name": "Lazar Rosić",
+          "player_href": "/football/player/lazar-rosic/177175",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Lazar Rosić",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "51453",
+          "player_name": "Stoppila Sunzu",
+          "player_href": "/football/player/stoppila-sunzu/51453",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Stoppila Sunzu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "344205",
+          "player_name": "Wilson Manafá",
+          "player_href": "/football/player/wilson-manafa/344205",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wilson Manafá",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3 (2)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "257421",
+          "player_name": "Ibrahim Amadou",
+          "player_href": "/football/player/ibrahim-amadou/257421",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ibrahim Amadou",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941369",
+          "player_name": "Shenyuan Li",
+          "player_href": "/football/player/shenyuan-li/941369",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenyuan Li",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4 (3)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "308054",
+          "player_name": "Wylan Cyprien",
+          "player_href": "/football/player/wylan-cyprien/308054",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wylan Cyprien",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000202",
+          "player_name": "Yue Xu",
+          "player_href": "/football/player/yue-xu/1000202",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yue Xu",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "136169",
+          "player_name": "Ohi Omoijuanfo",
+          "player_href": "/football/player/ohi-omoijuanfo/136169",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ohi Omoijuanfo",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000301",
+          "player_name": "Xuchen Yao",
+          "player_href": "/football/player/xuchen-yao/1000301",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xuchen Yao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "49120",
+          "player_name": "Robert Berić",
+          "player_href": "/football/player/robert-beric/49120",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Robert Berić",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941374",
+          "player_name": "Shilong Wang",
+          "player_href": "/football/player/shilong-wang/941374",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shilong Wang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1035322",
+          "player_name": "Xu Haofeng",
+          "player_href": "/football/player/xu-haofeng/1035322",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xu Haofeng",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1196019",
+          "player_name": "Dilümüt Tudi",
+          "player_href": "/football/player/dilumut-tudi/1196019",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Dilümüt Tudi",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "5 (2)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1801199",
+          "player_name": "Haoyu Yang",
+          "player_href": "/football/player/yang-haoyu/1801199",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Haoyu Yang",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "833507",
+          "player_name": "Yingjie Zhao",
+          "player_href": "/football/player/yingjie-zhao/833507",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yingjie Zhao",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Defending": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Defensive actions",
+        "Clearances",
+        "Blocked shots",
+        "Interceptions",
+        "Tackles (won)",
+        "Dribbled past",
+        "Notes",
+        "Position",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "97006",
+          "player_name": "João Carlos Teixeira",
+          "player_href": "/football/player/joao-carlos-teixeira/97006",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "João Carlos Teixeira",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "869573",
+          "player_name": "Saulo Mineiro",
+          "player_href": "/football/player/saulo-mineiro/869573",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Saulo Mineiro",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941131",
+          "player_name": "Chenjie Zhu",
+          "player_href": "/football/player/chenjie-zhu/941131",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Chenjie Zhu",
+              "meters": []
+            },
+            {
+              "text": "9",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "904297",
+          "player_name": "André Luis",
+          "player_href": "/football/player/andre-luis/904297",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "André Luis",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840708",
+          "player_name": "Piao Taoyu",
+          "player_href": "/football/player/piao-taoyu/840708",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Piao Taoyu",
+              "meters": []
+            },
+            {
+              "text": "13",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "Clearances off line: 1",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "195722",
+          "player_name": "Wu Xi",
+          "player_href": "/football/player/wu-xi/195722",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wu Xi",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941132",
+          "player_name": "Shenglong Jiang",
+          "player_href": "/football/player/shenglong-jiang/941132",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenglong Jiang",
+              "meters": []
+            },
+            {
+              "text": "13",
+              "meters": []
+            },
+            {
+              "text": "10",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840909",
+          "player_name": "Tianyi Gao",
+          "player_href": "/football/player/gao-tianyi/840909",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Tianyi Gao",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "149073",
+          "player_name": "Long Tan",
+          "player_href": "/football/player/long-tan/149073",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Long Tan",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "975784",
+          "player_name": "Shinichi Chan",
+          "player_href": "/football/player/shinichi-chan/975784",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shinichi Chan",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "177175",
+          "player_name": "Lazar Rosić",
+          "player_href": "/football/player/lazar-rosic/177175",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Lazar Rosić",
+              "meters": []
+            },
+            {
+              "text": "14",
+              "meters": []
+            },
+            {
+              "text": "11",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "51453",
+          "player_name": "Stoppila Sunzu",
+          "player_href": "/football/player/stoppila-sunzu/51453",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Stoppila Sunzu",
+              "meters": []
+            },
+            {
+              "text": "12",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "344205",
+          "player_name": "Wilson Manafá",
+          "player_href": "/football/player/wilson-manafa/344205",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wilson Manafá",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "257421",
+          "player_name": "Ibrahim Amadou",
+          "player_href": "/football/player/ibrahim-amadou/257421",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ibrahim Amadou",
+              "meters": []
+            },
+            {
+              "text": "10",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941369",
+          "player_name": "Shenyuan Li",
+          "player_href": "/football/player/shenyuan-li/941369",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenyuan Li",
+              "meters": []
+            },
+            {
+              "text": "12",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "308054",
+          "player_name": "Wylan Cyprien",
+          "player_href": "/football/player/wylan-cyprien/308054",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wylan Cyprien",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000202",
+          "player_name": "Yue Xu",
+          "player_href": "/football/player/yue-xu/1000202",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yue Xu",
+              "meters": []
+            },
+            {
+              "text": "9",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "136169",
+          "player_name": "Ohi Omoijuanfo",
+          "player_href": "/football/player/ohi-omoijuanfo/136169",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ohi Omoijuanfo",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "Errors leading to shot: 1",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000301",
+          "player_name": "Xuchen Yao",
+          "player_href": "/football/player/xuchen-yao/1000301",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xuchen Yao",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "49120",
+          "player_name": "Robert Berić",
+          "player_href": "/football/player/robert-beric/49120",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Robert Berić",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941374",
+          "player_name": "Shilong Wang",
+          "player_href": "/football/player/shilong-wang/941374",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shilong Wang",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1035322",
+          "player_name": "Xu Haofeng",
+          "player_href": "/football/player/xu-haofeng/1035322",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xu Haofeng",
+              "meters": []
+            },
+            {
+              "text": "9",
+              "meters": []
+            },
+            {
+              "text": "6",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1196019",
+          "player_name": "Dilümüt Tudi",
+          "player_href": "/football/player/dilumut-tudi/1196019",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Dilümüt Tudi",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1801199",
+          "player_name": "Haoyu Yang",
+          "player_href": "/football/player/yang-haoyu/1801199",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Haoyu Yang",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "833507",
+          "player_name": "Yingjie Zhao",
+          "player_href": "/football/player/yingjie-zhao/833507",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yingjie Zhao",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Passing": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Touches",
+        "Accurate passes",
+        "Key passes",
+        "Crosses (accurate)",
+        "Long balls (accurate)",
+        "Notes",
+        "Position",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "97006",
+          "player_name": "João Carlos Teixeira",
+          "player_href": "/football/player/joao-carlos-teixeira/97006",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "João Carlos Teixeira",
+              "meters": []
+            },
+            {
+              "text": "90",
+              "meters": []
+            },
+            {
+              "text": "44/55 (80%)",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "10 (7)",
+              "meters": []
+            },
+            {
+              "text": "Big chances created: 1",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "869573",
+          "player_name": "Saulo Mineiro",
+          "player_href": "/football/player/saulo-mineiro/869573",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Saulo Mineiro",
+              "meters": []
+            },
+            {
+              "text": "31",
+              "meters": []
+            },
+            {
+              "text": "9/15 (60%)",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941131",
+          "player_name": "Chenjie Zhu",
+          "player_href": "/football/player/chenjie-zhu/941131",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Chenjie Zhu",
+              "meters": []
+            },
+            {
+              "text": "76",
+              "meters": []
+            },
+            {
+              "text": "56/63 (89%)",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "9 (5)",
+              "meters": []
+            },
+            {
+              "text": "Big chances created: 1",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "904297",
+          "player_name": "André Luis",
+          "player_href": "/football/player/andre-luis/904297",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "André Luis",
+              "meters": []
+            },
+            {
+              "text": "34",
+              "meters": []
+            },
+            {
+              "text": "9/15 (60%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840708",
+          "player_name": "Piao Taoyu",
+          "player_href": "/football/player/piao-taoyu/840708",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Piao Taoyu",
+              "meters": []
+            },
+            {
+              "text": "66",
+              "meters": []
+            },
+            {
+              "text": "26/39 (67%)",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "4 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "195722",
+          "player_name": "Wu Xi",
+          "player_href": "/football/player/wu-xi/195722",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wu Xi",
+              "meters": []
+            },
+            {
+              "text": "71",
+              "meters": []
+            },
+            {
+              "text": "41/51 (80%)",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "7 (3)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941132",
+          "player_name": "Shenglong Jiang",
+          "player_href": "/football/player/shenglong-jiang/941132",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenglong Jiang",
+              "meters": []
+            },
+            {
+              "text": "75",
+              "meters": []
+            },
+            {
+              "text": "50/57 (88%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "7 (5)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "39",
+              "meters": []
+            },
+            {
+              "text": "18/27 (67%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "21 (12)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840909",
+          "player_name": "Tianyi Gao",
+          "player_href": "/football/player/gao-tianyi/840909",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Tianyi Gao",
+              "meters": []
+            },
+            {
+              "text": "33",
+              "meters": []
+            },
+            {
+              "text": "20/21 (95%)",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "3 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "149073",
+          "player_name": "Long Tan",
+          "player_href": "/football/player/long-tan/149073",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Long Tan",
+              "meters": []
+            },
+            {
+              "text": "33",
+              "meters": []
+            },
+            {
+              "text": "12/22 (55%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "975784",
+          "player_name": "Shinichi Chan",
+          "player_href": "/football/player/shinichi-chan/975784",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shinichi Chan",
+              "meters": []
+            },
+            {
+              "text": "72",
+              "meters": []
+            },
+            {
+              "text": "32/41 (78%)",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "9 (2)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "177175",
+          "player_name": "Lazar Rosić",
+          "player_href": "/football/player/lazar-rosic/177175",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Lazar Rosić",
+              "meters": []
+            },
+            {
+              "text": "35",
+              "meters": []
+            },
+            {
+              "text": "12/15 (80%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "6 (4)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "51453",
+          "player_name": "Stoppila Sunzu",
+          "player_href": "/football/player/stoppila-sunzu/51453",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Stoppila Sunzu",
+              "meters": []
+            },
+            {
+              "text": "37",
+              "meters": []
+            },
+            {
+              "text": "15/23 (65%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "9 (4)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "344205",
+          "player_name": "Wilson Manafá",
+          "player_href": "/football/player/wilson-manafa/344205",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wilson Manafá",
+              "meters": []
+            },
+            {
+              "text": "86",
+              "meters": []
+            },
+            {
+              "text": "42/53 (79%)",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "257421",
+          "player_name": "Ibrahim Amadou",
+          "player_href": "/football/player/ibrahim-amadou/257421",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ibrahim Amadou",
+              "meters": []
+            },
+            {
+              "text": "74",
+              "meters": []
+            },
+            {
+              "text": "40/46 (87%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "5 (3)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941369",
+          "player_name": "Shenyuan Li",
+          "player_href": "/football/player/shenyuan-li/941369",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenyuan Li",
+              "meters": []
+            },
+            {
+              "text": "65",
+              "meters": []
+            },
+            {
+              "text": "25/32 (78%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "4 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "308054",
+          "player_name": "Wylan Cyprien",
+          "player_href": "/football/player/wylan-cyprien/308054",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wylan Cyprien",
+              "meters": []
+            },
+            {
+              "text": "27",
+              "meters": []
+            },
+            {
+              "text": "12/16 (75%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000202",
+          "player_name": "Yue Xu",
+          "player_href": "/football/player/yue-xu/1000202",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yue Xu",
+              "meters": []
+            },
+            {
+              "text": "41",
+              "meters": []
+            },
+            {
+              "text": "14/19 (74%)",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "136169",
+          "player_name": "Ohi Omoijuanfo",
+          "player_href": "/football/player/ohi-omoijuanfo/136169",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ohi Omoijuanfo",
+              "meters": []
+            },
+            {
+              "text": "51",
+              "meters": []
+            },
+            {
+              "text": "25/36 (69%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000301",
+          "player_name": "Xuchen Yao",
+          "player_href": "/football/player/xuchen-yao/1000301",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xuchen Yao",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "0/0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "49120",
+          "player_name": "Robert Berić",
+          "player_href": "/football/player/robert-beric/49120",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Robert Berić",
+              "meters": []
+            },
+            {
+              "text": "19",
+              "meters": []
+            },
+            {
+              "text": "9/10 (90%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941374",
+          "player_name": "Shilong Wang",
+          "player_href": "/football/player/shilong-wang/941374",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shilong Wang",
+              "meters": []
+            },
+            {
+              "text": "12",
+              "meters": []
+            },
+            {
+              "text": "4/5 (80%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "4 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1035322",
+          "player_name": "Xu Haofeng",
+          "player_href": "/football/player/xu-haofeng/1035322",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xu Haofeng",
+              "meters": []
+            },
+            {
+              "text": "62",
+              "meters": []
+            },
+            {
+              "text": "17/29 (59%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "6 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1196019",
+          "player_name": "Dilümüt Tudi",
+          "player_href": "/football/player/dilumut-tudi/1196019",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Dilümüt Tudi",
+              "meters": []
+            },
+            {
+              "text": "39",
+              "meters": []
+            },
+            {
+              "text": "12/20 (60%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "40",
+              "meters": []
+            },
+            {
+              "text": "23/33 (70%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "14 (4)",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1801199",
+          "player_name": "Haoyu Yang",
+          "player_href": "/football/player/yang-haoyu/1801199",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Haoyu Yang",
+              "meters": []
+            },
+            {
+              "text": "30",
+              "meters": []
+            },
+            {
+              "text": "9/11 (82%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "833507",
+          "player_name": "Yingjie Zhao",
+          "player_href": "/football/player/yingjie-zhao/833507",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yingjie Zhao",
+              "meters": []
+            },
+            {
+              "text": "27",
+              "meters": []
+            },
+            {
+              "text": "10/13 (77%)",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Duels": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Duels (won)",
+        "Ground duels (won)",
+        "Aerial duels (won)",
+        "Possession lost",
+        "Fouls",
+        "Was fouled",
+        "Offsides",
+        "Position",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "97006",
+          "player_name": "João Carlos Teixeira",
+          "player_href": "/football/player/joao-carlos-teixeira/97006",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "João Carlos Teixeira",
+              "meters": []
+            },
+            {
+              "text": "24 (18)",
+              "meters": []
+            },
+            {
+              "text": "23 (17)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "22",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "12",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "869573",
+          "player_name": "Saulo Mineiro",
+          "player_href": "/football/player/saulo-mineiro/869573",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Saulo Mineiro",
+              "meters": []
+            },
+            {
+              "text": "8 (1)",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "10",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "8.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941131",
+          "player_name": "Chenjie Zhu",
+          "player_href": "/football/player/chenjie-zhu/941131",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Chenjie Zhu",
+              "meters": []
+            },
+            {
+              "text": "6 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "4 (4)",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "904297",
+          "player_name": "André Luis",
+          "player_href": "/football/player/andre-luis/904297",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "André Luis",
+              "meters": []
+            },
+            {
+              "text": "13 (6)",
+              "meters": []
+            },
+            {
+              "text": "6 (2)",
+              "meters": []
+            },
+            {
+              "text": "7 (4)",
+              "meters": []
+            },
+            {
+              "text": "11",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840708",
+          "player_name": "Piao Taoyu",
+          "player_href": "/football/player/piao-taoyu/840708",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Piao Taoyu",
+              "meters": []
+            },
+            {
+              "text": "18 (10)",
+              "meters": []
+            },
+            {
+              "text": "18 (10)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "20",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "195722",
+          "player_name": "Wu Xi",
+          "player_href": "/football/player/wu-xi/195722",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wu Xi",
+              "meters": []
+            },
+            {
+              "text": "11 (7)",
+              "meters": []
+            },
+            {
+              "text": "9 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "14",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941132",
+          "player_name": "Shenglong Jiang",
+          "player_href": "/football/player/shenglong-jiang/941132",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenglong Jiang",
+              "meters": []
+            },
+            {
+              "text": "8 (7)",
+              "meters": []
+            },
+            {
+              "text": "3 (2)",
+              "meters": []
+            },
+            {
+              "text": "5 (5)",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "10",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "840909",
+          "player_name": "Tianyi Gao",
+          "player_href": "/football/player/gao-tianyi/840909",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Tianyi Gao",
+              "meters": []
+            },
+            {
+              "text": "5 (3)",
+              "meters": []
+            },
+            {
+              "text": "5 (3)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "149073",
+          "player_name": "Long Tan",
+          "player_href": "/football/player/long-tan/149073",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Long Tan",
+              "meters": []
+            },
+            {
+              "text": "16 (6)",
+              "meters": []
+            },
+            {
+              "text": "3 (0)",
+              "meters": []
+            },
+            {
+              "text": "13 (6)",
+              "meters": []
+            },
+            {
+              "text": "16",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "975784",
+          "player_name": "Shinichi Chan",
+          "player_href": "/football/player/shinichi-chan/975784",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shinichi Chan",
+              "meters": []
+            },
+            {
+              "text": "16 (6)",
+              "meters": []
+            },
+            {
+              "text": "7 (4)",
+              "meters": []
+            },
+            {
+              "text": "9 (2)",
+              "meters": []
+            },
+            {
+              "text": "20",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "177175",
+          "player_name": "Lazar Rosić",
+          "player_href": "/football/player/lazar-rosic/177175",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Lazar Rosić",
+              "meters": []
+            },
+            {
+              "text": "4 (3)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "51453",
+          "player_name": "Stoppila Sunzu",
+          "player_href": "/football/player/stoppila-sunzu/51453",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Stoppila Sunzu",
+              "meters": []
+            },
+            {
+              "text": "8 (4)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "6 (2)",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "344205",
+          "player_name": "Wilson Manafá",
+          "player_href": "/football/player/wilson-manafa/344205",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wilson Manafá",
+              "meters": []
+            },
+            {
+              "text": "11 (4)",
+              "meters": []
+            },
+            {
+              "text": "9 (4)",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "22",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "257421",
+          "player_name": "Ibrahim Amadou",
+          "player_href": "/football/player/ibrahim-amadou/257421",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ibrahim Amadou",
+              "meters": []
+            },
+            {
+              "text": "18 (8)",
+              "meters": []
+            },
+            {
+              "text": "14 (4)",
+              "meters": []
+            },
+            {
+              "text": "4 (4)",
+              "meters": []
+            },
+            {
+              "text": "16",
+              "meters": []
+            },
+            {
+              "text": "3",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941369",
+          "player_name": "Shenyuan Li",
+          "player_href": "/football/player/shenyuan-li/941369",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shenyuan Li",
+              "meters": []
+            },
+            {
+              "text": "8 (6)",
+              "meters": []
+            },
+            {
+              "text": "6 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "12",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "308054",
+          "player_name": "Wylan Cyprien",
+          "player_href": "/football/player/wylan-cyprien/308054",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Wylan Cyprien",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "8",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000202",
+          "player_name": "Yue Xu",
+          "player_href": "/football/player/yue-xu/1000202",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yue Xu",
+              "meters": []
+            },
+            {
+              "text": "11 (8)",
+              "meters": []
+            },
+            {
+              "text": "10 (8)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "7",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "136169",
+          "player_name": "Ohi Omoijuanfo",
+          "player_href": "/football/player/ohi-omoijuanfo/136169",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Ohi Omoijuanfo",
+              "meters": []
+            },
+            {
+              "text": "13 (3)",
+              "meters": []
+            },
+            {
+              "text": "8 (2)",
+              "meters": []
+            },
+            {
+              "text": "5 (1)",
+              "meters": []
+            },
+            {
+              "text": "17",
+              "meters": []
+            },
+            {
+              "text": "2",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1000301",
+          "player_name": "Xuchen Yao",
+          "player_href": "/football/player/xuchen-yao/1000301",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xuchen Yao",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "49120",
+          "player_name": "Robert Berić",
+          "player_href": "/football/player/robert-beric/49120",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Robert Berić",
+              "meters": []
+            },
+            {
+              "text": "6 (3)",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "2 (1)",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "F",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "941374",
+          "player_name": "Shilong Wang",
+          "player_href": "/football/player/shilong-wang/941374",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Shilong Wang",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "1 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1035322",
+          "player_name": "Xu Haofeng",
+          "player_href": "/football/player/xu-haofeng/1035322",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Xu Haofeng",
+              "meters": []
+            },
+            {
+              "text": "17 (8)",
+              "meters": []
+            },
+            {
+              "text": "15 (6)",
+              "meters": []
+            },
+            {
+              "text": "2 (2)",
+              "meters": []
+            },
+            {
+              "text": "19",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "4",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "D",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1196019",
+          "player_name": "Dilümüt Tudi",
+          "player_href": "/football/player/dilumut-tudi/1196019",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Dilümüt Tudi",
+              "meters": []
+            },
+            {
+              "text": "13 (5)",
+              "meters": []
+            },
+            {
+              "text": "11 (5)",
+              "meters": []
+            },
+            {
+              "text": "2 (0)",
+              "meters": []
+            },
+            {
+              "text": "21",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "0 (0)",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "10",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "G",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "1801199",
+          "player_name": "Haoyu Yang",
+          "player_href": "/football/player/yang-haoyu/1801199",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Haoyu Yang",
+              "meters": []
+            },
+            {
+              "text": "14 (5)",
+              "meters": []
+            },
+            {
+              "text": "13 (4)",
+              "meters": []
+            },
+            {
+              "text": "1 (1)",
+              "meters": []
+            },
+            {
+              "text": "13",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "833507",
+          "player_name": "Yingjie Zhao",
+          "player_href": "/football/player/yingjie-zhao/833507",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yingjie Zhao",
+              "meters": []
+            },
+            {
+              "text": "12 (4)",
+              "meters": []
+            },
+            {
+              "text": "8 (2)",
+              "meters": []
+            },
+            {
+              "text": "4 (2)",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "5",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "M",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Goalkeeping": {
+      "status": "validated",
+      "headers": [
+        "",
+        "+",
+        "Total saves",
+        "Punches",
+        "High claims",
+        "Notes",
+        "Sofascore Rating"
+      ],
+      "rows": [
+        {
+          "player_id": "797355",
+          "player_name": "Yake Wu",
+          "player_href": "/football/player/yake-wu/797355",
+          "team_name": "Changchun Yatai",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yake Wu",
+              "meters": []
+            },
+            {
+              "text": "6",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "Saves from inside box: 6",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "7.2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player_id": "978063",
+          "player_name": "Yaxiong Bao",
+          "player_href": "/football/player/yaxiong-bao/978063",
+          "team_name": "Shanghai Shenhua",
+          "cells": [
+            {
+              "text": "",
+              "meters": []
+            },
+            {
+              "text": "Yaxiong Bao",
+              "meters": []
+            },
+            {
+              "text": "1",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "0",
+              "meters": []
+            },
+            {
+              "text": "-",
+              "meters": []
+            },
+            {
+              "text": "",
+              "meters": [
+                {
+                  "min": "3",
+                  "max": "10",
+                  "value": "6.4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "general_player_count": 27,
+  "general_player_ids": [
+    "1000202",
+    "1000301",
+    "1035322",
+    "1196019",
+    "136169",
+    "149073",
+    "177175",
+    "1801199",
+    "195722",
+    "257421",
+    "308054",
+    "344205",
+    "49120",
+    "51453",
+    "797355",
+    "833507",
+    "840708",
+    "840909",
+    "869573",
+    "904297",
+    "941131",
+    "941132",
+    "941369",
+    "941374",
+    "97006",
+    "975784",
+    "978063"
+  ],
+  "evidence_sha256": "009c1f475afa45a437d37d51fac4522d5a6b397c73d1aca87496ce178dcb116c"
+}

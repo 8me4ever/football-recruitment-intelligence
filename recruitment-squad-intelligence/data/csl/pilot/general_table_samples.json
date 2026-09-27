@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "observed_on": "2026-09-24",
+  "source": "sofascore",
+  "capture_method": "Selected rows transcribed from browser-rendered General table; team from displayed row image label; not API responses; not a complete match export",
+  "columns": [
+    "team",
+    "player_name",
+    "goals",
+    "assists",
+    "tackles",
+    "accurate_passes",
+    "duels",
+    "ground_duels",
+    "aerial_duels",
+    "minutes",
+    "position",
+    "rating"
+  ],
+  "matches": [
+    {
+      "match_id": "13400350",
+      "match_date": "2025-02-22",
+      "home_team": "Yunnan Yukun",
+      "away_team": "Beijing Guoan",
+      "source_url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+      "observed_player_row_count": 31,
+      "rows": [
+        {
+          "player_id": "817886",
+          "cells": [
+            "Beijing Guoan",
+            "Yongjing Cao",
+            "1",
+            "",
+            "1",
+            "29/32 (91%)",
+            "15 (6)",
+            "13 (5)",
+            "2 (1)",
+            "90'",
+            "F",
+            "7.6"
+          ]
+        },
+        {
+          "player_id": "962859",
+          "cells": [
+            "Beijing Guoan",
+            "Han Jiaqi",
+            "0",
+            "",
+            "",
+            "18/33 (55%)",
+            "1 (1)",
+            "0 (0)",
+            "1 (1)",
+            "90'",
+            "G",
+            "7.2"
+          ]
+        },
+        {
+          "player_id": "828227",
+          "cells": [
+            "Beijing Guoan",
+            "Zhang Yuning",
+            "0",
+            "",
+            "",
+            "2/4 (50%)",
+            "3 (0)",
+            "0 (0)",
+            "3 (0)",
+            "18'",
+            "F",
+            "6.5"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "13522670",
+      "match_date": "2025-11-22",
+      "home_team": "Beijing Guoan",
+      "away_team": "Meizhou Hakka",
+      "source_url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+      "observed_player_row_count": null,
+      "rows": [
+        {
+          "player_id": "828227",
+          "cells": [
+            "Beijing Guoan",
+            "Zhang Yuning",
+            "1",
+            "",
+            "1",
+            "27/31 (87%)",
+            "7 (3)",
+            "5 (2)",
+            "2 (1)",
+            "70'",
+            "F",
+            "7.7"
+          ]
+        },
+        {
+          "player_id": "793878",
+          "cells": [
+            "Beijing Guoan",
+            "Hou Sen",
+            "0",
+            "",
+            "",
+            "25/29 (86%)",
+            "",
+            "0 (0)",
+            "",
+            "90'",
+            "G",
+            "7.4"
+          ]
+        },
+        {
+          "player_id": "817886",
+          "cells": [
+            "Beijing Guoan",
+            "Yongjing Cao",
+            "0",
+            "",
+            "1",
+            "16/19 (84%)",
+            "9 (2)",
+            "8 (2)",
+            "1 (0)",
+            "60'",
+            "M",
+            "6.9"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "13400348",
+      "match_date": "2025-02-22",
+      "home_team": "Chengdu Rongcheng",
+      "away_team": "Wuhan Three Towns",
+      "source_url": "https://www.sofascore.com/football/match/wuhan-three-towns-chengdu-rongcheng/QzNbscdtc#id:13400348",
+      "observed_player_row_count": 31,
+      "rows": [
+        {
+          "player_id": "609730",
+          "cells": [
+            "Chengdu Rongcheng",
+            "Rômulo",
+            "0",
+            "",
+            "1",
+            "27/42 (64%)",
+            "11 (6)",
+            "9 (6)",
+            "2 (0)",
+            "89'",
+            "F",
+            "8.2"
+          ]
+        },
+        {
+          "player_id": "823609",
+          "cells": [
+            "Wuhan Three Towns",
+            "Puliang Shao",
+            "0",
+            "",
+            "",
+            "19/30 (63%)",
+            "",
+            "0 (0)",
+            "",
+            "90'",
+            "G",
+            "8.0"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "13522671",
+      "match_date": "2025-11-22",
+      "home_team": "Tianjin Jinmen Tiger",
+      "away_team": "Shanghai Shenhua",
+      "source_url": "https://www.sofascore.com/football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13522671",
+      "observed_player_row_count": 32,
+      "rows": [
+        {
+          "player_id": "97006",
+          "cells": [
+            "Shanghai Shenhua",
+            "João Carlos Teixeira",
+            "0",
+            "",
+            "2",
+            "37/40 (93%)",
+            "12 (7)",
+            "12 (7)",
+            "",
+            "90'",
+            "M",
+            "7.6"
+          ]
+        },
+        {
+          "player_id": "904297",
+          "cells": [
+            "Shanghai Shenhua",
+            "André Luis",
+            "1",
+            "",
+            "",
+            "13/23 (57%)",
+            "9 (6)",
+            "5 (3)",
+            "4 (3)",
+            "90'",
+            "F",
+            "7.5"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "13522678",
+      "match_date": "2025-11-22",
+      "home_team": "Dalian Yingbo FC",
+      "away_team": "Shanghai Port",
+      "source_url": "https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678",
+      "observed_player_row_count": 29,
+      "rows": [
+        {
+          "player_id": "1401160",
+          "cells": [
+            "Shanghai Port",
+            "Guangtai Jiang",
+            "0",
+            "",
+            "1",
+            "50/60 (83%)",
+            "11 (9)",
+            "1 (1)",
+            "10 (8)",
+            "90'",
+            "D",
+            "7.9"
+          ]
+        },
+        {
+          "player_id": "823653",
+          "cells": [
+            "Shanghai Port",
+            "Mateus Vital",
+            "0",
+            "",
+            "1",
+            "40/47 (85%)",
+            "7 (4)",
+            "7 (4)",
+            "",
+            "90'",
+            "M",
+            "7.7"
+          ]
+        }
+      ]
+    }
+  ]
+}

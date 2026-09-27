@@ -1,0 +1,37 @@
+{
+  "started_at": "2026-09-27T09:37:07.579182+00:00",
+  "season": 2026,
+  "benchmark_match_id": "15552633",
+  "source": "Sofascore rendered webpage DOM; no data API or hidden application state",
+  "route": "visible competition > selected round > exact finished fixture card > Player stats > six categories",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "headed": true,
+  "viewport": "1440x1000",
+  "locale": "en-GB",
+  "timezone": "Asia/Shanghai",
+  "browser_profile": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\c0_gate\\browser_profile_2026",
+  "temp_dir": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\c0_gate\\runtime_temp",
+  "requested": 1,
+  "results": [
+    {
+      "match_id": "15552633",
+      "status": "validated",
+      "raw_evidence": "data\\csl\\c0_gate\\evidence\\2026\\15552633_visible_dom.json",
+      "category_rows": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      }
+    }
+  ],
+  "browser_version": "153.0.8010.53",
+  "initial_http_status": 200,
+  "finished_at": "2026-09-27T09:37:15.902026+00:00",
+  "validated": 1,
+  "session_error": null
+}

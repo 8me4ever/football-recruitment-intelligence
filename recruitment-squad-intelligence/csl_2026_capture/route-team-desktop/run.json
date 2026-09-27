@@ -1,0 +1,76 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+  "observed_at": "2026-09-26T11:54:02.171336+00:00",
+  "width": 1440,
+  "headed": true,
+  "via_team": true,
+  "stages": [
+    {
+      "name": "team",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 5356,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "failure",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 5356,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    }
+  ],
+  "status": "failed",
+  "team_match_links": [
+    {
+      "href": "https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "Qingdao Hainiu vs Beijing Guoan"
+    },
+    {
+      "href": "/football/match/brazil-australia/QUbsYUb#id:16814493",
+      "text": "Australia - Brazil"
+    },
+    {
+      "href": "/football/match/england-spain/YTbsnUb#id:15534084",
+      "text": "England - Spain"
+    },
+    {
+      "href": "/football/match/portugal-wales/cUbseUb#id:15534097",
+      "text": "Portugal - Wales"
+    },
+    {
+      "href": "/football/match/turkiye-france/GObsaUb#id:15534031",
+      "text": "Türkiye - France"
+    },
+    {
+      "href": "/football/match/germany-netherlands/fUbslUb#id:15534057",
+      "text": "Netherlands - Germany"
+    },
+    {
+      "href": "/football/match/belgium-italy/hUbsrUb#id:15534037",
+      "text": "Italy - Belgium"
+    },
+    {
+      "href": "/football/match/morocco-gabon/lVbsDVb#id:17018552",
+      "text": "Morocco - Gabon"
+    },
+    {
+      "href": "/football/match/denmark-norway/AObsBOb#id:15534100",
+      "text": "Norway - Denmark"
+    }
+  ],
+  "error": "ValueError: Expected unique rendered fixture link, got 0",
+  "http_status": 200
+}

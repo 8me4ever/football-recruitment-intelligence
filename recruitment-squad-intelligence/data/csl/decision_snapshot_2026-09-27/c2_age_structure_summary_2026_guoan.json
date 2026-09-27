@@ -1,0 +1,106 @@
+{
+  "decision_date": "2026-09-27",
+  "population": "39-person user-reconciled decision-date first-team cohort",
+  "players": 39,
+  "birth_dates_present": 39,
+  "birth_date_verification": {
+    "dob_crosschecked_by_secondary_database": 38,
+    "official_registration_date_crosschecked_by_secondary_database": 1,
+    "official_registration_date": 0,
+    "single_secondary_profile_source": 0
+  },
+  "mean_age_years": 26.3,
+  "median_age_years": 28,
+  "minimum_age_years": 17,
+  "maximum_age_years": 37,
+  "age_band_counts": {
+    "21岁及以下": 11,
+    "22–24岁": 3,
+    "25–29岁": 14,
+    "30岁及以上": 11
+  },
+  "age_band_by_stats_sample": {
+    "21岁及以下": {
+      "players": 11,
+      "positive_minute_sample": 4,
+      "no_stat_row": 7
+    },
+    "22–24岁": {
+      "players": 3,
+      "positive_minute_sample": 1,
+      "no_stat_row": 2
+    },
+    "25–29岁": {
+      "players": 14,
+      "positive_minute_sample": 12,
+      "no_stat_row": 2
+    },
+    "30岁及以上": {
+      "players": 11,
+      "positive_minute_sample": 11,
+      "no_stat_row": 0
+    }
+  },
+  "by_registration_nominal_position": {
+    "Goalkeeper": {
+      "players": 5,
+      "mean_age_years": 25.2,
+      "median_age_years": 22,
+      "age_bands": {
+        "21岁及以下": 1,
+        "22–24岁": 2,
+        "25–29岁": 1,
+        "30岁及以上": 1
+      },
+      "positive_minute_sample": 1,
+      "no_stat_row": 4
+    },
+    "Defender": {
+      "players": 12,
+      "mean_age_years": 27.2,
+      "median_age_years": 28,
+      "age_bands": {
+        "21岁及以下": 3,
+        "22–24岁": 0,
+        "25–29岁": 6,
+        "30岁及以上": 3
+      },
+      "positive_minute_sample": 10,
+      "no_stat_row": 2
+    },
+    "Midfielder": {
+      "players": 16,
+      "mean_age_years": 25.2,
+      "median_age_years": 25,
+      "age_bands": {
+        "21岁及以下": 6,
+        "22–24岁": 1,
+        "25–29岁": 4,
+        "30岁及以上": 5
+      },
+      "positive_minute_sample": 11,
+      "no_stat_row": 5
+    },
+    "Forward": {
+      "players": 6,
+      "mean_age_years": 28.3,
+      "median_age_years": 29,
+      "age_bands": {
+        "21岁及以下": 1,
+        "22–24岁": 0,
+        "25–29岁": 3,
+        "30岁及以上": 2
+      },
+      "positive_minute_sample": 6,
+      "no_stat_row": 0
+    }
+  },
+  "public_position_label_evidence": {
+    "has_specific_public_position_label": 24,
+    "broad_position_group_only": 14,
+    "no_profile_position_label": 1
+  },
+  "match_participation_rows": 406,
+  "match_participation_rows_with_observed_role": 22,
+  "caveat": "Public profile positions are not match-specific roles. One ACL fixture has formation-line-only labels and one CSL fixture has only match-reported broad position groups; the CSL formation remains disputed. These two fixtures provide 22 role-tagged rows; the other 384 match rows remain unknown. G/D/M/F remains a broad match-stat position group."
+}

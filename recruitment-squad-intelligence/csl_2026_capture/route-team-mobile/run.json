@@ -1,0 +1,41 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+  "observed_at": "2026-09-26T11:54:39.987598+00:00",
+  "width": 639,
+  "headed": true,
+  "via_team": true,
+  "stages": [
+    {
+      "name": "team",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 531,
+      "tabs": [
+        "Overview",
+        "Matches",
+        "Squad",
+        "List",
+        "Calendar"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "failure",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 531,
+      "tabs": [
+        "Overview",
+        "Matches",
+        "Squad",
+        "List",
+        "Calendar"
+      ],
+      "tables": 0
+    }
+  ],
+  "status": "failed",
+  "team_match_links": [],
+  "error": "ValueError: Expected unique rendered fixture link, got 0",
+  "http_status": 200
+}

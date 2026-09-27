@@ -1,0 +1,1453 @@
+﻿match_id,match_date,round,home_team,away_team,home_goals,away_goals,status,source,source_url,observed_on,card_text,score_nodes
+13522670,2025-11-22,30,Beijing Guoan,Meizhou Hakka,5,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Guoan
+Hakka
+5
+1","[""FT"", ""5"", ""1""]"
+13522678,2025-11-22,30,Dalian Yingbo FC,Shanghai Port,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Dalian Yingbo
+Port
+0
+1","[""FT"", ""0"", ""1""]"
+13522674,2025-11-22,30,Henan FC,Yunnan Yukun,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-henan-fc-jiuzu-dukang/RTnsQZOd#id:13522674,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Henan
+Yukun
+1
+1","[""FT"", ""1"", ""1""]"
+13522675,2025-11-22,30,Qingdao West Coast,Changchun Yatai,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-changchun-yatai/UTnsHPXc#id:13522675,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Qingdao
+Yatai
+1
+0","[""FT"", ""1"", ""0""]"
+13522677,2025-11-22,30,Shenzhen Peng City,Chengdu Rongcheng,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:13522677,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Shenzhen
+Chengdu
+1
+1","[""FT"", ""1"", ""1""]"
+13522671,2025-11-22,30,Tianjin Jinmen Tiger,Shanghai Shenhua,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13522671,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Jinmen Tiger
+Shenhua
+1
+3","[""FT"", ""1"", ""3""]"
+13522676,2025-11-22,30,Wuhan Three Towns,Shandong Taishan,1,5,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:13522676,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Three Towns
+Taishan
+1
+5","[""FT"", ""1"", ""5""]"
+13522673,2025-11-22,30,Zhejiang,Qingdao Hainiu,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-qingdao-hainiu/VTnsXTn#id:13522673,2026-09-25T15:22:34.459854+00:00,"22/11/25
+FT
+Zhejiang
+Hainiu
+2
+2","[""FT"", ""2"", ""2""]"
+13522662,2025-10-31,29,Shanghai Port,Zhejiang,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-zhejiang/XTnsMFq#id:13522662,2026-09-25T15:22:35.412492+00:00,"31/10/25
+FT
+Port
+Zhejiang
+3
+0","[""FT"", ""3"", ""0""]"
+13522663,2025-10-31,29,Chengdu Rongcheng,Henan FC,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-henan-fc-jiuzu-dukang/RTnsQzNb#id:13522663,2026-09-25T15:22:35.412492+00:00,"31/10/25
+FT
+Chengdu
+Henan
+1
+2","[""FT"", ""1"", ""2""]"
+13522664,2025-10-31,29,Shanghai Shenhua,Shenzhen Peng City,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:13522664,2026-09-25T15:22:35.412492+00:00,"31/10/25
+FT
+Shenhua
+Shenzhen
+1
+0","[""FT"", ""1"", ""0""]"
+13522665,2025-11-01,29,Changchun Yatai,Beijing Guoan,0,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-beijing-guoan/BrbsUTn#id:13522665,2026-09-25T15:22:35.412492+00:00,"01/11/25
+FT
+Yatai
+Guoan
+0
+4","[""FT"", ""0"", ""4""]"
+13522666,2025-11-01,29,Shandong Taishan,Tianjin Jinmen Tiger,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shandong-taishan-tianjin-jinmen-tiger/rrbswrb#id:13522666,2026-09-25T15:22:35.412492+00:00,"01/11/25
+FT
+Taishan
+Jinmen Tiger
+2
+1","[""FT"", ""2"", ""1""]"
+13522667,2025-11-01,29,Meizhou Hakka,Dalian Yingbo FC,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-meizhou-hakka/LdLbsRZOd#id:13522667,2026-09-25T15:22:35.412492+00:00,"01/11/25
+FT
+Hakka
+Dalian Yingbo
+2
+2","[""FT"", ""2"", ""2""]"
+13522668,2025-11-02,29,Qingdao Hainiu,Wuhan Three Towns,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-qingdao-hainiu/VTnscdtc#id:13522668,2026-09-25T15:22:35.412492+00:00,"02/11/25
+FT
+Hainiu
+Three Towns
+1
+0","[""FT"", ""1"", ""0""]"
+13522669,2025-11-02,29,Yunnan Yukun,Qingdao West Coast,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-qingdao-west-coast/HPXcsQZOd#id:13522669,2026-09-25T15:22:35.412492+00:00,"02/11/25
+FT
+Yukun
+Qingdao
+1
+0","[""FT"", ""1"", ""0""]"
+13522654,2025-10-24,28,Meizhou Hakka,Yunnan Yukun,1,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-meizhou-hakka/LdLbsQZOd#id:13522654,2026-09-25T15:22:36.324552+00:00,"24/10/25
+FT
+Hakka
+Yukun
+1
+4","[""FT"", ""1"", ""4""]"
+13522657,2025-10-24,28,Wuhan Three Towns,Shenzhen Peng City,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shenzhen-peng-city/GBmcscdtc#id:13522657,2026-09-25T15:22:36.324552+00:00,"24/10/25
+FT
+Three Towns
+Shenzhen
+1
+2","[""FT"", ""1"", ""2""]"
+13522655,2025-10-25,28,Tianjin Jinmen Tiger,Changchun Yatai,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-tianjin-jinmen-tiger/rrbsUTn#id:13522655,2026-09-25T15:22:36.324552+00:00,"25/10/25
+FT
+Jinmen Tiger
+Yatai
+2
+2","[""FT"", ""2"", ""2""]"
+13522656,2025-10-25,28,Henan FC,Zhejiang,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-henan-fc-jiuzu-dukang/RTnsXTn#id:13522656,2026-09-25T15:22:36.324552+00:00,"25/10/25
+FT
+Henan
+Zhejiang
+2
+2","[""FT"", ""2"", ""2""]"
+13522658,2025-10-26,28,Shandong Taishan,Shanghai Port,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-shandong-taishan/wrbsMFq#id:13522658,2026-09-25T15:22:36.324552+00:00,"26/10/25
+FT
+Taishan
+Port
+3
+1","[""FT"", ""3"", ""1""]"
+13522659,2025-10-26,28,Qingdao West Coast,Chengdu Rongcheng,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-chengdu-rongcheng/QzNbsHPXc#id:13522659,2026-09-25T15:22:36.324552+00:00,"26/10/25
+FT
+Qingdao
+Chengdu
+2
+2","[""FT"", ""2"", ""2""]"
+13522660,2025-10-26,28,Beijing Guoan,Qingdao Hainiu,2,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:13522660,2026-09-25T15:22:36.324552+00:00,"26/10/25
+FT
+Guoan
+Hainiu
+2
+4","[""FT"", ""2"", ""4""]"
+13522661,2025-10-26,28,Shanghai Shenhua,Dalian Yingbo FC,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-shenhua/yrbsRZOd#id:13522661,2026-09-25T15:22:36.324552+00:00,"26/10/25
+FT
+Shenhua
+Dalian Yingbo
+2
+2","[""FT"", ""2"", ""2""]"
+13522645,2025-10-17,27,Qingdao Hainiu,Shanghai Port,3,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-qingdao-hainiu/VTnsMFq#id:13522645,2026-09-25T15:22:37.262429+00:00,"17/10/25
+FT
+Hainiu
+Port
+3
+4","[""FT"", ""3"", ""4""]"
+13522646,2025-10-17,27,Chengdu Rongcheng,Meizhou Hakka,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-meizhou-hakka/LdLbsQzNb#id:13522646,2026-09-25T15:22:37.262429+00:00,"17/10/25
+FT
+Chengdu
+Hakka
+3
+1","[""FT"", ""3"", ""1""]"
+13522648,2025-10-17,27,Qingdao West Coast,Shanghai Shenhua,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shanghai-shenhua/yrbsHPXc#id:13522648,2026-09-25T15:22:37.262429+00:00,"17/10/25
+FT
+Qingdao x2
+Shenhua
+1
+2","[""FT"", ""1"", ""2""]"
+13522649,2025-10-18,27,Shenzhen Peng City,Beijing Guoan,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-beijing-guoan/BrbsGBmc#id:13522649,2026-09-25T15:22:37.262429+00:00,"18/10/25
+FT
+Shenzhen
+Guoan
+2
+1","[""FT"", ""2"", ""1""]"
+13522650,2025-10-18,27,Zhejiang,Shandong Taishan,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-shandong-taishan/wrbsXTn#id:13522650,2026-09-25T15:22:37.262429+00:00,"18/10/25
+FT
+Zhejiang
+Taishan
+2
+2","[""FT"", ""2"", ""2""]"
+13522651,2025-10-18,27,Yunnan Yukun,Tianjin Jinmen Tiger,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-tianjin-jinmen-tiger/rrbsQZOd#id:13522651,2026-09-25T15:22:37.262429+00:00,"18/10/25
+FT
+Yukun
+Jinmen Tiger
+2
+0","[""FT"", ""2"", ""0""]"
+13522652,2025-10-19,27,Dalian Yingbo FC,Wuhan Three Towns,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-wuhan-three-towns/cdtcsRZOd#id:13522652,2026-09-25T15:22:37.262429+00:00,"19/10/25
+FT
+Dalian Yingbo
+Three Towns
+0
+0","[""FT"", ""0"", ""0""]"
+13522653,2025-10-19,27,Henan FC,Changchun Yatai,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-henan-fc-jiuzu-dukang/RTnsUTn#id:13522653,2026-09-25T15:22:37.262429+00:00,"19/10/25
+FT
+Henan
+Yatai
+2
+0","[""FT"", ""2"", ""0""]"
+13522636,2025-09-26,26,Shanghai Shenhua,Meizhou Hakka,6,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shanghai-shenhua/yrbsLdLb#id:13522636,2026-09-25T15:22:38.186020+00:00,"26/09/25
+FT
+Shenhua
+Hakka
+6
+1","[""FT"", ""6"", ""1""]"
+13522637,2025-09-26,26,Beijing Guoan,Dalian Yingbo FC,4,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:13522637,2026-09-25T15:22:38.186020+00:00,"26/09/25
+FT
+Guoan
+Dalian Yingbo
+4
+2","[""FT"", ""4"", ""2""]"
+13522639,2025-09-26,26,Shanghai Port,Wuhan Three Towns,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shanghai-port/MFqscdtc#id:13522639,2026-09-25T15:22:38.186020+00:00,"26/09/25
+FT
+Port
+Three Towns
+3
+2","[""FT"", ""3"", ""2""]"
+13522638,2025-09-26,26,Zhejiang,Chengdu Rongcheng,3,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-zhejiang/XTnsQzNb#id:13522638,2026-09-25T15:22:38.186020+00:00,"26/09/25
+FT
+Zhejiang
+Chengdu
+3
+3","[""FT"", ""3"", ""3""]"
+13522640,2025-09-27,26,Changchun Yatai,Qingdao Hainiu,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-changchun-yatai/UTnsVTn#id:13522640,2026-09-25T15:22:38.186020+00:00,"27/09/25
+FT
+Yatai
+Hainiu
+2
+2","[""FT"", ""2"", ""2""]"
+13522641,2025-09-27,26,Shandong Taishan,Yunnan Yukun,,,Postponed,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shandong-taishan/wrbsQZOd#id:13522641,2026-09-25T15:22:38.186020+00:00,"27/09/25
+Postponed
+Taishan
+Yukun","[""Postponed"", """", """"]"
+13522643,2025-09-28,26,Tianjin Jinmen Tiger,Henan FC,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-tianjin-jinmen-tiger/rrbsRTn#id:13522643,2026-09-25T15:22:38.186020+00:00,"28/09/25
+FT
+Jinmen Tiger
+Henan
+1
+0","[""FT"", ""1"", ""0""]"
+13522644,2025-09-28,26,Shenzhen Peng City,Qingdao West Coast,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shenzhen-peng-city/GBmcsHPXc#id:13522644,2026-09-25T15:22:38.186020+00:00,"28/09/25
+FT
+Shenzhen
+Qingdao
+1
+2","[""FT"", ""1"", ""2""]"
+14636006,2025-10-04,26,Shandong Taishan,Yunnan Yukun,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shandong-taishan/wrbsQZOd#id:14636006,2026-09-25T15:22:38.186020+00:00,"04/10/25
+FT
+Taishan
+Yukun
+1
+1","[""FT"", ""1"", ""1""]"
+13522630,2025-09-19,25,Wuhan Three Towns,Henan FC,2,5,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-henan-fc-jiuzu-dukang/RTnscdtc#id:13522630,2026-09-25T15:22:39.116406+00:00,"19/09/25
+FT
+Three Towns
+Henan
+2
+5","[""FT"", ""2"", ""5""]"
+13522627,2025-09-19,25,Yunnan Yukun,Dalian Yingbo FC,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-yunnan-yukun/QZOdsRZOd#id:13522627,2026-09-25T15:22:39.116406+00:00,"19/09/25
+FT
+Yukun
+Dalian Yingbo
+1
+1","[""FT"", ""1"", ""1""]"
+13522628,2025-09-20,25,Changchun Yatai,Zhejiang,3,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-changchun-yatai/UTnsXTn#id:13522628,2026-09-25T15:22:39.116406+00:00,"20/09/25
+FT
+Yatai
+Zhejiangx2
+3
+3","[""FT"", ""3"", ""3""]"
+13522629,2025-09-20,25,Meizhou Hakka,Qingdao West Coast,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-meizhou-hakka/LdLbsHPXc#id:13522629,2026-09-25T15:22:39.116406+00:00,"20/09/25
+FT
+Hakka
+Qingdao
+1
+2","[""FT"", ""1"", ""2""]"
+13522631,2025-09-20,25,Qingdao Hainiu,Shandong Taishan,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-shandong-taishan/wrbsVTn#id:13522631,2026-09-25T15:22:39.116406+00:00,"20/09/25
+FT
+Hainiu
+Taishan
+2
+2","[""FT"", ""2"", ""2""]"
+13522632,2025-09-21,25,Beijing Guoan,Shanghai Port,2,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:13522632,2026-09-25T15:22:39.116406+00:00,"21/09/25
+FT
+Guoan
+Port
+2
+3","[""FT"", ""2"", ""3""]"
+13522633,2025-09-21,25,Tianjin Jinmen Tiger,Shenzhen Peng City,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-tianjin-jinmen-tiger/rrbsGBmc#id:13522633,2026-09-25T15:22:39.116406+00:00,"21/09/25
+FT
+Jinmen Tiger
+Shenzhen
+1
+0","[""FT"", ""1"", ""0""]"
+13522634,2025-09-21,25,Shanghai Shenhua,Chengdu Rongcheng,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shanghai-shenhua/yrbsQzNb#id:13522634,2026-09-25T15:22:39.116406+00:00,"21/09/25
+FT
+Shenhua
+Chengdu
+1
+1","[""FT"", ""1"", ""1""]"
+13522619,2025-09-12,24,Shanghai Port,Yunnan Yukun,4,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shanghai-port/MFqsQZOd#id:13522619,2026-09-25T15:22:40.036147+00:00,"12/09/25
+FT
+Port
+Yukun
+4
+2","[""FT"", ""4"", ""2""]"
+13522620,2025-09-12,24,Chengdu Rongcheng,Changchun Yatai,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-changchun-yatai/UTnsQzNb#id:13522620,2026-09-25T15:22:40.036147+00:00,"12/09/25
+FT
+Chengdu
+Yatai
+1
+0","[""FT"", ""1"", ""0""]"
+13522621,2025-09-12,24,Henan FC,Beijing Guoan,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-beijing-guoan/BrbsRTn#id:13522621,2026-09-25T15:22:40.036147+00:00,"12/09/25
+FT
+Henan
+Guoan
+2
+0","[""FT"", ""2"", ""0""]"
+13522622,2025-09-12,24,Shanghai Shenhua,Shandong Taishan,3,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-shenhua-shandong-taishan/wrbsyrb#id:13522622,2026-09-25T15:22:40.036147+00:00,"12/09/25
+FT
+Shenhua
+Taishan
+3
+3","[""FT"", ""3"", ""3""]"
+13522623,2025-09-13,24,Meizhou Hakka,Qingdao Hainiu,,,Postponed,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-qingdao-hainiu/VTnsLdLb#id:13522623,2026-09-25T15:22:40.036147+00:00,"13/09/25
+Postponed
+Hakka
+Hainiu","[""Postponed"", """", """"]"
+13522624,2025-09-13,24,Qingdao West Coast,Zhejiang,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-zhejiang/XTnsHPXc#id:13522624,2026-09-25T15:22:40.036147+00:00,"13/09/25
+FT
+Qingdao
+Zhejiang
+0
+2","[""FT"", ""0"", ""2""]"
+13522625,2025-09-14,24,Dalian Yingbo FC,Shenzhen Peng City,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shenzhen-peng-city/GBmcsRZOd#id:13522625,2026-09-25T15:22:40.036147+00:00,"14/09/25
+FT
+Dalian Yingbo
+Shenzhen
+2
+1","[""FT"", ""2"", ""1""]"
+13522626,2025-09-14,24,Tianjin Jinmen Tiger,Wuhan Three Towns,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-tianjin-jinmen-tiger/rrbscdtc#id:13522626,2026-09-25T15:22:40.036147+00:00,"14/09/25
+FT
+Jinmen Tiger
+Three Towns
+4
+0","[""FT"", ""4"", ""0""]"
+14468703,2025-10-04,24,Meizhou Hakka,Qingdao Hainiu,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-qingdao-hainiu/VTnsLdLb#id:14468703,2026-09-25T15:22:40.036147+00:00,"04/10/25
+FT
+Hakka
+Hainiu
+1
+0","[""FT"", ""1"", ""0""]"
+13522612,2025-08-20,23,Zhejiang,Tianjin Jinmen Tiger,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-tianjin-jinmen-tiger/rrbsXTn#id:13522612,2026-09-25T15:22:41.274135+00:00,"20/08/25
+FT
+Zhejiang
+Jinmen Tiger
+2
+0","[""FT"", ""2"", ""0""]"
+13522611,2025-08-29,23,Qingdao Hainiu,Henan FC,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-henan-fc-jiuzu-dukang/RTnsVTn#id:13522611,2026-09-25T15:22:41.274135+00:00,"29/08/25
+FT
+Hainiu
+Henan
+1
+1","[""FT"", ""1"", ""1""]"
+13522614,2025-08-30,23,Chengdu Rongcheng,Shanghai Port,4,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shanghai-port/MFqsQzNb#id:13522614,2026-09-25T15:22:41.274135+00:00,"30/08/25
+FT
+Chengdu
+Port
+4
+1","[""FT"", ""4"", ""1""]"
+13522615,2025-08-30,23,Yunnan Yukun,Changchun Yatai,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-changchun-yatai/UTnsQZOd#id:13522615,2026-09-25T15:22:41.274135+00:00,"30/08/25
+FT
+Yukun
+Yatai
+1
+1","[""FT"", ""1"", ""1""]"
+13522616,2025-08-31,23,Wuhan Three Towns,Shanghai Shenhua,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shanghai-shenhua/yrbscdtc#id:13522616,2026-09-25T15:22:41.274135+00:00,"31/08/25
+FT
+Three Towns
+Shenhua
+1
+0","[""FT"", ""1"", ""0""]"
+13522618,2025-08-31,23,Shandong Taishan,Beijing Guoan,6,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-shandong-taishan/wrbsBrb#id:13522618,2026-09-25T15:22:41.274135+00:00,"31/08/25
+FT
+Taishan
+Guoan
+6
+0","[""FT"", ""6"", ""0""]"
+13522617,2025-08-31,23,Shenzhen Peng City,Meizhou Hakka,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-meizhou-hakka/LdLbsGBmc#id:13522617,2026-09-25T15:22:41.274135+00:00,"31/08/25
+FT
+Shenzhen
+Hakka
+2
+0","[""FT"", ""2"", ""0""]"
+14468708,2025-10-04,23,Dalian Yingbo FC,Qingdao West Coast,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-qingdao-west-coast/HPXcsRZOd#id:14468708,2026-09-25T15:22:41.274135+00:00,"04/10/25
+FT
+Dalian Yingbo
+Qingdao
+0
+2","[""FT"", ""0"", ""2""]"
+13522608,2025-08-23,22,Qingdao Hainiu,Shanghai Shenhua,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-shanghai-shenhua/yrbsVTn#id:13522608,2026-09-25T15:22:42.247143+00:00,"23/08/25
+FT
+Hainiu
+Shenhua
+0
+2","[""FT"", ""0"", ""2""]"
+13522604,2025-08-23,22,Yunnan Yukun,Chengdu Rongcheng,1,5,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-chengdu-rongcheng/QzNbsQZOd#id:13522604,2026-09-25T15:22:42.247143+00:00,"23/08/25
+FT
+Yukun
+Chengdu
+1
+5","[""FT"", ""1"", ""5""]"
+13522607,2025-08-24,22,Changchun Yatai,Shenzhen Peng City,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-changchun-yatai/UTnsGBmc#id:13522607,2026-09-25T15:22:42.247143+00:00,"24/08/25
+FT
+Yatai
+Shenzhen
+1
+0","[""FT"", ""1"", ""0""]"
+13522606,2025-08-24,22,Meizhou Hakka,Zhejiang,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-zhejiang/XTnsLdLb#id:13522606,2026-09-25T15:22:42.247143+00:00,"24/08/25
+FT
+Hakka
+Zhejiang
+2
+2","[""FT"", ""2"", ""2""]"
+13522603,2025-08-24,22,Shanghai Port,Tianjin Jinmen Tiger,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-tianjin-jinmen-tiger/rrbsMFq#id:13522603,2026-09-25T15:22:42.247143+00:00,"24/08/25
+FT
+Port
+Jinmen Tiger
+1
+1","[""FT"", ""1"", ""1""]"
+13522609,2025-08-24,22,Henan FC,Dalian Yingbo FC,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-henan-fc-jiuzu-dukang/RTnsRZOd#id:13522609,2026-09-25T15:22:42.247143+00:00,"24/08/25
+FT
+Henan
+Dalian Yingbo
+4
+0","[""FT"", ""4"", ""0""]"
+13522610,2025-08-24,22,Shandong Taishan,Qingdao West Coast,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shandong-taishan/wrbsHPXc#id:13522610,2026-09-25T15:22:42.247143+00:00,"24/08/25
+FT
+Taishan
+Qingdao
+3
+2","[""FT"", ""3"", ""2""]"
+13522605,2025-08-25,22,Beijing Guoan,Wuhan Three Towns,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-beijing-guoan/Brbscdtc#id:13522605,2026-09-25T15:22:42.247143+00:00,"25/08/25
+FT
+Guoan
+Three Towns
+4
+0","[""FT"", ""4"", ""0""]"
+13522595,2025-08-15,21,Shanghai Port,Henan FC,4,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-henan-fc-jiuzu-dukang/RTnsMFq#id:13522595,2026-09-25T15:22:43.209329+00:00,"15/08/25
+FT
+Port
+Henan
+4
+1","[""FT"", ""4"", ""1""]"
+13522596,2025-08-15,21,Yunnan Yukun,Wuhan Three Towns,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-wuhan-three-towns/cdtcsQZOd#id:13522596,2026-09-25T15:22:43.209329+00:00,"15/08/25
+FT
+Yukun
+Three Towns
+2
+1","[""FT"", ""2"", ""1""]"
+13522597,2025-08-16,21,Tianjin Jinmen Tiger,Dalian Yingbo FC,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-tianjin-jinmen-tiger/rrbsRZOd#id:13522597,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Jinmen Tiger
+Dalian Yingbo
+2
+0","[""FT"", ""2"", ""0""]"
+13522599,2025-08-16,21,Changchun Yatai,Meizhou Hakka,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-changchun-yatai/UTnsLdLb#id:13522599,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Yatai
+Hakka
+1
+0","[""FT"", ""1"", ""0""]"
+13522598,2025-08-16,21,Qingdao West Coast,Beijing Guoan,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-beijing-guoan/BrbsHPXc#id:13522598,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Qingdao
+Guoan
+1
+3","[""FT"", ""1"", ""3""]"
+13522600,2025-08-16,21,Shenzhen Peng City,Shandong Taishan,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shandong-taishan/wrbsGBmc#id:13522600,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Shenzhen
+Taishan
+1
+3","[""FT"", ""1"", ""3""]"
+13522601,2025-08-16,21,Zhejiang,Shanghai Shenhua,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-shanghai-shenhua/yrbsXTn#id:13522601,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Zhejiang
+Shenhua
+0
+0","[""FT"", ""0"", ""0""]"
+13522602,2025-08-16,21,Chengdu Rongcheng,Qingdao Hainiu,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-qingdao-hainiu/VTnsQzNb#id:13522602,2026-09-25T15:22:43.209329+00:00,"16/08/25
+FT
+Chengdu
+Hainiu
+0
+0","[""FT"", ""0"", ""0""]"
+13522586,2025-08-08,20,Dalian Yingbo FC,Chengdu Rongcheng,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-chengdu-rongcheng/QzNbsRZOd#id:13522586,2026-09-25T15:22:44.877267+00:00,"08/08/25
+FT
+Dalian Yingbo
+Chengdu
+0
+2","[""FT"", ""0"", ""2""]"
+13522587,2025-08-08,20,Henan FC,Shenzhen Peng City,4,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-henan-fc-jiuzu-dukang/RTnsGBmc#id:13522587,2026-09-25T15:22:44.877267+00:00,"08/08/25
+FT
+Henan
+Shenzhen
+4
+1","[""FT"", ""4"", ""1""]"
+13522588,2025-08-09,20,Shandong Taishan,Changchun Yatai,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-shandong-taishan/wrbsUTn#id:13522588,2026-09-25T15:22:44.877267+00:00,"09/08/25
+FT
+Taishan
+Yatai
+2
+1","[""FT"", ""2"", ""1""]"
+13522589,2025-08-09,20,Shanghai Shenhua,Shanghai Port,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-shanghai-shenhua/yrbsMFq#id:13522589,2026-09-25T15:22:44.877267+00:00,"09/08/25
+FT
+Shenhua
+Port
+1
+2","[""FT"", ""1"", ""2""]"
+13522590,2025-08-09,20,Qingdao Hainiu,Yunnan Yukun,5,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-qingdao-hainiu/VTnsQZOd#id:13522590,2026-09-25T15:22:44.877267+00:00,"09/08/25
+FT
+Hainiu
+Yukun
+5
+1","[""FT"", ""5"", ""1""]"
+13522591,2025-08-10,20,Tianjin Jinmen Tiger,Qingdao West Coast,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-tianjin-jinmen-tiger/rrbsHPXc#id:13522591,2026-09-25T15:22:44.877267+00:00,"10/08/25
+FT
+Jinmen Tiger
+Qingdao
+0
+0","[""FT"", ""0"", ""0""]"
+13522593,2025-08-10,20,Zhejiang,Beijing Guoan,3,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-beijing-guoan/BrbsXTn#id:13522593,2026-09-25T15:22:44.877267+00:00,"10/08/25
+FT
+Zhejiang
+Guoan
+3
+4","[""FT"", ""3"", ""4""]"
+13522594,2025-08-10,20,Wuhan Three Towns,Meizhou Hakka,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-meizhou-hakka/LdLbscdtc#id:13522594,2026-09-25T15:22:44.877267+00:00,"10/08/25
+FT
+Three Towns
+Hakka
+1
+2","[""FT"", ""1"", ""2""]"
+13522577,2025-08-02,19,Yunnan Yukun,Shanghai Shenhua,4,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shanghai-shenhua/yrbsQZOd#id:13522577,2026-09-25T15:22:49.250467+00:00,"02/08/25
+FT
+Yukun
+Shenhua
+4
+4","[""FT"", ""4"", ""4""]"
+13522579,2025-08-02,19,Chengdu Rongcheng,Shandong Taishan,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shandong-taishan/wrbsQzNb#id:13522579,2026-09-25T15:22:49.250467+00:00,"02/08/25
+FT
+Chengdu
+Taishan
+2
+1","[""FT"", ""2"", ""1""]"
+13522578,2025-08-02,19,Qingdao West Coast,Henan FC,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-henan-fc-jiuzu-dukang/RTnsHPXc#id:13522578,2026-09-25T15:22:49.250467+00:00,"02/08/25
+FT
+Qingdao 
+Henan
+2
+1","[""FT"", ""2"", ""1""]"
+13522580,2025-08-02,19,Meizhou Hakka,Shanghai Port,2,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shanghai-port/MFqsLdLb#id:13522580,2026-09-25T15:22:49.250467+00:00,"02/08/25
+FT
+Hakka
+Port
+2
+4","[""FT"", ""2"", ""4""]"
+13522581,2025-08-03,19,Dalian Yingbo FC,Qingdao Hainiu,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-qingdao-hainiu/VTnsRZOd#id:13522581,2026-09-25T15:22:49.250467+00:00,"03/08/25
+FT
+Dalian Yingbo
+Hainiu
+2
+0","[""FT"", ""2"", ""0""]"
+13522582,2025-08-03,19,Beijing Guoan,Tianjin Jinmen Tiger,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-tianjin-jinmen-tiger/rrbsBrb#id:13522582,2026-09-25T15:22:49.250467+00:00,"03/08/25
+FT
+Guoan
+Jinmen Tiger
+2
+2","[""FT"", ""2"", ""2""]"
+13522584,2025-08-03,19,Wuhan Three Towns,Changchun Yatai,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-changchun-yatai/UTnscdtc#id:13522584,2026-09-25T15:22:49.250467+00:00,"03/08/25
+FT
+Three Towns
+Yatai
+0
+0","[""FT"", ""0"", ""0""]"
+13522585,2025-08-03,19,Shenzhen Peng City,Zhejiang,2,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-zhejiang/XTnsGBmc#id:13522585,2026-09-25T15:22:49.250467+00:00,"03/08/25
+FT
+Shenzhen
+Zhejiang
+2
+4","[""FT"", ""2"", ""4""]"
+13522569,2025-07-26,18,Shanghai Port,Qingdao West Coast,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shanghai-port/MFqsHPXc#id:13522569,2026-09-25T15:22:50.302417+00:00,"26/07/25
+FT
+Port
+Qingdao
+2
+2","[""FT"", ""2"", ""2""]"
+13522570,2025-07-26,18,Chengdu Rongcheng,Beijing Guoan,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-beijing-guoan/BrbsQzNb#id:13522570,2026-09-25T15:22:50.302417+00:00,"26/07/25
+FT
+Chengdu
+Guoan
+2
+0","[""FT"", ""2"", ""0""]"
+13522571,2025-07-26,18,Yunnan Yukun,Shenzhen Peng City,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shenzhen-peng-city/GBmcsQZOd#id:13522571,2026-09-25T15:22:50.302417+00:00,"26/07/25
+FT
+Yukun
+Shenzhen
+3
+1","[""FT"", ""3"", ""1""]"
+13522573,2025-07-27,18,Changchun Yatai,Dalian Yingbo FC,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-changchun-yatai/UTnsRZOd#id:13522573,2026-09-25T15:22:50.302417+00:00,"27/07/25
+FT
+Yatai
+Dalian Yingbo
+0
+2","[""FT"", ""0"", ""2""]"
+13522572,2025-07-27,18,Qingdao Hainiu,Tianjin Jinmen Tiger,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-tianjin-jinmen-tiger/rrbsVTn#id:13522572,2026-09-25T15:22:50.302417+00:00,"27/07/25
+FT
+Hainiu
+Jinmen Tiger
+2
+0","[""FT"", ""2"", ""0""]"
+13522574,2025-07-27,18,Shanghai Shenhua,Henan FC,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-shanghai-shenhua/yrbsRTn#id:13522574,2026-09-25T15:22:50.302417+00:00,"27/07/25
+FT
+Shenhua
+Henan
+3
+2","[""FT"", ""3"", ""2""]"
+13522575,2025-07-27,18,Zhejiang,Wuhan Three Towns,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-zhejiang/XTnscdtc#id:13522575,2026-09-25T15:22:50.302417+00:00,"27/07/25
+FT
+Zhejiang
+Three Towns
+3
+2","[""FT"", ""3"", ""2""]"
+13522576,2025-07-27,18,Shandong Taishan,Meizhou Hakka,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shandong-taishan/wrbsLdLb#id:13522576,2026-09-25T15:22:50.302927+00:00,"27/07/25
+FT
+Taishan
+Hakka
+3
+0","[""FT"", ""3"", ""0""]"
+13522562,2025-07-18,17,Changchun Yatai,Shanghai Port,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-changchun-yatai/UTnsMFq#id:13522562,2026-09-25T15:22:51.381701+00:00,"18/07/25
+FT
+Yatai
+Port
+1
+3","[""FT"", ""1"", ""3""]"
+13522561,2025-07-18,17,Wuhan Three Towns,Qingdao West Coast,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-wuhan-three-towns/cdtcsHPXc#id:13522561,2026-09-25T15:22:51.381701+00:00,"18/07/25
+FT
+Three Towns
+Qingdao
+1
+1","[""FT"", ""1"", ""1""]"
+13522563,2025-07-18,17,Tianjin Jinmen Tiger,Chengdu Rongcheng,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-tianjin-jinmen-tiger/rrbsQzNb#id:13522563,2026-09-25T15:22:51.381701+00:00,"18/07/25
+FT
+Jinmen Tiger
+Chengdu
+2
+1","[""FT"", ""2"", ""1""]"
+13522564,2025-07-18,17,Zhejiang,Yunnan Yukun,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-zhejiang/XTnsQZOd#id:13522564,2026-09-25T15:22:51.381701+00:00,"18/07/25
+FT
+Zhejiang
+Yukun
+3
+1","[""FT"", ""3"", ""1""]"
+13522565,2025-07-19,17,Dalian Yingbo FC,Shandong Taishan,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shandong-taishan/wrbsRZOd#id:13522565,2026-09-25T15:22:51.381701+00:00,"19/07/25
+FT
+Dalian Yingbo
+Taishan
+2
+0","[""FT"", ""2"", ""0""]"
+13522567,2025-07-19,17,Beijing Guoan,Shanghai Shenhua,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:13522567,2026-09-25T15:22:51.381701+00:00,"19/07/25
+FT
+Guoan
+Shenhua
+1
+3","[""FT"", ""1"", ""3""]"
+13522566,2025-07-19,17,Shenzhen Peng City,Qingdao Hainiu,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-qingdao-hainiu/VTnsGBmc#id:13522566,2026-09-25T15:22:51.381701+00:00,"19/07/25
+FT
+Shenzhen
+Hainiu
+4
+0","[""FT"", ""4"", ""0""]"
+13522568,2025-07-19,17,Henan FC,Meizhou Hakka,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-henan-fc-jiuzu-dukang/RTnsLdLb#id:13522568,2026-09-25T15:22:51.382236+00:00,"19/07/25
+FT
+Henan
+Hakka
+1
+1","[""FT"", ""1"", ""1""]"
+13522553,2025-06-29,16,Changchun Yatai,Shanghai Shenhua,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-shanghai-shenhua/yrbsUTn#id:13522553,2026-09-25T15:22:52.342038+00:00,"29/06/25
+FT
+Yatai
+Shenhua
+1
+2","[""FT"", ""1"", ""2""]"
+13522554,2025-06-29,16,Qingdao West Coast,Qingdao Hainiu,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-qingdao-hainiu/VTnsHPXc#id:13522554,2026-09-25T15:22:52.342038+00:00,"29/06/25
+FT
+Qingdao
+Hainiu
+1
+0","[""FT"", ""1"", ""0""]"
+13522555,2025-06-29,16,Meizhou Hakka,Tianjin Jinmen Tiger,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-tianjin-jinmen-tiger/rrbsLdLb#id:13522555,2026-09-25T15:22:52.342038+00:00,"29/06/25
+FT
+Hakka
+Jinmen Tiger
+1
+2","[""FT"", ""1"", ""2""]"
+13522556,2025-06-29,16,Wuhan Three Towns,Chengdu Rongcheng,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-chengdu-rongcheng/QzNbscdtc#id:13522556,2026-09-25T15:22:52.342038+00:00,"29/06/25
+FT
+Three Towns
+Chengdu
+2
+2","[""FT"", ""2"", ""2""]"
+13522557,2025-06-30,16,Henan FC,Shandong Taishan,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-shandong-taishan/wrbsRTn#id:13522557,2026-09-25T15:22:52.342038+00:00,"30/06/25
+FT
+Henan
+Taishan
+2
+2","[""FT"", ""2"", ""2""]"
+13522559,2025-06-30,16,Beijing Guoan,Yunnan Yukun,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13522559,2026-09-25T15:22:52.342038+00:00,"30/06/25
+FT
+Guoan
+Yukun
+2
+1","[""FT"", ""2"", ""1""]"
+13522558,2025-06-30,16,Dalian Yingbo FC,Zhejiang,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-zhejiang/XTnsRZOd#id:13522558,2026-09-25T15:22:52.342038+00:00,"30/06/25
+FT
+Dalian Yingbo
+Zhejiang
+1
+0","[""FT"", ""1"", ""0""]"
+13522560,2025-06-30,16,Shenzhen Peng City,Shanghai Port,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-port/MFqsGBmc#id:13522560,2026-09-25T15:22:52.342038+00:00,"30/06/25
+FT
+Shenzhen
+Port
+1
+2","[""FT"", ""1"", ""2""]"
+13398750,2025-06-25,15,Qingdao Hainiu,Zhejiang,0,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-qingdao-hainiu/VTnsXTn#id:13398750,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Hainiu
+Zhejiang
+0
+3","[""FT"", ""0"", ""3""]"
+13398749,2025-06-25,15,Shanghai Shenhua,Tianjin Jinmen Tiger,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13398749,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Shenhua
+Jinmen Tiger
+3
+0","[""FT"", ""3"", ""0""]"
+13398752,2025-06-25,15,Changchun Yatai,Qingdao West Coast,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-changchun-yatai/UTnsHPXc#id:13398752,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Yatai
+Qingdao
+1
+0","[""FT"", ""1"", ""0""]"
+13398753,2025-06-25,15,Meizhou Hakka,Beijing Guoan,0,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13398753,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Hakka
+Guoan
+0
+4","[""FT"", ""0"", ""4""]"
+13398751,2025-06-25,15,Shandong Taishan,Wuhan Three Towns,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:13398751,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Taishan
+Three Towns
+3
+1","[""FT"", ""3"", ""1""]"
+13398754,2025-06-25,15,Chengdu Rongcheng,Shenzhen Peng City,5,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:13398754,2026-09-25T15:22:53.315236+00:00,"25/06/25
+FT
+Chengdu
+Shenzhen
+5
+0","[""FT"", ""5"", ""0""]"
+13522551,2025-06-26,15,Shanghai Port,Dalian Yingbo FC,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522551,2026-09-25T15:22:53.315236+00:00,"26/06/25
+FT
+Port
+Dalian Yingbo
+3
+0","[""FT"", ""3"", ""0""]"
+13522552,2025-06-26,15,Yunnan Yukun,Henan FC,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-henan-fc-jiuzu-dukang/RTnsQZOd#id:13522552,2026-09-25T15:22:53.315236+00:00,"26/06/25
+FT
+Yukun
+Henan
+2
+1","[""FT"", ""2"", ""1""]"
+13522543,2025-06-13,14,Dalian Yingbo FC,Meizhou Hakka,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-meizhou-hakka/LdLbsRZOd#id:13522543,2026-09-25T15:22:54.306267+00:00,"13/06/25
+FT
+Dalian Yingbo
+Hakka
+1
+0","[""FT"", ""1"", ""0""]"
+13522544,2025-06-13,14,Wuhan Three Towns,Qingdao Hainiu,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-qingdao-hainiu/VTnscdtc#id:13522544,2026-09-25T15:22:54.306267+00:00,"13/06/25
+FT
+Three Towns
+Hainiu
+2
+0","[""FT"", ""2"", ""0""]"
+13522545,2025-06-14,14,Zhejiang,Shanghai Port,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-zhejiang/XTnsMFq#id:13522545,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Zhejiang
+Port
+2
+2","[""FT"", ""2"", ""2""]"
+13522547,2025-06-14,14,Beijing Guoan,Changchun Yatai,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-beijing-guoan/BrbsUTn#id:13522547,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Guoan
+Yatai
+2
+1","[""FT"", ""2"", ""1""]"
+13522546,2025-06-14,14,Qingdao West Coast,Yunnan Yukun,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-qingdao-west-coast/HPXcsQZOd#id:13522546,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Qingdao
+Yukun
+0
+0","[""FT"", ""0"", ""0""]"
+13522549,2025-06-14,14,Henan FC,Chengdu Rongcheng,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-henan-fc-jiuzu-dukang/RTnsQzNb#id:13522549,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Henan
+Chengdu
+3
+2","[""FT"", ""3"", ""2""]"
+13522548,2025-06-14,14,Shenzhen Peng City,Shanghai Shenhua,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:13522548,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Shenzhen
+Shenhua
+3
+1","[""FT"", ""3"", ""1""]"
+13522550,2025-06-14,14,Tianjin Jinmen Tiger,Shandong Taishan,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shandong-taishan-tianjin-jinmen-tiger/rrbswrb#id:13522550,2026-09-25T15:22:54.306267+00:00,"14/06/25
+FT
+Jinmen Tiger
+Taishan
+1
+0","[""FT"", ""1"", ""0""]"
+13400442,2025-05-16,13,Zhejiang,Henan FC,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-henan-fc-jiuzu-dukang/RTnsXTn#id:13400442,2026-09-25T15:22:55.368641+00:00,"16/05/25
+FT
+Zhejiang
+Henan
+2
+2","[""FT"", ""2"", ""2""]"
+13400444,2025-05-16,13,Yunnan Yukun,Meizhou Hakka,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-meizhou-hakka/LdLbsQZOd#id:13400444,2026-09-25T15:22:55.368641+00:00,"16/05/25
+FT
+Yukun
+Hakka
+2
+0","[""FT"", ""2"", ""0""]"
+13400439,2025-05-17,13,Dalian Yingbo FC,Shanghai Shenhua,0,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shanghai-shenhua/yrbsRZOd#id:13400439,2026-09-25T15:22:55.368641+00:00,"17/05/25
+FT
+Dalian Yingbo
+Shenhua
+0
+3","[""FT"", ""0"", ""3""]"
+13522539,2025-05-17,13,Changchun Yatai,Tianjin Jinmen Tiger,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-tianjin-jinmen-tiger/rrbsUTn#id:13522539,2026-09-25T15:22:55.368641+00:00,"17/05/25
+FT
+Yatai
+Jinmen Tiger
+1
+2","[""FT"", ""1"", ""2""]"
+13522541,2025-05-17,13,Chengdu Rongcheng,Qingdao West Coast,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-chengdu-rongcheng/QzNbsHPXc#id:13522541,2026-09-25T15:22:55.368641+00:00,"17/05/25
+FT
+Chengdu
+Qingdao
+1
+1","[""FT"", ""1"", ""1""]"
+13522540,2025-05-17,13,Qingdao Hainiu,Beijing Guoan,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:13522540,2026-09-25T15:22:55.368641+00:00,"17/05/25
+FT
+Hainiu
+Guoan
+1
+1","[""FT"", ""1"", ""1""]"
+13522542,2025-05-17,13,Shanghai Port,Shandong Taishan,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-shandong-taishan/wrbsMFq#id:13522542,2026-09-25T15:22:55.368641+00:00,"17/05/25
+FT
+Port
+Taishan
+1
+1","[""FT"", ""1"", ""1""]"
+13907314,2025-06-18,13,Shenzhen Peng City,Wuhan Three Towns,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shenzhen-peng-city/GBmcscdtc#id:13907314,2026-09-25T15:22:55.368641+00:00,"18/06/25
+FT
+Shenzhen
+Three Towns
+1
+2","[""FT"", ""1"", ""2""]"
+13400436,2025-05-09,12,Shanghai Port,Qingdao Hainiu,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-qingdao-hainiu/VTnsMFq#id:13400436,2026-09-25T15:22:56.407469+00:00,"09/05/25
+FT
+Port
+Hainiu
+3
+1","[""FT"", ""3"", ""1""]"
+13400446,2025-05-10,12,Shanghai Shenhua,Qingdao West Coast,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shanghai-shenhua/yrbsHPXc#id:13400446,2026-09-25T15:22:56.407469+00:00,"10/05/25
+FT
+Shenhua
+Qingdao
+4
+0","[""FT"", ""4"", ""0""]"
+13400437,2025-05-10,12,Meizhou Hakka,Chengdu Rongcheng,0,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-meizhou-hakka/LdLbsQzNb#id:13400437,2026-09-25T15:22:56.407469+00:00,"10/05/25
+FT
+Hakka
+Chengdu
+0
+4","[""FT"", ""0"", ""4""]"
+13400435,2025-05-10,12,Shandong Taishan,Zhejiang,4,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-shandong-taishan/wrbsXTn#id:13400435,2026-09-25T15:22:56.407469+00:00,"10/05/25
+FT
+Taishan
+Zhejiang
+4
+2","[""FT"", ""4"", ""2""]"
+13400434,2025-05-10,12,Beijing Guoan,Shenzhen Peng City,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-beijing-guoan/BrbsGBmc#id:13400434,2026-09-25T15:22:56.407469+00:00,"10/05/25
+FT
+Guoan
+Shenzhen
+3
+1","[""FT"", ""3"", ""1""]"
+13400431,2025-05-11,12,Changchun Yatai,Henan FC,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-henan-fc-jiuzu-dukang/RTnsUTn#id:13400431,2026-09-25T15:22:56.407469+00:00,"11/05/25
+FT
+Yatai
+Henan
+0
+1","[""FT"", ""0"", ""1""]"
+13400438,2025-05-11,12,Tianjin Jinmen Tiger,Yunnan Yukun,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-tianjin-jinmen-tiger/rrbsQZOd#id:13400438,2026-09-25T15:22:56.407469+00:00,"11/05/25
+FT
+Jinmen Tiger
+Yukun
+0
+1","[""FT"", ""0"", ""1""]"
+13400443,2025-05-11,12,Wuhan Three Towns,Dalian Yingbo FC,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-wuhan-three-towns/cdtcsRZOd#id:13400443,2026-09-25T15:22:56.407469+00:00,"11/05/25
+FT
+Three Towns
+Dalian Yingbo
+2
+2","[""FT"", ""2"", ""2""]"
+13400428,2025-05-05,11,Dalian Yingbo FC,Beijing Guoan,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:13400428,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Dalian Yingbo
+Guoan
+0
+2","[""FT"", ""0"", ""2""]"
+13400429,2025-05-05,11,Henan FC,Tianjin Jinmen Tiger,3,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-tianjin-jinmen-tiger/rrbsRTn#id:13400429,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Henan
+Jinmen Tiger
+3
+4","[""FT"", ""3"", ""4""]"
+13400430,2025-05-05,11,Wuhan Three Towns,Shanghai Port,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shanghai-port/MFqscdtc#id:13400430,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Three Towns
+Port
+0
+2","[""FT"", ""0"", ""2""]"
+13400433,2025-05-05,11,Chengdu Rongcheng,Zhejiang,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-zhejiang/XTnsQzNb#id:13400433,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Chengdu
+Zhejiang
+2
+1","[""FT"", ""2"", ""1""]"
+13400432,2025-05-05,11,Qingdao Hainiu,Changchun Yatai,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-changchun-yatai/UTnsVTn#id:13400432,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Hainiu
+Yatai
+3
+0","[""FT"", ""3"", ""0""]"
+13400441,2025-05-05,11,Yunnan Yukun,Shandong Taishan,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shandong-taishan/wrbsQZOd#id:13400441,2026-09-25T15:22:57.390036+00:00,"05/05/25
+FT
+Yukun
+Taishan
+3
+2","[""FT"", ""3"", ""2""]"
+13400445,2025-05-06,11,Meizhou Hakka,Shanghai Shenhua,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shanghai-shenhua/yrbsLdLb#id:13400445,2026-09-25T15:22:57.390036+00:00,"06/05/25
+FT
+Hakka
+Shenhua
+1
+3","[""FT"", ""1"", ""3""]"
+13400440,2025-05-06,11,Qingdao West Coast,Shenzhen Peng City,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shenzhen-peng-city/GBmcsHPXc#id:13400440,2026-09-25T15:22:57.390036+00:00,"06/05/25
+FT
+Qingdao
+Shenzhen
+0
+0","[""FT"", ""0"", ""0""]"
+13400420,2025-05-01,10,Dalian Yingbo FC,Yunnan Yukun,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-yunnan-yukun/QZOdsRZOd#id:13400420,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Dalian Yingbo
+Yukun
+3
+2","[""FT"", ""3"", ""2""]"
+13400421,2025-05-01,10,Shenzhen Peng City,Tianjin Jinmen Tiger,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-tianjin-jinmen-tiger/rrbsGBmc#id:13400421,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Shenzhen
+Jinmen Tiger
+1
+0","[""FT"", ""1"", ""0""]"
+13400424,2025-05-01,10,Henan FC,Wuhan Three Towns,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-henan-fc-jiuzu-dukang/RTnscdtc#id:13400424,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Henan
+Three Towns
+1
+2","[""FT"", ""1"", ""2""]"
+13400422,2025-05-01,10,Zhejiang,Changchun Yatai,4,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-changchun-yatai/UTnsXTn#id:13400422,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Zhejiang
+Yatai
+4
+2","[""FT"", ""4"", ""2""]"
+13400423,2025-05-01,10,Shandong Taishan,Qingdao Hainiu,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-shandong-taishan/wrbsVTn#id:13400423,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Taishan
+Hainiu
+1
+1","[""FT"", ""1"", ""1""]"
+13400425,2025-05-01,10,Shanghai Port,Beijing Guoan,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:13400425,2026-09-25T15:22:58.361673+00:00,"01/05/25
+FT
+Port
+Guoan
+1
+2","[""FT"", ""1"", ""2""]"
+13400426,2025-05-02,10,Qingdao West Coast,Meizhou Hakka,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-meizhou-hakka/LdLbsHPXc#id:13400426,2026-09-25T15:22:58.361673+00:00,"02/05/25
+FT
+Qingdao
+Hakka
+3
+1","[""FT"", ""3"", ""1""]"
+13400427,2025-05-02,10,Chengdu Rongcheng,Shanghai Shenhua,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shanghai-shenhua/yrbsQzNb#id:13400427,2026-09-25T15:22:58.361673+00:00,"02/05/25
+FT
+Chengdu
+Shenhua
+1
+0","[""FT"", ""1"", ""0""]"
+13400411,2025-04-25,9,Beijing Guoan,Henan FC,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-beijing-guoan/BrbsRTn#id:13400411,2026-09-25T15:22:59.335125+00:00,"25/04/25
+FT
+Guoan
+Henan
+1
+0","[""FT"", ""1"", ""0""]"
+13400412,2025-04-25,9,Yunnan Yukun,Shanghai Port,2,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shanghai-port/MFqsQZOd#id:13400412,2026-09-25T15:22:59.335125+00:00,"25/04/25
+FT
+Yukun
+Port
+2
+3","[""FT"", ""2"", ""3""]"
+13400416,2025-04-26,9,Changchun Yatai,Chengdu Rongcheng,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-changchun-yatai/UTnsQzNb#id:13400416,2026-09-25T15:22:59.335125+00:00,"26/04/25
+FT
+Yatai
+Chengdu
+1
+2","[""FT"", ""1"", ""2""]"
+13400415,2025-04-26,9,Shenzhen Peng City,Dalian Yingbo FC,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shenzhen-peng-city/GBmcsRZOd#id:13400415,2026-09-25T15:22:59.335125+00:00,"26/04/25
+FT
+Shenzhen
+Dalian Yingbo
+1
+1","[""FT"", ""1"", ""1""]"
+13400413,2025-04-26,9,Shandong Taishan,Shanghai Shenhua,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-shenhua-shandong-taishan/wrbsyrb#id:13400413,2026-09-25T15:22:59.335125+00:00,"26/04/25
+FT
+Taishan
+Shenhua
+0
+1","[""FT"", ""0"", ""1""]"
+13400418,2025-04-27,9,Wuhan Three Towns,Tianjin Jinmen Tiger,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-tianjin-jinmen-tiger/rrbscdtc#id:13400418,2026-09-25T15:22:59.335125+00:00,"27/04/25
+FT
+Three Towns
+Jinmen Tiger
+2
+1","[""FT"", ""2"", ""1""]"
+13400419,2025-04-27,9,Qingdao Hainiu,Meizhou Hakka,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-qingdao-hainiu/VTnsLdLb#id:13400419,2026-09-25T15:22:59.335125+00:00,"27/04/25
+FT
+Hainiu
+Hakka
+1
+1","[""FT"", ""1"", ""1""]"
+13400417,2025-04-27,9,Zhejiang,Qingdao West Coast,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-zhejiang/XTnsHPXc#id:13400417,2026-09-25T15:22:59.335125+00:00,"27/04/25
+FT
+Zhejiang
+Qingdao
+2
+1","[""FT"", ""2"", ""1""]"
+13400403,2025-04-19,8,Shanghai Shenhua,Wuhan Three Towns,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-shanghai-shenhua/yrbscdtc#id:13400403,2026-09-25T15:23:00.332598+00:00,"19/04/25
+FT
+Shenhua
+Three Towns
+2
+0","[""FT"", ""2"", ""0""]"
+13400405,2025-04-19,8,Beijing Guoan,Shandong Taishan,6,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-shandong-taishan/wrbsBrb#id:13400405,2026-09-25T15:23:00.332598+00:00,"19/04/25
+FT
+Guoan
+Taishanx2
+6
+1","[""FT"", ""6"", ""1""]"
+13400404,2025-04-20,8,Changchun Yatai,Yunnan Yukun,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-changchun-yatai/UTnsQZOd#id:13400404,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Yatai
+Yukun
+0
+0","[""FT"", ""0"", ""0""]"
+13400408,2025-04-20,8,Henan FC,Qingdao Hainiu,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-henan-fc-jiuzu-dukang/RTnsVTn#id:13400408,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Henan
+Hainiu
+3
+1","[""FT"", ""3"", ""1""]"
+13400407,2025-04-20,8,Qingdao West Coast,Dalian Yingbo FC,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-qingdao-west-coast/HPXcsRZOd#id:13400407,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Qingdao
+Dalian Yingbo
+2
+0","[""FT"", ""2"", ""0""]"
+13400409,2025-04-20,8,Meizhou Hakka,Shenzhen Peng City,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-meizhou-hakka/LdLbsGBmc#id:13400409,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Hakka
+Shenzhen
+3
+0","[""FT"", ""3"", ""0""]"
+13400414,2025-04-20,8,Shanghai Port,Chengdu Rongcheng,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shanghai-port/MFqsQzNb#id:13400414,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Port
+Chengdu
+1
+3","[""FT"", ""1"", ""3""]"
+13400410,2025-04-20,8,Tianjin Jinmen Tiger,Zhejiang,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-tianjin-jinmen-tiger/rrbsXTn#id:13400410,2026-09-25T15:23:00.332598+00:00,"20/04/25
+FT
+Jinmen Tiger
+Zhejiang
+2
+0","[""FT"", ""2"", ""0""]"
+13400393,2025-04-15,7,Qingdao West Coast,Shandong Taishan,1,5,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shandong-taishan/wrbsHPXc#id:13400393,2026-09-25T15:23:01.378698+00:00,"15/04/25
+FT
+Qingdao
+Taishan
+1
+5","[""FT"", ""1"", ""5""]"
+13400396,2025-04-15,7,Wuhan Three Towns,Beijing Guoan,4,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-beijing-guoan/Brbscdtc#id:13400396,2026-09-25T15:23:01.378698+00:00,"15/04/25
+FT
+Three Towns
+Guoan
+4
+4","[""FT"", ""4"", ""4""]"
+13400394,2025-04-15,7,Shenzhen Peng City,Changchun Yatai,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-changchun-yatai/UTnsGBmc#id:13400394,2026-09-25T15:23:01.378698+00:00,"15/04/25
+FT
+Shenzhen
+Yatai
+3
+1","[""FT"", ""3"", ""1""]"
+13400397,2025-04-16,7,Tianjin Jinmen Tiger,Shanghai Port,1,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-tianjin-jinmen-tiger/rrbsMFq#id:13400397,2026-09-25T15:23:01.378698+00:00,"16/04/25
+FT
+Jinmen Tiger
+Port
+1
+4","[""FT"", ""1"", ""4""]"
+13400399,2025-04-16,7,Dalian Yingbo FC,Henan FC,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-henan-fc-jiuzu-dukang/RTnsRZOd#id:13400399,2026-09-25T15:23:01.378698+00:00,"16/04/25
+FT
+Dalian Yingbo
+Henan
+1
+0","[""FT"", ""1"", ""0""]"
+13400402,2025-04-16,7,Zhejiang,Meizhou Hakka,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-zhejiang/XTnsLdLb#id:13400402,2026-09-25T15:23:01.378698+00:00,"16/04/25
+FT
+Zhejiang
+Hakka
+2
+2","[""FT"", ""2"", ""2""]"
+13400398,2025-04-16,7,Chengdu Rongcheng,Yunnan Yukun,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-chengdu-rongcheng/QzNbsQZOd#id:13400398,2026-09-25T15:23:01.378698+00:00,"16/04/25
+FT
+Chengdu
+Yukun
+1
+1","[""FT"", ""1"", ""1""]"
+13400401,2025-04-16,7,Shanghai Shenhua,Qingdao Hainiu,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-shanghai-shenhua/yrbsVTn#id:13400401,2026-09-25T15:23:01.378698+00:00,"16/04/25
+FT
+Shenhua
+Hainiu
+3
+2","[""FT"", ""3"", ""2""]"
+13400388,2025-04-11,6,Meizhou Hakka,Changchun Yatai,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-changchun-yatai/UTnsLdLb#id:13400388,2026-09-25T15:23:02.349764+00:00,"11/04/25
+FT
+Hakka
+Yatai
+1
+3","[""FT"", ""1"", ""3""]"
+13400383,2025-04-11,6,Shandong Taishan,Shenzhen Peng City,4,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shandong-taishan/wrbsGBmc#id:13400383,2026-09-25T15:23:02.349764+00:00,"11/04/25
+FT
+Taishan
+Shenzhen
+4
+0","[""FT"", ""4"", ""0""]"
+13400386,2025-04-12,6,Dalian Yingbo FC,Tianjin Jinmen Tiger,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-tianjin-jinmen-tiger/rrbsRZOd#id:13400386,2026-09-25T15:23:02.349764+00:00,"12/04/25
+FT
+Dalian Yingbo
+Jinmen Tiger
+1
+1","[""FT"", ""1"", ""1""]"
+13400392,2025-04-12,6,Qingdao Hainiu,Chengdu Rongcheng,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-qingdao-hainiu/VTnsQzNb#id:13400392,2026-09-25T15:23:02.349764+00:00,"12/04/25
+FT
+Hainiu
+Chengdu
+0
+1","[""FT"", ""0"", ""1""]"
+13400395,2025-04-12,6,Wuhan Three Towns,Yunnan Yukun,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-wuhan-three-towns/cdtcsQZOd#id:13400395,2026-09-25T15:23:02.349764+00:00,"12/04/25
+FT
+Three Towns
+Yukun
+3
+1","[""FT"", ""3"", ""1""]"
+13400400,2025-04-12,6,Shanghai Shenhua,Zhejiang,3,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-shanghai-shenhua/yrbsXTn#id:13400400,2026-09-25T15:23:02.349764+00:00,"12/04/25
+FT
+Shenhua
+Zhejiang
+3
+2","[""FT"", ""3"", ""2""]"
+13763651,2025-05-15,6,Henan FC,Shanghai Port,,,Postponed,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-henan-fc-jiuzu-dukang/RTnsMFq#id:13763651,2026-09-25T15:23:02.349764+00:00,"15/05/25
+Postponed
+Henan
+Port","[""Postponed"", """", """"]"
+13885524,2025-06-17,6,Beijing Guoan,Qingdao West Coast,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-beijing-guoan/BrbsHPXc#id:13885524,2026-09-25T15:23:02.349764+00:00,"17/06/25
+FT
+Guoan
+Qingdao
+1
+0","[""FT"", ""1"", ""0""]"
+13885475,2025-06-18,6,Henan FC,Shanghai Port,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-henan-fc-jiuzu-dukang/RTnsMFq#id:13885475,2026-09-25T15:23:02.349764+00:00,"18/06/25
+FT
+Henan
+Port
+1
+3","[""FT"", ""1"", ""3""]"
+13400375,2025-04-05,5,Shenzhen Peng City,Henan FC,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-henan-fc-jiuzu-dukang/RTnsGBmc#id:13400375,2026-09-25T15:23:03.311739+00:00,"05/04/25
+FT
+Shenzhen
+Henan
+1
+3","[""FT"", ""1"", ""3""]"
+13400378,2025-04-06,5,Changchun Yatai,Shandong Taishan,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-shandong-taishan/wrbsUTn#id:13400378,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Yatai
+Taishan
+1
+2","[""FT"", ""1"", ""2""]"
+13400385,2025-04-06,5,Qingdao West Coast,Tianjin Jinmen Tiger,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-tianjin-jinmen-tiger/rrbsHPXc#id:13400385,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Qingdao
+Jinmen Tiger
+2
+2","[""FT"", ""2"", ""2""]"
+13400382,2025-04-06,5,Chengdu Rongcheng,Dalian Yingbo FC,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-chengdu-rongcheng/QzNbsRZOd#id:13400382,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Chengdu
+Dalian Yingbo
+2
+0","[""FT"", ""2"", ""0""]"
+13400380,2025-04-06,5,Meizhou Hakka,Wuhan Three Towns,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-meizhou-hakka/LdLbscdtc#id:13400380,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Hakka
+Three Towns
+3
+1","[""FT"", ""3"", ""1""]"
+13400384,2025-04-06,5,Beijing Guoan,Zhejiang,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/zhejiang-beijing-guoan/BrbsXTn#id:13400384,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Guoan
+Zhejiang
+2
+0","[""FT"", ""2"", ""0""]"
+13400390,2025-04-06,5,Shanghai Port,Shanghai Shenhua,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-shanghai-shenhua/yrbsMFq#id:13400390,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Port
+Shenhua
+1
+1","[""FT"", ""1"", ""1""]"
+13400389,2025-04-06,5,Yunnan Yukun,Qingdao Hainiu,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-qingdao-hainiu/VTnsQZOd#id:13400389,2026-09-25T15:23:03.311739+00:00,"06/04/25
+FT
+Yukun
+Hainiu
+1
+0","[""FT"", ""1"", ""0""]"
+13400360,2025-04-01,4,Henan FC,Qingdao West Coast,2,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-henan-fc-jiuzu-dukang/RTnsHPXc#id:13400360,2026-09-25T15:23:04.353347+00:00,"01/04/25
+FT
+Henan
+Qingdao
+2
+3","[""FT"", ""2"", ""3""]"
+13400369,2025-04-01,4,Zhejiang,Shenzhen Peng City,3,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-zhejiang/XTnsGBmc#id:13400369,2026-09-25T15:23:04.353347+00:00,"01/04/25
+FT
+Zhejiang
+Shenzhen
+3
+0","[""FT"", ""3"", ""0""]"
+13400364,2025-04-02,4,Changchun Yatai,Wuhan Three Towns,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-changchun-yatai/UTnscdtc#id:13400364,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Yatai
+Three Towns
+1
+1","[""FT"", ""1"", ""1""]"
+13400366,2025-04-02,4,Shanghai Shenhua,Yunnan Yukun,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shanghai-shenhua/yrbsQZOd#id:13400366,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Shenhua
+Yukun
+3
+1","[""FT"", ""3"", ""1""]"
+13400361,2025-04-02,4,Qingdao Hainiu,Dalian Yingbo FC,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-qingdao-hainiu/VTnsRZOd#id:13400361,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Hainiu
+Dalian Yingbo
+1
+1","[""FT"", ""1"", ""1""]"
+13400374,2025-04-02,4,Shandong Taishan,Chengdu Rongcheng,0,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-shandong-taishan/wrbsQzNb#id:13400374,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Taishan
+Chengdu
+0
+3","[""FT"", ""0"", ""3""]"
+13400377,2025-04-02,4,Tianjin Jinmen Tiger,Beijing Guoan,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-tianjin-jinmen-tiger/rrbsBrb#id:13400377,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Jinmen Tiger
+Guoan
+2
+2","[""FT"", ""2"", ""2""]"
+13400376,2025-04-02,4,Shanghai Port,Meizhou Hakka,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shanghai-port/MFqsLdLb#id:13400376,2026-09-25T15:23:04.353347+00:00,"02/04/25
+FT
+Port
+Hakka
+2
+1","[""FT"", ""2"", ""1""]"
+13400372,2025-03-28,3,Qingdao West Coast,Shanghai Port,3,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-shanghai-port/MFqsHPXc#id:13400372,2026-09-25T15:23:05.335237+00:00,"28/03/25
+FT
+Qingdao
+Port
+3
+3","[""FT"", ""3"", ""3""]"
+13400362,2025-03-28,3,Wuhan Three Towns,Zhejiang,0,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-zhejiang/XTnscdtc#id:13400362,2026-09-25T15:23:05.335237+00:00,"28/03/25
+FT
+Three Towns
+Zhejiang
+0
+4","[""FT"", ""0"", ""4""]"
+13400352,2025-03-28,3,Shenzhen Peng City,Yunnan Yukun,3,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-shenzhen-peng-city/GBmcsQZOd#id:13400352,2026-09-25T15:23:05.335237+00:00,"28/03/25
+FT
+Shenzhen
+Yukun
+3
+4","[""FT"", ""3"", ""4""]"
+13400365,2025-03-29,3,Dalian Yingbo FC,Changchun Yatai,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-changchun-yatai/UTnsRZOd#id:13400365,2026-09-25T15:23:05.335237+00:00,"29/03/25
+FT
+Dalian Yingbo
+Yatai
+2
+0","[""FT"", ""2"", ""0""]"
+13400379,2025-03-29,3,Tianjin Jinmen Tiger,Qingdao Hainiu,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-hainiu-tianjin-jinmen-tiger/rrbsVTn#id:13400379,2026-09-25T15:23:05.335237+00:00,"29/03/25
+FT
+Jinmen Tiger
+Hainiux2
+1
+0","[""FT"", ""1"", ""0""]"
+13400367,2025-03-29,3,Henan FC,Shanghai Shenhua,1,3,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-shanghai-shenhua/yrbsRTn#id:13400367,2026-09-25T15:23:05.335237+00:00,"29/03/25
+FT
+Henan
+Shenhua
+1
+3","[""FT"", ""1"", ""3""]"
+13400368,2025-03-29,3,Meizhou Hakka,Shandong Taishan,3,4,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-shandong-taishan/wrbsLdLb#id:13400368,2026-09-25T15:23:05.335237+00:00,"29/03/25
+FT
+Hakka
+Taishan
+3
+4","[""FT"", ""3"", ""4""]"
+13400363,2025-03-29,3,Beijing Guoan,Chengdu Rongcheng,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-beijing-guoan/BrbsQzNb#id:13400363,2026-09-25T15:23:05.335237+00:00,"29/03/25
+FT
+Guoan
+Chengdu
+1
+1","[""FT"", ""1"", ""1""]"
+13400348,2025-02-22,1,Chengdu Rongcheng,Wuhan Three Towns,1,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/wuhan-three-towns-chengdu-rongcheng/QzNbscdtc#id:13400348,2026-09-25T15:23:07.339680+00:00,"22/02/25
+FT
+Chengdu
+Three Towns
+1
+0","[""FT"", ""1"", ""0""]"
+13400381,2025-02-22,1,Shanghai Shenhua,Changchun Yatai,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/changchun-yatai-shanghai-shenhua/yrbsUTn#id:13400381,2026-09-25T15:23:07.339680+00:00,"22/02/25
+FT
+Shenhua
+Yatai
+2
+1","[""FT"", ""2"", ""1""]"
+13400350,2025-02-22,1,Yunnan Yukun,Beijing Guoan,0,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350,2026-09-25T15:23:07.339680+00:00,"22/02/25
+FT
+Yukun
+Guoan
+0
+2","[""FT"", ""0"", ""2""]"
+13400351,2025-02-23,1,Qingdao Hainiu,Qingdao West Coast,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-qingdao-hainiu/VTnsHPXc#id:13400351,2026-09-25T15:23:07.339680+00:00,"23/02/25
+FT
+Hainiu
+Qingdao
+2
+2","[""FT"", ""2"", ""2""]"
+13400359,2025-02-23,1,Shandong Taishan,Henan FC,0,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-shandong-taishan/wrbsRTn#id:13400359,2026-09-25T15:23:07.339680+00:00,"23/02/25
+FT
+Taishan
+Henan
+0
+0","[""FT"", ""0"", ""0""]"
+13400349,2025-02-23,1,Tianjin Jinmen Tiger,Meizhou Hakka,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-tianjin-jinmen-tiger/rrbsLdLb#id:13400349,2026-09-25T15:23:07.339680+00:00,"23/02/25
+FT
+Jinmen Tiger
+Hakka
+2
+2","[""FT"", ""2"", ""2""]"
+13400357,2025-02-23,1,Zhejiang,Dalian Yingbo FC,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-zhejiang/XTnsRZOd#id:13400357,2026-09-25T15:23:07.339680+00:00,"23/02/25
+FT
+Zhejiang
+Dalian Yingbo
+1
+1","[""FT"", ""1"", ""1""]"
+13400356,2025-02-23,1,Shanghai Port,Shenzhen Peng City,3,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-port/MFqsGBmc#id:13400356,2026-09-25T15:23:07.339680+00:00,"23/02/25
+FT
+Port
+Shenzhen
+3
+1","[""FT"", ""3"", ""1""]"
+13400354,2025-02-28,2,Shandong Taishan,Dalian Yingbo FC,4,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/dalian-yingbo-fc-shandong-taishan/wrbsRZOd#id:13400354,2026-09-25T15:28:43.918541+00:00,"28/02/25
+FT
+Taishan
+Dalian Yingbo
+4
+1","[""FT"", ""4"", ""1""]"
+13400347,2025-02-28,2,Shanghai Port,Changchun Yatai,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shanghai-port-changchun-yatai/UTnsMFq#id:13400347,2026-09-25T15:28:43.918541+00:00,"28/02/25
+FT
+Port
+Yatai
+2
+0","[""FT"", ""2"", ""0""]"
+13400373,2025-03-01,2,Qingdao Hainiu,Shenzhen Peng City,0,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/shenzhen-peng-city-qingdao-hainiu/VTnsGBmc#id:13400373,2026-09-25T15:28:43.918541+00:00,"01/03/25
+FT
+Hainiu
+Shenzhen
+0
+1","[""FT"", ""0"", ""1""]"
+13400358,2025-03-01,2,Meizhou Hakka,Henan FC,2,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/meizhou-hakka-henan-fc-jiuzu-dukang/RTnsLdLb#id:13400358,2026-09-25T15:28:43.918541+00:00,"01/03/25
+FT
+Hakka
+Henan
+2
+1","[""FT"", ""2"", ""1""]"
+13400371,2025-03-01,2,Shanghai Shenhua,Beijing Guoan,2,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:13400371,2026-09-25T15:28:43.918541+00:00,"01/03/25
+FT
+Shenhua
+Guoan
+2
+2","[""FT"", ""2"", ""2""]"
+13400353,2025-03-01,2,Yunnan Yukun,Zhejiang,1,1,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/yunnan-yukun-zhejiang/XTnsQZOd#id:13400353,2026-09-25T15:28:43.918541+00:00,"01/03/25
+FT
+Yukun
+Zhejiang
+1
+1","[""FT"", ""1"", ""1""]"
+13400355,2025-03-02,2,Chengdu Rongcheng,Tianjin Jinmen Tiger,1,2,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/chengdu-rongcheng-tianjin-jinmen-tiger/rrbsQzNb#id:13400355,2026-09-25T15:28:43.918541+00:00,"02/03/25
+FT
+Chengdu
+Jinmen Tiger
+1
+2","[""FT"", ""1"", ""2""]"
+13400370,2025-03-03,2,Qingdao West Coast,Wuhan Three Towns,2,0,FT,Sofascore webpage DOM,https://www.sofascore.com/football/match/qingdao-west-coast-wuhan-three-towns/cdtcsHPXc#id:13400370,2026-09-25T15:28:43.918541+00:00,"03/03/25
+FT
+Qingdao
+Three Towns
+2
+0","[""FT"", ""2"", ""0""]"

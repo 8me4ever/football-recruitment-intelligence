@@ -1,0 +1,883 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "FT BC Dubai 78 - 77 Real Madrid":
+    - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+    - img
+    - text: FT
+    - img "BC Dubai"
+    - text: 78 - 77
+    - img "Real Madrid"
+  - link "FT DR Congo 2 - 0 Equatorial Guinea":
+    - /url: /football/match/equatorial-guinea-dr-congo/yWbsHkd#id:17018596
+    - img
+    - text: FT
+    - img "DR Congo"
+    - text: 2 - 0
+    - img "Equatorial Guinea"
+  - link "FT KK Crvena zvezda 77 - 83 Kauno Žalgiris":
+    - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+    - img
+    - text: FT
+    - img "KK Crvena zvezda"
+    - text: 77 - 83
+    - img "Kauno Žalgiris"
+  - link "FT Netherlands 1 - 1 Germany":
+    - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+    - img
+    - text: FT
+    - img "Netherlands"
+    - text: 1 - 1
+    - img "Germany"
+  - link "FT Serbia 1 - 2 Greece":
+    - /url: /football/match/serbia-greece/kUbsfCc#id:15534071
+    - img
+    - text: FT
+    - img "Serbia"
+    - text: 1 - 2
+    - img "Greece"
+  - link "FT Portugal 1 - 0 Wales":
+    - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+    - img
+    - text: FT
+    - img "Portugal"
+    - text: 1 - 0
+    - img "Wales"
+  - link "FT Norway 3 - 2 Denmark":
+    - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+    - img
+    - text: FT
+    - img "Norway"
+    - text: 3 - 2
+    - img "Denmark"
+  - link "FT Austria 3 - 1 Israel":
+    - /url: /football/match/austria-israel/FObstUb#id:15534155
+    - img
+    - text: FT
+    - img "Austria"
+    - text: 3 - 1
+    - img "Israel"
+  - link "FT Côte d'Ivoire 2 - 0 Ghana":
+    - /url: /football/match/cote-divoire-ghana/oVbstVb#id:17018592
+    - img
+    - text: FT
+    - img "Côte d'Ivoire"
+    - text: 2 - 0
+    - img "Ghana"
+  - link "FT Australia 1 - 1 Brazil":
+    - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+    - img
+    - text: FT
+    - img "Australia"
+    - text: 1 - 1
+    - img "Brazil"
+  - text: Tomorrow
+  - link "01:00 Beşiktaş JK - Valencia Basket":
+    - /url: /basketball/match/besiktas-gain-valencia-basket/VvbsDIc#id:16670556
+    - img
+    - text: 01:00
+    - img "Beşiktaş JK"
+    - text: "-"
+    - img "Valencia Basket"
+  - link "01:05 Boston Red Sox - Chicago Cubs":
+    - /url: /baseball/match/boston-red-sox-chicago-cubs/CxbsWxb#id:15507820
+    - img
+    - text: 01:05
+    - img "Boston Red Sox"
+    - text: "-"
+    - img "Chicago Cubs"
+  - link "01:45 Fenerbahçe Tarfin - Virtus Bologna":
+    - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+    - img
+    - text: 01:45
+    - img "Fenerbahçe Tarfin"
+    - text: "-"
+    - img "Virtus Bologna"
+  - link "02:45 Türkiye - France":
+    - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+    - img
+    - text: 02:45
+    - img "Türkiye"
+    - text: "-"
+    - img "France"
+  - link "02:45 Italy - Belgium":
+    - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+    - img
+    - text: 02:45
+    - img "Italy"
+    - text: "-"
+    - img "Belgium"
+  - link "02:45 Poland - Bosnia & Herzegovina":
+    - /url: /football/match/poland-bosnia-and-herzegovina/EObsdUb#id:15534167
+    - img
+    - text: 02:45
+    - img "Poland"
+    - text: "-"
+    - img "Bosnia & Herzegovina"
+  - link "02:45 KK Partizan Mozzart Bet - EA7 Emporio Armani Milano":
+    - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+    - img
+    - text: 02:45
+    - img "KK Partizan Mozzart Bet"
+    - text: "-"
+    - img "EA7 Emporio Armani Milano"
+  - link "03:00 Morocco - Gabon":
+    - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+    - img
+    - text: 03:00
+    - img "Morocco"
+    - text: "-"
+    - img "Gabon"
+  - link "03:00 Egypt - Angola":
+    - /url: /football/match/egypt-angola/RTbsiVb#id:17018557
+    - img
+    - text: 03:00
+    - img "Egypt"
+    - text: "-"
+    - img "Angola"
+  - link "07:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507800
+    - img
+    - text: 07:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "21:45 Olympiacos BC - AEK BC":
+    - /url: /basketball/match/aek-bc-olympiacos-bc/bvbscvb#id:17135038
+    - img
+    - text: 21:45
+    - img "Olympiacos BC"
+    - text: "-"
+    - img "AEK BC"
+  - link "22:00 England - New Zealand":
+    - /url: /rugby/match/new-zealand-england/cRpbskRpb#id:17051537
+    - img
+    - text: 22:00
+    - img "England"
+    - text: "-"
+    - img "New Zealand"
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - heading "Chinese Super League standings, fixtures, results and stats" [level=1]
+  - img "Chinese Super League"
+  - heading "Chinese Super League" [level=2]
+  - text: 19k followers
+  - img "China"
+  - text: China Select season in unique tournament header
+  - combobox "Select season in unique tournament header":
+    - text: "2025"
+    - img
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - text: Winner
+  - link "Shanghai Port 2025 Shanghai Port":
+    - /url: /football/team/shanghai-port/41537
+    - img "Shanghai Port"
+    - text: 2025 Shanghai Port
+    - img
+  - heading "Featured" [level=3]
+  - link "22/11/2025 15:30 Dalian Yingbo FC Dalian Yingbo 0 - 1 Finished Shanghai Port Port":
+    - /url: /football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678
+    - text: 22/11/2025 15:30
+    - img "Dalian Yingbo FC"
+    - text: Dalian Yingbo 0 - 1 Finished
+    - img "Shanghai Port"
+    - text: Port
+  - text: Matches
+  - scrollbar:
+    - tablist:
+      - tab "By date"
+      - tab "By round" [selected]
+  - tabpanel:
+    - button:
+      - img
+    - text: Select item in event list
+    - combobox "Select item in event list":
+      - text: Round 30
+      - img
+    - button [disabled]:
+      - img
+    - img "Chinese Super League"
+    - link "Chinese Super League":
+      - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - link "China China":
+      - /url: /football/china
+      - img "China"
+      - text: China
+    - link "22/11/25 FT Beijing Guoan Guoan Meizhou Hakka Hakka 5 1":
+      - /url: /football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670
+      - text: 22/11/25 FT
+      - img "Beijing Guoan"
+      - text: Guoan
+      - img "Meizhou Hakka"
+      - text: Hakka 5 1
+      - button:
+        - img
+    - link "22/11/25 FT Dalian Yingbo FC Dalian Yingbo Shanghai Port Port 0 1":
+      - /url: /football/match/dalian-yingbo-fc-shanghai-port/MFqsRZOd#id:13522678
+      - text: 22/11/25 FT
+      - img "Dalian Yingbo FC"
+      - text: Dalian Yingbo
+      - img "Shanghai Port"
+      - text: Port 0 1
+      - button:
+        - img
+    - link "22/11/25 FT Henan FC Henan Yunnan Yukun Yukun 1 1":
+      - /url: /football/match/yunnan-yukun-henan-fc-jiuzu-dukang/RTnsQZOd#id:13522674
+      - text: 22/11/25 FT
+      - img "Henan FC"
+      - text: Henan
+      - img "Yunnan Yukun"
+      - text: Yukun 1 1
+      - button:
+        - img
+    - link "22/11/25 FT Qingdao West Coast Qingdao Changchun Yatai Yatai 1 0":
+      - /url: /football/match/qingdao-west-coast-changchun-yatai/UTnsHPXc#id:13522675
+      - text: 22/11/25 FT
+      - img "Qingdao West Coast"
+      - text: Qingdao
+      - img "Changchun Yatai"
+      - text: Yatai 1 0
+      - button:
+        - img
+    - link "22/11/25 FT Shenzhen Peng City Shenzhen Chengdu Rongcheng Chengdu 1 1":
+      - /url: /football/match/shenzhen-peng-city-chengdu-rongcheng/QzNbsGBmc#id:13522677
+      - text: 22/11/25 FT
+      - img "Shenzhen Peng City"
+      - text: Shenzhen
+      - img "Chengdu Rongcheng"
+      - text: Chengdu 1 1
+      - button:
+        - img
+    - link "22/11/25 FT Tianjin Jinmen Tiger Jinmen Tiger Shanghai Shenhua Shenhua 1 3":
+      - /url: /football/match/shanghai-shenhua-tianjin-jinmen-tiger/rrbsyrb#id:13522671
+      - text: 22/11/25 FT
+      - img "Tianjin Jinmen Tiger"
+      - text: Jinmen Tiger
+      - img "Shanghai Shenhua"
+      - text: Shenhua 1 3
+      - button:
+        - img
+    - link "22/11/25 FT Wuhan Three Towns Three Towns Shandong Taishan Taishan 1 5":
+      - /url: /football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:13522676
+      - text: 22/11/25 FT
+      - img "Wuhan Three Towns"
+      - text: Three Towns
+      - img "Shandong Taishan"
+      - text: Taishan 1 5
+      - button:
+        - img
+    - link "22/11/25 FT Zhejiang Zhejiang Qingdao Hainiu Hainiu 2 2":
+      - /url: /football/match/zhejiang-qingdao-hainiu/VTnsXTn#id:13522673
+      - text: 22/11/25 FT
+      - img "Zhejiang"
+      - text: Zhejiang
+      - img
+      - img "Qingdao Hainiu"
+      - text: Hainiu 2 2
+      - button:
+        - img
+  - img
+  - img
+  - img
+  - text: Player of the Season
+  - img
+  - link "Cryzan Shandong Taishan":
+    - /url: /football/player/cryzan/794884#tab:matches
+    - img
+    - text: Cryzan
+    - img
+    - text: Shandong Taishan
+  - meter
+  - link "See more":
+    - /url: /football/player-of-the-season
+    - text: See more
+    - img
+  - text: Team of the Season Select round in team of the week
+  - combobox "Select round in team of the week":
+    - text: Season
+    - img
+  - button:
+    - img
+  - img
+  - text: Team of the Season shows the top-rated players at each position, based on their average rating across the season.
+  - button:
+    - img
+  - link "Zhen Ma Z. Ma Yunnan Yukun 7.18":
+    - /url: /football/player/zhen-ma/977993
+    - img "Zhen Ma"
+    - text: Z. Ma
+    - img "Yunnan Yukun"
+    - meter
+  - link "Timo Letschert T. Letschert Chengdu Rongcheng 7.65":
+    - /url: /football/player/timo-letschert/317691
+    - img "Timo Letschert"
+    - text: T. Letschert
+    - img "Chengdu Rongcheng"
+    - meter
+  - link "Rade Dugalić R. Dugalić Shenzhen Peng City 7.26":
+    - /url: /football/player/rade-dugalic/114442
+    - img "Rade Dugalić"
+    - text: R. Dugalić
+    - img "Shenzhen Peng City"
+    - meter
+  - link "Lucas Maia Lucão Henan FC 7.29":
+    - /url: /football/player/lucas-maia/1016889
+    - img "Lucas Maia"
+    - text: Lucão
+    - img "Henan FC"
+    - meter
+  - link "Mateus Vital M. Vital Shanghai Port 7.55":
+    - /url: /football/player/mateus-vital/823653
+    - img "Mateus Vital"
+    - text: M. Vital
+    - img "Shanghai Port"
+    - meter
+  - link "Rômulo Rômulo Chengdu Rongcheng 7.83":
+    - /url: /football/player/romulo/609730
+    - img "Rômulo"
+    - text: Rômulo
+    - img "Chengdu Rongcheng"
+    - meter
+  - link "Cryzan Cryzan Shandong Taishan 7.88":
+    - /url: /football/player/cryzan/794884
+    - img "Cryzan"
+    - text: Cryzan
+    - img "Shandong Taishan"
+    - meter
+  - link "Bruno Nazário B. Nazário Henan FC 7.80":
+    - /url: /football/player/bruno-nazario/288247
+    - img "Bruno Nazário"
+    - text: B. Nazário
+    - img "Henan FC"
+    - meter
+  - link "Valeri Qazaishvili V. Qazaishvili Shandong Taishan 7.83":
+    - /url: /football/player/valeri-qazaishvili/97022
+    - img "Valeri Qazaishvili"
+    - text: V. Qazaishvili
+    - img "Shandong Taishan"
+    - meter
+  - link "Felipe Silva F. Silva Chengdu Rongcheng 7.66":
+    - /url: /football/player/felipe-silva/866588
+    - img "Felipe Silva"
+    - text: F. Silva
+    - img "Chengdu Rongcheng"
+    - meter
+  - link "Fabio Abreu F. Abreu Beijing Guoan 7.83":
+    - /url: /football/player/fabio-abreu/343673
+    - img "Fabio Abreu"
+    - text: F. Abreu
+    - img "Beijing Guoan"
+    - meter
+  - img
+  - img
+  - img
+  - img
+  - text: "Published: 24 Nov"
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Advertisement
+  - iframe
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Standings" [selected]:
+        - link "Standings":
+          - /url: "#id:71364,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "Stats":
+        - link "Stats":
+          - /url: "#id:71364,tab:stats"
+          - heading "Stats" [level=2]
+      - tab "Details":
+        - link "Details":
+          - /url: "#id:71364,tab:details"
+          - heading "Details" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "All" [selected]
+        - tab "Home"
+        - tab "Away"
+    - button:
+      - img
+    - tabpanel:
+      - text: P W D L DIFF GLS Last 5 Pts
+      - link "1 Shanghai Port Port 30 20 6 4 +28 72:44 W W L W W 66":
+        - /url: /football/team/shanghai-port/41537
+        - text: "1"
+        - img "Shanghai Port"
+        - text: Port 30 20 6 4 +28 72:44
+        - link "W"
+        - link "W"
+        - link "L"
+        - link "W"
+        - link "W"
+        - text: "66"
+      - link "2 Shanghai Shenhua Shenhua 30 19 7 4 +32 67:35 W W D W W 64":
+        - /url: /football/team/shanghai-shenhua/3373
+        - text: "2"
+        - img "Shanghai Shenhua"
+        - text: Shenhua 30 19 7 4 +32 67:35
+        - link "W"
+        - link "W"
+        - link "D"
+        - link "W"
+        - link "W"
+        - text: "64"
+      - link "3 Chengdu Rongcheng Chengdu 30 17 9 4 +32 60:28 D W D L D 60":
+        - /url: /football/team/chengdu-rongcheng/221241
+        - text: "3"
+        - img "Chengdu Rongcheng"
+        - text: Chengdu 30 17 9 4 +32 60:28
+        - link "D"
+        - link "W"
+        - link "D"
+        - link "L"
+        - link "D"
+        - text: "60"
+      - link "4 Beijing Guoan Guoan 30 17 6 7 +23 69:46 W L L W W 57":
+        - /url: /football/team/beijing-guoan/3376
+        - text: "4"
+        - img "Beijing Guoan"
+        - text: Guoan 30 17 6 7 +23 69:46
+        - link "W"
+        - link "L"
+        - link "L"
+        - link "W"
+        - link "W"
+        - text: "57"
+      - link "5 Shandong Taishan Taishan 30 15 8 7 +23 69:46 D D W W W 53":
+        - /url: /football/team/shandong-taishan/3371
+        - text: "5"
+        - img "Shandong Taishan"
+        - text: Taishan 30 15 8 7 +23 69:46
+        - link "D"
+        - link "D"
+        - link "W"
+        - link "W"
+        - link "W"
+        - text: "53"
+      - link "6 Tianjin Jinmen Tiger Jinmen Tiger 30 12 8 10 -1 40:41 W L D L L 44":
+        - /url: /football/team/tianjin-jinmen-tiger/3367
+        - text: "6"
+        - img "Tianjin Jinmen Tiger"
+        - text: Jinmen Tiger 30 12 8 10 -1 40:41
+        - link "W"
+        - link "L"
+        - link "D"
+        - link "L"
+        - link "L"
+        - text: "44"
+      - link "7 Zhejiang Zhejiang 30 10 12 8 +9 60:51 D D D L D 42":
+        - /url: /football/team/zhejiang/34697
+        - text: "7"
+        - img "Zhejiang"
+        - text: Zhejiang 30 10 12 8 +9 60:51
+        - link "D"
+        - link "D"
+        - link "D"
+        - link "L"
+        - link "D"
+        - text: "42"
+      - link "8 Yunnan Yukun Yukun 30 11 9 10 -5 47:52 D W W W D 42":
+        - /url: /football/team/yunnan-yukun/474991
+        - text: "8"
+        - img "Yunnan Yukun"
+        - text: Yukun 30 11 9 10 -5 47:52
+        - link "D"
+        - link "W"
+        - link "W"
+        - link "W"
+        - link "D"
+        - text: "42"
+      - link "9 Qingdao West Coast Qingdao 30 10 10 10 -4 39:43 W L D L W 40":
+        - /url: /football/team/qingdao-west-coast/369532
+        - text: "9"
+        - img "Qingdao West Coast"
+        - text: Qingdao 30 10 10 10 -4 39:43
+        - link "W"
+        - link "L"
+        - link "D"
+        - link "L"
+        - link "W"
+        - text: "40"
+      - link "10 Henan FC Henan 30 10 7 13 +4 52:48 L W D W D 37":
+        - /url: /football/team/henan-songshan-longmen/34692
+        - text: "10"
+        - img "Henan FC"
+        - text: Henan 30 10 7 13 +4 52:48
+        - link "L"
+        - link "W"
+        - link "D"
+        - link "W"
+        - link "D"
+        - text: "37"
+      - link "11 Dalian Yingbo FC Dalian Yingbo 30 9 9 12 -15 30:45 L D D D L 36":
+        - /url: /football/team/dalian-young-boy-fc/474992
+        - text: "11"
+        - img "Dalian Yingbo FC"
+        - text: Dalian Yingbo 30 9 9 12 -15 30:45
+        - link "L"
+        - link "D"
+        - link "D"
+        - link "D"
+        - link "L"
+        - text: "36"
+      - link "12 Shenzhen Peng City Shenzhen 30 8 3 19 -24 35:59 L W W L D 27":
+        - /url: /football/team/shenzhen-city/281331
+        - text: "12"
+        - img "Shenzhen Peng City"
+        - text: Shenzhen 30 8 3 19 -24 35:59
+        - link "L"
+        - link "W"
+        - link "W"
+        - link "L"
+        - link "D"
+        - text: "27"
+      - link "13 Qingdao Hainiu Hainiu 30 5 10 15 -13 35:48 L L W W D 25":
+        - /url: /football/team/qingdao-hainiu/34695
+        - text: "13"
+        - img "Qingdao Hainiu"
+        - text: Hainiu 30 5 10 15 -13 35:48
+        - link "L"
+        - link "L"
+        - link "W"
+        - link "W"
+        - link "D"
+        - text: "25"
+      - link "14 Wuhan Three Towns Three Towns 30 6 7 17 -28 34:62 L D L L L 25":
+        - /url: /football/team/wuhan-three-towns/295152
+        - text: "14"
+        - img "Wuhan Three Towns"
+        - text: Three Towns 30 6 7 17 -28 34:62
+        - link "L"
+        - link "D"
+        - link "L"
+        - link "L"
+        - link "L"
+        - text: "25"
+      - link "15 Meizhou Hakka Hakka 30 5 6 19 -35 36:71 W L L D L 21":
+        - /url: /football/team/meizhou-hakka/215186
+        - text: "15"
+        - img "Meizhou Hakka"
+        - text: Hakka 30 5 6 19 -35 36:71
+        - link "W"
+        - link "L"
+        - link "L"
+        - link "D"
+        - link "L"
+        - text: "21"
+      - link "16 Changchun Yatai Yatai 30 4 7 19 -26 26:52 D L D L L 19":
+        - /url: /football/team/changchun-yatai/34694
+        - text: "16"
+        - img "Changchun Yatai"
+        - text: Yatai 30 4 7 19 -26 26:52
+        - link "D"
+        - link "L"
+        - link "D"
+        - link "L"
+        - link "L"
+        - text: "19"
+    - button "Rules and legend" [expanded]:
+      - text: Rules and legend
+      - img
+    - region "Rules and legend":
+      - text: Champions League Elite Champions League 2 Relegation
+      - paragraph: "In the event that two (or more) teams have an equal number of points, the following rules break the tie: 1. Head-to-head (if both matches are played) 2. Goal difference 3. Goals scored"
+      - text: P Matches played W Wins D Draws L Losses DIFF Difference GLS Goals Pts Points
+  - text: About
+  - paragraph: Chinese Super League, also known as Chinese Super League, is a professional football league in China for men.
+  - paragraph: There are overall 16 teams that compete for the title every year.
+  - paragraph: The current holder of the title is Shanghai Port and the team that holds the most titles is Guangzhou FC.
+  - paragraph: Sofascore tracks live football scores and Chinese Super League table, results, statistics and top scorers.
+  - heading "Competition format of Chinese Super League" [level=2]
+  - paragraph:
+    - text: The teams are placed in 15 tables, with a promotion and relegation system for the best and worst-performing teams. 1 teams are relegated to the
+    - link "Chinese League 1":
+      - /url: https://www.sofascore.com/football/tournament/china/cfa-china-league/782
+    - text: .
+  - paragraph: The top 6 team qualifies for the AFC Champions League main tournament or preliminary qualifications.
+  - paragraph: Additional 6 team qualify for UEFA Champions League Qualification tournament or preliminary qualifications.
+  - paragraph: Additional 9 team qualify for UEFA Champions League tournament or preliminary qualifications.
+  - heading "Chinese Super League top scorers" [level=2]
+  - paragraph: The top scorers in the last season of Chinese Super League Chinese Super League 2025 season were Fabio Abreu.Last season top scorer is Fabio Abreu with 28 goals.
+  - heading "Team stadiums and attendance" [level=2]
+  - paragraph: The team with the largest stadium is Beijing Sinobo Guoan with the capacity of 66161.
+  - paragraph: The average attendance per game was 24076.
+  - paragraph: The highest attendance per game in the season Chinese Super League 2025 was 57056.This was during the match between Beijing Sinobo Guoan and Guangzhou Evergrande Taobao.
+  - paragraph: The total attendance in Chinese Super League 2025 season was 4405999.
+  - heading "TV partners" [level=2]
+  - paragraph: The largest TV partners for Chinese Super League are China Central Television, PPTV, ESPN+.
+  - heading "Which team in Chinese Super League has the most titles?" [level=3]
+  - paragraph: The team with the most titles in Chinese Super League is Guangzhou FC.
+  - heading "Which team is the current titleholder in Chinese Super League?" [level=3]
+  - paragraph: The current titleholder in Chinese Super League is Shanghai Port.
+  - heading "What rank of competition is Chinese Super League in China?" [level=3]
+  - paragraph: Chinese Super League is professional division in China.
+  - heading "How many goals are scored on average in Chinese Super League in Chinese Super League 2026?" [level=3]
+  - paragraph: The average number of goals in Chinese Super League is 3.21.
+  - heading "When does the Chinese Super League start and when does it finish?" [level=3]
+  - paragraph: The Chinese Super League usually starts in March and ends in November.
+  - heading "How many groups are there in Chinese Super League competition?" [level=3]
+  - paragraph: The teams in Chinese Super League are placed in 15 groups.
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- link "George Russell takes Azerbaijan GP pole in Baku qualifying":
+  - /url: /news/george-russell-takes-azerbaijan-gp-pole-in-baku-qualifying
+- text: •
+- 'link "U20 Women’s World Cup Team of the Week: Semifinals standouts"':
+  - /url: /news/u20-womens-world-cup-team-of-the-week-semifinals-standouts
+- text: •
+- link "Brazil held to disappointing draw by Australia after World Cup":
+  - /url: /news/brazil-held-to-disappointing-draw-by-australia-after-world-cup
+- text: •
+- 'link "Sofascore Player of the Season Award: Vitinha (Ligue 1)"':
+  - /url: /news/sofascore-player-of-the-season-award-vitinha-ligue-1
+- text: •
+- 'link "Fenerbahçe Tarfin vs Virtus Bologna: EuroLeague Round 1 preview"':
+  - /url: /news/fenerbahce-tarfin-vs-virtus-bologna-euroleague-round-1-preview
+- text: •
+- 'link "Partizan vs EA7 Milano: Euroleague opener preview with odds, H2H trends and what to expect in Belgrade"':
+  - /url: /news/partizan-vs-ea7-milano-euroleague-opener-preview-with-odds-h2h-trends-and-what-to-expect-in-belgrade
+- text: •
+- link "Statistical Anomaly or Form Crisis?":
+  - /url: /news/statistical-anomaly-or-form-crisis
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fleague%2F649
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fleague%2F649
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

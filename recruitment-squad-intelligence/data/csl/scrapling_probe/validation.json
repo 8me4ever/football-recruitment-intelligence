@@ -1,0 +1,35 @@
+[
+  {
+    "sample": "13522670-stats",
+    "date_verified": "22/11/2025",
+    "rows": 32,
+    "teams": [
+      "Beijing Guoan",
+      "Meizhou Hakka"
+    ],
+    "ratings_from_aria": 32,
+    "visible_goal_sum": 6
+  },
+  {
+    "sample": "13522595-stats",
+    "date_verified": "15/08/2025",
+    "rows": 32,
+    "teams": [
+      "Henan FC",
+      "Shanghai Port"
+    ],
+    "ratings_from_aria": 32,
+    "visible_goal_sum": 5
+  },
+  {
+    "sample": "13400350-categories",
+    "date_verified": "22/02/2025",
+    "rows": 31,
+    "teams": [
+      "Beijing Guoan",
+      "Yunnan Yukun"
+    ],
+    "ratings_from_aria": 31,
+    "visible_goal_sum": 2
+  }
+]

@@ -1,0 +1,641 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "19:35 China - New Zealand":
+    - /url: /football/match/new-zealand-china/fVbsJVb#id:17175620
+    - img
+    - text: 19:35
+    - img "China"
+    - text: "-"
+    - img "New Zealand"
+  - link "20:10 Alexander Zverev - Learner Tien":
+    - /url: /tennis/match/learner-tien-alexander-zverev/nTxstgpd#id:17197178
+    - img
+    - text: 20:10
+    - img "Alexander Zverev"
+    - text: "-"
+    - img "Learner Tien"
+  - link "21:20 Carlos Alcaraz - Alex de Minaur":
+    - /url: /tennis/match/carlos-alcaraz-alex-de-minaur/OzFbsytkc#id:17197179
+    - img
+    - text: 21:20
+    - img "Carlos Alcaraz"
+    - text: "-"
+    - img "Alex de Minaur"
+  - link "FT Carlos Alcaraz 2 - 1 Taylor Fritz":
+    - /url: /tennis/match/carlos-alcaraz-taylor-fritz/Rvebsytkc#id:17190097
+    - img
+    - text: FT
+    - img "Carlos Alcaraz"
+    - text: 2 - 1
+    - img "Taylor Fritz"
+  - link "FT England 2 - 3 Spain":
+    - /url: /football/match/england-spain/YTbsnUb#id:15534084
+    - img
+    - text: FT
+    - img "England"
+    - text: 2 - 3
+    - img "Spain"
+  - link "FT Czechia 1 - 2 Croatia":
+    - /url: /football/match/croatia-czechia/oUbspUb#id:15534090
+    - img
+    - text: FT
+    - img "Czechia"
+    - text: 1 - 2
+    - img "Croatia"
+  - link "FT North Macedonia 0 - 3 Switzerland":
+    - /url: /football/match/north-macedonia-switzerland/ZTbsCVb#id:15534115
+    - img
+    - text: FT
+    - img "North Macedonia"
+    - text: 0 - 3
+    - img "Switzerland"
+  - link "FT Cruz Azul 3 - 3 CD Toluca":
+    - /url: /football/match/cruz-azul-cd-toluca/GNsXN#id:16317972
+    - img
+    - text: FT
+    - img "Cruz Azul"
+    - text: 3 - 3
+    - img "CD Toluca"
+  - link "FT FC Dallas 1 - 0 Los Angeles FC":
+    - /url: /football/match/los-angeles-fc-fc-dallas/mabsaTjc#id:15168417
+    - img
+    - text: FT
+    - img "FC Dallas"
+    - text: 1 - 0
+    - img "Los Angeles FC"
+  - link "FT Mexico 1 - 1 Colombia":
+    - /url: /football/match/colombia-mexico/GVbsvWb#id:17080689
+    - img
+    - text: FT
+    - img "Mexico"
+    - text: 1 - 1
+    - img "Colombia"
+  - link "FT Vancouver Whitecaps 3 - 3 DC United":
+    - /url: /football/match/vancouver-whitecaps-dc-united/cabskPi#id:15168426
+    - img
+    - text: FT
+    - img "Vancouver Whitecaps"
+    - text: 3 - 3
+    - img "DC United"
+  - text: Tomorrow
+  - link "00:00 Serbia - Netherlands":
+    - /url: /football/match/serbia-netherlands/fUbsfCc#id:15534068
+    - img
+    - text: 00:00
+    - img "Serbia"
+    - text: "-"
+    - img "Netherlands"
+  - link "01:00 Miami Dolphins - Kansas City Chiefs":
+    - /url: /american-football/match/kansas-city-chiefs-miami-dolphins/MKbsxNb#id:16183701
+    - img
+    - text: 01:00
+    - img "Miami Dolphins"
+    - text: "-"
+    - img "Kansas City Chiefs"
+  - link "01:00 Real Madrid - Unicaja":
+    - /url: /basketball/match/unicaja-real-madrid/Pvbsgwb#id:16830103
+    - img
+    - text: 01:00
+    - img "Real Madrid"
+    - text: "-"
+    - img "Unicaja"
+  - link "01:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507832
+    - img
+    - text: 01:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "02:45 Germany - Greece":
+    - /url: /football/match/germany-greece/kUbslUb#id:15534060
+    - img
+    - text: 02:45
+    - img "Germany"
+    - text: "-"
+    - img "Greece"
+  - link "02:45 Norway - Portugal":
+    - /url: /football/match/portugal-norway/AObseUb#id:15534096
+    - img
+    - text: 02:45
+    - img "Norway"
+    - text: "-"
+    - img "Portugal"
+  - link "07:00 Columbus Crew - Inter Miami CF":
+    - /url: /football/match/inter-miami-cf-columbus-crew/eabsccKc#id:15168422
+    - img
+    - text: 07:00
+    - img "Columbus Crew"
+    - text: "-"
+    - img "Inter Miami CF"
+  - link "19:30 O'Sullivan R. - Jun J.":
+    - /url: /snooker/match/jun-osullivan/gZisxIRd#id:16908086
+    - img
+    - text: 19:30
+    - img "O'Sullivan R."
+    - text: "-"
+    - img "Jun J."
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League":
+        - /url: /football/tournament/china/cfa-super-league/649
+    - listitem:
+      - heading "Beijing Guoan scores, fixtures, standings and player stats" [level=1]
+  - img "Beijing Guoan"
+  - heading "Beijing Guoan" [level=2]
+  - text: 26k followers
+  - img "China"
+  - text: China
+  - link "Nick Montgomery Nick Montgomery Coach":
+    - /url: /football/manager/nick-montgomery/796109
+    - img "Nick Montgomery"
+    - text: Nick Montgomery Coach
+  - link "Compare":
+    - /url: /football/team/compare?ids=3376
+    - button "Compare":
+      - img
+      - text: Compare
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - text: Previous match
+  - link "AFC Champions League Elite AFC Champions League Elite":
+    - /url: /football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671
+    - img "AFC Champions League Elite"
+    - text: AFC Champions League Elite
+  - link "15/09/26 FT Beijing Guoan Guoan Pohang Steelers Pohang Steelers 3 3 1 1":
+    - /url: /football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671
+    - text: 15/09/26 FT
+    - img "Beijing Guoan"
+    - text: Guoan
+    - img "Pohang Steelers"
+    - text: Pohang Steelers 3 3 1 1
+  - text: Next match
+  - link "Chinese Super League Chinese Super League":
+    - /url: /football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642
+    - img "Chinese Super League"
+    - text: Chinese Super League
+  - link "09/10/26 19:35 Qingdao Hainiu Hainiu Beijing Guoan Guoan":
+    - /url: /football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642
+    - text: 09/10/26 19:35
+    - img "Qingdao Hainiu"
+    - text: Hainiu
+    - img "Beijing Guoan"
+    - text: Guoan
+  - img
+  - text: Beijing Workers' Stadium
+  - link "Chinese Super League Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img "Chinese Super League"
+    - text: Chinese Super League
+  - text: Matches Select competition
+  - combobox "Select competition":
+    - text: All
+    - img
+  - scrollbar:
+    - tablist:
+      - tab "List" [selected]
+      - tab "Calendar"
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Finished" [selected]
+        - tab "Upcoming"
+    - button:
+      - img
+    - button [disabled]:
+      - img
+    - img "AFC Champions League Elite"
+    - link "AFC Champions League Elite":
+      - /url: /football/tournament/asia/afc-champions-league/463#id:99217
+    - link "Asia Asia":
+      - /url: /football/asia
+      - img "Asia"
+      - text: Asia
+    - link "15/09/26 FT Beijing Guoan Guoan Pohang Steelers Pohang Steelers 3 1 W":
+      - /url: /football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671
+      - text: 15/09/26 FT
+      - img "Beijing Guoan"
+      - text: Guoan
+      - img "Pohang Steelers"
+      - text: Pohang Steelers 3 1 W
+    - img "Chinese Super League"
+    - link "Chinese Super League":
+      - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - link "China China":
+      - /url: /football/china
+      - img "China"
+      - text: China
+    - link "05/09/26 FT Shanghai Port Port Beijing Guoan Guoan 0 0 D":
+      - /url: /football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633
+      - text: 05/09/26 FT
+      - img "Shanghai Port"
+      - text: Port
+      - img "Beijing Guoan"
+      - text: Guoan 0 0 D
+    - img "CFA Cup"
+    - link "CFA Cup":
+      - /url: /football/tournament/china/cfa-cup/882#id:91152
+    - link "China China":
+      - /url: /football/china
+      - img "China"
+      - text: China
+    - link "01/09/26 FT Lanzhou Longyuan Athletic FC Longyuan Athletic Beijing Guoan Guoan 1 3 W":
+      - /url: /football/match/lanzhou-longyuan-athletic-fc-beijing-guoan/BrbsfqPd#id:16616209
+      - text: 01/09/26 FT
+      - img "Lanzhou Longyuan Athletic FC"
+      - text: Longyuan Athletic
+      - img "Beijing Guoan"
+      - text: Guoan 1 3 W
+    - img "Chinese Super League"
+    - link "Chinese Super League":
+      - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - link "China China":
+      - /url: /football/china
+      - img "China"
+      - text: China
+    - link "28/08/26 FT Dalian Yingbo FC Dalian Yingbo Beijing Guoan Guoan 1 1 D":
+      - /url: /football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:15552624
+      - text: 28/08/26 FT
+      - img "Dalian Yingbo FC"
+      - text: Dalian Yingbo
+      - img "Beijing Guoan"
+      - text: Guoan 1 1 D
+    - link "22/08/26 FT Beijing Guoan Guoan Yunnan Yukun Yukun 3 3 D":
+      - /url: /football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:15552619
+      - text: 22/08/26 FT
+      - img "Beijing Guoan"
+      - text: Guoan
+      - img "Yunnan Yukun"
+      - text: Yukun 3 3 D
+    - link "18/08/26 FT Shanghai Shenhua Shenhua Beijing Guoan Guoan 0 3 W":
+      - /url: /football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:16851672
+      - text: 18/08/26 FT
+      - img "Shanghai Shenhua"
+      - text: Shenhua
+      - img "Beijing Guoan"
+      - text: Guoan 0 3 W
+  - text: Recent form
+  - img
+  - text: Hover over the columns to see scores
+  - link:
+    - /url: /football/match/chengdu-rongcheng-beijing-guoan/BrbsQzNb#id:15552587
+    - img
+  - link:
+    - /url: /football/match/zhejiang-beijing-guoan/BrbsXTn#id:15552596
+    - img
+  - link:
+    - /url: /football/match/shenzhen-peng-city-beijing-guoan/BrbsGBmc#id:15552600
+    - img
+  - link:
+    - /url: /football/match/beijing-guoan-tianjin-jinmen-tiger/rrbsBrb#id:15552613
+    - img
+  - link:
+    - /url: /football/match/beijing-guoan-shanghai-shenhua/yrbsBrb#id:16851672
+    - img
+  - link:
+    - /url: /football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:15552619
+    - img
+  - link:
+    - /url: /football/match/dalian-yingbo-fc-beijing-guoan/BrbsRZOd#id:15552624
+    - img
+  - link:
+    - /url: /football/match/lanzhou-longyuan-athletic-fc-beijing-guoan/BrbsfqPd#id:16616209
+    - img
+  - link:
+    - /url: /football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633
+    - img
+  - link:
+    - /url: /football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671
+    - img
+  - heading "Featured" [level=3]
+  - link "China, Chinese Super League, Round 27":
+    - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - img
+    - text: China, Chinese Super League, Round 27
+    - img
+  - link "Qingdao Hainiu Hainiu 09/10/2026 Fri 19:35 Beijing Guoan Guoan":
+    - /url: /football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642
+    - img "Qingdao Hainiu"
+    - text: Hainiu 09/10/2026 Fri 19:35
+    - img "Beijing Guoan"
+    - text: Guoan
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Advertisement
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#tab:standings"
+          - heading "Standings" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Players":
+        - link "Players":
+          - /url: "#tab:players"
+          - heading "Players" [level=2]
+      - tab "Details":
+        - link "Details":
+          - /url: "#tab:details"
+          - heading "Details" [level=2]
+  - heading "About Beijing Guoan" [level=3]
+  - paragraph: Beijing Guoan live scores, players, season schedule and today’s results are available on Sofascore.
+  - heading "Beijing Guoan next match" [level=2]
+  - paragraph: Beijing Guoan will play the next match against Qingdao Hainiu on Oct 9, 2026, 11:35:00 AM UTC in Chinese Super League.
+  - paragraph:
+    - text: When the match starts, you will be able to follow
+    - link "Qingdao Hainiu vs Beijing Guoan":
+      - /url: https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642
+    - text: live score, standings, minute by minute updated live results and match statistics.
+  - paragraph: We may have video highlights with goals and news for some Beijing Guoan matches, but only if they play their match in one of the most popular football leagues.
+  - heading "Beijing Guoan previous match" [level=2]
+  - paragraph: Beijing Guoan previous match was against Pohang Steelers in AFC Champions League Elite, the match ended with result 3 - 1 (Beijing Guoan won the match).
+  - paragraph: Beijing Guoan fixtures tab is showing the last 100 football matches with statistics and win/draw/lose icons.
+  - paragraph: There are also all Beijing Guoan scheduled matches that they are going to play in the future.
+  - paragraph: Beijing Guoan performance and form graph is a Sofascore unique algorithm that we are generating from the team's last 10 matches, statistics, detailed analysis and our own knowledge.
+  - paragraph: This graph may help predict future Beijing Guoan matches.
+  - heading "Current Beijing Guoan players" [level=2]
+  - paragraph:
+    - strong: "Forward:"
+    - text: Fabio Abreu, Chadrac Akolo, Zhang Yuning, Béni Nkololo, Wang Zihao, Ma Mingyang, Zicheng Jiang
+    - strong: "Midfielder:"
+    - text: Dawhan, Sai Erjini'ao, Lin Liangming, Aboubacar Konte, Zhang Xizhe, Yongjing Cao, Yang Liyu, Chi Zhongguo, Feifan Jia, Wang Yu, Cheng Xi, Yu Wang, Wang Size, Haoran Zhang, Kangyue Chen, Junze Liu, Xiaoyu Xia
+    - strong: "Defender:"
+    - text: Uroš Spajić, Guilherme Ramos, Jeremy Dudziak, Tze-Nam Yue, Wu Shaocong, Li Lei, Gang Wang, Deng Jiefu, Shuangjie Fan, Abdugheni Abduhamit, Yang Bai, Yupeng He, Shanghan Li, Lin Hanqi, Zixiang Luo
+    - strong: "Goalkeeper:"
+    - text: Shaoziyang Liu, Han Jiaqi, Hou Sen, Nureli Abbas, Arturo Cheng, Tongyun Lu
+  - paragraph: The current Beijing Guoan roster, stats and player performance can be found on this page.
+  - paragraph: There are also statistics for each player in all competitions with all total played and started matches, minutes played, number of goals scored, number of cards and much more.
+  - paragraph: Beijing Guoan top scorers list is updated live during every match.
+  - paragraph: You can click on players from the roster above and see available personal information such as nationality, date of birth, height, preferred foot, position, player value, transfer history etc.
+  - paragraph:
+    - text: For today’s football schedule and results visit our
+    - link "football live score page":
+      - /url: https://www.sofascore.com/
+    - text: .
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- 'link "England 2-3 Spain: Nations League thriller at Wembley"':
+  - /url: /news/england-2-3-spain-nations-league-thriller-at-wembley
+- text: •
+- link "Switzerland cruise past North Macedonia 3-0 in Skopje":
+  - /url: /news/switzerland-cruise-past-north-macedonia-3-0-in-skopje
+- text: •
+- link "Croatia beat Czechia 2-1 as Modrić shines":
+  - /url: /news/croatia-beat-czechia-2-1-as-modric-shines
+- text: •
+- 'link "Logroño United 0-2 Barcelona: teenager Mayssa scores as Font shines"':
+  - /url: /news/logrono-united-0-2-barcelona-teenager-mayssa-scores-as-font-shines
+- text: •
+- 'link "London City 2-0 Brighton: Putellas nets first WSL goal"':
+  - /url: /news/london-city-2-0-brighton-putellas-nets-first-wsl-goal
+- text: •
+- 'link "Slovenia 0-0 Scotland: Oblak shines in Ljubljana"':
+  - /url: /news/slovenia-0-0-scotland-oblak-shines-in-ljubljana
+- text: •
+- 'link "Schröder brace lifts Real Madrid: Sofascore Rating 9.5"':
+  - /url: /news/schroder-brace-lifts-real-madrid-sofascore-rating-9-5
+- text: •
+- link "George Russell converts pole into Azerbaijan GP win":
+  - /url: /news/george-russell-converts-pole-into-azerbaijan-gp-win
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fteam%2F3376
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fteam%2F3376
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

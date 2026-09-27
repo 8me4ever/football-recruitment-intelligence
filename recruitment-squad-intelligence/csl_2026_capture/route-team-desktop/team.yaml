@@ -1,0 +1,320 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football"
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball"
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis"
+  - link "Hockey":
+    - /url: /ice-hockey
+    - button "Hockey"
+  - link "Table tennis":
+    - /url: /table-tennis
+    - button "Table tennis"
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball"
+  - link "Handball":
+    - /url: /handball
+    - button "Handball"
+  - button "19 More":
+    - text: 19 More
+    - img
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League":
+        - /url: /football/tournament/china/cfa-super-league/649
+    - listitem:
+      - heading "Beijing Guoan scores, fixtures, standings and player stats" [level=1]
+  - img "Beijing Guoan"
+  - heading "Beijing Guoan" [level=2]
+  - text: 26k followers
+  - img "China"
+  - text: China
+  - link "Nick Montgomery Nick Montgomery Coach":
+    - /url: /football/manager/nick-montgomery/796109
+    - img "Nick Montgomery"
+    - text: Nick Montgomery Coach
+  - link "Compare":
+    - /url: /football/team/compare?ids=3376
+    - button "Compare":
+      - img
+      - text: Compare
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - img
+  - text: Beijing Workers' Stadium
+  - link "Chinese Super League Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img "Chinese Super League"
+    - text: Chinese Super League
+  - text: Matches Select competition
+  - combobox "Select competition" [disabled]:
+    - text: All
+    - img
+  - scrollbar:
+    - tablist:
+      - tab "List" [selected]
+      - tab "Calendar"
+  - tabpanel:
+    - button [disabled]:
+      - img
+    - button [disabled]:
+      - img
+    - img
+    - text: No events There are no available events.
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Advertisement
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Players":
+        - link "Players":
+          - /url: "#tab:players"
+          - heading "Players" [level=2]
+      - tab "Details":
+        - link "Details":
+          - /url: "#tab:details"
+          - heading "Details" [level=2]
+  - heading "About Beijing Guoan" [level=3]
+  - paragraph: Beijing Guoan live scores, players, season schedule and today’s results are available on Sofascore.
+  - heading "Beijing Guoan next match" [level=2]
+  - paragraph: Beijing Guoan will play the next match against Qingdao Hainiu on Oct 9, 2026, 11:35:00 AM UTC in Chinese Super League.
+  - paragraph:
+    - text: When the match starts, you will be able to follow
+    - link "Qingdao Hainiu vs Beijing Guoan":
+      - /url: https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642
+    - text: live score, standings, minute by minute updated live results and match statistics.
+  - paragraph: We may have video highlights with goals and news for some Beijing Guoan matches, but only if they play their match in one of the most popular football leagues.
+  - heading "Beijing Guoan previous match" [level=2]
+  - paragraph: Beijing Guoan previous match was against Pohang Steelers in AFC Champions League Elite, the match ended with result 3 - 1 (Beijing Guoan won the match).
+  - paragraph: Beijing Guoan fixtures tab is showing the last 100 football matches with statistics and win/draw/lose icons.
+  - paragraph: There are also all Beijing Guoan scheduled matches that they are going to play in the future.
+  - paragraph: Beijing Guoan performance and form graph is a Sofascore unique algorithm that we are generating from the team's last 10 matches, statistics, detailed analysis and our own knowledge.
+  - paragraph: This graph may help predict future Beijing Guoan matches.
+  - heading "Current Beijing Guoan players" [level=2]
+  - paragraph:
+    - strong: "Forward:"
+    - text: Fabio Abreu, Chadrac Akolo, Zhang Yuning, Béni Nkololo, Wang Zihao, Ma Mingyang, Zicheng Jiang
+    - strong: "Midfielder:"
+    - text: Dawhan, Sai Erjini'ao, Lin Liangming, Aboubacar Konte, Zhang Xizhe, Yongjing Cao, Yang Liyu, Chi Zhongguo, Feifan Jia, Wang Yu, Cheng Xi, Yu Wang, Wang Size, Haoran Zhang, Kangyue Chen, Junze Liu, Xiaoyu Xia
+    - strong: "Defender:"
+    - text: Uroš Spajić, Guilherme Ramos, Jeremy Dudziak, Tze-Nam Yue, Wu Shaocong, Li Lei, Gang Wang, Deng Jiefu, Shuangjie Fan, Abdugheni Abduhamit, Yang Bai, Yupeng He, Shanghan Li, Lin Hanqi, Zixiang Luo
+    - strong: "Goalkeeper:"
+    - text: Shaoziyang Liu, Han Jiaqi, Hou Sen, Nureli Abbas, Arturo Cheng, Tongyun Lu
+  - paragraph: The current Beijing Guoan roster, stats and player performance can be found on this page.
+  - paragraph: There are also statistics for each player in all competitions with all total played and started matches, minutes played, number of goals scored, number of cards and much more.
+  - paragraph: Beijing Guoan top scorers list is updated live during every match.
+  - paragraph: You can click on players from the roster above and see available personal information such as nationality, date of birth, height, preferred foot, position, player value, transfer history etc.
+  - paragraph:
+    - text: For today’s football schedule and results visit our
+    - link "football live score page":
+      - /url: https://www.sofascore.com/
+    - text: .
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories Football"
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fteam%2F3376
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fteam%2F3376
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

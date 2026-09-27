@@ -1,0 +1,1285 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "FT BC Dubai 78 - 77 Real Madrid":
+    - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+    - img
+    - text: FT
+    - img "BC Dubai"
+    - text: 78 - 77
+    - img "Real Madrid"
+  - link "FT DR Congo 2 - 0 Equatorial Guinea":
+    - /url: /football/match/equatorial-guinea-dr-congo/yWbsHkd#id:17018596
+    - img
+    - text: FT
+    - img "DR Congo"
+    - text: 2 - 0
+    - img "Equatorial Guinea"
+  - link "FT KK Crvena zvezda 77 - 83 Kauno Žalgiris":
+    - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+    - img
+    - text: FT
+    - img "KK Crvena zvezda"
+    - text: 77 - 83
+    - img "Kauno Žalgiris"
+  - link "FT Netherlands 1 - 1 Germany":
+    - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+    - img
+    - text: FT
+    - img "Netherlands"
+    - text: 1 - 1
+    - img "Germany"
+  - link "FT Serbia 1 - 2 Greece":
+    - /url: /football/match/serbia-greece/kUbsfCc#id:15534071
+    - img
+    - text: FT
+    - img "Serbia"
+    - text: 1 - 2
+    - img "Greece"
+  - link "FT Portugal 1 - 0 Wales":
+    - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+    - img
+    - text: FT
+    - img "Portugal"
+    - text: 1 - 0
+    - img "Wales"
+  - link "FT Norway 3 - 2 Denmark":
+    - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+    - img
+    - text: FT
+    - img "Norway"
+    - text: 3 - 2
+    - img "Denmark"
+  - link "FT Austria 3 - 1 Israel":
+    - /url: /football/match/austria-israel/FObstUb#id:15534155
+    - img
+    - text: FT
+    - img "Austria"
+    - text: 3 - 1
+    - img "Israel"
+  - link "FT Côte d'Ivoire 2 - 0 Ghana":
+    - /url: /football/match/cote-divoire-ghana/oVbstVb#id:17018592
+    - img
+    - text: FT
+    - img "Côte d'Ivoire"
+    - text: 2 - 0
+    - img "Ghana"
+  - link "FT Australia 1 - 1 Brazil":
+    - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+    - img
+    - text: FT
+    - img "Australia"
+    - text: 1 - 1
+    - img "Brazil"
+  - text: Tomorrow
+  - link "01:00 Beşiktaş JK - Valencia Basket":
+    - /url: /basketball/match/besiktas-gain-valencia-basket/VvbsDIc#id:16670556
+    - img
+    - text: 01:00
+    - img "Beşiktaş JK"
+    - text: "-"
+    - img "Valencia Basket"
+  - link "01:05 Boston Red Sox - Chicago Cubs":
+    - /url: /baseball/match/boston-red-sox-chicago-cubs/CxbsWxb#id:15507820
+    - img
+    - text: 01:05
+    - img "Boston Red Sox"
+    - text: "-"
+    - img "Chicago Cubs"
+  - link "01:45 Fenerbahçe Tarfin - Virtus Bologna":
+    - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+    - img
+    - text: 01:45
+    - img "Fenerbahçe Tarfin"
+    - text: "-"
+    - img "Virtus Bologna"
+  - link "02:45 Türkiye - France":
+    - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+    - img
+    - text: 02:45
+    - img "Türkiye"
+    - text: "-"
+    - img "France"
+  - link "02:45 Italy - Belgium":
+    - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+    - img
+    - text: 02:45
+    - img "Italy"
+    - text: "-"
+    - img "Belgium"
+  - link "02:45 Poland - Bosnia & Herzegovina":
+    - /url: /football/match/poland-bosnia-and-herzegovina/EObsdUb#id:15534167
+    - img
+    - text: 02:45
+    - img "Poland"
+    - text: "-"
+    - img "Bosnia & Herzegovina"
+  - link "02:45 KK Partizan Mozzart Bet - EA7 Emporio Armani Milano":
+    - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+    - img
+    - text: 02:45
+    - img "KK Partizan Mozzart Bet"
+    - text: "-"
+    - img "EA7 Emporio Armani Milano"
+  - link "03:00 Morocco - Gabon":
+    - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+    - img
+    - text: 03:00
+    - img "Morocco"
+    - text: "-"
+    - img "Gabon"
+  - link "03:00 Egypt - Angola":
+    - /url: /football/match/egypt-angola/RTbsiVb#id:17018557
+    - img
+    - text: 03:00
+    - img "Egypt"
+    - text: "-"
+    - img "Angola"
+  - link "07:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507800
+    - img
+    - text: 07:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "21:45 Olympiacos BC - AEK BC":
+    - /url: /basketball/match/aek-bc-olympiacos-bc/bvbscvb#id:17135038
+    - img
+    - text: 21:45
+    - img "Olympiacos BC"
+    - text: "-"
+    - img "AEK BC"
+  - link "22:00 England - New Zealand":
+    - /url: /rugby/match/new-zealand-england/cRpbskRpb#id:17051537
+    - img
+    - text: 22:00
+    - img "England"
+    - text: "-"
+    - img "New Zealand"
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 1":
+        - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - listitem:
+      - heading "Yunnan Yukun vs Beijing Guoan live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Compare teams":
+    - /url: /football/team/compare?ids=474991%2C3376&s_ids=71364%2C71364&ut_ids=649%2C649
+    - button "Compare teams":
+      - img
+      - text: Compare teams
+  - link "Yunnan Yukun Yukun":
+    - /url: /football/team/yunnan-yukun/474991
+    - img "Yunnan Yukun"
+    - text: Yukun
+  - text: 0 - 2 Finished
+  - link "Beijing Guoan Guoan":
+    - /url: /football/team/beijing-guoan/3376
+    - img "Beijing Guoan"
+    - text: Guoan
+  - img
+  - text: Yongjing Cao 79' Fabio Abreu 53'
+  - img
+  - text: 22/02/2025 20:00
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - text: Full-time
+  - link "7Stars Partners New Zealand":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - img "7Stars Partners New Zealand"
+  - link "1 4.50":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 1 4.50
+    - img
+  - link "X 3.75":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+  - link "2 1.73":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 2 1.73
+    - img
+  - button "Additional odds":
+    - text: Additional odds
+    - img
+  - text: Match Momentum
+  - button:
+    - img
+  - img "Yunnan Yukun"
+  - img "Beijing Guoan"
+  - img:
+    - img
+    - img
+  - text: FT 0 - 2 90'
+  - superscript: "+10"
+  - img "2nd Yellow card (Red)"
+  - link "B. Yang":
+    - /url: /football/player/yang-bai/1113798
+  - text: Foul 90'
+  - superscript: "+8"
+  - img "2nd Yellow card (Red)"
+  - link "Y. Zhao":
+    - /url: /football/player/yuhao-zhao/797379
+  - text: Foul 90'
+  - superscript: "+4"
+  - img
+  - link "C. Yin":
+    - /url: /football/player/congyao-yin/822832
+  - link "A. Ioniță":
+    - /url: /football/player/alexandru-ionita/235434
+  - text: 90'
+  - img "Yellow card"
+  - link "B. Yang":
+    - /url: /football/player/yang-bai/1113798
+  - text: Time wasting Additional time 11 86'
+  - img
+  - link "L. Lei":
+    - /url: /football/player/li-lei/791491
+  - link "L. Liangming":
+    - /url: /football/player/lin-liangming/900549
+  - text: 86'
+  - img
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - text: 83'
+  - img "Substitution"
+  - link "Y. Zhang":
+    - /url: /football/player/yuan-zhang/887582
+  - link "Dawhan":
+    - /url: /football/player/dawhan/926823
+  - text: 83'
+  - img
+  - link "H. Yang":
+    - /url: /football/player/he-yang/833494
+  - link "L. Jing":
+    - /url: /football/player/luo-jing/797375
+  - text: 82'
+  - img
+  - link "S. Xuelong":
+    - /url: /football/player/sun-xuelong/991523
+  - link "Nené":
+    - /url: /football/player/nene/364608
+  - text: 79'
+  - img "Goal"
+  - button "0 - 2":
+    - img
+    - text: 0 - 2
+  - link "Y. Cao":
+    - /url: /football/player/yongjing-cao/817886
+  - text: 78'
+  - img
+  - link "H. Fang":
+    - /url: /football/player/hao-fang/1114765
+  - link "M. Nebijan":
+    - /url: /football/player/nebijan-muhmet/1215618
+  - text: 70'
+  - img "Yellow card"
+  - link "Y. Zhao":
+    - /url: /football/player/yuhao-zhao/797379
+  - text: Foul 66'
+  - img "Yellow card"
+  - link "M. Ngadeu":
+    - /url: /football/player/michael-ngadeu/245705
+  - text: Time wasting 61'
+  - img
+  - link "Z. Yufeng":
+    - /url: /football/player/zhang-yufeng/892680
+  - link "J. A. Martinez":
+    - /url: /football/player/jose-antonio-martinez/845290
+  - text: 61'
+  - img "Substitution"
+  - link "P. Henrique":
+    - /url: /football/player/pedro-henrique/911263
+  - link "Z. Han":
+    - /url: /football/player/zilong-han/928157
+  - text: 53'
+  - img "Goal"
+  - button "0 - 1":
+    - img
+    - text: 0 - 1
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - link "M. Nebijan":
+    - /url: /football/player/nebijan-muhmet/1215618
+  - text: HT 0 - 0 Additional time 2 Player of the match
+  - link "Michael Ngadeu M. Ngadeu Beijing Guoan Guoan 7.8":
+    - /url: /football/player/michael-ngadeu/245705
+    - img "Michael Ngadeu"
+    - text: M. Ngadeu
+    - img "Beijing Guoan"
+    - text: Guoan
+    - meter: "7.8"
+  - link "Fabio Abreu Beijing Guoan F. Abreu 7.7":
+    - /url: /football/player/fabio-abreu/343673
+    - img "Fabio Abreu"
+    - img "Beijing Guoan"
+    - text: F. Abreu
+    - meter: "7.7"
+  - link "Yongjing Cao Beijing Guoan Y. Cao 7.6":
+    - /url: /football/player/yongjing-cao/817886
+    - img "Yongjing Cao"
+    - img "Beijing Guoan"
+    - text: Y. Cao
+    - meter: "7.6"
+  - link "Alexandru Ioniță Yunnan Yukun A. Ioniță 7.3":
+    - /url: /football/player/alexandru-ionita/235434
+    - img "Alexandru Ioniță"
+    - img "Yunnan Yukun"
+    - text: A. Ioniță
+    - meter: "7.3"
+  - text: "Who will win? Total votes: 2.5k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Yunnan Yukun"
+  - text: 12% X 18%
+  - img "Beijing Guoan"
+  - text: "70% Will both teams score? Total votes: 399"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Yes 79% No 21% Who will score first? Total votes: 365"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Yunnan Yukun"
+  - text: 11%
+  - img
+  - text: 2%
+  - img "Beijing Guoan"
+  - text: 87%
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - text: Commentary
+  - scrollbar:
+    - tablist:
+      - tab "All" [selected]
+      - tab "Key events"
+  - img
+  - text: "- Match ends, Yunnan Yukun 0, Beijing Guoan 2. 104' Second Half ends, Yunnan Yukun 0, Beijing Guoan 2. 102' Sun Xuelong (Yunnan Yukun) wins a free kick in the defensive half."
+  - img
+  - img
+  - text: 102' Foul by Zhang Yuan (Beijing Guoan).
+  - img
+  - img
+  - img
+  - text: 100' Second yellow card to Bai Yang (Beijing Guoan) for a bad foul.
+  - img
+  - img
+  - text: 100' Pedro Henrique (Yunnan Yukun) wins a free kick in the attacking half.
+  - img
+  - img
+  - text: 100' Foul by Bai Yang (Beijing Guoan).
+  - img
+  - img
+  - text: 99' Delay over. They are ready to continue.
+  - img
+  - text: 98' Second yellow card to Zhao Yuhao (Yunnan Yukun) for a bad foul.
+  - img
+  - img
+  - text: 98' Delay in match because of an injury Fang Hao (Beijing Guoan).
+  - button "Show more":
+    - text: Show more
+    - img
+  - img
+  - text: Date and time 22/02/2025 20:00
+  - link "Competition Football, China, Chinese Super League, Round 1":
+    - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 1
+    - img
+  - link "Referee Shunqi Tang CN Avg. cards 0.23 3.76":
+    - /url: /football/referee/tang-shunqi/787087
+    - img
+    - text: Referee Shunqi Tang
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.23"
+    - img
+    - text: "3.76"
+    - img
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Gamble responsibly 18+ Advertisement
+  - iframe
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Lineups" [selected]:
+        - link "Lineups":
+          - /url: "#id:13400350,tab:lineups"
+          - heading "Lineups" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#id:13400350,tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#id:13400350,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "H2H":
+        - link "H2H":
+          - /url: "#id:13400350,tab:matches"
+          - heading "H2H" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Lineups"
+        - tab "Player stats" [selected]
+    - tabpanel:
+      - scrollbar:
+        - tablist:
+          - tab "General" [selected]
+          - tab "Attacking"
+          - tab "Defending"
+          - tab "Passing"
+          - tab "Duels"
+          - tab "Goalkeeping"
+      - tabpanel:
+        - scrollbar:
+          - table:
+            - rowgroup:
+              - row "Yunnan Yukun + Beijing Guoan Yunnan Yukun Beijing Guoan Goals Assists Tackles (won) Accurate passes Duels (won) Ground duels (won) Aerial duels (won) Minutes played Position Sofascore Rating":
+                - columnheader
+                - columnheader "Yunnan Yukun + Beijing Guoan Yunnan Yukun Beijing Guoan":
+                  - img "Yunnan Yukun"
+                  - text: +
+                  - img "Beijing Guoan"
+                  - img "Yunnan Yukun"
+                  - img "Beijing Guoan"
+                - columnheader "Goals":
+                  - text: Goals
+                  - img
+                - columnheader "Assists":
+                  - text: Assists
+                  - img
+                - columnheader "Tackles (won)":
+                  - text: Tackles (won)
+                  - img
+                - columnheader "Accurate passes":
+                  - text: Accurate passes
+                  - img
+                - columnheader "Duels (won)":
+                  - text: Duels (won)
+                  - img
+                - columnheader "Ground duels (won)":
+                  - text: Ground duels (won)
+                  - img
+                - columnheader "Aerial duels (won)":
+                  - text: Aerial duels (won)
+                  - img
+                - columnheader "Minutes played":
+                  - text: Minutes played
+                  - img
+                - columnheader "Position":
+                  - text: Position
+                  - img
+                - columnheader "Sofascore Rating":
+                  - text: Sofascore Rating
+                  - img
+            - rowgroup:
+              - row "Beijing Guoan Michael Ngadeu 0 87/97 (90%) 10 (8) 2 (0) 8 (8) 90' D 7.8":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Michael Ngadeu":
+                  - link "Michael Ngadeu":
+                    - /url: /football/player/michael-ngadeu/245705
+                - cell "0"
+                - cell
+                - cell
+                - cell "87/97 (90%)"
+                - cell "10 (8)"
+                - cell "2 (0)"
+                - cell "8 (8)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.8":
+                  - meter
+              - row "Beijing Guoan Fabio Abreu 1 15/20 (75%) 11 (9) 3 (3) 8 (6) 86' F 7.7":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Fabio Abreu":
+                  - link "Fabio Abreu":
+                    - /url: /football/player/fabio-abreu/343673
+                - cell "1"
+                - cell
+                - cell
+                - cell "15/20 (75%)"
+                - cell "11 (9)"
+                - cell "3 (3)"
+                - cell "8 (6)"
+                - cell "86'"
+                - cell "F"
+                - cell "7.7":
+                  - meter
+              - row "Beijing Guoan Yongjing Cao 1 1 29/32 (91%) 15 (6) 13 (5) 2 (1) 90' F 7.6":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yongjing Cao":
+                  - link "Yongjing Cao":
+                    - /url: /football/player/yongjing-cao/817886
+                - cell "1"
+                - cell
+                - cell "1"
+                - cell "29/32 (91%)"
+                - cell "15 (6)"
+                - cell "13 (5)"
+                - cell "2 (1)"
+                - cell "90'"
+                - cell "F"
+                - cell "7.6":
+                  - meter
+              - row "Yunnan Yukun Alexandru Ioniță 0 2 21/31 (68%) 8 (6) 5 (5) 3 (1) 89' M 7.3":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Alexandru Ioniță":
+                  - link "Alexandru Ioniță":
+                    - /url: /football/player/alexandru-ionita/235434
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "21/31 (68%)"
+                - cell "8 (6)"
+                - cell "5 (5)"
+                - cell "3 (1)"
+                - cell "89'"
+                - cell "M"
+                - cell "7.3":
+                  - meter
+              - row "Beijing Guoan Gang Wang 0 2 34/44 (77%) 6 (3) 4 (2) 2 (1) 90' D 7.2":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Gang Wang":
+                  - link "Gang Wang":
+                    - /url: /football/player/gang-wang/77758
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "34/44 (77%)"
+                - cell "6 (3)"
+                - cell "4 (2)"
+                - cell "2 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.2":
+                  - meter
+              - row "Beijing Guoan Guga 0 49/50 (98%) 4 (1) 2 (0) 2 (1) 90' M 7.2":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Guga":
+                  - link "Guga":
+                    - /url: /football/player/goncalo-rodrigues/357740
+                - cell "0"
+                - cell
+                - cell
+                - cell "49/50 (98%)"
+                - cell "4 (1)"
+                - cell "2 (0)"
+                - cell "2 (1)"
+                - cell "90'"
+                - cell "M"
+                - cell "7.2":
+                  - meter
+              - row "Beijing Guoan Han Jiaqi 0 18/33 (55%) 1 (1) 0 (0) 1 (1) 90' G 7.2":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Han Jiaqi":
+                  - link "Han Jiaqi":
+                    - /url: /football/player/han-jiaqi/962859
+                - cell "0"
+                - cell
+                - cell
+                - cell "18/33 (55%)"
+                - cell "1 (1)"
+                - cell "0 (0)"
+                - cell "1 (1)"
+                - cell "90'"
+                - cell "G"
+                - cell "7.2":
+                  - meter
+              - row "Beijing Guoan Yupeng He 0 37/40 (93%) 10 (6) 4 (2) 6 (4) 90' D 7.1":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yupeng He":
+                  - link "Yupeng He":
+                    - /url: /football/player/yupeng-he/977985
+                - cell "0"
+                - cell
+                - cell
+                - cell "37/40 (93%)"
+                - cell "10 (6)"
+                - cell "4 (2)"
+                - cell "6 (4)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.1":
+                  - meter
+              - row "Beijing Guoan Yang Bai 0 1 70/79 (89%) 12 (9) 5 (3) 7 (6) 90' D 7.0":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yang Bai":
+                  - link "Yang Bai":
+                    - /url: /football/player/yang-bai/1113798
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "70/79 (89%)"
+                - cell "12 (9)"
+                - cell "5 (3)"
+                - cell "7 (6)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.0":
+                  - meter
+              - row "Yunnan Yukun Zhang Xiangshuo 0 5 24/33 (73%) 9 (7) 5 (5) 4 (2) 90' D 7.0":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Zhang Xiangshuo":
+                  - link "Zhang Xiangshuo":
+                    - /url: /football/player/zhang-xiangshuo/1115488
+                - cell "0"
+                - cell
+                - cell "5"
+                - cell "24/33 (73%)"
+                - cell "9 (7)"
+                - cell "5 (5)"
+                - cell "4 (2)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.0":
+                  - meter
+              - row "Beijing Guoan Dawhan 0 48/56 (86%) 7 (4) 6 (3) 1 (1) 83' M 6.9":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Dawhan":
+                  - link "Dawhan":
+                    - /url: /football/player/dawhan/926823
+                - cell "0"
+                - cell
+                - cell
+                - cell "48/56 (86%)"
+                - cell "7 (4)"
+                - cell "6 (3)"
+                - cell "1 (1)"
+                - cell "83'"
+                - cell "M"
+                - cell "6.9":
+                  - meter
+              - row "Yunnan Yukun Zilong Han 0 2 11/13 (85%) 5 (3) 4 (3) 1 (0) 61' F 6.9":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Zilong Han":
+                  - link "Zilong Han":
+                    - /url: /football/player/zilong-han/928157
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "11/13 (85%)"
+                - cell "5 (3)"
+                - cell "4 (3)"
+                - cell "1 (0)"
+                - cell "61'"
+                - cell "F"
+                - cell "6.9":
+                  - meter
+              - row "Yunnan Yukun Chenliang Zhang 0 3 7/16 (44%) 12 (6) 8 (4) 4 (2) 90' D 6.8":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Chenliang Zhang":
+                  - link "Chenliang Zhang":
+                    - /url: /football/player/chenliang-zhang/1867517
+                - cell "0"
+                - cell
+                - cell "3"
+                - cell "7/16 (44%)"
+                - cell "12 (6)"
+                - cell "8 (4)"
+                - cell "4 (2)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.8":
+                  - meter
+              - row "Beijing Guoan Nebijan Muhmet 0 1 2 16/19 (84%) 9 (3) 8 (3) 1 (0) 78' M 6.8":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Nebijan Muhmet":
+                  - link "Nebijan Muhmet":
+                    - /url: /football/player/nebijan-muhmet/1215618
+                - cell "0"
+                - cell "1"
+                - cell "2"
+                - cell "16/19 (84%)"
+                - cell "9 (3)"
+                - cell "8 (3)"
+                - cell "1 (0)"
+                - cell "78'"
+                - cell "M"
+                - cell "6.8":
+                  - meter
+              - row "Yunnan Yukun Sun Xuelong 0 3/3 (100%) 2 (2) 1 (1) 1 (1) 8' M 6.8":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Sun Xuelong":
+                  - link "Sun Xuelong":
+                    - /url: /football/player/sun-xuelong/991523
+                - cell "0"
+                - cell
+                - cell
+                - cell "3/3 (100%)"
+                - cell "2 (2)"
+                - cell "1 (1)"
+                - cell "1 (1)"
+                - cell "8'"
+                - cell "M"
+                - cell "6.8":
+                  - meter
+              - row "Yunnan Yukun Zhen Ma 0 7/17 (41%) 0 (0) 90' G 6.8":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Zhen Ma":
+                  - link "Zhen Ma":
+                    - /url: /football/player/zhen-ma/977993
+                - cell "0"
+                - cell
+                - cell
+                - cell "7/17 (41%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "90'"
+                - cell "G"
+                - cell "6.8":
+                  - meter
+              - row "Yunnan Yukun John Hou Sæter 0 1 10/13 (77%) 11 (2) 4 (2) 7 (0) 90' F 6.7":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "John Hou Sæter":
+                  - link "John Hou Sæter":
+                    - /url: /football/player/john-hou-saeter/553646
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "10/13 (77%)"
+                - cell "11 (2)"
+                - cell "4 (2)"
+                - cell "7 (0)"
+                - cell "90'"
+                - cell "F"
+                - cell "6.7":
+                  - meter
+              - row "Yunnan Yukun Luo Jing 0 5/9 (56%) 8 (4) 6 (4) 2 (0) 83' F 6.7":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Luo Jing":
+                  - link "Luo Jing":
+                    - /url: /football/player/luo-jing/797375
+                - cell "0"
+                - cell
+                - cell
+                - cell "5/9 (56%)"
+                - cell "8 (4)"
+                - cell "6 (4)"
+                - cell "2 (0)"
+                - cell "83'"
+                - cell "F"
+                - cell "6.7":
+                  - meter
+              - row "Beijing Guoan Lin Liangming 0 25/30 (83%) 15 (6) 9 (2) 6 (4) 86' M 6.7":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Lin Liangming":
+                  - link "Lin Liangming":
+                    - /url: /football/player/lin-liangming/900549
+                - cell "0"
+                - cell
+                - cell
+                - cell "25/30 (83%)"
+                - cell "15 (6)"
+                - cell "9 (2)"
+                - cell "6 (4)"
+                - cell "86'"
+                - cell "M"
+                - cell "6.7":
+                  - meter
+              - row "Yunnan Yukun Nené 0 3 18/23 (78%) 14 (7) 13 (7) 1 (0) 82' M 6.7":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Nené":
+                  - link "Nené":
+                    - /url: /football/player/nene/364608
+                - cell "0"
+                - cell
+                - cell "3"
+                - cell "18/23 (78%)"
+                - cell "14 (7)"
+                - cell "13 (7)"
+                - cell "1 (0)"
+                - cell "82'"
+                - cell "M"
+                - cell "6.7":
+                  - meter
+              - row "Yunnan Yukun Pedro Henrique 0 3/5 (60%) 6 (3) 2 (2) 4 (1) 29' F 6.7":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Pedro Henrique":
+                  - link "Pedro Henrique":
+                    - /url: /football/player/pedro-henrique/911263
+                - cell "0"
+                - cell
+                - cell
+                - cell "3/5 (60%)"
+                - cell "6 (3)"
+                - cell "2 (2)"
+                - cell "4 (1)"
+                - cell "29'"
+                - cell "F"
+                - cell "6.7":
+                  - meter
+              - row "Beijing Guoan Yuan Zhang 0 11/12 (92%) 1 (0) 1 (0) 21' M 6.6":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yuan Zhang":
+                  - link "Yuan Zhang":
+                    - /url: /football/player/yuan-zhang/887582
+                - cell "0"
+                - cell
+                - cell
+                - cell "11/12 (92%)"
+                - cell "1 (0)"
+                - cell "1 (0)"
+                - cell
+                - cell "21'"
+                - cell "M"
+                - cell "6.6":
+                  - meter
+              - row "Beijing Guoan Hao Fang 0 10/11 (91%) 3 (1) 3 (1) 12' F 6.5":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Hao Fang":
+                  - link "Hao Fang":
+                    - /url: /football/player/hao-fang/1114765
+                - cell "0"
+                - cell
+                - cell
+                - cell "10/11 (91%)"
+                - cell "3 (1)"
+                - cell "3 (1)"
+                - cell
+                - cell "12'"
+                - cell "F"
+                - cell "6.5":
+                  - meter
+              - row "Yunnan Yukun José Antonio Martinez 0 15/20 (75%) 5 (3) 1 (0) 4 (3) 61' D 6.5":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "José Antonio Martinez":
+                  - link "José Antonio Martinez":
+                    - /url: /football/player/jose-antonio-martinez/845290
+                - cell "0"
+                - cell
+                - cell
+                - cell "15/20 (75%)"
+                - cell "5 (3)"
+                - cell "1 (0)"
+                - cell "4 (3)"
+                - cell "61'"
+                - cell "D"
+                - cell "6.5":
+                  - meter
+              - row "Beijing Guoan Li Lei 0 7/9 (78%) 1 (0) 0 (0) 1 (0) 18' D 6.5":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Li Lei":
+                  - link "Li Lei":
+                    - /url: /football/player/li-lei/791491
+                - cell "0"
+                - cell
+                - cell
+                - cell "7/9 (78%)"
+                - cell "1 (0)"
+                - cell "0 (0)"
+                - cell "1 (0)"
+                - cell "18'"
+                - cell "D"
+                - cell "6.5":
+                  - meter
+              - row "Beijing Guoan Zhang Yuning 0 2/4 (50%) 3 (0) 0 (0) 3 (0) 18' F 6.5":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Zhang Yuning":
+                  - link "Zhang Yuning":
+                    - /url: /football/player/zhang-yuning/828227
+                - cell "0"
+                - cell
+                - cell
+                - cell "2/4 (50%)"
+                - cell "3 (0)"
+                - cell "0 (0)"
+                - cell "3 (0)"
+                - cell "18'"
+                - cell "F"
+                - cell "6.5":
+                  - meter
+              - row "Yunnan Yukun Congyao Yin 0 1 (0) 0 (0) 1 (0) 9' M 6.4":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Congyao Yin":
+                  - link "Congyao Yin":
+                    - /url: /football/player/congyao-yin/822832
+                - cell "0"
+                - cell
+                - cell
+                - cell
+                - cell "1 (0)"
+                - cell "0 (0)"
+                - cell "1 (0)"
+                - cell "9'"
+                - cell "M"
+                - cell "6.4":
+                  - meter
+              - row "Yunnan Yukun He Yang 0 2/3 (67%) 1 (0) 1 (0) 21' F 6.4":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "He Yang":
+                  - link "He Yang":
+                    - /url: /football/player/he-yang/833494
+                - cell "0"
+                - cell
+                - cell
+                - cell "2/3 (67%)"
+                - cell "1 (0)"
+                - cell "1 (0)"
+                - cell
+                - cell "21'"
+                - cell "F"
+                - cell "6.4":
+                  - meter
+              - row "Yunnan Yukun Yuhao Zhao 0 2 15/17 (88%) 11 (3) 6 (2) 5 (1) 90' M 6.4":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Yuhao Zhao":
+                  - link "Yuhao Zhao":
+                    - /url: /football/player/yuhao-zhao/797379
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "15/17 (88%)"
+                - cell "11 (3)"
+                - cell "6 (2)"
+                - cell "5 (1)"
+                - cell "90'"
+                - cell "M"
+                - cell "6.4":
+                  - meter
+              - row "Yunnan Yukun Zhang Yufeng 0 1 4/9 (44%) 5 (2) 2 (1) 3 (1) 29' M 6.4":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Zhang Yufeng":
+                  - link "Zhang Yufeng":
+                    - /url: /football/player/zhang-yufeng/892680
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "4/9 (44%)"
+                - cell "5 (2)"
+                - cell "2 (1)"
+                - cell "3 (1)"
+                - cell "29'"
+                - cell "M"
+                - cell "6.4":
+                  - meter
+              - row "Yunnan Yukun Songyi Li 0 17/27 (63%) 10 (3) 2 (0) 8 (3) 90' D 5.9":
+                - cell "Yunnan Yukun":
+                  - img "Yunnan Yukun"
+                - cell "Songyi Li":
+                  - link "Songyi Li":
+                    - /url: /football/player/songyi-li/791292
+                - cell "0"
+                - cell
+                - cell
+                - cell "17/27 (63%)"
+                - cell "10 (3)"
+                - cell "2 (0)"
+                - cell "8 (3)"
+                - cell "90'"
+                - cell "D"
+                - cell "5.9":
+                  - meter
+          - button:
+            - img
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Yunnan Yukun played against Beijing Guoan in 2 matches this season. Currently, Yunnan Yukun rank 3rd, while Beijing Guoan hold 4th position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- link "George Russell takes Azerbaijan GP pole in Baku qualifying":
+  - /url: /news/george-russell-takes-azerbaijan-gp-pole-in-baku-qualifying
+- text: •
+- 'link "U20 Women’s World Cup Team of the Week: Semifinals standouts"':
+  - /url: /news/u20-womens-world-cup-team-of-the-week-semifinals-standouts
+- text: •
+- link "Brazil held to disappointing draw by Australia after World Cup":
+  - /url: /news/brazil-held-to-disappointing-draw-by-australia-after-world-cup
+- text: •
+- 'link "Sofascore Player of the Season Award: Vitinha (Ligue 1)"':
+  - /url: /news/sofascore-player-of-the-season-award-vitinha-ligue-1
+- text: •
+- 'link "Fenerbahçe Tarfin vs Virtus Bologna: EuroLeague Round 1 preview"':
+  - /url: /news/fenerbahce-tarfin-vs-virtus-bologna-euroleague-round-1-preview
+- text: •
+- 'link "Partizan vs EA7 Milano: Euroleague opener preview with odds, H2H trends and what to expect in Belgrade"':
+  - /url: /news/partizan-vs-ea7-milano-euroleague-opener-preview-with-odds-h2h-trends-and-what-to-expect-in-belgrade
+- text: •
+- link "Statistical Anomaly or Form Crisis?":
+  - /url: /news/statistical-anomaly-or-form-crisis
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13400350
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13400350
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

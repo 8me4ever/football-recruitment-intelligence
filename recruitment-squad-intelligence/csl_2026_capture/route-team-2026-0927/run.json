@@ -1,0 +1,10 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/shanghai-port-beijing-guoan/BrbsMFq#id:15552633",
+  "observed_at": "2026-09-27T05:20:19.238928+00:00",
+  "width": 1440,
+  "headed": true,
+  "via_team": true,
+  "stages": [],
+  "status": "failed",
+  "error": "Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches\nCall log:\n  - navigating to \"https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches\", waiting until \"load\"\n"
+}

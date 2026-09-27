@@ -1,0 +1,441 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football"
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball"
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis"
+  - link "Hockey":
+    - /url: /ice-hockey
+    - button "Hockey"
+  - link "Table tennis":
+    - /url: /table-tennis
+    - button "Table tennis"
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball"
+  - link "Handball":
+    - /url: /handball
+    - button "Handball"
+  - button "19 More":
+    - text: 19 More
+    - img
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 24":
+        - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - listitem:
+      - heading "Beijing Guoan vs Yunnan Yukun live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Beijing Guoan Guoan":
+    - /url: /football/team/beijing-guoan/3376
+    - img "Beijing Guoan"
+    - text: Guoan
+  - text: 3 - 3 Finished
+  - link "Yunnan Yukun Yukun":
+    - /url: /football/team/yunnan-yukun/474991
+    - img "Yunnan Yukun"
+    - text: Yukun
+  - text: Sai Erjini'ao 69' Zhang Yuning 50' Dawhan 36'
+  - img
+  - text: Alexandru Ioniță 90' +1 Oscar Taty Maritu 65' Bunyamin Abdusalam 58'
+  - img
+  - text: 22/08/2026 20:00
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - img
+  - text: Beijing Workers' Stadium FT 3 - 3 90'
+  - superscript: "+1"
+  - img "Goal"
+  - button "3 - 3":
+    - img
+    - text: 3 - 3
+  - link "A. Ioniță":
+    - /url: /football/player/alexandru-ionita/235434
+  - link "C. Vinícius":
+    - /url: /football/player/caio-vinicius/924404
+  - text: Additional time 9 86'
+  - img "Yellow card"
+  - link "C. Vinícius":
+    - /url: /football/player/caio-vinicius/924404
+  - text: Foul 85'
+  - img
+  - link "Z. Han":
+    - /url: /football/player/zilong-han/928157
+  - link "B. Abdusalam":
+    - /url: /football/player/bunyamin-abdusalam/2084781
+  - text: 84'
+  - img
+  - link "L. Lei":
+    - /url: /football/player/li-lei/791491
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - text: 80'
+  - img
+  - link "Z. Huang":
+    - /url: /football/player/zichang-huang/873898
+  - link "C. Zhang":
+    - /url: /football/player/chenliang-zhang/1867517
+  - text: 80'
+  - img
+  - link "L. Duan":
+    - /url: /football/player/liuyu-duan/941290
+  - link "X. Xu":
+    - /url: /football/player/xin-xu/828226
+  - text: 80'
+  - img
+  - link "Cléber":
+    - /url: /football/player/cleber/975207
+  - link "J. H. Sæter":
+    - /url: /football/player/john-hou-saeter/553646
+  - text: 69'
+  - img "Goal"
+  - button "3 - 2":
+    - img
+    - text: 3 - 2
+  - link "S. Erjini'ao":
+    - /url: /football/player/sai-erjiniao/843735
+  - link "Dawhan":
+    - /url: /football/player/dawhan/926823
+  - text: 65'
+  - img "Goal"
+  - button "2 - 2":
+    - img
+    - text: 2 - 2
+  - link "O. T. Maritu":
+    - /url: /football/player/taty-maritu-oscar/941696
+  - text: 62'
+  - img
+  - link "T. Yue":
+    - /url: /football/player/tze-nam-yue/967088
+  - link "G. Wang":
+    - /url: /football/player/gang-wang/77758
+  - text: 62'
+  - img
+  - link "Z. Xizhe":
+    - /url: /football/player/zhang-xizhe/231992
+  - link "D. Jiefu":
+    - /url: /football/player/deng-jiefu/2443057
+  - text: 58'
+  - img "Goal"
+  - button "2 - 1":
+    - img
+    - text: 2 - 1
+  - link "B. Abdusalam":
+    - /url: /football/player/bunyamin-abdusalam/2084781
+  - link "C. Zhang":
+    - /url: /football/player/chenliang-zhang/1867517
+  - text: 50'
+  - img "Goal"
+  - button "2 - 0":
+    - img
+    - text: 2 - 0
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - text: 46'
+  - img
+  - link "C. Vinícius":
+    - /url: /football/player/caio-vinicius/924404
+  - link "C. Ye":
+    - /url: /football/player/chugui-ye/792267
+  - text: HT 1 - 0 Additional time 4 36'
+  - img "Goal"
+  - button "1 - 0":
+    - img
+    - text: 1 - 0
+  - link "Dawhan":
+    - /url: /football/player/dawhan/926823
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - text: 15'
+  - img "Yellow card"
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - text: "Foul Who will win? Total votes: 0"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Will both teams score? Total votes: 0"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Who will score first? Total votes: 0"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - img
+  - text: Date and time 22/08/2026 20:00
+  - link "Competition Football, China, Chinese Super League, Round 24":
+    - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 24
+    - img
+  - img
+  - text: Venue Beijing Workers' Stadium
+  - img "CN"
+  - text: Location Beijing, China
+  - link "Referee Shan Dan'ao CN Avg. cards 0.35 4.53":
+    - /url: /football/referee/danao-shan/789401
+    - img
+    - text: Referee Shan Dan'ao
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.35"
+    - img
+    - text: "4.53"
+    - img
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Advertisement
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "H2H" [selected]:
+        - link "H2H":
+          - /url: "#id:15552619,tab:matches"
+          - heading "H2H" [level=2]
+  - tabpanel:
+    - text: Head-to-head
+    - img
+    - heading "Matches" [level=2]
+    - scrollbar:
+      - tablist:
+        - tab "Beijing Guoan" [selected]:
+          - img "Beijing Guoan"
+        - tab "Yunnan Yukun":
+          - img "Yunnan Yukun"
+    - tabpanel:
+      - checkbox "Home"
+      - img
+      - text: Home
+      - checkbox "This competition"
+      - img
+      - text: This competition
+      - img
+      - text: No events
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Beijing Guoan played against Yunnan Yukun in 2 matches this season. Currently, Beijing Guoan rank 3rd, while Yunnan Yukun hold 4th position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories Football"
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15552619
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15552619
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert: Beijing Guoan vs Yunnan Yukun live score, H2H and lineups | Sofascore

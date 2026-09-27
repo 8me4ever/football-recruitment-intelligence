@@ -1,0 +1,2898 @@
+{
+  "started_at": "2026-09-27T06:10:29.089468+00:00",
+  "source": "Sofascore rendered webpages",
+  "route": "CSL tournament > season > round > exact fixture card > Player stats > six categories",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "headed": true,
+  "viewport": "1440x1000",
+  "locale": "en-GB",
+  "timezone": "Asia/Shanghai",
+  "temp_dir": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\season_2026\\runtime_temp",
+  "fixtures_requested": 180,
+  "results": [
+    {
+      "match_id": "15551885",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551885_c48e5fac19ef.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "07/03/26 FT Taishan Tieren 3 0"
+    },
+    {
+      "match_id": "15551886",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551886_80d151f41bbe.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "07/03/26 FT Port Henan 1 2"
+    },
+    {
+      "match_id": "15551887",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551887_58c9b49d02f0.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "07/03/26 FT Yukun Hainiu 3 1"
+    },
+    {
+      "match_id": "15551888",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551888_9ae88b67f1af.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "08/03/26 FT Zhejiang Qingdao 2 0"
+    },
+    {
+      "match_id": "15551889",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551889_5df772ed2803.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "08/03/26 FT Three Towns Guoan 0 2"
+    },
+    {
+      "match_id": "15551890",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551890_3146d56ec74a.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "13/03/26 FT Three Towns Dalian Yingbo 4 1"
+    },
+    {
+      "match_id": "15551892",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551892_c100acaabb75.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "14/03/26 FT Zhejiang Shenhua 1 1"
+    },
+    {
+      "match_id": "15551893",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551893_267e2e3c8d56.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "14/03/26 FT Tongliang Long Tieren 1 0"
+    },
+    {
+      "match_id": "15551894",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551894_eb3cd66c4e9f.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 3
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "14/03/26 FT Shenzhen Jinmen Tiger 1 0"
+    },
+    {
+      "match_id": "15551895",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551895_46b94496baea.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "15/03/26 FT Henan Yukun 2 1"
+    },
+    {
+      "match_id": "15551896",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551896_f7614463225f.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "15/03/26 FT Port Qingdao 4 1"
+    },
+    {
+      "match_id": "15551897",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551897_cde729d69d28.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "2",
+      "card_text": "15/03/26 FT Chengdu Hainiu 1 0"
+    },
+    {
+      "match_id": "15551898",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551898_65109093e266.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "20/03/26 FT Dalian Yingbo Port 1 0"
+    },
+    {
+      "match_id": "15551899",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551899_7d16d41bfa4a.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "20/03/26 FT Hainiu Zhejiang 1 4"
+    },
+    {
+      "match_id": "15549792",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549792_5bd6674f825e.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "21/03/26 FT Henan Three Towns 1 1"
+    },
+    {
+      "match_id": "15551901",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551901_a35fd12e06ef.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "21/03/26 FT Tieren Jinmen Tiger 3 0"
+    },
+    {
+      "match_id": "15551902",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551902_890b0ae9e87b.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "21/03/26 FT Tongliang Long Chengdu 3 3"
+    },
+    {
+      "match_id": "15551903",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551903_3ccf91962792.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "21/03/26 FT Qingdao Shenzhen 1 0"
+    },
+    {
+      "match_id": "15551904",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551904_a46231f3b9a4.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "3",
+      "card_text": "21/03/26 FT Yukun Taishan 4 0"
+    },
+    {
+      "match_id": "15551905",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551905_dd6517ac491e.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "03/04/26 FT Chengdu Qingdao 5 1"
+    },
+    {
+      "match_id": "15551906",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551906_fda41eee77d2.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "04/04/26 FT Hainiu Henan 1 0"
+    },
+    {
+      "match_id": "15552477",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552477_007285a8eb29.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "04/04/26 FT Taishan Dalian Yingbo 1 2"
+    },
+    {
+      "match_id": "15552479",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552479_d4b9e6580692.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "04/04/26 FT Port Yukun 2 1"
+    },
+    {
+      "match_id": "15552480",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552480_992434d61e5d.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "05/04/26 FT Jinmen Tiger Shenhua 2 3"
+    },
+    {
+      "match_id": "15552481",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552481_bf7e90d278d3.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "05/04/26 FT Zhejiang Tongliang Long 0 1"
+    },
+    {
+      "match_id": "15552482",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552482_6ff8633ee8e1.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "4",
+      "card_text": "05/04/26 FT Shenzhen Three Towns 5 2"
+    },
+    {
+      "match_id": "15552483",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552483_2d992266c59d.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "10/04/26 FT Dalian Yingbo Zhejiang 3 0"
+    },
+    {
+      "match_id": "15552484",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552484_f8af445b0d58.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "11/04/26 FT Qingdao  Tieren 1 1"
+    },
+    {
+      "match_id": "15552485",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552485_49b046032496.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "11/04/26 FT Tongliang Long Three Towns 2 1"
+    },
+    {
+      "match_id": "15552486",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552486_572913101da6.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "11/04/26 FT Henan Taishan 0 1"
+    },
+    {
+      "match_id": "15552487",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552487_10c07604c351.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "11/04/26 FT Shenhua Port 1 0"
+    },
+    {
+      "match_id": "15552488",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552488_f134246b8b08.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "12/04/26 FT Jinmen Tiger Hainiu 1 1"
+    },
+    {
+      "match_id": "15552490",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552490_526592f44314.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "5",
+      "card_text": "12/04/26 FT Shenzhen Yukun 3 4"
+    },
+    {
+      "match_id": "15552491",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552491_274dd738a7d8.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "17/04/26 FT Hainiu Qingdao 0 0"
+    },
+    {
+      "match_id": "15552492",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552492_573b3ab9aaa5.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "17/04/26 FT Taishan Port 1 1"
+    },
+    {
+      "match_id": "15552494",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552494_1d3f7af65376.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "17/04/26 FT Tongliang Long Shenzhen 2 0"
+    },
+    {
+      "match_id": "15552495",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552495_02d09a44a741.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "17/04/26 FT Three Towns Chengdu 0 1"
+    },
+    {
+      "match_id": "15552497",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552497_be774e65e8e5.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "17/04/26 FT Yukun Jinmen Tiger 0 3"
+    },
+    {
+      "match_id": "15552496",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552496_ffe95f333436.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "18/04/26 FT Dalian Yingbo Henan 2 1"
+    },
+    {
+      "match_id": "15552500",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552500_85f9546ecff6.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "6",
+      "card_text": "18/04/26 FT Shenhua Tieren 3 1"
+    },
+    {
+      "match_id": "15552499",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552499_6a66d787b230.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "21/04/26 FT Chengdu Yukun 2 1"
+    },
+    {
+      "match_id": "15552501",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552501_efacc09b396a.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "21/04/26 FT Three Towns Zhejiang 2 0"
+    },
+    {
+      "match_id": "15552502",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552502_86b64d6fe3ce.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "21/04/26 FT Port Tongliang Long 1 2"
+    },
+    {
+      "match_id": "15552503",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552503_00d9d7f48f4b.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "21/04/26 FT Jinmen Tiger Taishan 1 2"
+    },
+    {
+      "match_id": "15552505",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552505_d32d36bf50a1.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "22/04/26 FT Qingdao Henan 0 0"
+    },
+    {
+      "match_id": "15552506",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552506_a8f503ea1cc3.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "22/04/26 FT Tieren Dalian Yingbo 0 1"
+    },
+    {
+      "match_id": "15552508",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552508_5336b1a98169.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "7",
+      "card_text": "22/04/26 FT Shenhua Hainiu 2 0"
+    },
+    {
+      "match_id": "15552504",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552504_91440858de73.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "25/04/26 FT Chengdu Zhejiang 4 0"
+    },
+    {
+      "match_id": "15552511",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552511_32a0a14b0c4f.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "25/04/26 FT Port Three Towns 4 0"
+    },
+    {
+      "match_id": "15552509",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552509_739312fea6a5.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "26/04/26 FT Shenzhen Tieren 1 0"
+    },
+    {
+      "match_id": "15552510",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552510_302ac73b8962.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "26/04/26 FT Tongliang Long Qingdao 1 1"
+    },
+    {
+      "match_id": "15552512",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552512_f6fff1108dc6.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "26/04/26 FT Henan Shenhua 0 3"
+    },
+    {
+      "match_id": "15552513",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552513_dce0068d5310.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "26/04/26 FT Dalian Yingbo Yukun 1 3"
+    },
+    {
+      "match_id": "15552516",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552516_102e110460be.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "8",
+      "card_text": "26/04/26 FT Hainiu Taishan 4 1"
+    },
+    {
+      "match_id": "15552514",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552514_8ada473c4d4a.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "01/05/26 FT Jinmen Tiger Three Towns 2 2"
+    },
+    {
+      "match_id": "15552515",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552515_9be76bd09e4a.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "01/05/26 FT Henan Tieren 4 0"
+    },
+    {
+      "match_id": "15552517",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552517_5139cb0c70bd.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "01/05/26 FT Dalian Yingbo Tongliang Long 1 0"
+    },
+    {
+      "match_id": "15552518",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552518_28d3aa7294c2.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "01/05/26 FT Taishan Qingdao 1 1"
+    },
+    {
+      "match_id": "15552520",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552520_ab4c00e4e3ef.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "01/05/26 FT Shenhua Chengdu 2 3"
+    },
+    {
+      "match_id": "15552527",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552527_14f187c0a451.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "02/05/26 FT Hainiu Port 3 1"
+    },
+    {
+      "match_id": "15552528",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552528_30227faae25e.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "9",
+      "card_text": "02/05/26 FT Zhejiang Shenzhen 2 1"
+    },
+    {
+      "match_id": "15552530",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552530_aed24bb68972.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "05/05/26 FT Qingdao Jinmen Tiger 1 1"
+    },
+    {
+      "match_id": "15552531",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552531_2246c82f4747.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "05/05/26 FT Tongliang Long Henan 1 1"
+    },
+    {
+      "match_id": "15552532",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552532_0a82fdb65112.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "05/05/26 FT Tieren Chengdu 0 1"
+    },
+    {
+      "match_id": "15552535",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552535_5286d6837412.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "05/05/26 FT Taishan Shenhua 4 1"
+    },
+    {
+      "match_id": "15552533",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552533_050c262615f4.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "06/05/26 FT Three Towns Hainiu 1 3"
+    },
+    {
+      "match_id": "15552534",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552534_2bc7316fa7de.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "06/05/26 FT Port Shenzhen 1 1"
+    },
+    {
+      "match_id": "15552537",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552537_7c2f9e7affa7.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "10",
+      "card_text": "06/05/26 FT Yukun Zhejiang 1 2"
+    },
+    {
+      "match_id": "15552538",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552538_7d9659c89474.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "09/05/26 FT Shenhua Tongliang Long 2 2"
+    },
+    {
+      "match_id": "15552539",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552539_2a047e8444e9.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "09/05/26 FT Chengdu Henan 3 0"
+    },
+    {
+      "match_id": "15552540",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552540_27d74b93500e.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "10/05/26 FT Qingdao Three Towns 1 1"
+    },
+    {
+      "match_id": "15552541",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552541_f7b9b21d270a.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "10/05/26 FT Hainiu Dalian Yingbo 3 1"
+    },
+    {
+      "match_id": "15552542",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552542_e05b642e79fa.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "10/05/26 FT Zhejiang Jinmen Tiger 1 1"
+    },
+    {
+      "match_id": "15552543",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552543_e7335d4e285e.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "10/05/26 FT Tieren Yukun 1 2"
+    },
+    {
+      "match_id": "15552545",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552545_3096bd268a24.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "11",
+      "card_text": "10/05/26 FT Shenzhen Taishan 1 2"
+    },
+    {
+      "match_id": "15549837",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549837_50c83136e477.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "15/05/26 FT Henan Shenzhen 1 0"
+    },
+    {
+      "match_id": "15549839",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549839_0590c5569e7c.json",
+      "row_counts": {
+        "General": 34,
+        "Attacking": 34,
+        "Defending": 34,
+        "Passing": 34,
+        "Duels": 34,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "15/05/26 FT Port Zhejiang 2 2"
+    },
+    {
+      "match_id": "15549840",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549840_ad3d88861d13.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "15/05/26 FT Jinmen Tiger Chengdu 1 2"
+    },
+    {
+      "match_id": "15549841",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549841_f89330d5881a.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "15/05/26 FT Dalian Yingbo Qingdao 2 3"
+    },
+    {
+      "match_id": "15549842",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549842_c25e0bb6b269.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "16/05/26 FT Three Towns Tieren 2 2"
+    },
+    {
+      "match_id": "15549844",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549844_5d9a7e8c27d7.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "16/05/26 FT Taishan Tongliang Long 3 1"
+    },
+    {
+      "match_id": "15549848",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549848_2abe94e1a78f.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "12",
+      "card_text": "16/05/26 FT Yukun Shenhua 1 0"
+    },
+    {
+      "match_id": "15549845",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549845_9dce26eb55df.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "19/05/26 FT Shenzhen Dalian Yingbo 1 1"
+    },
+    {
+      "match_id": "15549846",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549846_af69e7e1a8c3.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "19/05/26 FT Chengdu Port 0 1"
+    },
+    {
+      "match_id": "15549847",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549847_a8eda2eaf10a.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "19/05/26 FT Jinmen Tiger Henan 1 2"
+    },
+    {
+      "match_id": "15549849",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549849_0f5bef033128.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "20/05/26 FT Tieren Hainiu 2 1"
+    },
+    {
+      "match_id": "15549851",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549851_cbd908b9146c.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "20/05/26 FT Shenhua Three Towns 2 2"
+    },
+    {
+      "match_id": "15549852",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549852_62cc180f7486.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "20/05/26 FT Tongliang Long Yukun 0 0"
+    },
+    {
+      "match_id": "15549853",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549853_3ed536414188.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "13",
+      "card_text": "20/05/26 FT Zhejiang Taishan 4 1"
+    },
+    {
+      "match_id": "15549854",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549854_6171a99319c8.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "23/05/26 FT Port Jinmen Tiger 1 1"
+    },
+    {
+      "match_id": "15549856",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549856_a5078905588d.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "23/05/26 FT Dalian Yingbo Chengdu 2 0"
+    },
+    {
+      "match_id": "15549857",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549857_a074336a9e7c.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "24/05/26 FT Yukun Qingdao 2 3"
+    },
+    {
+      "match_id": "15549858",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549858_1a4768176e13.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "24/05/26 FT Taishan Three Towns 3 3"
+    },
+    {
+      "match_id": "15549859",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549859_30e6048d2737.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "24/05/26 FT Zhejiang Tieren 0 5"
+    },
+    {
+      "match_id": "15549860",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549860_76e65db423cf.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "24/05/26 FT Hainiu Tongliang Long 0 1"
+    },
+    {
+      "match_id": "15549862",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549862_16d545755765.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "14",
+      "card_text": "24/05/26 FT Shenhua Shenzhen 1 2"
+    },
+    {
+      "match_id": "15549861",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549861_244411f7bc06.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "29/05/26 FT Tieren Port 3 2"
+    },
+    {
+      "match_id": "15549863",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15549863_80a1d5b26a25.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "30/05/26 FT Henan Zhejiang 0 2"
+    },
+    {
+      "match_id": "15552544",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552544_9ee3f7163619.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "30/05/26 FT Qingdao Shenhua 2 2"
+    },
+    {
+      "match_id": "15552548",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552548_03c9d6247485.json",
+      "row_counts": {
+        "General": 34,
+        "Attacking": 34,
+        "Defending": 34,
+        "Passing": 34,
+        "Duels": 34,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "30/05/26 FT Chengdu Taishan 1 0"
+    },
+    {
+      "match_id": "15552550",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552550_2c1e4220d90f.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "30/05/26 FT Shenzhen Hainiu 3 2"
+    },
+    {
+      "match_id": "15552551",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552551_5c86047aa0f8.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "31/05/26 FT Three Towns Yukun 1 1"
+    },
+    {
+      "match_id": "15552552",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552552_fcca8ad05682.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "15",
+      "card_text": "31/05/26 FT Jinmen Tiger Dalian Yingbo 1 0"
+    },
+    {
+      "match_id": "15552549",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552549_91d3584c12da.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "26/06/26 FT Hainiu Yukun 4 2"
+    },
+    {
+      "match_id": "15552553",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552553_9a532260ae5d.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "27/06/26 FT Tieren Taishan 1 5"
+    },
+    {
+      "match_id": "15552554",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552554_6d9316bb944d.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "27/06/26 FT Shenzhen Chengdu 2 3"
+    },
+    {
+      "match_id": "15552555",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552555_29c175bec51e.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "27/06/26 FT Henan Port 1 2"
+    },
+    {
+      "match_id": "15552557",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552557_3a66465547e7.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "27/06/26 FT Tongliang Long Jinmen Tiger 1 0"
+    },
+    {
+      "match_id": "15552556",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552556_c16570b4d0d5.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "28/06/26 FT Qingdao Zhejiang 3 1"
+    },
+    {
+      "match_id": "15552560",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552560_fc1c0bf6a083.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "16",
+      "card_text": "28/06/26 FT Dalian Yingbo Shenhua 1 4"
+    },
+    {
+      "match_id": "15552562",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552562_898282d75c6f.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "03/07/26 FT Yukun Henan 2 1"
+    },
+    {
+      "match_id": "15552558",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552558_8f388f7dfb16.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "04/07/26 FT Qingdao Port 2 1"
+    },
+    {
+      "match_id": "15552559",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552559_999fa6826dd7.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "04/07/26 FT Tieren Tongliang Long 3 1"
+    },
+    {
+      "match_id": "15552564",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552564_deced0f1a699.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "04/07/26 FT Dalian Yingbo Three Towns 3 2"
+    },
+    {
+      "match_id": "15552565",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552565_2a6c3e352f08.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "04/07/26 FT Jinmen Tiger Shenzhen 3 0"
+    },
+    {
+      "match_id": "15552566",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552566_1583caa1e21f.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "05/07/26 FT Hainiu Chengdu 1 1"
+    },
+    {
+      "match_id": "15552567",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552567_3f87a9607ab6.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "17",
+      "card_text": "05/07/26 FT Shenhua Zhejiang 3 2"
+    },
+    {
+      "match_id": "15552568",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552568_c50cd50ee720.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "10/07/26 FT Taishan Yukun 4 3"
+    },
+    {
+      "match_id": "15552571",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552571_09a4074324d3.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "11/07/26 FT Shenzhen Qingdao 3 0"
+    },
+    {
+      "match_id": "15552573",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552573_48de2f286a39.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "11/07/26 FT Chengdu Tongliang Long 1 1"
+    },
+    {
+      "match_id": "16484884",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\16484884_bf06e4359855.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "14/07/26 FT Zhejiang Hainiu 3 2"
+    },
+    {
+      "match_id": "15552577",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552577_1ad49b7ed5e8.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "17/07/26 FT Qingdao Chengdu 1 1"
+    },
+    {
+      "match_id": "15552580",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552580_7a9397e2f6c6.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "17/07/26 FT Yukun Port 2 2"
+    },
+    {
+      "match_id": "15552581",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552581_cdbf6b65605f.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "17/07/26 FT Henan Hainiu 5 1"
+    },
+    {
+      "match_id": "15552578",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552578_cd9fbec40b56.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "18/07/26 FT Tongliang Long Zhejiang 1 1"
+    },
+    {
+      "match_id": "15552579",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552579_17cc6000774b.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "18/07/26 FT Shenhua Jinmen Tiger 0 2"
+    },
+    {
+      "match_id": "15552583",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552583_78763c6be8f6.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "18/07/26 FT Three Towns Shenzhen 2 0"
+    },
+    {
+      "match_id": "15552584",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552584_3d2612a145ed.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "19",
+      "card_text": "18/07/26 FT Dalian Yingbo Taishan 3 1"
+    },
+    {
+      "match_id": "15552582",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552582_b0bf5299d105.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "25/07/26 FT Hainiu Jinmen Tiger 0 2"
+    },
+    {
+      "match_id": "15552585",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552585_2571b0b5eb6f.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "25/07/26 FT Tieren Qingdao 0 1"
+    },
+    {
+      "match_id": "15552586",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552586_fcf3106c37af.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "25/07/26 FT Three Towns Tongliang Long 1 0"
+    },
+    {
+      "match_id": "15552589",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552589_74371f19f1cc.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "25/07/26 FT Port Shenhua 2 0"
+    },
+    {
+      "match_id": "15552588",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552588_060c737e8d9a.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "26/07/26 FT Yukun Shenzhen 4 3"
+    },
+    {
+      "match_id": "15552590",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552590_c2c1f08467b4.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "26/07/26 FT Taishan Henan 1 2"
+    },
+    {
+      "match_id": "15552592",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552592_47e6da3eddcb.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "20",
+      "card_text": "26/07/26 FT Zhejiang Dalian Yingbo 3 2"
+    },
+    {
+      "match_id": "15552591",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552591_3dbe1c2ff69e.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "31/07/26 FT Henan Dalian Yingbo 1 1"
+    },
+    {
+      "match_id": "15552593",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552593_b7c09d979a8b.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "01/08/26 FT Jinmen Tiger Yukun 3 2"
+    },
+    {
+      "match_id": "15552594",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552594_c9d60d1001da.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "01/08/26 FT Port Taishan 0 1"
+    },
+    {
+      "match_id": "15552597",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552597_e9b8f669a547.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "01/08/26 FT Chengdu Three Towns 1 1"
+    },
+    {
+      "match_id": "15552595",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552595_9f0fb2d3ae83.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "02/08/26 FT Shenzhen Tongliang Long 2 0"
+    },
+    {
+      "match_id": "15552598",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552598_b1993fe4378f.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "02/08/26 FT Qingdao Hainiu 2 0"
+    },
+    {
+      "match_id": "15552599",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552599_84597a7cb3a7.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "21",
+      "card_text": "02/08/26 FT Tieren Shenhua 3 1"
+    },
+    {
+      "match_id": "15552601",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552601_83b69d5c3208.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "08/08/26 FT Hainiu Shenhua 0 0 1 1"
+    },
+    {
+      "match_id": "15552602",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552602_b26042570e38.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "08/08/26 FT Dalian Yingbo Tieren 1 1 0 0"
+    },
+    {
+      "match_id": "15552604",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552604_09acbd3c1927.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "08/08/26 FT Yukun Chengdu 1 1 0 0"
+    },
+    {
+      "match_id": "15552605",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552605_fd33d86b82c0.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "09/08/26 FT Henan Qingdao 0 0 0 0"
+    },
+    {
+      "match_id": "15552606",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552606_97630306e017.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "09/08/26 FT Tongliang Long Port 2 2 3 3"
+    },
+    {
+      "match_id": "15552609",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552609_ce1dc9fb8d7e.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "09/08/26 FT Taishan Jinmen Tiger 2 2 1 1"
+    },
+    {
+      "match_id": "15552607",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552607_9ec5a58a7a02.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "14/08/26 FT Three Towns Port 2 3"
+    },
+    {
+      "match_id": "15552608",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552608_0e129a335b84.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "14/08/26 FT Taishan Hainiu 3 1"
+    },
+    {
+      "match_id": "15552611",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552611_5735c7484333.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "14/08/26 FT Qingdao Tongliang Long 0 0"
+    },
+    {
+      "match_id": "15552610",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552610_f8b506d5631a.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "15/08/26 FT Tieren Shenzhen 1 2"
+    },
+    {
+      "match_id": "15552612",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552612_c00ef7ace400.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "15/08/26 FT Zhejiang Chengdu 2 3"
+    },
+    {
+      "match_id": "15552614",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552614_ed9dd57afe60.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "15/08/26 FT Yukun Dalian Yingbo 3 1"
+    },
+    {
+      "match_id": "15552615",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552615_8ed86df1408e.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "23",
+      "card_text": "15/08/26 FT Shenhua Henan 4 1"
+    },
+    {
+      "match_id": "16851577",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\16851577_ef2e7376bbcb.json",
+      "row_counts": {
+        "General": 34,
+        "Attacking": 34,
+        "Defending": 34,
+        "Passing": 34,
+        "Duels": 34,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "19/08/26 FT Port Dalian Yingbo 1 1"
+    },
+    {
+      "match_id": "15552616",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552616_08f89d5a3a70.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "22/08/26 FT Chengdu Shenhua 4 5"
+    },
+    {
+      "match_id": "15552617",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552617_3f5259d350da.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "22/08/26 FT Three Towns Jinmen Tiger 0 0"
+    },
+    {
+      "match_id": "15552618",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552618_9edada38df09.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "22/08/26 FT Shenzhen Zhejiang 1 1"
+    },
+    {
+      "match_id": "15552621",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552621_e57175157a10.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "22/08/26 FT Qingdao Taishan 2 0"
+    },
+    {
+      "match_id": "15552620",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552620_92dc6752a287.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "23/08/26 FT Port Hainiu 2 1"
+    },
+    {
+      "match_id": "15552622",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552622_b5cb5cfbe4bb.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "23/08/26 FT Tongliang Long Dalian Yingbo 0 1"
+    },
+    {
+      "match_id": "15552623",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552623_ad9c4dcd7dd7.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "24",
+      "card_text": "23/08/26 FT Tieren Henan 4 4"
+    },
+    {
+      "match_id": "15552625",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552625_0a6bf12d1058.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "28/08/26 FT Shenzhen Port 0 1"
+    },
+    {
+      "match_id": "15552629",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552629_e40eb4b91f68.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "28/08/26 FT Shenhua Taishan 2 3"
+    },
+    {
+      "match_id": "15552626",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552626_e8dc7c54c58e.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "29/08/26 FT Zhejiang Yukun 6 0"
+    },
+    {
+      "match_id": "15552627",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552627_41a2ae38e458.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "29/08/26 FT Jinmen Tiger Qingdao 1 1"
+    },
+    {
+      "match_id": "15552628",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552628_29f335e9cde6.json",
+      "row_counts": {
+        "General": 33,
+        "Attacking": 33,
+        "Defending": 33,
+        "Passing": 33,
+        "Duels": 33,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "29/08/26 FT Chengdu Tieren 2 1"
+    },
+    {
+      "match_id": "15552630",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552630_12456ff85479.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "29/08/26 FT Henan Tongliang Long 1 1"
+    },
+    {
+      "match_id": "15552631",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552631_ef0396355893.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "25",
+      "card_text": "29/08/26 FT Hainiu Three Towns 1 5"
+    },
+    {
+      "match_id": "15552632",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552632_997cb5b759ab.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "05/09/26 FT Three Towns Qingdao  2 2"
+    },
+    {
+      "match_id": "15552634",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552634_8cd535f0bc45.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "05/09/26 FT Dalian Yingbo Hainiu 2 1"
+    },
+    {
+      "match_id": "15552635",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552635_21f9bb410d78.json",
+      "row_counts": {
+        "General": 31,
+        "Attacking": 31,
+        "Defending": 31,
+        "Passing": 31,
+        "Duels": 31,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "05/09/26 FT Taishan Shenzhen 1 1"
+    },
+    {
+      "match_id": "15552636",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552636_3b0c63a0db87.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "06/09/26 FT Tongliang Long Shenhua 1 3"
+    },
+    {
+      "match_id": "15552638",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552638_18aac67b8088.json",
+      "row_counts": {
+        "General": 29,
+        "Attacking": 29,
+        "Defending": 29,
+        "Passing": 29,
+        "Duels": 29,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "06/09/26 FT Henan Chengdu 0 0"
+    },
+    {
+      "match_id": "15552640",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552640_f8bb6924c6fb.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "06/09/26 FT Yukun Tieren 5 0"
+    },
+    {
+      "match_id": "15552641",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15552641_8096abb8701a.json",
+      "row_counts": {
+        "General": 28,
+        "Attacking": 28,
+        "Defending": 28,
+        "Passing": 28,
+        "Duels": 28,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "26",
+      "card_text": "06/09/26 FT Jinmen Tiger Zhejiang 2 1"
+    },
+    {
+      "match_id": "17040294",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\17040294_262cdf3fb9bc.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "12/09/26 FT Three Towns Henan 1 1"
+    },
+    {
+      "match_id": "17047314",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\17047314_f835eee05965.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "18",
+      "card_text": "12/09/26 FT Jinmen Tiger Tieren 1 0"
+    },
+    {
+      "match_id": "17040296",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\17040296_7ee164ecba11.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "22",
+      "card_text": "18/09/26 FT Zhejiang Three Towns 4 4 1 1"
+    }
+  ],
+  "failures": [],
+  "browser_version": "153.0.8010.53"
+}

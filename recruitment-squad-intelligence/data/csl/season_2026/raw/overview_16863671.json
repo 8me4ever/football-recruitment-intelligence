@@ -1,0 +1,90 @@
+{
+  "source": "Sofascore rendered webpage DOM",
+  "collection_method": "User-opened In-app browser; visible match page and accessibility tree",
+  "observed_on": "2026-09-26",
+  "scope_status": "pilot_overview_only_not_player_match_stats",
+  "match": {
+    "match_id": "16863671",
+    "season_year": 2026,
+    "match_date": "2026-09-15",
+    "competition": "AFC Champions League Elite",
+    "competition_id": 463,
+    "competition_season_id": 99217,
+    "stage": "East Region, Round 1",
+    "status": "finished",
+    "home_team": "Beijing Guoan",
+    "away_team": "Pohang Steelers",
+    "home_goals": 3,
+    "away_goals": 1,
+    "source_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671"
+  },
+  "team_match_statistics_visible_on_overview": {
+    "interpretation": "Values follow home-team then away-team order shown on the match page",
+    "home": {
+      "ball_possession_pct": 49,
+      "distance_covered_km": 101.2,
+      "expected_goals_xg": 1.75
+    },
+    "away": {
+      "ball_possession_pct": 51,
+      "distance_covered_km": 103.1,
+      "expected_goals_xg": 1.05
+    }
+  },
+  "team_match_statistics_visible_on_statistics_tab": {
+    "value_order": "home_then_away",
+    "match_overview": {
+      "big_chances": [3, 2], "total_shots": [12, 9], "goalkeeper_saves": [2, 2],
+      "number_of_sprints": [77, 96], "corner_kicks": [2, 3], "fouls": [14, 17],
+      "passes": [493, 503], "tackles": [19, 9], "free_kicks": [17, 13], "yellow_cards": [2, 3]
+    },
+    "shots": {
+      "shots_on_target": [5, 3], "expected_goals_xg": [1.75, 1.05],
+      "expected_goals_on_target_xgot": [2.29, 1.04], "shots_off_target": [4, 3],
+      "blocked_shots": [3, 3], "shots_inside_box": [12, 4], "shots_outside_box": [1, 5]
+    },
+    "attack": {
+      "big_chances_scored": [3, 1], "big_chances_missed": [0, 1],
+      "touches_in_opposition_box": [26, 17], "fouled_in_final_third": [2, 3], "offsides": [0, 1]
+    },
+    "passes": {
+      "accurate_passes": [408, 422], "throw_ins": [15, 15], "final_third_entries": [35, 51],
+      "passes_in_final_third": [{"completed": 63, "attempted": 97, "displayed_pct": 65}, {"completed": 76, "attempted": 109, "displayed_pct": 70}],
+      "long_balls": [{"completed": 18, "attempted": 45, "displayed_pct": 40}, {"completed": 20, "attempted": 46, "displayed_pct": 43}],
+      "crosses": [{"completed": 3, "attempted": 14, "displayed_pct": 21}, {"completed": 1, "attempted": 13, "displayed_pct": 8}]
+    },
+    "duels": {
+      "duels_won_pct": [59, 41], "dispossessed": [8, 9],
+      "ground_duels": [{"won": 42, "total": 73, "displayed_pct": 58}, {"won": 31, "total": 73, "displayed_pct": 42}],
+      "aerial_duels": [{"won": 15, "total": 23, "displayed_pct": 65}, {"won": 8, "total": 23, "displayed_pct": 35}],
+      "dribbles": [{"successful": 7, "attempted": 8, "displayed_pct": 88}, {"successful": 11, "attempted": 21, "displayed_pct": 52}]
+    },
+    "defending": {
+      "tackles_won_pct": [63, 56], "total_tackles": [19, 9], "interceptions": [7, 7],
+      "recoveries": [47, 51], "clearances": [21, 34], "errors_leading_to_goal": [0, 1]
+    },
+    "goalkeeping": {
+      "saves": [2, 2], "goals_prevented": [0.04, -0.71], "punches": [0, 1], "goal_kicks": [3, 4]
+    }
+  },
+  "goals_visible": [
+    {"minute": 2, "player": "Chadrac Akolo", "team": "Beijing Guoan", "type": "goal"},
+    {"minute": 6, "player": "Jakob Tranziska", "team": "Pohang Steelers", "type": "penalty"},
+    {"minute": 12, "player": "Zhang Xizhe", "team": "Beijing Guoan", "type": "goal"},
+    {"minute": 46, "player": "Jeremy Dudziak", "team": "Beijing Guoan", "type": "goal"}
+  ],
+  "bookings_visible": [
+    {"minute": 88, "player": "Wang Yu", "team": "Beijing Guoan", "card": "yellow"},
+    {"minute": 67, "player": "Juninho Rocha", "team": "Pohang Steelers", "card": "yellow"}
+  ],
+  "guoan_ratings_visible_in_overview": [
+    {"player": "Chadrac Akolo", "rating": 8.1, "role": "player_of_the_match"},
+    {"player": "Jeremy Dudziak", "rating": 8.0},
+    {"player": "Zhang Xizhe", "rating": 7.6},
+    {"player": "Sai Erjini'ao", "rating": 7.6}
+  ],
+  "caveats": [
+    "This overview record is not a replacement for the six-category player statistics tables.",
+    "No competition weights are applied during collection."
+  ]
+}

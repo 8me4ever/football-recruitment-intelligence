@@ -1,0 +1,49 @@
+{
+  "started_at": "2026-09-27T06:44:53.855356+00:00",
+  "fixtures_requested": 2,
+  "source": "Sofascore rendered webpages",
+  "route": "AFC season/matchday > exact fixture card > Player stats > six categories",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "headed": true,
+  "viewport": "1440x1000",
+  "temp_dir": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\season_2026\\runtime_temp",
+  "results": [
+    {
+      "match_id": "16863670",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\16863670_00c51478f8a1.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "AFC tournament > visible matchday > exact fixture card",
+      "round": "Round 1",
+      "card_text": "15/09/26 FT Ratchaburi Port 4 6"
+    },
+    {
+      "match_id": "16864092",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\16864092_3b32c7bea567.json",
+      "row_counts": {
+        "General": 30,
+        "Attacking": 30,
+        "Defending": 30,
+        "Passing": 30,
+        "Duels": 30,
+        "Goalkeeping": 2
+      },
+      "route": "AFC tournament > visible matchday > exact fixture card",
+      "round": "Round 1",
+      "card_text": "17/09/26 FT Shenhua Tampines Rovers 2 1"
+    }
+  ],
+  "failures": [],
+  "finished_at": "2026-09-27T06:45:07.569159+00:00",
+  "validated": 2
+}

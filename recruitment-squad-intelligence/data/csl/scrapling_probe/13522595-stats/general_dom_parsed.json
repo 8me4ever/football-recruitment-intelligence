@@ -1,0 +1,578 @@
+[
+  {
+    "player_id": 823653,
+    "player_name": "Mateus Vital",
+    "team": "Shanghai Port",
+    "rating": "8.8",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "2",
+      "Tackles (won)": "2",
+      "Accurate passes": "37/39 (95%)",
+      "Duels (won)": "10 (4)",
+      "Ground duels (won)": "8 (4)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "80'",
+      "Position": "M",
+      "Sofascore Rating": "8.8"
+    }
+  },
+  {
+    "player_id": 288247,
+    "player_name": "Bruno Nazário",
+    "team": "Henan FC",
+    "rating": "8.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "30/34 (88%)",
+      "Duels (won)": "9 (5)",
+      "Ground duels (won)": "7 (3)",
+      "Aerial duels (won)": "2 (2)",
+      "Minutes played": "73'",
+      "Position": "F",
+      "Sofascore Rating": "8.2"
+    }
+  },
+  {
+    "player_id": 797337,
+    "player_name": "Wang Shenchao",
+    "team": "Shanghai Port",
+    "rating": "7.8",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "4",
+      "Accurate passes": "34/37 (92%)",
+      "Duels (won)": "10 (7)",
+      "Ground duels (won)": "7 (5)",
+      "Aerial duels (won)": "3 (2)",
+      "Minutes played": "80'",
+      "Position": "D",
+      "Sofascore Rating": "7.8"
+    }
+  },
+  {
+    "player_id": 861317,
+    "player_name": "Óscar Melendo",
+    "team": "Shanghai Port",
+    "rating": "7.8",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "20/25 (80%)",
+      "Duels (won)": "5 (4)",
+      "Ground duels (won)": "5 (4)",
+      "Aerial duels (won)": "",
+      "Minutes played": "87'",
+      "Position": "M",
+      "Sofascore Rating": "7.8"
+    }
+  },
+  {
+    "player_id": 979522,
+    "player_name": "Leonardo",
+    "team": "Shanghai Port",
+    "rating": "7.6",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "11/18 (61%)",
+      "Duels (won)": "5 (4)",
+      "Ground duels (won)": "3 (2)",
+      "Aerial duels (won)": "2 (2)",
+      "Minutes played": "89'",
+      "Position": "F",
+      "Sofascore Rating": "7.6"
+    }
+  },
+  {
+    "player_id": 922616,
+    "player_name": "Felippe Cardoso",
+    "team": "Henan FC",
+    "rating": "7.4",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "6/11 (55%)",
+      "Duels (won)": "5 (5)",
+      "Ground duels (won)": "1 (1)",
+      "Aerial duels (won)": "4 (4)",
+      "Minutes played": "45'",
+      "Position": "F",
+      "Sofascore Rating": "7.4"
+    }
+  },
+  {
+    "player_id": 870188,
+    "player_name": "Gabrielzinho",
+    "team": "Shanghai Port",
+    "rating": "7.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "1",
+      "Accurate passes": "23/25 (92%)",
+      "Duels (won)": "14 (6)",
+      "Ground duels (won)": "10 (6)",
+      "Aerial duels (won)": "4 (0)",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "7.4"
+    }
+  },
+  {
+    "player_id": 874136,
+    "player_name": "Ruofan Liu",
+    "team": "Shanghai Port",
+    "rating": "7.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "1",
+      "Accurate passes": "11/17 (65%)",
+      "Duels (won)": "8 (4)",
+      "Ground duels (won)": "5 (2)",
+      "Aerial duels (won)": "3 (2)",
+      "Minutes played": "80'",
+      "Position": "M",
+      "Sofascore Rating": "7.2"
+    }
+  },
+  {
+    "player_id": 794849,
+    "player_name": "Matheus Jussa",
+    "team": "Shanghai Port",
+    "rating": "7.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "3",
+      "Accurate passes": "35/41 (85%)",
+      "Duels (won)": "9 (6)",
+      "Ground duels (won)": "9 (6)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "7.2"
+    }
+  },
+  {
+    "player_id": 337015,
+    "player_name": "Shangyuan Wang",
+    "team": "Henan FC",
+    "rating": "7.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "2",
+      "Accurate passes": "16/23 (70%)",
+      "Duels (won)": "3 (2)",
+      "Ground duels (won)": "3 (2)",
+      "Aerial duels (won)": "",
+      "Minutes played": "25'",
+      "Position": "M",
+      "Sofascore Rating": "7.2"
+    }
+  },
+  {
+    "player_id": 1401160,
+    "player_name": "Guangtai Jiang",
+    "team": "Shanghai Port",
+    "rating": "7.0",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "51/58 (88%)",
+      "Duels (won)": "8 (2)",
+      "Ground duels (won)": "4 (0)",
+      "Aerial duels (won)": "4 (2)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "7.0"
+    }
+  },
+  {
+    "player_id": 840893,
+    "player_name": "Yihao Zhong",
+    "team": "Henan FC",
+    "rating": "6.9",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "15/17 (88%)",
+      "Duels (won)": "5 (3)",
+      "Ground duels (won)": "5 (3)",
+      "Aerial duels (won)": "",
+      "Minutes played": "45'",
+      "Position": "F",
+      "Sofascore Rating": "6.9"
+    }
+  },
+  {
+    "player_id": 311970,
+    "player_name": "Frank Acheampong",
+    "team": "Henan FC",
+    "rating": "6.8",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "5/5 (100%)",
+      "Duels (won)": "12 (6)",
+      "Ground duels (won)": "10 (6)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "45'",
+      "Position": "F",
+      "Sofascore Rating": "6.8"
+    }
+  },
+  {
+    "player_id": 786053,
+    "player_name": "Yan Junling",
+    "team": "Shanghai Port",
+    "rating": "6.8",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "19/22 (86%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "G",
+      "Sofascore Rating": "6.8"
+    }
+  },
+  {
+    "player_id": 873898,
+    "player_name": "Zichang Huang",
+    "team": "Henan FC",
+    "rating": "6.8",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "2/5 (40%)",
+      "Duels (won)": "3 (2)",
+      "Ground duels (won)": "3 (2)",
+      "Aerial duels (won)": "",
+      "Minutes played": "17'",
+      "Position": "F",
+      "Sofascore Rating": "6.8"
+    }
+  },
+  {
+    "player_id": 1126271,
+    "player_name": "Alex Jojo",
+    "team": "Shanghai Port",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "7/8 (88%)",
+      "Duels (won)": "2 (1)",
+      "Ground duels (won)": "1 (0)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "10'",
+      "Position": "D",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 1933818,
+    "player_name": "Xinxiang Li",
+    "team": "Shanghai Port",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "2/6 (33%)",
+      "Duels (won)": "4 (2)",
+      "Ground duels (won)": "3 (1)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "10'",
+      "Position": "F",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 308228,
+    "player_name": "Shenglong Li",
+    "team": "Shanghai Port",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "2/3 (67%)",
+      "Duels (won)": "1 (1)",
+      "Ground duels (won)": "1 (1)",
+      "Aerial duels (won)": "",
+      "Minutes played": "14'",
+      "Position": "F",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 987829,
+    "player_name": "Yeljan Shinar",
+    "team": "Henan FC",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "4",
+      "Accurate passes": "28/40 (70%)",
+      "Duels (won)": "12 (10)",
+      "Ground duels (won)": "7 (6)",
+      "Aerial duels (won)": "5 (4)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 806479,
+    "player_name": "Yang Shiyuan",
+    "team": "Shanghai Port",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "8/11 (73%)",
+      "Duels (won)": "3 (1)",
+      "Ground duels (won)": "3 (1)",
+      "Aerial duels (won)": "",
+      "Minutes played": "10'",
+      "Position": "M",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 1000171,
+    "player_name": "Abdurasul Abudulam",
+    "team": "Henan FC",
+    "rating": "6.6",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "35/40 (88%)",
+      "Duels (won)": "4 (2)",
+      "Ground duels (won)": "4 (2)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "6.6"
+    }
+  },
+  {
+    "player_id": 797507,
+    "player_name": "Gouming Wang",
+    "team": "Henan FC",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "8/8 (100%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "45'",
+      "Position": "G",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 1501972,
+    "player_name": "Kuai Jiwen",
+    "team": "Shanghai Port",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "3/3 (100%)",
+      "Duels (won)": "2 (0)",
+      "Ground duels (won)": "2 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "16'",
+      "Position": "M",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 840640,
+    "player_name": "Shuai Li",
+    "team": "Shanghai Port",
+    "rating": "6.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "17/23 (74%)",
+      "Duels (won)": "4 (1)",
+      "Ground duels (won)": "2 (0)",
+      "Aerial duels (won)": "2 (1)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.4"
+    }
+  },
+  {
+    "player_id": 844086,
+    "player_name": "Zhen Wei",
+    "team": "Shanghai Port",
+    "rating": "6.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "45/54 (83%)",
+      "Duels (won)": "4 (0)",
+      "Ground duels (won)": "2 (0)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.4"
+    }
+  },
+  {
+    "player_id": 989246,
+    "player_name": "Huang Ruifeng",
+    "team": "Henan FC",
+    "rating": "6.3",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "2",
+      "Accurate passes": "21/26 (81%)",
+      "Duels (won)": "11 (5)",
+      "Ground duels (won)": "8 (4)",
+      "Aerial duels (won)": "3 (1)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.3"
+    }
+  },
+  {
+    "player_id": 1000249,
+    "player_name": "Yilin Yang",
+    "team": "Henan FC",
+    "rating": "6.3",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "14/14 (100%)",
+      "Duels (won)": "8 (2)",
+      "Ground duels (won)": "5 (2)",
+      "Aerial duels (won)": "3 (0)",
+      "Minutes played": "65'",
+      "Position": "M",
+      "Sofascore Rating": "6.3"
+    }
+  },
+  {
+    "player_id": 797636,
+    "player_name": "Chao He",
+    "team": "Henan FC",
+    "rating": "6.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "31/36 (86%)",
+      "Duels (won)": "7 (1)",
+      "Ground duels (won)": "6 (1)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "6.2"
+    }
+  },
+  {
+    "player_id": 797568,
+    "player_name": "Jiamin Xu",
+    "team": "Henan FC",
+    "rating": "6.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "8/11 (73%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "45'",
+      "Position": "G",
+      "Sofascore Rating": "6.2"
+    }
+  },
+  {
+    "player_id": 599686,
+    "player_name": "Iago Maidana",
+    "team": "Henan FC",
+    "rating": "6.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "54/64 (84%)",
+      "Duels (won)": "2 (1)",
+      "Ground duels (won)": "1 (0)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.1"
+    }
+  },
+  {
+    "player_id": 1396680,
+    "player_name": "Oliver Gerbig",
+    "team": "Henan FC",
+    "rating": "6.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "42/52 (81%)",
+      "Duels (won)": "1 (0)",
+      "Ground duels (won)": "1 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.1"
+    }
+  },
+  {
+    "player_id": 1215902,
+    "player_name": "Yixin Liu",
+    "team": "Henan FC",
+    "rating": "6.0",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "13/21 (62%)",
+      "Duels (won)": "7 (2)",
+      "Ground duels (won)": "4 (1)",
+      "Aerial duels (won)": "3 (1)",
+      "Minutes played": "45'",
+      "Position": "D",
+      "Sofascore Rating": "6.0"
+    }
+  }
+]

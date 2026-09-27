@@ -1,0 +1,156 @@
+{
+  "last_round": 1,
+  "unique_events": 235,
+  "rounds": [
+    {
+      "round": 30,
+      "selected": "Round 30",
+      "events": 8
+    },
+    {
+      "round": 29,
+      "selected": "Round 29",
+      "events": 8
+    },
+    {
+      "round": 28,
+      "selected": "Round 28",
+      "events": 8
+    },
+    {
+      "round": 27,
+      "selected": "Round 27",
+      "events": 8
+    },
+    {
+      "round": 26,
+      "selected": "Round 26",
+      "events": 9
+    },
+    {
+      "round": 25,
+      "selected": "Round 25",
+      "events": 8
+    },
+    {
+      "round": 24,
+      "selected": "Round 24",
+      "events": 9
+    },
+    {
+      "round": 23,
+      "selected": "Round 23",
+      "events": 8
+    },
+    {
+      "round": 22,
+      "selected": "Round 22",
+      "events": 8
+    },
+    {
+      "round": 21,
+      "selected": "Round 21",
+      "events": 8
+    },
+    {
+      "round": 20,
+      "selected": "Round 20",
+      "events": 8
+    },
+    {
+      "round": 19,
+      "selected": "Round 19",
+      "events": 8
+    },
+    {
+      "round": 18,
+      "selected": "Round 18",
+      "events": 8
+    },
+    {
+      "round": 17,
+      "selected": "Round 17",
+      "events": 8
+    },
+    {
+      "round": 16,
+      "selected": "Round 16",
+      "events": 8
+    },
+    {
+      "round": 15,
+      "selected": "Round 15",
+      "events": 8
+    },
+    {
+      "round": 14,
+      "selected": "Round 14",
+      "events": 8
+    },
+    {
+      "round": 13,
+      "selected": "Round 13",
+      "events": 8
+    },
+    {
+      "round": 12,
+      "selected": "Round 12",
+      "events": 8
+    },
+    {
+      "round": 11,
+      "selected": "Round 11",
+      "events": 8
+    },
+    {
+      "round": 10,
+      "selected": "Round 10",
+      "events": 8
+    },
+    {
+      "round": 9,
+      "selected": "Round 9",
+      "events": 8
+    },
+    {
+      "round": 8,
+      "selected": "Round 8",
+      "events": 8
+    },
+    {
+      "round": 7,
+      "selected": "Round 7",
+      "events": 8
+    },
+    {
+      "round": 6,
+      "selected": "Round 6",
+      "events": 9
+    },
+    {
+      "round": 5,
+      "selected": "Round 5",
+      "events": 8
+    },
+    {
+      "round": 4,
+      "selected": "Round 4",
+      "events": 8
+    },
+    {
+      "round": 3,
+      "selected": "Round 3",
+      "events": 8
+    },
+    {
+      "round": 2,
+      "selected": "Round 2",
+      "events": 0
+    },
+    {
+      "round": 1,
+      "selected": "Round 1",
+      "events": 8
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-09-27T08:42:07.969171+00:00",
+  "fixture_count": 240,
+  "unique_fixture_ids": 240,
+  "collected_match_count": 240,
+  "missing_match_count": 0,
+  "player_match_rows": 7417,
+  "unique_player_ids": 452,
+  "beijing_guoan_matches_collected": 30,
+  "expected_guoan_matches": 30,
+  "category_match_coverage": {
+    "General": 240,
+    "Attacking": 240,
+    "Defending": 240,
+    "Passing": 240,
+    "Duels": 240,
+    "Goalkeeping": 240
+  },
+  "category_player_rows": {
+    "General": 7417,
+    "Attacking": 7417,
+    "Defending": 7417,
+    "Passing": 7417,
+    "Duels": 7417,
+    "Goalkeeping": 492
+  },
+  "category_player_id_mismatch_match_counts": {},
+  "team_fixture_appearance_violations": {},
+  "missing_by_reason": {},
+  "missing_fixtures": [],
+  "category_mismatch_examples": {},
+  "complete": true
+}

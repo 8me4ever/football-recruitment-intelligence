@@ -1,0 +1,193 @@
+{
+  "observed_at": "2026-09-27T06:41:08.344796+00:00",
+  "club_filter": [
+    "Beijing Guoan",
+    "Chengdu Rongcheng",
+    "Chongqing Tonglianglong FC",
+    "Dalian Yingbo FC",
+    "Henan FC",
+    "Liaoning Tieren FC",
+    "Qingdao Hainiu",
+    "Qingdao West Coast",
+    "Shandong Taishan",
+    "Shanghai Port",
+    "Shanghai Shenhua",
+    "Shenzhen Peng City",
+    "Tianjin Jinmen Tiger",
+    "Wuhan Three Towns",
+    "Yunnan Yukun",
+    "Zhejiang"
+  ],
+  "tournaments": [
+    {
+      "key": "elite",
+      "competition": "AFC Champions League Elite",
+      "season": "26/27",
+      "options": [
+        "Preliminary",
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8"
+      ],
+      "rounds": [
+        {
+          "round": "Preliminary",
+          "visible_cards": 4,
+          "in_scope_cards": 0
+        },
+        {
+          "round": "Round 1",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 2",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 3",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 4",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 5",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 6",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 7",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        },
+        {
+          "round": "Round 8",
+          "visible_cards": 16,
+          "in_scope_cards": 2
+        }
+      ],
+      "target_fixture_ids": [
+        "16863670",
+        "16863671",
+        "16864172",
+        "16864332",
+        "16864334",
+        "16864348",
+        "16864349",
+        "16864363",
+        "16864579",
+        "16864581",
+        "16864595",
+        "16864596",
+        "16867973",
+        "16867980",
+        "16867985",
+        "16867989"
+      ]
+    },
+    {
+      "key": "two",
+      "competition": "AFC Champions League Two",
+      "season": "26/27",
+      "options": [
+        "Preliminary",
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6"
+      ],
+      "rounds": [
+        {
+          "round": "Preliminary",
+          "visible_cards": 3,
+          "in_scope_cards": 0
+        },
+        {
+          "round": "Round 1",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        },
+        {
+          "round": "Round 2",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        },
+        {
+          "round": "Round 3",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        },
+        {
+          "round": "Round 4",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        },
+        {
+          "round": "Round 5",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        },
+        {
+          "round": "Round 6",
+          "visible_cards": 16,
+          "in_scope_cards": 1
+        }
+      ],
+      "target_fixture_ids": [
+        "16864092",
+        "16864093",
+        "16864101",
+        "16864103",
+        "16864105",
+        "16864107"
+      ]
+    }
+  ],
+  "failures": [],
+  "current_tournament": "two",
+  "current_round": "Round 6",
+  "finished_at": "2026-09-27T06:41:43.816992+00:00",
+  "in_scope_fixture_count": 22,
+  "in_scope_finished_count": 3,
+  "in_scope_fixture_ids": [
+    "16863670",
+    "16863671",
+    "16864092",
+    "16864093",
+    "16864101",
+    "16864103",
+    "16864105",
+    "16864107",
+    "16864172",
+    "16864332",
+    "16864334",
+    "16864348",
+    "16864349",
+    "16864363",
+    "16864579",
+    "16864581",
+    "16864595",
+    "16864596",
+    "16867973",
+    "16867980",
+    "16867985",
+    "16867989"
+  ]
+}

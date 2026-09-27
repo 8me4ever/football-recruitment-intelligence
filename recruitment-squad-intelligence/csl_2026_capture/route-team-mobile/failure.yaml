@@ -1,0 +1,213 @@
+- banner:
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Download app":
+    - /url: https://app.sofascore.com/nixz/header?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fteam%2F3376
+    - button "Download app"
+  - button:
+    - img
+  - list:
+    - listitem:
+      - link "Trending":
+        - /url: /trending
+        - img
+        - img
+        - text: Trending
+    - listitem:
+      - link "Football":
+        - /url: /
+        - img
+        - text: Football
+    - listitem:
+      - link "Basketball":
+        - /url: /basketball
+        - img
+        - text: Basketball
+    - listitem:
+      - link "Tennis":
+        - /url: /tennis
+        - img
+        - text: Tennis
+    - listitem:
+      - link "Hockey":
+        - /url: /ice-hockey
+        - img
+        - text: Hockey
+    - listitem:
+      - link "Table tennis":
+        - /url: /table-tennis
+        - img
+        - text: Table tennis
+    - listitem:
+      - link "Baseball":
+        - /url: /baseball
+        - img
+        - text: Baseball
+    - listitem:
+      - link "Handball":
+        - /url: /handball
+        - img
+        - text: Handball
+    - listitem:
+      - link "American football":
+        - /url: /american-football
+        - img
+        - text: American football
+    - listitem:
+      - link "Volleyball":
+        - /url: /volleyball
+        - img
+        - text: Volleyball
+    - listitem:
+      - link "Darts":
+        - /url: /darts
+        - img
+        - text: Darts
+    - listitem:
+      - link "Esports":
+        - /url: /esports
+        - img
+        - text: Esports
+    - listitem:
+      - link "Motorsport":
+        - /url: /motorsport
+        - img
+        - text: Motorsport
+    - listitem:
+      - link "Cricket":
+        - /url: /cricket
+        - img
+        - text: Cricket
+    - listitem:
+      - link "MMA":
+        - /url: /mma
+        - img
+        - text: MMA
+    - listitem:
+      - link "Rugby":
+        - /url: /rugby
+        - img
+        - text: Rugby
+    - listitem:
+      - link "Futsal":
+        - /url: /futsal
+        - img
+        - text: Futsal
+    - listitem:
+      - link "Badminton":
+        - /url: /badminton
+        - img
+        - text: Badminton
+    - listitem:
+      - link "Water polo":
+        - /url: /waterpolo
+        - img
+        - text: Water polo
+    - listitem:
+      - link "Snooker":
+        - /url: /snooker
+        - img
+        - text: Snooker
+    - listitem:
+      - link "Aussie rules":
+        - /url: /aussie-rules
+        - img
+        - text: Aussie rules
+    - listitem:
+      - link "Cycling":
+        - /url: /cycling
+        - img
+        - text: Cycling
+    - listitem:
+      - link "Beach volleyball":
+        - /url: /beach-volley
+        - img
+        - text: Beach volleyball
+    - listitem:
+      - link "Minifootball":
+        - /url: /minifootball
+        - img
+        - text: Minifootball
+    - listitem:
+      - link "Floorball":
+        - /url: /floorball
+        - img
+        - text: Floorball
+    - listitem:
+      - link "Bandy":
+        - /url: /bandy
+        - img
+        - text: Bandy
+    - listitem:
+      - link "Padel":
+        - /url: /padel
+        - img
+        - text: Padel
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League":
+        - /url: /football/tournament/china/cfa-super-league/649
+    - listitem:
+      - heading "Beijing Guoan scores, fixtures, standings and player stats" [level=1]
+  - img "Beijing Guoan"
+  - heading "Beijing Guoan" [level=2]
+  - img "China"
+  - text: China
+  - button:
+    - img
+  - text: 26k
+  - scrollbar:
+    - tablist:
+      - tab "Overview":
+        - link "Overview":
+          - /url: "#tab:details"
+          - heading "Overview" [level=2]
+      - tab "Matches" [selected]:
+        - link "Matches":
+          - /url: "#tab:matches"
+          - heading "Matches" [level=2]
+      - tab "Squad":
+        - link "Squad":
+          - /url: "#tab:squad"
+          - heading "Squad" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "List" [selected]
+        - tab "Calendar"
+    - tabpanel:
+      - tabpanel:
+        - img
+        - text: No events There are no available events.
+  - text: Advertisement
+  - iframe
+- region "Notifications Alt+T"
+- text: Advertisement
+- iframe
+- link "Matches":
+  - /url: /
+  - img
+  - text: Matches
+- img
+- text: Search
+- link "Fantasy":
+  - /url: /fantasy/landing
+  - img
+  - text: Fantasy
+- link "Favourites":
+  - /url: /favorites
+  - img
+  - text: Favourites
+- link "Profile":
+  - /url: /user/profile
+  - img
+  - text: Profile
+- alert

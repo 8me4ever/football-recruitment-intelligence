@@ -1,6 +1,6 @@
 # =============================================================================
 # 工作区根 .gitignore
-# 目标：把可同步的内容控制在约 30 MB 以内，排除所有可再生的重型产物。
+# 目标：排除环境、浏览器配置与可再生产物；保留重建分析所需的规范数据和原始证据。
 # =============================================================================
 
 # ---- 虚拟环境（457.6 MB，必须排除）----
@@ -8,8 +8,14 @@
 #     python -m venv venv && venv\Scripts\pip install -r recruitment-squad-intelligence/requirements.txt
 venv/
 .venv/
+.venv-scrapling/
 env/
 ENV/
+
+# ---- 浏览器自动化本机状态 ----
+# 用户配置、缓存与临时运行文件不是可复现的数据证据。
+recruitment-squad-intelligence/**/browser_profile*/
+recruitment-squad-intelligence/**/runtime_temp/
 
 # ---- Python 缓存 ----
 __pycache__/

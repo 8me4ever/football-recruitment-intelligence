@@ -1,0 +1,981 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "19:35 China - New Zealand":
+    - /url: /football/match/new-zealand-china/fVbsJVb#id:17175620
+    - img
+    - text: 19:35
+    - img "China"
+    - text: "-"
+    - img "New Zealand"
+  - link "20:10 Alexander Zverev - Learner Tien":
+    - /url: /tennis/match/learner-tien-alexander-zverev/nTxstgpd#id:17197178
+    - img
+    - text: 20:10
+    - img "Alexander Zverev"
+    - text: "-"
+    - img "Learner Tien"
+  - link "21:20 Carlos Alcaraz - Alex de Minaur":
+    - /url: /tennis/match/carlos-alcaraz-alex-de-minaur/OzFbsytkc#id:17197179
+    - img
+    - text: 21:20
+    - img "Carlos Alcaraz"
+    - text: "-"
+    - img "Alex de Minaur"
+  - link "FT Carlos Alcaraz 2 - 1 Taylor Fritz":
+    - /url: /tennis/match/carlos-alcaraz-taylor-fritz/Rvebsytkc#id:17190097
+    - img
+    - text: FT
+    - img "Carlos Alcaraz"
+    - text: 2 - 1
+    - img "Taylor Fritz"
+  - link "FT England 2 - 3 Spain":
+    - /url: /football/match/england-spain/YTbsnUb#id:15534084
+    - img
+    - text: FT
+    - img "England"
+    - text: 2 - 3
+    - img "Spain"
+  - link "FT Czechia 1 - 2 Croatia":
+    - /url: /football/match/croatia-czechia/oUbspUb#id:15534090
+    - img
+    - text: FT
+    - img "Czechia"
+    - text: 1 - 2
+    - img "Croatia"
+  - link "FT North Macedonia 0 - 3 Switzerland":
+    - /url: /football/match/north-macedonia-switzerland/ZTbsCVb#id:15534115
+    - img
+    - text: FT
+    - img "North Macedonia"
+    - text: 0 - 3
+    - img "Switzerland"
+  - link "FT Cruz Azul 3 - 3 CD Toluca":
+    - /url: /football/match/cruz-azul-cd-toluca/GNsXN#id:16317972
+    - img
+    - text: FT
+    - img "Cruz Azul"
+    - text: 3 - 3
+    - img "CD Toluca"
+  - link "FT FC Dallas 1 - 0 Los Angeles FC":
+    - /url: /football/match/los-angeles-fc-fc-dallas/mabsaTjc#id:15168417
+    - img
+    - text: FT
+    - img "FC Dallas"
+    - text: 1 - 0
+    - img "Los Angeles FC"
+  - link "FT Mexico 1 - 1 Colombia":
+    - /url: /football/match/colombia-mexico/GVbsvWb#id:17080689
+    - img
+    - text: FT
+    - img "Mexico"
+    - text: 1 - 1
+    - img "Colombia"
+  - link "FT Vancouver Whitecaps 3 - 3 DC United":
+    - /url: /football/match/vancouver-whitecaps-dc-united/cabskPi#id:15168426
+    - img
+    - text: FT
+    - img "Vancouver Whitecaps"
+    - text: 3 - 3
+    - img "DC United"
+  - text: Tomorrow
+  - link "00:00 Serbia - Netherlands":
+    - /url: /football/match/serbia-netherlands/fUbsfCc#id:15534068
+    - img
+    - text: 00:00
+    - img "Serbia"
+    - text: "-"
+    - img "Netherlands"
+  - link "01:00 Miami Dolphins - Kansas City Chiefs":
+    - /url: /american-football/match/kansas-city-chiefs-miami-dolphins/MKbsxNb#id:16183701
+    - img
+    - text: 01:00
+    - img "Miami Dolphins"
+    - text: "-"
+    - img "Kansas City Chiefs"
+  - link "01:00 Real Madrid - Unicaja":
+    - /url: /basketball/match/unicaja-real-madrid/Pvbsgwb#id:16830103
+    - img
+    - text: 01:00
+    - img "Real Madrid"
+    - text: "-"
+    - img "Unicaja"
+  - link "01:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507832
+    - img
+    - text: 01:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "02:45 Germany - Greece":
+    - /url: /football/match/germany-greece/kUbslUb#id:15534060
+    - img
+    - text: 02:45
+    - img "Germany"
+    - text: "-"
+    - img "Greece"
+  - link "02:45 Norway - Portugal":
+    - /url: /football/match/portugal-norway/AObseUb#id:15534096
+    - img
+    - text: 02:45
+    - img "Norway"
+    - text: "-"
+    - img "Portugal"
+  - link "07:00 Columbus Crew - Inter Miami CF":
+    - /url: /football/match/inter-miami-cf-columbus-crew/eabsccKc#id:15168422
+    - img
+    - text: 07:00
+    - img "Columbus Crew"
+    - text: "-"
+    - img "Inter Miami CF"
+  - link "19:30 O'Sullivan R. - Jun J.":
+    - /url: /snooker/match/jun-osullivan/gZisxIRd#id:16908086
+    - img
+    - text: 19:30
+    - img "O'Sullivan R."
+    - text: "-"
+    - img "Jun J."
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 2":
+        - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - listitem:
+      - heading "Shandong Taishan vs Beijing Guoan live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Compare teams":
+    - /url: /football/team/compare?ids=3371%2C3376&s_ids=90049%2C90049&ut_ids=649%2C649
+    - button "Compare teams":
+      - img
+      - text: Compare teams
+  - link "Shandong Taishan Taishan":
+    - /url: /football/team/shandong-taishan/3371
+    - img "Shandong Taishan"
+    - text: Taishan
+  - text: 2 - 1 Finished
+  - link "Beijing Guoan Guoan":
+    - /url: /football/team/beijing-guoan/3376
+    - img "Beijing Guoan"
+    - text: Guoan
+  - text: Cryzan 88' Wenneng Xie 49'
+  - img
+  - text: Zhang Yuning 86'
+  - img
+  - text: 14/03/2026 15:30
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - img
+  - text: Jinan Olympic Sports Center Full-time
+  - link "7Stars Partners New Zealand":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - img "7Stars Partners New Zealand"
+  - link "1 1.86":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 1 1.86
+    - img
+  - link "X 4.00":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: X 4.00
+    - img
+  - link "2 3.50":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 2 3.50
+    - img
+  - button "Additional odds":
+    - text: Additional odds
+    - img
+  - text: Highlights
+  - img
+  - button "See more":
+    - text: See more
+    - img
+  - text: Match Momentum
+  - button:
+    - img
+  - img "Shandong Taishan"
+  - img "Beijing Guoan"
+  - img:
+    - img
+    - img
+    - img
+  - text: FT 2 - 1 90'
+  - superscript: "+6"
+  - img
+  - link "F. Jia":
+    - /url: /football/player/feifan-jia/1121219
+  - link "G. Wang":
+    - /url: /football/player/gang-wang/77758
+  - text: Additional time 7 88'
+  - img "Goal"
+  - button "2 - 1":
+    - img
+    - text: 2 - 1
+  - link "Cryzan":
+    - /url: /football/player/cryzan/794884
+  - link "Y. Li":
+    - /url: /football/player/yuanyi-li/377830
+  - text: 86'
+  - img "Goal"
+  - button "1 - 1":
+    - img
+    - text: 1 - 1
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - link "B. Nkololo":
+    - /url: /football/player/beni-nkololo/837300
+  - text: 81'
+  - img
+  - link "Z. Zheng":
+    - /url: /football/player/zheng-zheng/196432
+  - link "Z. Huang":
+    - /url: /football/player/zhengyu-huang/833639
+  - text: 76'
+  - img
+  - link "T. Wang":
+    - /url: /football/player/tong-wang/792254
+  - link "X. Wenneng":
+    - /url: /football/player/xie-wenneng/1115986
+  - text: 71'
+  - img
+  - link "Z. Xizhe":
+    - /url: /football/player/zhang-xizhe/231992
+  - link "S. Erjini'ao":
+    - /url: /football/player/sai-erjiniao/843735
+  - text: 71'
+  - img
+  - link "L. Liangming":
+    - /url: /football/player/lin-liangming/900549
+  - link "Y. Cao":
+    - /url: /football/player/yongjing-cao/817886
+  - text: 57'
+  - img "Yellow card"
+  - link "G. Madruga":
+    - /url: /football/player/guilherme-madruga/1463460
+  - text: Foul 49'
+  - img "Goal"
+  - button "1 - 0":
+    - img
+    - text: 1 - 0
+  - link "X. Wenneng":
+    - /url: /football/player/xie-wenneng/1115986
+  - link "Cryzan":
+    - /url: /football/player/cryzan/794884
+  - text: 46'
+  - img
+  - link "P. Xiao":
+    - /url: /football/player/xiao-peng/1475448
+  - link "Z. Gao":
+    - /url: /football/player/zhunyi-gao/387800
+  - text: HT 0 - 0 Additional time 3 39'
+  - img "Yellow card"
+  - link "Y. Li":
+    - /url: /football/player/yuanyi-li/377830
+  - text: Foul 28'
+  - img "Yellow card"
+  - link "G. Ramos":
+    - /url: /football/player/guilherme-ramos/827192
+  - text: Foul 21'
+  - img "Yellow card"
+  - link "Cryzan":
+    - /url: /football/player/cryzan/794884
+  - text: Foul Player of the match
+  - link "Cryzan Cryzan Shandong Taishan Taishan 8.9":
+    - /url: /football/player/cryzan/794884
+    - img "Cryzan"
+    - text: Cryzan
+    - img "Shandong Taishan"
+    - text: Taishan
+    - meter
+  - link "Yang Liu Shandong Taishan Y. Liu 7.8":
+    - /url: /football/player/yang-liu/844088
+    - img "Yang Liu"
+    - img "Shandong Taishan"
+    - text: Y. Liu
+    - meter
+  - link "Wenneng Xie Shandong Taishan X. Wenneng 7.7":
+    - /url: /football/player/xie-wenneng/1115986
+    - img "Wenneng Xie"
+    - img "Shandong Taishan"
+    - text: X. Wenneng
+    - meter
+  - link "Béni Nkololo Beijing Guoan B. Nkololo 7.7":
+    - /url: /football/player/beni-nkololo/837300
+    - img "Béni Nkololo"
+    - img "Beijing Guoan"
+    - text: B. Nkololo
+    - meter
+  - text: "Who will win? Total votes: 1.9k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shandong Taishan"
+  - text: 53% X 19%
+  - img "Beijing Guoan"
+  - text: "28% Will both teams score? Total votes: 402"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Yes 89% No 11% Who will score first? Total votes: 236"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shandong Taishan"
+  - text: 72%
+  - img
+  - text: 4%
+  - img "Beijing Guoan"
+  - text: 24%
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - text: Commentary
+  - scrollbar:
+    - tablist:
+      - tab "All" [selected]
+      - tab "Key events"
+  - img
+  - text: "- Match ends, Shandong Taishan 2, Beijing Guoan 1. - Second Half ends, Shandong Taishan 2, Beijing Guoan 1. 96' Corner, Beijing Guoan. Conceded by Cryzan."
+  - img
+  - img
+  - img
+  - text: 96' Substitution
+  - img
+  - text: Feifan Jia(In)
+  - img
+  - text: Gang Wang(Out)
+  - img "Beijing Guoan"
+  - text: 92' Abduhamit Abdugheni (Beijing Guoan) wins a free kick in the attacking half.
+  - img
+  - img
+  - text: 92' Foul by Li Yuanyi (Shandong Taishan).
+  - img
+  - img
+  - text: 91' Boubacar Konté (Beijing Guoan) wins a free kick in the defensive half.
+  - img
+  - img
+  - text: 91' Foul by Zeca (Shandong Taishan).
+  - img
+  - img
+  - text: 91' Fourth official has announced 7 minutes of added time. 89' Foul by Lin Liangming (Beijing Guoan).
+  - img
+  - img
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: "Pre-match standings # Team Latest Pts 8"
+  - link:
+    - /url: /football/team/beijing-guoan/3376
+    - img
+  - text: W
+  - meter
+  - text: "-2 11"
+  - link:
+    - /url: /football/team/shandong-taishan/3371
+    - img
+  - text: W
+  - meter
+  - text: "-3"
+  - img
+  - text: Date and time 14/03/2026 15:30
+  - link "Competition Football, China, Chinese Super League, Round 2":
+    - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 2
+    - img
+  - img
+  - text: Venue Jinan Olympic Sports Center
+  - img "CN"
+  - text: Location Jinan, China
+  - link "Referee Memetjan Ahmet CN Avg. cards 0.33 4.60":
+    - /url: /football/referee/memetjan-ahmet/789856
+    - img
+    - text: Referee Memetjan Ahmet
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.33"
+    - img
+    - text: "4.60"
+    - img
+  - link "Run your league Free. Easy. Never miss a moment on Sofascore. Learn more":
+    - /url: https://torneo.com
+    - text: Run your league Free. Easy. Never miss a moment on Sofascore.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Gamble responsibly 18+ Advertisement
+  - iframe
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Lineups" [selected]:
+        - link "Lineups":
+          - /url: "#id:15551891,tab:lineups"
+          - heading "Lineups" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#id:15551891,tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#id:15551891,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "H2H":
+        - link "H2H":
+          - /url: "#id:15551891,tab:matches"
+          - heading "H2H" [level=2]
+      - tab "Media":
+        - link "Media":
+          - /url: "#id:15551891,tab:media"
+          - heading "Media" [level=2]
+      - tab "AI Insights":
+        - link "AI Insights":
+          - /url: "#id:15551891,tab:ai_insights"
+          - heading "AI Insights" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Lineups" [selected]
+        - tab "Player stats"
+    - tabpanel:
+      - scrollbar:
+        - tablist:
+          - tab "Performance" [selected]:
+            - text: Performance
+            - img
+          - tab "Nationality"
+          - tab "Age"
+          - tab "Market value"
+          - tab "Height"
+      - button:
+        - img
+      - text: Taishan
+      - meter: "7.02"
+      - button:
+        - img
+      - text: 3-4-2-1
+      - img "Team jersey"
+      - img
+      - meter: "7.1"
+      - text: 14 (c) D. Wang
+      - img
+      - img
+      - meter: "6.5"
+      - text: 35 Z. Huang
+      - img
+      - meter: "7.3"
+      - text: 23 P. Álvaro
+      - img
+      - img
+      - meter: "7.1"
+      - text: 33 Z. Gao
+      - img
+      - img
+      - img
+      - meter: "7.7"
+      - text: 7 X. Wenneng
+      - img
+      - img
+      - img
+      - meter: "7.0"
+      - text: 22 Y. Li
+      - img
+      - img
+      - meter: "6.5"
+      - text: 8 G. Madruga
+      - img
+      - meter: "7.8"
+      - text: 11 Y. Liu
+      - img
+      - img
+      - img
+      - img
+      - img
+      - meter: "8.9"
+      - text: 9 Cryzan
+      - img
+      - meter: "6.2"
+      - text: 10 V. Qazaishvili
+      - img
+      - meter: "7.1"
+      - text: 19 Zeca
+      - img
+      - img
+      - img
+      - img
+      - img
+      - meter: "6.9"
+      - text: 39 Z. Jianzhi
+      - img
+      - img
+      - meter: "6.6"
+      - text: 27 G. Wang
+      - img
+      - meter: "6.2"
+      - text: 24 A. Abduhamit
+      - img
+      - img
+      - meter: "6.6"
+      - text: 5 G. Ramos
+      - img
+      - meter: "6.4"
+      - text: 47 D. Jiefu
+      - img
+      - img
+      - meter: "6.2"
+      - text: 37 Y. Cao
+      - img
+      - meter: "7.1"
+      - text: 8 A. Konte
+      - img
+      - img
+      - meter: "7.2"
+      - text: 7 S. Erjini'ao
+      - img
+      - img
+      - meter: "7.7"
+      - text: 20 B. Nkololo
+      - img
+      - img
+      - meter: "6.7"
+      - text: 9 Z. Yuning
+      - img
+      - meter: "6.3"
+      - text: 29 (c) F. Abreu
+      - img
+      - img
+      - img
+      - img
+      - text: Guoan
+      - meter: "6.67"
+      - button:
+        - img
+      - text: 4-4-2
+      - img "Team jersey"
+      - text: Referee
+      - link "Memetjan Ahmet Avg. cards 0.33 4.60":
+        - /url: /football/referee/memetjan-ahmet/789856
+        - img
+        - text: Memetjan Ahmet Avg. cards
+        - img
+        - text: "0.33"
+        - img
+        - text: "4.60"
+      - text: Managers
+      - link "Maozhen Su Maozhen Su Coach":
+        - /url: /football/manager/maozhen-su/818951
+        - img "Maozhen Su"
+        - text: Maozhen Su Coach
+      - link "Nick Montgomery Nick Montgomery Coach":
+        - /url: /football/manager/nick-montgomery/796109
+        - img "Nick Montgomery"
+        - text: Nick Montgomery Coach
+      - text: Substitutions
+      - 'link "Peng Xiao 3Peng Xiao 46'' Out: Z. Gao 6.4"':
+        - /url: /football/player/xiao-peng/1475448
+        - img "Peng Xiao"
+        - text: 3Peng Xiao
+        - img
+        - text: "46' Out: Z. Gao"
+        - meter
+      - 'link "Tong Wang 6Tong Wang 76'' Out: X. Wenneng 6.5"':
+        - /url: /football/player/tong-wang/792254
+        - img "Tong Wang"
+        - text: 6Tong Wang
+        - img
+        - text: "76' Out: X. Wenneng"
+        - meter
+      - 'link "Zheng Zheng 5Zheng Zheng 81'' Out: Z. Huang 6.2"':
+        - /url: /football/player/zheng-zheng/196432
+        - img "Zheng Zheng"
+        - text: 5Zheng Zheng
+        - img
+        - text: "81' Out: Z. Huang"
+        - meter
+      - link "Yu Jinyong 1Yu Jinyong":
+        - /url: /football/player/yu-jinyong/1115984
+        - img "Yu Jinyong"
+        - text: 1Yu Jinyong
+      - link "Qiwei Liu 36Qiwei Liu":
+        - /url: /football/player/qiwei-liu/1991617
+        - img "Qiwei Liu"
+        - text: 36Qiwei Liu
+      - link "Jiaxi Yin 34Jiaxi Yin":
+        - /url: /football/player/yin-jiaxi/1210265
+        - img "Jiaxi Yin"
+        - text: 34Jiaxi Yin
+      - link "Binbin Liu 21Binbin Liu":
+        - /url: /football/player/binbin-liu/377860
+        - img "Binbin Liu"
+        - text: 21Binbin Liu
+      - link "Chen Pu 29Chen Pu":
+        - /url: /football/player/chen-pu/990446
+        - img "Chen Pu"
+        - text: 29Chen Pu
+      - link "Liuyu Duan 24Liuyu Duan":
+        - /url: /football/player/liuyu-duan/941290
+        - img "Liuyu Duan"
+        - text: 24Liuyu Duan
+      - link "Pedro Delgado 20Pedro Delgado":
+        - /url: /football/player/delgado-pedro/357744
+        - img "Pedro Delgado"
+        - text: 20Pedro Delgado
+      - link "Zeshi Chen 37Zeshi Chen":
+        - /url: /football/player/zeshi-chen/1156467
+        - img "Zeshi Chen"
+        - text: 37Zeshi Chen
+      - link "Yixiang Peng 42Yixiang Peng":
+        - /url: /football/player/peng-yixiang/1902656
+        - img "Yixiang Peng"
+        - text: 42Yixiang Peng
+      - 'link "Lin Liangming 11Lin Liangming 71'' Out: Y. Cao 6.4"':
+        - /url: /football/player/lin-liangming/900549
+        - img "Lin Liangming"
+        - text: 11Lin Liangming
+        - img
+        - text: "71' Out: Y. Cao"
+        - meter
+      - 'link "Zhang Xizhe 10Zhang Xizhe 71'' Out: S. Erjini''ao 6.4"':
+        - /url: /football/player/zhang-xizhe/231992
+        - img "Zhang Xizhe"
+        - text: 10Zhang Xizhe
+        - img
+        - text: "71' Out: S. Erjini'ao"
+        - meter
+      - 'link "Feifan Jia 36Feifan Jia 90'' Out: G. Wang"':
+        - /url: /football/player/feifan-jia/1121219
+        - img "Feifan Jia"
+        - text: 36Feifan Jia
+        - img
+        - text: "90' Out: G. Wang"
+      - link "Nureli Abbas 33Nureli Abbas":
+        - /url: /football/player/nureli-abbas/1487427
+        - img "Nureli Abbas"
+        - text: 33Nureli Abbas
+      - link "Feng Boxuan 16Feng Boxuan":
+        - /url: /football/player/feng-boxuan/863642
+        - img "Feng Boxuan"
+        - text: 16Feng Boxuan
+      - link "Wu Shaocong 2Wu Shaocong":
+        - /url: /football/player/wu-shaocong/941005
+        - img "Wu Shaocong"
+        - text: 2Wu Shaocong
+      - link "Shuangjie Fan 30Shuangjie Fan":
+        - /url: /football/player/fan-shuangjie/1886700
+        - img "Shuangjie Fan"
+        - text: 30Shuangjie Fan
+      - link "Jiang Wenhao 35Jiang Wenhao":
+        - /url: /football/player/jiang-wenhao/1115187
+        - img "Jiang Wenhao"
+        - text: 35Jiang Wenhao
+      - link "Yang Bai 26Yang Bai":
+        - /url: /football/player/yang-bai/1113798
+        - img "Yang Bai"
+        - text: 26Yang Bai
+      - link "Wang Yu 18Wang Yu":
+        - /url: /football/player/wang-yu/1130184
+        - img "Wang Yu"
+        - text: 18Wang Yu
+      - link "Chi Zhongguo 6Chi Zhongguo":
+        - /url: /football/player/chi-zhongguo/797459
+        - img "Chi Zhongguo"
+        - text: 6Chi Zhongguo
+      - link "Jiaao Wei 38Jiaao Wei":
+        - /url: /football/player/wei-jiaao/2181862
+        - img "Jiaao Wei"
+        - text: 38Jiaao Wei
+      - img
+      - text: Ratings for this competition are calculated on the basis of statistics from the official Chinese Super League data provider.
+      - link "Read more":
+        - /url: https://corporate.sofascore.com/about/rating
+        - text: Read more
+        - img
+      - text: Players' average positions
+      - checkbox "Show substitutions"
+      - img
+      - text: Show substitutions
+      - scrollbar: 3 6 5
+      - img
+      - img
+      - img: 10 11 23 9 14 35 7 33 8 22 19
+      - checkbox "Show substitutions"
+      - img
+      - text: Show substitutions
+      - scrollbar: 10 11 36
+      - img
+      - img
+      - img: 29 39 37 7 24 9 47 8 27 20 5
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Shandong Taishan played against Beijing Guoan in 2 matches this season. Currently, Shandong Taishan rank 3rd, while Beijing Guoan hold 6th position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- 'link "England 2-3 Spain: Nations League thriller at Wembley"':
+  - /url: /news/england-2-3-spain-nations-league-thriller-at-wembley
+- text: •
+- link "Switzerland cruise past North Macedonia 3-0 in Skopje":
+  - /url: /news/switzerland-cruise-past-north-macedonia-3-0-in-skopje
+- text: •
+- link "Croatia beat Czechia 2-1 as Modrić shines":
+  - /url: /news/croatia-beat-czechia-2-1-as-modric-shines
+- text: •
+- 'link "Logroño United 0-2 Barcelona: teenager Mayssa scores as Font shines"':
+  - /url: /news/logrono-united-0-2-barcelona-teenager-mayssa-scores-as-font-shines
+- text: •
+- 'link "London City 2-0 Brighton: Putellas nets first WSL goal"':
+  - /url: /news/london-city-2-0-brighton-putellas-nets-first-wsl-goal
+- text: •
+- 'link "Slovenia 0-0 Scotland: Oblak shines in Ljubljana"':
+  - /url: /news/slovenia-0-0-scotland-oblak-shines-in-ljubljana
+- text: •
+- 'link "Schröder brace lifts Real Madrid: Sofascore Rating 9.5"':
+  - /url: /news/schroder-brace-lifts-real-madrid-sofascore-rating-9-5
+- text: •
+- link "George Russell converts pole into Azerbaijan GP win":
+  - /url: /news/george-russell-converts-pole-into-azerbaijan-gp-win
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Czechia - Croatia":
+  - /url: /football/match/croatia-czechia/oUbspUb#id:15534090
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15551891
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15551891
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert
+- iframe
+- img

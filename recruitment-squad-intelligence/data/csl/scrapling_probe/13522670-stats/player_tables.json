@@ -1,0 +1,724 @@
+[
+  {
+    "headers": [
+      "",
+      "+",
+      "Goals",
+      "Assists",
+      "Tackles (won)",
+      "Accurate passes",
+      "Duels (won)",
+      "Ground duels (won)",
+      "Aerial duels (won)",
+      "Minutes played",
+      "Position",
+      "Sofascore Rating"
+    ],
+    "rows": [
+      {
+        "cells": [
+          "",
+          "Fabio Abreu",
+          "4",
+          "",
+          "",
+          "15/17 (88%)",
+          "14 (8)",
+          "10 (6)",
+          "4 (2)",
+          "90'",
+          "F",
+          "10"
+        ],
+        "links": [
+          {
+            "text": "Fabio Abreu",
+            "href": "/football/player/fabio-abreu/343673"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Quanbo Guo",
+          "0",
+          "",
+          "",
+          "9/20 (45%)",
+          "",
+          "0 (0)",
+          "",
+          "90'",
+          "G",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Quanbo Guo",
+            "href": "/football/player/quanbo-guo/876570"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Guga",
+          "0",
+          "",
+          "4",
+          "43/47 (91%)",
+          "9 (4)",
+          "9 (4)",
+          "",
+          "78'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Guga",
+            "href": "/football/player/goncalo-rodrigues/357740"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yang Bai",
+          "0",
+          "1",
+          "1",
+          "38/42 (90%)",
+          "5 (3)",
+          "3 (1)",
+          "2 (2)",
+          "90'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yang Bai",
+            "href": "/football/player/yang-bai/1113798"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Dawhan",
+          "0",
+          "",
+          "1",
+          "58/63 (92%)",
+          "15 (8)",
+          "11 (5)",
+          "4 (3)",
+          "90'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Dawhan",
+            "href": "/football/player/dawhan/926823"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Zhang Yuning",
+          "1",
+          "",
+          "1",
+          "27/31 (87%)",
+          "7 (3)",
+          "5 (2)",
+          "2 (1)",
+          "70'",
+          "F",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Zhang Yuning",
+            "href": "/football/player/zhang-yuning/828227"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Gang Wang",
+          "0",
+          "1",
+          "3",
+          "29/35 (83%)",
+          "8 (6)",
+          "8 (6)",
+          "",
+          "78'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Gang Wang",
+            "href": "/football/player/gang-wang/77758"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Hou Sen",
+          "0",
+          "",
+          "",
+          "25/29 (86%)",
+          "",
+          "0 (0)",
+          "",
+          "90'",
+          "G",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Hou Sen",
+            "href": "/football/player/hou-sen/793878"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Jerome Mbekeli",
+          "0",
+          "1",
+          "2",
+          "22/26 (85%)",
+          "14 (6)",
+          "14 (6)",
+          "",
+          "90'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Jerome Mbekeli",
+            "href": "/football/player/jerome-mbekeli/1025276"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Hao Fang",
+          "0",
+          "1",
+          "4",
+          "11/13 (85%)",
+          "10 (6)",
+          "9 (6)",
+          "1 (0)",
+          "30'",
+          "F",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Hao Fang",
+            "href": "/football/player/hao-fang/1114765"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Zhang Xizhe",
+          "0",
+          "1",
+          "",
+          "11/15 (73%)",
+          "2 (0)",
+          "2 (0)",
+          "",
+          "20'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Zhang Xizhe",
+            "href": "/football/player/zhang-xizhe/231992"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Wu Shaocong",
+          "0",
+          "",
+          "5",
+          "39/45 (87%)",
+          "6 (5)",
+          "6 (5)",
+          "",
+          "90'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Wu Shaocong",
+            "href": "/football/player/wu-shaocong/941005"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Lin Liangming",
+          "0",
+          "",
+          "",
+          "19/20 (95%)",
+          "8 (4)",
+          "7 (4)",
+          "1 (0)",
+          "60'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Lin Liangming",
+            "href": "/football/player/lin-liangming/900549"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yongjing Cao",
+          "0",
+          "",
+          "1",
+          "16/19 (84%)",
+          "9 (2)",
+          "8 (2)",
+          "1 (0)",
+          "60'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yongjing Cao",
+            "href": "/football/player/yongjing-cao/817886"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yupeng He",
+          "0",
+          "",
+          "1",
+          "35/41 (85%)",
+          "6 (3)",
+          "5 (2)",
+          "1 (1)",
+          "90'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yupeng He",
+            "href": "/football/player/yupeng-he/977985"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Elías Már Ómarsson",
+          "1",
+          "",
+          "",
+          "8/11 (73%)",
+          "6 (1)",
+          "5 (1)",
+          "1 (0)",
+          "90'",
+          "F",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Elías Már Ómarsson",
+            "href": "/football/player/elias-mar-omarsson/187031"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yang Liyu",
+          "0",
+          "",
+          "2",
+          "2/2 (100%)",
+          "3 (2)",
+          "3 (2)",
+          "",
+          "12'",
+          "F",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yang Liyu",
+            "href": "/football/player/yang-liyu/872209"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yun Liu",
+          "0",
+          "",
+          "1",
+          "6/7 (86%)",
+          "6 (3)",
+          "4 (3)",
+          "2 (0)",
+          "45'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yun Liu",
+            "href": "/football/player/yun-liu/840939"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Branimir Jočić",
+          "0",
+          "",
+          "1",
+          "18/28 (64%)",
+          "5 (4)",
+          "1 (1)",
+          "4 (3)",
+          "90'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Branimir Jočić",
+            "href": "/football/player/branimir-jocic/796224"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Chi Zhongguo",
+          "0",
+          "",
+          "",
+          "14/17 (82%)",
+          "",
+          "0 (0)",
+          "",
+          "12'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Chi Zhongguo",
+            "href": "/football/player/chi-zhongguo/797459"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Jia’nan Wang",
+          "0",
+          "",
+          "1",
+          "6/14 (43%)",
+          "7 (4)",
+          "4 (2)",
+          "3 (2)",
+          "65'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Jia’nan Wang",
+            "href": "/football/player/jia-nan-wang/817657"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Liao Junjian",
+          "0",
+          "",
+          "1",
+          "9/12 (75%)",
+          "7 (2)",
+          "5 (2)",
+          "2 (0)",
+          "75'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Liao Junjian",
+            "href": "/football/player/liao-junjian/833766"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Rodrigo Henrique",
+          "0",
+          "",
+          "1",
+          "22/29 (76%)",
+          "12 (7)",
+          "11 (7)",
+          "1 (0)",
+          "90'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Rodrigo Henrique",
+            "href": "/football/player/rodrigo-henrique/845077"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Wang Ziming",
+          "0",
+          "",
+          "1",
+          "11/13 (85%)",
+          "5 (1)",
+          "3 (1)",
+          "2 (0)",
+          "30'",
+          "F",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Wang Ziming",
+            "href": "/football/player/wang-ziming/878397"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yang Ruiqi",
+          "0",
+          "",
+          "2",
+          "18/25 (72%)",
+          "7 (4)",
+          "5 (3)",
+          "2 (1)",
+          "90'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yang Ruiqi",
+            "href": "/football/player/yang-ruiqi/1210264"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Xuhuang Chen",
+          "0",
+          "",
+          "2",
+          "8/9 (89%)",
+          "6 (2)",
+          "6 (2)",
+          "",
+          "25'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Xuhuang Chen",
+            "href": "/football/player/chen-xuhuang/1153362"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Haoran Zhong",
+          "0",
+          "",
+          "1",
+          "14/18 (78%)",
+          "11 (5)",
+          "10 (4)",
+          "1 (1)",
+          "65'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Haoran Zhong",
+            "href": "/football/player/haoran-zhong/850947"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Weihui Rao",
+          "0",
+          "",
+          "1",
+          "14/20 (70%)",
+          "2 (1)",
+          "2 (1)",
+          "",
+          "45'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Weihui Rao",
+            "href": "/football/player/weihui-rao/797485"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Ziyi Tian",
+          "0",
+          "",
+          "",
+          "4/7 (57%)",
+          "",
+          "0 (0)",
+          "",
+          "15'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Ziyi Tian",
+            "href": "/football/player/tian-ziyi/1087165"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Chaosheng Yang",
+          "0",
+          "",
+          "",
+          "5/11 (45%)",
+          "1 (0)",
+          "1 (0)",
+          "",
+          "25'",
+          "M",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Chaosheng Yang",
+            "href": "/football/player/chaosheng-yang/365000"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Xiangxin Wei",
+          "0",
+          "",
+          "3",
+          "7/10 (70%)",
+          "12 (7)",
+          "11 (6)",
+          "1 (1)",
+          "45'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Xiangxin Wei",
+            "href": "/football/player/wei-xiangxin/2052700"
+          }
+        ]
+      },
+      {
+        "cells": [
+          "",
+          "Yihu Yang",
+          "0",
+          "",
+          "3",
+          "9/16 (56%)",
+          "11 (6)",
+          "10 (5)",
+          "1 (1)",
+          "45'",
+          "D",
+          ""
+        ],
+        "links": [
+          {
+            "text": "Yihu Yang",
+            "href": "/football/player/yihu-yang/797493"
+          }
+        ]
+      }
+    ]
+  }
+]

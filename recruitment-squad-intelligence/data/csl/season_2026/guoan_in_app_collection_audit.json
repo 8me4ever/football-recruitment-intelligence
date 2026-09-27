@@ -1,0 +1,854 @@
+{
+  "audited_at": "2026-09-27T05:47:48.173985+00:00",
+  "source": "in-app",
+  "fixture_snapshot": "data\\csl\\season_2026\\guoan_in_app_fixture_snapshot_2026-09-27.csv",
+  "finished_fixtures": 26,
+  "accepted_matches": 26,
+  "accepted_csl_matches": 25,
+  "accepted_afc_matches": 1,
+  "missing_match_ids": [],
+  "player_match_rows": 791,
+  "accepted": [
+    {
+      "match_id": "16863671",
+      "category_counts": {
+        "General": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Attacking": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Defending": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Passing": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Duels": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 32,
+      "file": "csl_2026_capture\\browser_dom\\16863671_d3e6a7c204e7.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552633",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552633_5322e40a7210.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552624",
+      "category_counts": {
+        "General": {
+          "rows": 29,
+          "ratings": 29
+        },
+        "Attacking": {
+          "rows": 29,
+          "ratings": 29
+        },
+        "Defending": {
+          "rows": 29,
+          "ratings": 29
+        },
+        "Passing": {
+          "rows": 29,
+          "ratings": 29
+        },
+        "Duels": {
+          "rows": 29,
+          "ratings": 29
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 29,
+      "file": "csl_2026_capture\\browser_dom\\15552624_40bb5c8c874e.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552619",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552619_1d2f294c3c71.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "16851672",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\16851672_49cf5c8e2913.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552613",
+      "category_counts": {
+        "General": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Attacking": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Defending": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Passing": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Duels": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 32,
+      "file": "csl_2026_capture\\browser_dom\\15552613_27d63f2be681.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552600",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552600_b58e50f34201.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552596",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552596_f7a001c5197d.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552587",
+      "category_counts": {
+        "General": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Attacking": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Defending": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Passing": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Duels": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 32,
+      "file": "csl_2026_capture\\browser_dom\\15552587_477bba8027ef.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552576",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552576_ade92373738d.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552563",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 29
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552563_dff45bedd872.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552561",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 31
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552561_e591ec1c2e54.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552547",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552547_28ef19aa53df.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15549855",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15549855_d53c219b3143.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15549843",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 27
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 27
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 27
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 27
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 27
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15549843_ea458357aaf3.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15549838",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15549838_4d1c473824c6.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552546",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 29
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552546_a476660b9509.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552536",
+      "category_counts": {
+        "General": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Attacking": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Defending": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Passing": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Duels": {
+          "rows": 32,
+          "ratings": 32
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 32,
+      "file": "csl_2026_capture\\browser_dom\\15552536_1f02e66b7aec.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552529",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552529_ef238d6fc1f7.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552507",
+      "category_counts": {
+        "General": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 30,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 30,
+      "file": "csl_2026_capture\\browser_dom\\15552507_e6c55375d75e.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552498",
+      "category_counts": {
+        "General": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Attacking": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Defending": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Passing": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Duels": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 29,
+      "file": "csl_2026_capture\\browser_dom\\15552498_213ad57c7ecb.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552493",
+      "category_counts": {
+        "General": {
+          "rows": 32,
+          "ratings": 31
+        },
+        "Attacking": {
+          "rows": 32,
+          "ratings": 31
+        },
+        "Defending": {
+          "rows": 32,
+          "ratings": 31
+        },
+        "Passing": {
+          "rows": 32,
+          "ratings": 31
+        },
+        "Duels": {
+          "rows": 32,
+          "ratings": 31
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 32,
+      "file": "csl_2026_capture\\browser_dom\\15552493_c43c5bba6af2.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552489",
+      "category_counts": {
+        "General": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Attacking": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Defending": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Passing": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Duels": {
+          "rows": 31,
+          "ratings": 30
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 31,
+      "file": "csl_2026_capture\\browser_dom\\15552489_1b25c756e706.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15552476",
+      "category_counts": {
+        "General": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Attacking": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Defending": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Passing": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Duels": {
+          "rows": 29,
+          "ratings": 28
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 29,
+      "file": "csl_2026_capture\\browser_dom\\15552476_1b9514e317e3.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15551900",
+      "category_counts": {
+        "General": {
+          "rows": 28,
+          "ratings": 28
+        },
+        "Attacking": {
+          "rows": 28,
+          "ratings": 28
+        },
+        "Defending": {
+          "rows": 28,
+          "ratings": 28
+        },
+        "Passing": {
+          "rows": 28,
+          "ratings": 28
+        },
+        "Duels": {
+          "rows": 28,
+          "ratings": 28
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 28,
+      "file": "csl_2026_capture\\browser_dom\\15551900_a2d19101ec96.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    },
+    {
+      "match_id": "15551891",
+      "category_counts": {
+        "General": {
+          "rows": 28,
+          "ratings": 27
+        },
+        "Attacking": {
+          "rows": 28,
+          "ratings": 27
+        },
+        "Defending": {
+          "rows": 28,
+          "ratings": 27
+        },
+        "Passing": {
+          "rows": 28,
+          "ratings": 27
+        },
+        "Duels": {
+          "rows": 28,
+          "ratings": 27
+        },
+        "Goalkeeping": {
+          "rows": 2,
+          "ratings": 2
+        }
+      },
+      "general_player_rows": 28,
+      "file": "csl_2026_capture\\browser_dom\\15551891_34a21a8fde18.json",
+      "source": "in-app browser visible DOM; Scrapling Selector offline validation"
+    }
+  ],
+  "rejected_archive_versions": [
+    {
+      "match_id": "15552633",
+      "file": "csl_2026_capture\\browser_dom\\15552633_7023020d314d.json",
+      "reason": "General: empty table"
+    }
+  ],
+  "scope_note": "Beijing Guoan fixture snapshot only; not the full 2026 CSL fixture universe",
+  "method_note": "Browser-visible HTML saved from the in-app browser and reparsed offline with Scrapling Selector"
+}

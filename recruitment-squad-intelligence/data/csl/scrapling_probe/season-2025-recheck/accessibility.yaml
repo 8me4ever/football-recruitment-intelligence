@@ -1,0 +1,305 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football"
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball"
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis"
+  - link "Hockey":
+    - /url: /ice-hockey
+    - button "Hockey"
+  - link "Table tennis":
+    - /url: /table-tennis
+    - button "Table tennis"
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball"
+  - link "Handball":
+    - /url: /handball
+    - button "Handball"
+  - button "19 More":
+    - text: 19 More
+    - img
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - heading "Chinese Super League standings, fixtures, results and stats" [level=1]
+  - img "Chinese Super League"
+  - heading "Chinese Super League" [level=2]
+  - text: 19k followers
+  - img "China"
+  - text: China Select season in unique tournament header
+  - combobox "Select season in unique tournament header":
+    - text: "2025"
+    - img
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - text: Winner
+  - link "Shanghai Port 2025 Shanghai Port":
+    - /url: /football/team/shanghai-port/41537
+    - img "Shanghai Port"
+    - text: 2025 Shanghai Port
+    - img
+  - text: Matches
+  - button [disabled]:
+    - img
+  - button [disabled]:
+    - img
+  - img
+  - text: No events There are no available events.
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Advertisement
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Details" [selected]:
+        - link "Details":
+          - /url: "#id:71364,tab:details"
+          - heading "Details" [level=2]
+  - tabpanel:
+    - text: Lower division
+    - link "Chinese League 1 Chinese League 1":
+      - /url: /football/tournament/china/cfa-china-league/782
+      - img "Chinese League 1"
+      - text: Chinese League 1
+  - text: About
+  - paragraph: Chinese Super League, also known as Chinese Super League, is a professional football league in China for men.
+  - paragraph: There are overall 16 teams that compete for the title every year.
+  - paragraph: The current holder of the title is Shanghai Port and the team that holds the most titles is Guangzhou FC.
+  - paragraph: Sofascore tracks live football scores and Chinese Super League table, results, statistics and top scorers.
+  - heading "Competition format of Chinese Super League" [level=2]
+  - paragraph:
+    - text: The teams are placed in 15 tables, with a promotion and relegation system for the best and worst-performing teams. 1 teams are relegated to the
+    - link "Chinese League 1":
+      - /url: https://www.sofascore.com/football/tournament/china/cfa-china-league/782
+    - text: .
+  - paragraph: The top 6 team qualifies for the AFC Champions League main tournament or preliminary qualifications.
+  - paragraph: Additional 6 team qualify for UEFA Champions League Qualification tournament or preliminary qualifications.
+  - paragraph: Additional 9 team qualify for UEFA Champions League tournament or preliminary qualifications.
+  - heading "Chinese Super League top scorers" [level=2]
+  - paragraph: The top scorers in the last season of Chinese Super League Chinese Super League 2025 season were Fabio Abreu.Last season top scorer is Fabio Abreu with 28 goals.
+  - heading "Team stadiums and attendance" [level=2]
+  - paragraph: The team with the largest stadium is Beijing Sinobo Guoan with the capacity of 66161.
+  - paragraph: The average attendance per game was 24076.
+  - paragraph: The highest attendance per game in the season Chinese Super League 2025 was 57056.This was during the match between Beijing Sinobo Guoan and Guangzhou Evergrande Taobao.
+  - paragraph: The total attendance in Chinese Super League 2025 season was 4405999.
+  - heading "TV partners" [level=2]
+  - paragraph: The largest TV partners for Chinese Super League are China Central Television, PPTV, ESPN+.
+  - heading "Which team in Chinese Super League has the most titles?" [level=3]
+  - paragraph: The team with the most titles in Chinese Super League is Guangzhou FC.
+  - heading "Which team is the current titleholder in Chinese Super League?" [level=3]
+  - paragraph: The current titleholder in Chinese Super League is Shanghai Port.
+  - heading "What rank of competition is Chinese Super League in China?" [level=3]
+  - paragraph: Chinese Super League is professional division in China.
+  - heading "How many goals are scored on average in Chinese Super League in Chinese Super League 2026?" [level=3]
+  - paragraph: The average number of goals in Chinese Super League is 3.21.
+  - heading "When does the Chinese Super League start and when does it finish?" [level=3]
+  - paragraph: The Chinese Super League usually starts in March and ends in November.
+  - heading "How many groups are there in Chinese Super League competition?" [level=3]
+  - paragraph: The teams in Chinese Super League are placed in 15 groups.
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories Football"
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fleague%2F649
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fleague%2F649
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

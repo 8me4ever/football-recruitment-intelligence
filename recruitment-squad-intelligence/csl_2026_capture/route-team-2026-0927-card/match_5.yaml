@@ -1,0 +1,971 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "19:35 China - New Zealand":
+    - /url: /football/match/new-zealand-china/fVbsJVb#id:17175620
+    - img
+    - text: 19:35
+    - img "China"
+    - text: "-"
+    - img "New Zealand"
+  - link "20:10 Alexander Zverev - Learner Tien":
+    - /url: /tennis/match/learner-tien-alexander-zverev/nTxstgpd#id:17197178
+    - img
+    - text: 20:10
+    - img "Alexander Zverev"
+    - text: "-"
+    - img "Learner Tien"
+  - link "21:20 Carlos Alcaraz - Alex de Minaur":
+    - /url: /tennis/match/carlos-alcaraz-alex-de-minaur/OzFbsytkc#id:17197179
+    - img
+    - text: 21:20
+    - img "Carlos Alcaraz"
+    - text: "-"
+    - img "Alex de Minaur"
+  - link "FT Carlos Alcaraz 2 - 1 Taylor Fritz":
+    - /url: /tennis/match/carlos-alcaraz-taylor-fritz/Rvebsytkc#id:17190097
+    - img
+    - text: FT
+    - img "Carlos Alcaraz"
+    - text: 2 - 1
+    - img "Taylor Fritz"
+  - link "FT England 2 - 3 Spain":
+    - /url: /football/match/england-spain/YTbsnUb#id:15534084
+    - img
+    - text: FT
+    - img "England"
+    - text: 2 - 3
+    - img "Spain"
+  - link "FT Czechia 1 - 2 Croatia":
+    - /url: /football/match/croatia-czechia/oUbspUb#id:15534090
+    - img
+    - text: FT
+    - img "Czechia"
+    - text: 1 - 2
+    - img "Croatia"
+  - link "FT North Macedonia 0 - 3 Switzerland":
+    - /url: /football/match/north-macedonia-switzerland/ZTbsCVb#id:15534115
+    - img
+    - text: FT
+    - img "North Macedonia"
+    - text: 0 - 3
+    - img "Switzerland"
+  - link "FT Cruz Azul 3 - 3 CD Toluca":
+    - /url: /football/match/cruz-azul-cd-toluca/GNsXN#id:16317972
+    - img
+    - text: FT
+    - img "Cruz Azul"
+    - text: 3 - 3
+    - img "CD Toluca"
+  - link "FT FC Dallas 1 - 0 Los Angeles FC":
+    - /url: /football/match/los-angeles-fc-fc-dallas/mabsaTjc#id:15168417
+    - img
+    - text: FT
+    - img "FC Dallas"
+    - text: 1 - 0
+    - img "Los Angeles FC"
+  - link "FT Mexico 1 - 1 Colombia":
+    - /url: /football/match/colombia-mexico/GVbsvWb#id:17080689
+    - img
+    - text: FT
+    - img "Mexico"
+    - text: 1 - 1
+    - img "Colombia"
+  - link "FT Vancouver Whitecaps 3 - 3 DC United":
+    - /url: /football/match/vancouver-whitecaps-dc-united/cabskPi#id:15168426
+    - img
+    - text: FT
+    - img "Vancouver Whitecaps"
+    - text: 3 - 3
+    - img "DC United"
+  - text: Tomorrow
+  - link "00:00 Serbia - Netherlands":
+    - /url: /football/match/serbia-netherlands/fUbsfCc#id:15534068
+    - img
+    - text: 00:00
+    - img "Serbia"
+    - text: "-"
+    - img "Netherlands"
+  - link "01:00 Miami Dolphins - Kansas City Chiefs":
+    - /url: /american-football/match/kansas-city-chiefs-miami-dolphins/MKbsxNb#id:16183701
+    - img
+    - text: 01:00
+    - img "Miami Dolphins"
+    - text: "-"
+    - img "Kansas City Chiefs"
+  - link "01:00 Real Madrid - Unicaja":
+    - /url: /basketball/match/unicaja-real-madrid/Pvbsgwb#id:16830103
+    - img
+    - text: 01:00
+    - img "Real Madrid"
+    - text: "-"
+    - img "Unicaja"
+  - link "01:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507832
+    - img
+    - text: 01:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "02:45 Germany - Greece":
+    - /url: /football/match/germany-greece/kUbslUb#id:15534060
+    - img
+    - text: 02:45
+    - img "Germany"
+    - text: "-"
+    - img "Greece"
+  - link "02:45 Norway - Portugal":
+    - /url: /football/match/portugal-norway/AObseUb#id:15534096
+    - img
+    - text: 02:45
+    - img "Norway"
+    - text: "-"
+    - img "Portugal"
+  - link "07:00 Columbus Crew - Inter Miami CF":
+    - /url: /football/match/inter-miami-cf-columbus-crew/eabsccKc#id:15168422
+    - img
+    - text: 07:00
+    - img "Columbus Crew"
+    - text: "-"
+    - img "Inter Miami CF"
+  - link "19:30 O'Sullivan R. - Jun J.":
+    - /url: /snooker/match/jun-osullivan/gZisxIRd#id:16908086
+    - img
+    - text: 19:30
+    - img "O'Sullivan R."
+    - text: "-"
+    - img "Jun J."
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 26":
+        - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - listitem:
+      - heading "Shanghai Port vs Beijing Guoan live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Compare teams":
+    - /url: /football/team/compare?ids=41537%2C3376&s_ids=90049%2C90049&ut_ids=649%2C649
+    - button "Compare teams":
+      - img
+      - text: Compare teams
+  - link "Shanghai Port Port":
+    - /url: /football/team/shanghai-port/41537
+    - img "Shanghai Port"
+    - text: Port
+  - text: 0 - 0 Finished
+  - link "Beijing Guoan Guoan":
+    - /url: /football/team/beijing-guoan/3376
+    - img "Beijing Guoan"
+    - text: Guoan
+  - img
+  - text: 05/09/2026 19:35
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - img
+  - text: Pudong Football Stadium Full-time
+  - link "7Stars Partners New Zealand":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - img "7Stars Partners New Zealand"
+  - link "1 1.66":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 1 1.66
+    - img
+  - link "X 4.10":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: X 4.10
+    - img
+  - link "2 3.90":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 2 3.90
+    - img
+  - button "Additional odds":
+    - text: Additional odds
+    - img
+  - text: Match Momentum
+  - button:
+    - img
+  - img "Shanghai Port"
+  - img "Beijing Guoan"
+  - img
+  - text: FT 0 - 0 90'
+  - superscript: "+3"
+  - img
+  - link "W. Shenchao":
+    - /url: /football/player/wang-shenchao/797337
+  - link "X. Y. Alex":
+    - /url: /football/player/xi-yang-alex/1977665
+  - text: 90'
+  - img
+  - link "L. Lei":
+    - /url: /football/player/li-lei/791491
+  - link "Y. Liyu":
+    - /url: /football/player/yang-liyu/872209
+  - text: Additional time 6 81'
+  - img
+  - link "F. Jia":
+    - /url: /football/player/feifan-jia/1121219
+  - link "S. Erjini'ao":
+    - /url: /football/player/sai-erjiniao/843735
+  - text: 81'
+  - img "Substitution"
+  - link "C. Xi":
+    - /url: /football/player/cheng-xi/2487614
+  - link "W. Yu":
+    - /url: /football/player/wang-yu/1130184
+  - text: 79'
+  - img
+  - link "K. Jiwen":
+    - /url: /football/player/kuai-jiwen/1501972
+  - link "P. Ampem":
+    - /url: /football/player/prince-ampem/923888
+  - text: 79'
+  - img
+  - link "L. Xinxiang":
+    - /url: /football/player/li-xinxiang/1933818
+  - link "L. Zhurun":
+    - /url: /football/player/liu-zhurun/1017409
+  - text: 70'
+  - img
+  - link "W. Lei":
+    - /url: /football/player/wu-lei/223232
+  - link "Leonardo":
+    - /url: /football/player/leonardo/979522
+  - text: 70'
+  - img
+  - link "Y. Xin":
+    - /url: /football/player/yue-xin/817864
+  - link "L. Shuai":
+    - /url: /football/player/li-shuai/840640
+  - text: 46'
+  - img
+  - link "D. Jiefu":
+    - /url: /football/player/deng-jiefu/2443057
+  - link "Z. Xizhe":
+    - /url: /football/player/zhang-xizhe/231992
+  - text: HT 0 - 0 Additional time 1 35'
+  - img "Yellow card"
+  - link "W. Yu":
+    - /url: /football/player/wang-yu/1130184
+  - text: Foul Player of the match
+  - link "Sofascore Rating Hou Sen H. Sen Beijing Guoan Guoan 8.8":
+    - /url: /football/player/hou-sen/793878
+    - text: Sofascore Rating
+    - img "Hou Sen"
+    - img
+    - text: H. Sen
+    - img "Beijing Guoan"
+    - text: Guoan
+    - meter
+  - link "Fan Pick Guilherme Ramos G. Ramos Beijing Guoan Guoan 39% 25 votes":
+    - /url: /football/player/guilherme-ramos/827192
+    - text: Fan Pick
+    - img "Guilherme Ramos"
+    - text: G. Ramos
+    - img "Beijing Guoan"
+    - text: Guoan 39% 25 votes
+  - link "7.8 Guilherme Ramos Beijing Guoan G. Ramos":
+    - /url: /football/player/guilherme-ramos/827192
+    - meter
+    - img "Guilherme Ramos"
+    - img "Beijing Guoan"
+    - text: G. Ramos
+  - link "7.6 Shuai Li Shanghai Port L. Shuai":
+    - /url: /football/player/li-shuai/840640
+    - meter
+    - img "Shuai Li"
+    - img "Shanghai Port"
+    - text: L. Shuai
+  - link "7.5 Mateus Vital Shanghai Port M. Vital":
+    - /url: /football/player/mateus-vital/823653
+    - meter
+    - img "Mateus Vital"
+    - img "Shanghai Port"
+    - text: M. Vital
+  - link "20% Hou Sen Beijing Guoan H. Sen":
+    - /url: /football/player/hou-sen/793878
+    - text: 20%
+    - img "Hou Sen"
+    - img "Beijing Guoan"
+    - text: H. Sen
+  - link "13% Mateus Vital Shanghai Port M. Vital":
+    - /url: /football/player/mateus-vital/823653
+    - text: 13%
+    - img "Mateus Vital"
+    - img "Shanghai Port"
+    - text: M. Vital
+  - link "6% Prince Ampem Shanghai Port P. Ampem":
+    - /url: /football/player/prince-ampem/923888
+    - text: 6%
+    - img "Prince Ampem"
+    - img "Shanghai Port"
+    - text: P. Ampem
+  - text: "Who will win? Total votes: 2.4k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shanghai Port"
+  - text: 53% X 21%
+  - img "Beijing Guoan"
+  - text: "26% Will both teams score? Total votes: 527"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Yes 96% No 4% Who will score first? Total votes: 219"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Shanghai Port"
+  - text: 71%
+  - img
+  - text: 3%
+  - img "Beijing Guoan"
+  - text: 26%
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - text: Commentary
+  - scrollbar:
+    - tablist:
+      - tab "All" [selected]
+      - tab "Key events"
+  - img
+  - text: "- Match ends, Shanghai Port 0, Beijing Guoan 0. - Second Half ends, Shanghai Port 0, Beijing Guoan 0. 95' Corner, Shanghai Port. Conceded by Wang Gang."
+  - img
+  - img
+  - text: 94' Corner, Shanghai Port. Conceded by Cao Yongjing.
+  - img
+  - img
+  - img
+  - text: 93' Substitution
+  - img
+  - text: Wang Shenchao(In)
+  - img
+  - text: Xi Yang(Out)
+  - img "Shanghai Port"
+  - text: 93' Offside, Beijing Guoan. Zhang Yuning is caught offside.
+  - img
+  - img
+  - text: 92' Deng Jiefu (Beijing Guoan) wins a free kick in the defensive half.
+  - img
+  - img
+  - text: 92' Foul by Kuai Jiwen (Shanghai Port).
+  - img
+  - img
+  - text: 91' Attempt saved. Yue Tze Nam (Beijing Guoan) left footed shot from outside the box is saved in the centre of the goal by Yan Junling (Shanghai Port). Assisted by Jia Feifan.
+  - img
+  - img
+  - text: 91' Fourth official has announced 6 minutes of added time.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: "Pre-match standings # Team Latest Pts 2"
+  - link:
+    - /url: /football/team/beijing-guoan/3376
+    - img
+  - text: W W W D D
+  - meter
+  - text: 37 7
+  - link:
+    - /url: /football/team/shanghai-port/41537
+    - img
+  - text: W W D W W
+  - meter
+  - text: 32 Where to watch Select country in tv channels
+  - combobox "Select country in tv channels":
+    - img "New Zealand"
+    - img
+  - img
+  - text: No votes for selected country
+  - link "Full TV schedule":
+    - /url: /tv-schedule#tab:tournaments,highlightedTournamentId:649
+    - button "Full TV schedule":
+      - text: Full TV schedule
+      - img
+  - img
+  - text: Date and time 05/09/2026 19:35
+  - link "Competition Football, China, Chinese Super League, Round 26":
+    - /url: /football/tournament/china/cfa-super-league/649#id:90049
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 26
+    - img
+  - img
+  - text: Venue Pudong Football Stadium
+  - img "CN"
+  - text: Location Shanghai, China
+  - link "Referee Yuchen Mu CN Avg. cards 0.21 3.93":
+    - /url: /football/referee/mu-yuchen/789472
+    - img
+    - text: Referee Yuchen Mu
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.21"
+    - img
+    - text: "3.93"
+    - img
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Gamble responsibly 18+ Advertisement
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Lineups" [selected]:
+        - link "Lineups":
+          - /url: "#id:15552633,tab:lineups"
+          - heading "Lineups" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#id:15552633,tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#id:15552633,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "H2H":
+        - link "H2H":
+          - /url: "#id:15552633,tab:matches"
+          - heading "H2H" [level=2]
+      - tab "AI Insights":
+        - link "AI Insights":
+          - /url: "#id:15552633,tab:ai_insights"
+          - heading "AI Insights" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Lineups" [selected]
+        - tab "Player stats"
+    - tabpanel:
+      - scrollbar:
+        - tablist:
+          - tab "Performance" [selected]:
+            - text: Performance
+            - img
+          - tab "Distance"
+          - tab "Nationality"
+          - tab "Age"
+          - tab "Market value"
+          - tab "Height"
+      - button:
+        - img
+      - text: Port
+      - meter: "6.95"
+      - button:
+        - img
+      - text: 3-4-3
+      - img "Team jersey"
+      - img
+      - meter: "6.9"
+      - text: 1 (c) Y. Junling
+      - img
+      - meter: "7.3"
+      - text: 8 J. C. Aziangbe
+      - img
+      - meter: "6.5"
+      - text: 3 J. Guangtai
+      - img
+      - meter: "7.2"
+      - text: 13 Z. Wei
+      - img
+      - img
+      - meter: "7.4"
+      - text: 22 X. Y. Alex
+      - img
+      - meter: "7.4"
+      - text: 21 Ó. Melendo
+      - img
+      - meter: "7.5"
+      - text: 10 M. Vital
+      - img
+      - img
+      - meter: "7.6"
+      - text: 32 L. Shuai
+      - img
+      - img
+      - meter: "6.1"
+      - text: 33 L. Zhurun
+      - img
+      - img
+      - meter: "6.7"
+      - text: 45 Leonardo
+      - img
+      - img
+      - meter: "7.1"
+      - text: 17 P. Ampem
+      - img
+      - img
+      - img
+      - img
+      - img
+      - img
+      - meter: "8.8"
+      - text: 34 H. Sen
+      - img
+      - meter: "6.9"
+      - text: 21 T. Yue
+      - img
+      - meter: "6.7"
+      - text: 27 G. Wang
+      - img
+      - meter: "7.8"
+      - text: 5 G. Ramos
+      - img
+      - meter: "6.8"
+      - text: 26 B. Yang
+      - img
+      - img
+      - img
+      - meter: "6.8"
+      - text: 18 W. Yu
+      - img
+      - img
+      - meter: "6.8"
+      - text: 17 Y. Liyu
+      - img
+      - meter: "6.7"
+      - text: 37 Y. Cao
+      - img
+      - img
+      - meter: "6.6"
+      - text: 7 S. Erjini'ao
+      - img
+      - img
+      - meter: "6.4"
+      - text: 10 (c) Z. Xizhe
+      - img
+      - meter: "6.4"
+      - text: 9 Z. Yuning
+      - img
+      - img
+      - img
+      - img
+      - text: Guoan
+      - meter: "6.94"
+      - button:
+        - img
+      - text: 4-1-4-1
+      - img "Team jersey"
+      - text: Referee
+      - link "Yuchen Mu Avg. cards 0.21 3.93":
+        - /url: /football/referee/mu-yuchen/789472
+        - img
+        - text: Yuchen Mu Avg. cards
+        - img
+        - text: "0.21"
+        - img
+        - text: "3.93"
+      - text: Managers
+      - link "Kevin Muscat Kevin Muscat Coach":
+        - /url: /football/manager/kevin-muscat/24699
+        - img "Kevin Muscat"
+        - text: Kevin Muscat Coach
+      - link "Nick Montgomery Nick Montgomery Coach":
+        - /url: /football/manager/nick-montgomery/796109
+        - img "Nick Montgomery"
+        - text: Nick Montgomery Coach
+      - text: Substitutions
+      - 'link "Yue Xin 28Yue Xin 70'' Out: L. Shuai 6.8"':
+        - /url: /football/player/yue-xin/817864
+        - img "Yue Xin"
+        - text: 28Yue Xin
+        - img
+        - text: "70' Out: L. Shuai"
+        - meter
+      - 'link "Wu Lei 7Wu Lei 70'' Out: Leonardo 7.2"':
+        - /url: /football/player/wu-lei/223232
+        - img "Wu Lei"
+        - text: 7Wu Lei
+        - img
+        - text: "70' Out: Leonardo"
+        - meter
+      - 'link "Kuai Jiwen 47Kuai Jiwen 79'' Out: P. Ampem 6.2"':
+        - /url: /football/player/kuai-jiwen/1501972
+        - img "Kuai Jiwen"
+        - text: 47Kuai Jiwen
+        - img
+        - text: "79' Out: P. Ampem"
+        - meter
+      - 'link "Xinxiang Li 49Xinxiang Li 79'' Out: L. Zhurun 6.3"':
+        - /url: /football/player/li-xinxiang/1933818
+        - img "Xinxiang Li"
+        - text: 49Xinxiang Li
+        - img
+        - text: "79' Out: L. Zhurun"
+        - meter
+      - 'link "Wang Shenchao 4Wang Shenchao 90'' Out: X. Y. Alex"':
+        - /url: /football/player/wang-shenchao/797337
+        - img "Wang Shenchao"
+        - text: 4Wang Shenchao
+        - img
+        - text: "90' Out: X. Y. Alex"
+      - link "Chen Wei 12Chen Wei":
+        - /url: /football/player/chen-wei/871775
+        - img "Chen Wei"
+        - text: 12Chen Wei
+      - link "Zhang Linpeng 5Zhang Linpeng":
+        - /url: /football/player/zhang-linpeng/137746
+        - img "Zhang Linpeng"
+        - text: 5Zhang Linpeng
+      - link "Fu Huan 23Fu Huan":
+        - /url: /football/player/fu-huan/797338
+        - img "Fu Huan"
+        - text: 23Fu Huan
+      - link "Lu Yongtao 38Lu Yongtao":
+        - /url: /football/player/lu-yongtao/1210260
+        - img "Lu Yongtao"
+        - text: 38Lu Yongtao
+      - link "Yuan Zhang 6Yuan Zhang":
+        - /url: /football/player/yuan-zhang/887582
+        - img "Yuan Zhang"
+        - text: 6Yuan Zhang
+      - link "Yang Shiyuan 20Yang Shiyuan":
+        - /url: /football/player/yang-shiyuan/806479
+        - img "Yang Shiyuan"
+        - text: 20Yang Shiyuan
+      - link "Matthew Orr 14Matthew Orr":
+        - /url: /football/player/matthew-orr/1101120
+        - img "Matthew Orr"
+        - text: 14Matthew Orr
+      - 'link "Deng Jiefu 47Deng Jiefu 46'' Out: Z. Xizhe 7.2"':
+        - /url: /football/player/deng-jiefu/2443057
+        - img "Deng Jiefu"
+        - text: 47Deng Jiefu
+        - img
+        - text: "46' Out: Z. Xizhe"
+        - meter
+      - 'link "Feifan Jia 36Feifan Jia 81'' Out: S. Erjini''ao 6.5"':
+        - /url: /football/player/feifan-jia/1121219
+        - img "Feifan Jia"
+        - text: 36Feifan Jia
+        - img
+        - text: "81' Out: S. Erjini'ao"
+        - meter
+      - 'link "Cheng Xi 41Cheng Xi 81'' Out: W. Yu 6.7"':
+        - /url: /football/player/cheng-xi/2487614
+        - img "Cheng Xi"
+        - text: 41Cheng Xi
+        - img
+        - text: "81' Out: W. Yu"
+        - meter
+      - 'link "Li Lei 4Li Lei 90'' Out: Y. Liyu"':
+        - /url: /football/player/li-lei/791491
+        - img "Li Lei"
+        - text: 4Li Lei
+        - img
+        - text: "90' Out: Y. Liyu"
+      - link "Nureli Abbas 33Nureli Abbas":
+        - /url: /football/player/nureli-abbas/1487427
+        - img "Nureli Abbas"
+        - text: 33Nureli Abbas
+      - link "Abdugheni Abduhamit 24Abdugheni Abduhamit":
+        - /url: /football/player/abdugheni-abduhamit/920987
+        - img "Abdugheni Abduhamit"
+        - text: 24Abdugheni Abduhamit
+      - link "Shuangjie Fan 30Shuangjie Fan":
+        - /url: /football/player/fan-shuangjie/1886700
+        - img "Shuangjie Fan"
+        - text: 30Shuangjie Fan
+      - link "Zhang Haoran 50Zhang Haoran":
+        - /url: /football/player/zhang-haoran/2664506
+        - img "Zhang Haoran"
+        - text: 50Zhang Haoran
+      - link "Xia Xiaoyu 43Xia Xiaoyu":
+        - /url: /football/player/xia-xiaoyu/2664505
+        - img "Xia Xiaoyu"
+        - text: 43Xia Xiaoyu
+      - img
+      - text: Ratings for this competition are calculated on the basis of statistics from the official Chinese Super League data provider.
+      - link "Read more":
+        - /url: https://corporate.sofascore.com/about/rating
+        - text: Read more
+        - img
+      - text: Players' average positions
+      - checkbox "Show substitutions"
+      - img
+      - text: Show substitutions
+      - scrollbar: 28 7 49 47 4
+      - img
+      - img
+      - img: 1 45 17 22 8 13 32 3 33 10 21
+      - checkbox "Show substitutions"
+      - img
+      - text: Show substitutions
+      - scrollbar: 47 41 36 4
+      - img
+      - img
+      - img: 10 9 18 17 34 26 5 7 21 27 37
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Shanghai Port played against Beijing Guoan in 2 matches this season. Currently, Shanghai Port rank 7th, while Beijing Guoan hold 3rd position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- 'link "England 2-3 Spain: Nations League thriller at Wembley"':
+  - /url: /news/england-2-3-spain-nations-league-thriller-at-wembley
+- text: •
+- link "Switzerland cruise past North Macedonia 3-0 in Skopje":
+  - /url: /news/switzerland-cruise-past-north-macedonia-3-0-in-skopje
+- text: •
+- link "Croatia beat Czechia 2-1 as Modrić shines":
+  - /url: /news/croatia-beat-czechia-2-1-as-modric-shines
+- text: •
+- 'link "Logroño United 0-2 Barcelona: teenager Mayssa scores as Font shines"':
+  - /url: /news/logrono-united-0-2-barcelona-teenager-mayssa-scores-as-font-shines
+- text: •
+- 'link "London City 2-0 Brighton: Putellas nets first WSL goal"':
+  - /url: /news/london-city-2-0-brighton-putellas-nets-first-wsl-goal
+- text: •
+- 'link "Slovenia 0-0 Scotland: Oblak shines in Ljubljana"':
+  - /url: /news/slovenia-0-0-scotland-oblak-shines-in-ljubljana
+- text: •
+- 'link "Schröder brace lifts Real Madrid: Sofascore Rating 9.5"':
+  - /url: /news/schroder-brace-lifts-real-madrid-sofascore-rating-9-5
+- text: •
+- link "George Russell converts pole into Azerbaijan GP win":
+  - /url: /news/george-russell-converts-pole-into-azerbaijan-gp-win
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15552633
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F15552633
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert: Shanghai Port vs Beijing Guoan live score, H2H and lineups | Sofascore

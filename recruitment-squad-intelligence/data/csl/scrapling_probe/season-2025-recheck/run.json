@@ -1,0 +1,34 @@
+{
+  "url_requested": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:71364,tab:matches",
+  "observed_at": "2026-09-25T16:44:12.984672+00:00",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "snapshots": [
+    {
+      "seconds": 5,
+      "title": "Chinese Super League table, schedule & stats | Sofascore",
+      "url": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:71364,tab:matches",
+      "text_length": 5258,
+      "tables": 0
+    },
+    {
+      "seconds": 15,
+      "title": "Chinese Super League table, schedule & stats | Sofascore",
+      "url": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:71364,tab:matches",
+      "text_length": 5258,
+      "tables": 0
+    },
+    {
+      "seconds": 30,
+      "title": "Chinese Super League table, schedule & stats | Sofascore",
+      "url": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:71364,tab:matches",
+      "text_length": 5258,
+      "tables": 0
+    }
+  ],
+  "browser_version": "153.0.8010.52",
+  "http_status": 200,
+  "outcome": "captured_for_review",
+  "elapsed_seconds": 38.0
+}

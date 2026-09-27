@@ -1,0 +1,57 @@
+{
+  "url_requested": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+  "observed_at": "2026-09-25T15:06:50.099913+00:00",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "snapshots": [
+    {
+      "seconds": 5,
+      "title": "Yunnan Yukun vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+      "text_length": 6538,
+      "tables": 0
+    },
+    {
+      "seconds": 15,
+      "title": "Yunnan Yukun vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+      "text_length": 6538,
+      "tables": 0
+    },
+    {
+      "seconds": 30,
+      "title": "Yunnan Yukun vs Beijing Guoan live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/yunnan-yukun-beijing-guoan/BrbsQZOd#id:13400350",
+      "text_length": 6538,
+      "tables": 0
+    }
+  ],
+  "browser_version": "153.0.8010.52",
+  "player_table_rows": [
+    31
+  ],
+  "categories": {
+    "General": [
+      31
+    ],
+    "Attacking": [
+      31
+    ],
+    "Defending": [
+      31
+    ],
+    "Passing": [
+      31
+    ],
+    "Duels": [
+      31
+    ],
+    "Goalkeeping": [
+      2
+    ]
+  },
+  "http_status": 200,
+  "outcome": "captured_for_review",
+  "elapsed_seconds": 75.09
+}

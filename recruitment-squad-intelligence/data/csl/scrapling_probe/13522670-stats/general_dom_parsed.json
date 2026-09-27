@@ -1,0 +1,578 @@
+[
+  {
+    "player_id": 343673,
+    "player_name": "Fabio Abreu",
+    "team": "Beijing Guoan",
+    "rating": "10",
+    "stats_raw": {
+      "Goals": "4",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "15/17 (88%)",
+      "Duels (won)": "14 (8)",
+      "Ground duels (won)": "10 (6)",
+      "Aerial duels (won)": "4 (2)",
+      "Minutes played": "90'",
+      "Position": "F",
+      "Sofascore Rating": "10"
+    }
+  },
+  {
+    "player_id": 876570,
+    "player_name": "Quanbo Guo",
+    "team": "Meizhou Hakka",
+    "rating": "8.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "9/20 (45%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "G",
+      "Sofascore Rating": "8.1"
+    }
+  },
+  {
+    "player_id": 357740,
+    "player_name": "Guga",
+    "team": "Beijing Guoan",
+    "rating": "8.0",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "4",
+      "Accurate passes": "43/47 (91%)",
+      "Duels (won)": "9 (4)",
+      "Ground duels (won)": "9 (4)",
+      "Aerial duels (won)": "",
+      "Minutes played": "78'",
+      "Position": "M",
+      "Sofascore Rating": "8.0"
+    }
+  },
+  {
+    "player_id": 1113798,
+    "player_name": "Yang Bai",
+    "team": "Beijing Guoan",
+    "rating": "7.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "1",
+      "Accurate passes": "38/42 (90%)",
+      "Duels (won)": "5 (3)",
+      "Ground duels (won)": "3 (1)",
+      "Aerial duels (won)": "2 (2)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "7.7"
+    }
+  },
+  {
+    "player_id": 926823,
+    "player_name": "Dawhan",
+    "team": "Beijing Guoan",
+    "rating": "7.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "58/63 (92%)",
+      "Duels (won)": "15 (8)",
+      "Ground duels (won)": "11 (5)",
+      "Aerial duels (won)": "4 (3)",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "7.7"
+    }
+  },
+  {
+    "player_id": 828227,
+    "player_name": "Zhang Yuning",
+    "team": "Beijing Guoan",
+    "rating": "7.7",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "27/31 (87%)",
+      "Duels (won)": "7 (3)",
+      "Ground duels (won)": "5 (2)",
+      "Aerial duels (won)": "2 (1)",
+      "Minutes played": "70'",
+      "Position": "F",
+      "Sofascore Rating": "7.7"
+    }
+  },
+  {
+    "player_id": 77758,
+    "player_name": "Gang Wang",
+    "team": "Beijing Guoan",
+    "rating": "7.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "3",
+      "Accurate passes": "29/35 (83%)",
+      "Duels (won)": "8 (6)",
+      "Ground duels (won)": "8 (6)",
+      "Aerial duels (won)": "",
+      "Minutes played": "78'",
+      "Position": "D",
+      "Sofascore Rating": "7.5"
+    }
+  },
+  {
+    "player_id": 793878,
+    "player_name": "Hou Sen",
+    "team": "Beijing Guoan",
+    "rating": "7.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "25/29 (86%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "G",
+      "Sofascore Rating": "7.4"
+    }
+  },
+  {
+    "player_id": 1025276,
+    "player_name": "Jerome Mbekeli",
+    "team": "Meizhou Hakka",
+    "rating": "7.3",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "2",
+      "Accurate passes": "22/26 (85%)",
+      "Duels (won)": "14 (6)",
+      "Ground duels (won)": "14 (6)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "7.3"
+    }
+  },
+  {
+    "player_id": 1114765,
+    "player_name": "Hao Fang",
+    "team": "Beijing Guoan",
+    "rating": "7.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "4",
+      "Accurate passes": "11/13 (85%)",
+      "Duels (won)": "10 (6)",
+      "Ground duels (won)": "9 (6)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "30'",
+      "Position": "F",
+      "Sofascore Rating": "7.2"
+    }
+  },
+  {
+    "player_id": 231992,
+    "player_name": "Zhang Xizhe",
+    "team": "Beijing Guoan",
+    "rating": "7.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "1",
+      "Tackles (won)": "",
+      "Accurate passes": "11/15 (73%)",
+      "Duels (won)": "2 (0)",
+      "Ground duels (won)": "2 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "20'",
+      "Position": "M",
+      "Sofascore Rating": "7.2"
+    }
+  },
+  {
+    "player_id": 941005,
+    "player_name": "Wu Shaocong",
+    "team": "Beijing Guoan",
+    "rating": "7.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "5",
+      "Accurate passes": "39/45 (87%)",
+      "Duels (won)": "6 (5)",
+      "Ground duels (won)": "6 (5)",
+      "Aerial duels (won)": "",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "7.1"
+    }
+  },
+  {
+    "player_id": 900549,
+    "player_name": "Lin Liangming",
+    "team": "Beijing Guoan",
+    "rating": "6.9",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "19/20 (95%)",
+      "Duels (won)": "8 (4)",
+      "Ground duels (won)": "7 (4)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "60'",
+      "Position": "M",
+      "Sofascore Rating": "6.9"
+    }
+  },
+  {
+    "player_id": 817886,
+    "player_name": "Yongjing Cao",
+    "team": "Beijing Guoan",
+    "rating": "6.9",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "16/19 (84%)",
+      "Duels (won)": "9 (2)",
+      "Ground duels (won)": "8 (2)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "60'",
+      "Position": "M",
+      "Sofascore Rating": "6.9"
+    }
+  },
+  {
+    "player_id": 977985,
+    "player_name": "Yupeng He",
+    "team": "Beijing Guoan",
+    "rating": "6.9",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "35/41 (85%)",
+      "Duels (won)": "6 (3)",
+      "Ground duels (won)": "5 (2)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.9"
+    }
+  },
+  {
+    "player_id": 187031,
+    "player_name": "Elías Már Ómarsson",
+    "team": "Meizhou Hakka",
+    "rating": "6.8",
+    "stats_raw": {
+      "Goals": "1",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "8/11 (73%)",
+      "Duels (won)": "6 (1)",
+      "Ground duels (won)": "5 (1)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "90'",
+      "Position": "F",
+      "Sofascore Rating": "6.8"
+    }
+  },
+  {
+    "player_id": 872209,
+    "player_name": "Yang Liyu",
+    "team": "Beijing Guoan",
+    "rating": "6.8",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "2",
+      "Accurate passes": "2/2 (100%)",
+      "Duels (won)": "3 (2)",
+      "Ground duels (won)": "3 (2)",
+      "Aerial duels (won)": "",
+      "Minutes played": "12'",
+      "Position": "F",
+      "Sofascore Rating": "6.8"
+    }
+  },
+  {
+    "player_id": 840939,
+    "player_name": "Yun Liu",
+    "team": "Meizhou Hakka",
+    "rating": "6.7",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "6/7 (86%)",
+      "Duels (won)": "6 (3)",
+      "Ground duels (won)": "4 (3)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "45'",
+      "Position": "M",
+      "Sofascore Rating": "6.7"
+    }
+  },
+  {
+    "player_id": 796224,
+    "player_name": "Branimir Jočić",
+    "team": "Meizhou Hakka",
+    "rating": "6.6",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "18/28 (64%)",
+      "Duels (won)": "5 (4)",
+      "Ground duels (won)": "1 (1)",
+      "Aerial duels (won)": "4 (3)",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "6.6"
+    }
+  },
+  {
+    "player_id": 797459,
+    "player_name": "Chi Zhongguo",
+    "team": "Beijing Guoan",
+    "rating": "6.6",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "14/17 (82%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "12'",
+      "Position": "M",
+      "Sofascore Rating": "6.6"
+    }
+  },
+  {
+    "player_id": 817657,
+    "player_name": "Jia’nan Wang",
+    "team": "Meizhou Hakka",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "6/14 (43%)",
+      "Duels (won)": "7 (4)",
+      "Ground duels (won)": "4 (2)",
+      "Aerial duels (won)": "3 (2)",
+      "Minutes played": "65'",
+      "Position": "D",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 833766,
+    "player_name": "Liao Junjian",
+    "team": "Meizhou Hakka",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "9/12 (75%)",
+      "Duels (won)": "7 (2)",
+      "Ground duels (won)": "5 (2)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "75'",
+      "Position": "D",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 845077,
+    "player_name": "Rodrigo Henrique",
+    "team": "Meizhou Hakka",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "22/29 (76%)",
+      "Duels (won)": "12 (7)",
+      "Ground duels (won)": "11 (7)",
+      "Aerial duels (won)": "1 (0)",
+      "Minutes played": "90'",
+      "Position": "M",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 878397,
+    "player_name": "Wang Ziming",
+    "team": "Beijing Guoan",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "11/13 (85%)",
+      "Duels (won)": "5 (1)",
+      "Ground duels (won)": "3 (1)",
+      "Aerial duels (won)": "2 (0)",
+      "Minutes played": "30'",
+      "Position": "F",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 1210264,
+    "player_name": "Yang Ruiqi",
+    "team": "Meizhou Hakka",
+    "rating": "6.5",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "2",
+      "Accurate passes": "18/25 (72%)",
+      "Duels (won)": "7 (4)",
+      "Ground duels (won)": "5 (3)",
+      "Aerial duels (won)": "2 (1)",
+      "Minutes played": "90'",
+      "Position": "D",
+      "Sofascore Rating": "6.5"
+    }
+  },
+  {
+    "player_id": 1153362,
+    "player_name": "Xuhuang Chen",
+    "team": "Meizhou Hakka",
+    "rating": "6.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "2",
+      "Accurate passes": "8/9 (89%)",
+      "Duels (won)": "6 (2)",
+      "Ground duels (won)": "6 (2)",
+      "Aerial duels (won)": "",
+      "Minutes played": "25'",
+      "Position": "M",
+      "Sofascore Rating": "6.4"
+    }
+  },
+  {
+    "player_id": 850947,
+    "player_name": "Haoran Zhong",
+    "team": "Meizhou Hakka",
+    "rating": "6.4",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "14/18 (78%)",
+      "Duels (won)": "11 (5)",
+      "Ground duels (won)": "10 (4)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "65'",
+      "Position": "M",
+      "Sofascore Rating": "6.4"
+    }
+  },
+  {
+    "player_id": 797485,
+    "player_name": "Weihui Rao",
+    "team": "Meizhou Hakka",
+    "rating": "6.3",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "1",
+      "Accurate passes": "14/20 (70%)",
+      "Duels (won)": "2 (1)",
+      "Ground duels (won)": "2 (1)",
+      "Aerial duels (won)": "",
+      "Minutes played": "45'",
+      "Position": "D",
+      "Sofascore Rating": "6.3"
+    }
+  },
+  {
+    "player_id": 1087165,
+    "player_name": "Ziyi Tian",
+    "team": "Meizhou Hakka",
+    "rating": "6.3",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "4/7 (57%)",
+      "Duels (won)": "",
+      "Ground duels (won)": "0 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "15'",
+      "Position": "D",
+      "Sofascore Rating": "6.3"
+    }
+  },
+  {
+    "player_id": 365000,
+    "player_name": "Chaosheng Yang",
+    "team": "Meizhou Hakka",
+    "rating": "6.2",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "",
+      "Accurate passes": "5/11 (45%)",
+      "Duels (won)": "1 (0)",
+      "Ground duels (won)": "1 (0)",
+      "Aerial duels (won)": "",
+      "Minutes played": "25'",
+      "Position": "M",
+      "Sofascore Rating": "6.2"
+    }
+  },
+  {
+    "player_id": 2052700,
+    "player_name": "Xiangxin Wei",
+    "team": "Meizhou Hakka",
+    "rating": "6.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "3",
+      "Accurate passes": "7/10 (70%)",
+      "Duels (won)": "12 (7)",
+      "Ground duels (won)": "11 (6)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "45'",
+      "Position": "D",
+      "Sofascore Rating": "6.1"
+    }
+  },
+  {
+    "player_id": 797493,
+    "player_name": "Yihu Yang",
+    "team": "Meizhou Hakka",
+    "rating": "6.1",
+    "stats_raw": {
+      "Goals": "0",
+      "Assists": "",
+      "Tackles (won)": "3",
+      "Accurate passes": "9/16 (56%)",
+      "Duels (won)": "11 (6)",
+      "Ground duels (won)": "10 (5)",
+      "Aerial duels (won)": "1 (1)",
+      "Minutes played": "45'",
+      "Position": "D",
+      "Sofascore Rating": "6.1"
+    }
+  }
+]

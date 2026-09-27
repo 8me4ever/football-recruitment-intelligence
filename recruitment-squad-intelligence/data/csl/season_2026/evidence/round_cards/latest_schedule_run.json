@@ -1,0 +1,193 @@
+{
+  "requested_url": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:90049,tab:matches",
+  "observed_at": "2026-09-27T06:01:47.635567+00:00",
+  "rounds_requested": 30,
+  "rounds": [
+    {
+      "round": 1,
+      "cards": 8,
+      "unique_fixtures": 8,
+      "finished": 8
+    },
+    {
+      "round": 2,
+      "cards": 8,
+      "unique_fixtures": 16,
+      "finished": 16
+    },
+    {
+      "round": 3,
+      "cards": 8,
+      "unique_fixtures": 24,
+      "finished": 24
+    },
+    {
+      "round": 4,
+      "cards": 8,
+      "unique_fixtures": 32,
+      "finished": 32
+    },
+    {
+      "round": 5,
+      "cards": 8,
+      "unique_fixtures": 40,
+      "finished": 40
+    },
+    {
+      "round": 6,
+      "cards": 8,
+      "unique_fixtures": 48,
+      "finished": 48
+    },
+    {
+      "round": 7,
+      "cards": 8,
+      "unique_fixtures": 56,
+      "finished": 56
+    },
+    {
+      "round": 8,
+      "cards": 8,
+      "unique_fixtures": 64,
+      "finished": 64
+    },
+    {
+      "round": 9,
+      "cards": 8,
+      "unique_fixtures": 72,
+      "finished": 72
+    },
+    {
+      "round": 10,
+      "cards": 8,
+      "unique_fixtures": 80,
+      "finished": 80
+    },
+    {
+      "round": 11,
+      "cards": 8,
+      "unique_fixtures": 88,
+      "finished": 88
+    },
+    {
+      "round": 12,
+      "cards": 8,
+      "unique_fixtures": 96,
+      "finished": 96
+    },
+    {
+      "round": 13,
+      "cards": 8,
+      "unique_fixtures": 104,
+      "finished": 104
+    },
+    {
+      "round": 14,
+      "cards": 8,
+      "unique_fixtures": 112,
+      "finished": 112
+    },
+    {
+      "round": 15,
+      "cards": 8,
+      "unique_fixtures": 120,
+      "finished": 120
+    },
+    {
+      "round": 16,
+      "cards": 8,
+      "unique_fixtures": 128,
+      "finished": 128
+    },
+    {
+      "round": 17,
+      "cards": 8,
+      "unique_fixtures": 136,
+      "finished": 136
+    },
+    {
+      "round": 18,
+      "cards": 10,
+      "unique_fixtures": 146,
+      "finished": 144
+    },
+    {
+      "round": 19,
+      "cards": 8,
+      "unique_fixtures": 154,
+      "finished": 152
+    },
+    {
+      "round": 20,
+      "cards": 8,
+      "unique_fixtures": 162,
+      "finished": 160
+    },
+    {
+      "round": 21,
+      "cards": 8,
+      "unique_fixtures": 170,
+      "finished": 168
+    },
+    {
+      "round": 22,
+      "cards": 9,
+      "unique_fixtures": 179,
+      "finished": 176
+    },
+    {
+      "round": 23,
+      "cards": 8,
+      "unique_fixtures": 187,
+      "finished": 184
+    },
+    {
+      "round": 24,
+      "cards": 8,
+      "unique_fixtures": 195,
+      "finished": 192
+    },
+    {
+      "round": 25,
+      "cards": 8,
+      "unique_fixtures": 203,
+      "finished": 200
+    },
+    {
+      "round": 26,
+      "cards": 8,
+      "unique_fixtures": 211,
+      "finished": 208
+    },
+    {
+      "round": 27,
+      "cards": 8,
+      "unique_fixtures": 219,
+      "finished": 208
+    },
+    {
+      "round": 28,
+      "cards": 8,
+      "unique_fixtures": 227,
+      "finished": 208
+    },
+    {
+      "round": 29,
+      "cards": 8,
+      "unique_fixtures": 235,
+      "finished": 208
+    },
+    {
+      "round": 30,
+      "cards": 8,
+      "unique_fixtures": 243,
+      "finished": 208
+    }
+  ],
+  "failures": [],
+  "last_round": 30,
+  "unique_fixtures": 243,
+  "response_status": 200,
+  "finished_at": "2026-09-27T06:02:16.339835+00:00",
+  "finished_fixtures": 208
+}

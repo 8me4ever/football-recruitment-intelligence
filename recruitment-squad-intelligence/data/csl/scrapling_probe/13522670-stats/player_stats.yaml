@@ -1,0 +1,1373 @@
+- banner:
+  - link "Trending":
+    - /url: /trending
+    - button "Trending":
+      - img
+      - text: Trending
+  - button "Previous" [disabled]:
+    - img
+  - text: Today
+  - link "FT BC Dubai 78 - 77 Real Madrid":
+    - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+    - img
+    - text: FT
+    - img "BC Dubai"
+    - text: 78 - 77
+    - img "Real Madrid"
+  - link "FT DR Congo 2 - 0 Equatorial Guinea":
+    - /url: /football/match/equatorial-guinea-dr-congo/yWbsHkd#id:17018596
+    - img
+    - text: FT
+    - img "DR Congo"
+    - text: 2 - 0
+    - img "Equatorial Guinea"
+  - link "FT KK Crvena zvezda 77 - 83 Kauno Žalgiris":
+    - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+    - img
+    - text: FT
+    - img "KK Crvena zvezda"
+    - text: 77 - 83
+    - img "Kauno Žalgiris"
+  - link "FT Netherlands 1 - 1 Germany":
+    - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+    - img
+    - text: FT
+    - img "Netherlands"
+    - text: 1 - 1
+    - img "Germany"
+  - link "FT Serbia 1 - 2 Greece":
+    - /url: /football/match/serbia-greece/kUbsfCc#id:15534071
+    - img
+    - text: FT
+    - img "Serbia"
+    - text: 1 - 2
+    - img "Greece"
+  - link "FT Portugal 1 - 0 Wales":
+    - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+    - img
+    - text: FT
+    - img "Portugal"
+    - text: 1 - 0
+    - img "Wales"
+  - link "FT Norway 3 - 2 Denmark":
+    - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+    - img
+    - text: FT
+    - img "Norway"
+    - text: 3 - 2
+    - img "Denmark"
+  - link "FT Austria 3 - 1 Israel":
+    - /url: /football/match/austria-israel/FObstUb#id:15534155
+    - img
+    - text: FT
+    - img "Austria"
+    - text: 3 - 1
+    - img "Israel"
+  - link "FT Côte d'Ivoire 2 - 0 Ghana":
+    - /url: /football/match/cote-divoire-ghana/oVbstVb#id:17018592
+    - img
+    - text: FT
+    - img "Côte d'Ivoire"
+    - text: 2 - 0
+    - img "Ghana"
+  - link "FT Australia 1 - 1 Brazil":
+    - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+    - img
+    - text: FT
+    - img "Australia"
+    - text: 1 - 1
+    - img "Brazil"
+  - text: Tomorrow
+  - link "01:00 Beşiktaş JK - Valencia Basket":
+    - /url: /basketball/match/besiktas-gain-valencia-basket/VvbsDIc#id:16670556
+    - img
+    - text: 01:00
+    - img "Beşiktaş JK"
+    - text: "-"
+    - img "Valencia Basket"
+  - link "01:05 Boston Red Sox - Chicago Cubs":
+    - /url: /baseball/match/boston-red-sox-chicago-cubs/CxbsWxb#id:15507820
+    - img
+    - text: 01:05
+    - img "Boston Red Sox"
+    - text: "-"
+    - img "Chicago Cubs"
+  - link "01:45 Fenerbahçe Tarfin - Virtus Bologna":
+    - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+    - img
+    - text: 01:45
+    - img "Fenerbahçe Tarfin"
+    - text: "-"
+    - img "Virtus Bologna"
+  - link "02:45 Türkiye - France":
+    - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+    - img
+    - text: 02:45
+    - img "Türkiye"
+    - text: "-"
+    - img "France"
+  - link "02:45 Italy - Belgium":
+    - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+    - img
+    - text: 02:45
+    - img "Italy"
+    - text: "-"
+    - img "Belgium"
+  - link "02:45 Poland - Bosnia & Herzegovina":
+    - /url: /football/match/poland-bosnia-and-herzegovina/EObsdUb#id:15534167
+    - img
+    - text: 02:45
+    - img "Poland"
+    - text: "-"
+    - img "Bosnia & Herzegovina"
+  - link "02:45 KK Partizan Mozzart Bet - EA7 Emporio Armani Milano":
+    - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+    - img
+    - text: 02:45
+    - img "KK Partizan Mozzart Bet"
+    - text: "-"
+    - img "EA7 Emporio Armani Milano"
+  - link "03:00 Morocco - Gabon":
+    - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+    - img
+    - text: 03:00
+    - img "Morocco"
+    - text: "-"
+    - img "Gabon"
+  - link "03:00 Egypt - Angola":
+    - /url: /football/match/egypt-angola/RTbsiVb#id:17018557
+    - img
+    - text: 03:00
+    - img "Egypt"
+    - text: "-"
+    - img "Angola"
+  - link "07:05 New York Yankees - Baltimore Orioles":
+    - /url: /baseball/match/new-york-yankees-baltimore-orioles/cybseyb#id:15507800
+    - img
+    - text: 07:05
+    - img "New York Yankees"
+    - text: "-"
+    - img "Baltimore Orioles"
+  - link "21:45 Olympiacos BC - AEK BC":
+    - /url: /basketball/match/aek-bc-olympiacos-bc/bvbscvb#id:17135038
+    - img
+    - text: 21:45
+    - img "Olympiacos BC"
+    - text: "-"
+    - img "AEK BC"
+  - link "22:00 England - New Zealand":
+    - /url: /rugby/match/new-zealand-england/cRpbskRpb#id:17051537
+    - img
+    - text: 22:00
+    - img "England"
+    - text: "-"
+    - img "New Zealand"
+  - button "Next":
+    - img
+  - img "logo"
+  - link "Sofascore live results":
+    - /url: /
+  - link "Scores":
+    - /url: /
+    - img
+    - text: Scores
+  - link "News":
+    - /url: /news
+    - img
+    - text: News
+  - link "Fantasy":
+    - /url: /fantasy/landing
+    - img
+    - text: Fantasy
+  - link "Torneo":
+    - /url: https://torneo.com/
+    - img
+    - text: Torneo
+  - button "Search Sofascore":
+    - img
+    - text: Search Sofascore CtrlK
+  - button:
+    - img
+  - button "Sign in":
+    - img
+  - link "Football":
+    - /url: /
+    - button "Football":
+      - img
+      - text: Football
+  - link "Tennis":
+    - /url: /tennis
+    - button "Tennis":
+      - img
+      - text: Tennis
+  - link "Basketball":
+    - /url: /basketball
+    - button "Basketball":
+      - img
+      - text: Basketball
+  - link "Baseball":
+    - /url: /baseball
+    - button "Baseball":
+      - img
+      - text: Baseball
+  - link "Volleyball":
+    - /url: /volleyball
+    - button "Volleyball":
+      - img
+      - text: Volleyball
+  - button "21 More":
+    - text: 21 More
+    - img
+  - link "Dropping odds":
+    - /url: /betting-tips-today
+    - button "Dropping odds":
+      - img
+      - text: Dropping odds
+  - link "Favourites":
+    - /url: /favorites
+    - button "Favourites":
+      - img
+      - text: Favourites
+  - link "TV schedule":
+    - /url: /tv-schedule#tab:channels
+    - button "TV schedule":
+      - img
+      - text: TV schedule
+- main:
+  - list:
+    - listitem:
+      - link "Football":
+        - /url: /
+    - listitem:
+      - link "China":
+        - /url: /football/china
+    - listitem:
+      - link "Chinese Super League, Round 30":
+        - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - listitem:
+      - heading "Beijing Guoan vs Meizhou Hakka live score, H2H results, standings and prediction" [level=1]
+  - button "Favourite":
+    - img
+    - text: Favourite
+  - link "Compare teams":
+    - /url: /football/team/compare?ids=3376%2C215186&s_ids=71364%2C71364&ut_ids=649%2C649
+    - button "Compare teams":
+      - img
+      - text: Compare teams
+  - link "Beijing Guoan Guoan":
+    - /url: /football/team/beijing-guoan/3376
+    - img "Beijing Guoan"
+    - text: Guoan
+  - text: 5 - 1 Finished
+  - link "Meizhou Hakka Hakka":
+    - /url: /football/team/meizhou-hakka/215186
+    - img "Meizhou Hakka"
+    - text: Hakka
+  - text: Fabio Abreu 87', 71', 45' +4, 18' Zhang Yuning 56'
+  - img
+  - text: Elías Már Ómarsson 64'
+  - img
+  - text: 22/11/2025 15:30
+  - link "Chinese Super League":
+    - /url: /football/tournament/china/cfa-super-league/649
+    - img
+    - text: Chinese Super League
+  - img
+  - text: Beijing Workers' Stadium Full-time
+  - link "7Stars Partners New Zealand":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - img "7Stars Partners New Zealand"
+  - link "1 1.30":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 1 1.30
+    - img
+  - link "X 6.50":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: X 6.50
+    - img
+  - link "2 6.50":
+    - /url: https://bsr.lynmonkel.com/?mid=348853_2211479
+    - text: 2 6.50
+    - img
+  - button "Additional odds":
+    - text: Additional odds
+    - img
+  - text: Highlights
+  - img
+  - button "See more":
+    - text: See more
+    - img
+  - text: Match Momentum
+  - button:
+    - img
+  - img "Beijing Guoan"
+  - img "Meizhou Hakka"
+  - img:
+    - img
+    - img
+    - img
+    - img
+    - img
+    - img
+  - text: FT 5 - 1 Additional time 3 89'
+  - img "Yellow card"
+  - link "H. Fang":
+    - /url: /football/player/hao-fang/1114765
+  - text: Foul 87'
+  - img "Goal"
+  - button "5 - 1":
+    - img
+    - text: 5 - 1
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - link "H. Fang":
+    - /url: /football/player/hao-fang/1114765
+  - text: 78'
+  - img
+  - link "C. Zhongguo":
+    - /url: /football/player/chi-zhongguo/797459
+  - link "Guga":
+    - /url: /football/player/goncalo-rodrigues/357740
+  - text: 78'
+  - img
+  - link "Y. Liyu":
+    - /url: /football/player/yang-liyu/872209
+  - link "G. Wang":
+    - /url: /football/player/gang-wang/77758
+  - text: 75'
+  - img "Substitution"
+  - link "Z. Tian":
+    - /url: /football/player/tian-ziyi/1087165
+  - link "L. Junjian":
+    - /url: /football/player/liao-junjian/833766
+  - text: 71'
+  - img "Goal"
+  - button "4 - 1":
+    - img
+    - text: 4 - 1
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - link "Z. Xizhe":
+    - /url: /football/player/zhang-xizhe/231992
+  - text: 70'
+  - img
+  - link "Z. Xizhe":
+    - /url: /football/player/zhang-xizhe/231992
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - text: 65'
+  - img
+  - link "C. Xuhuang":
+    - /url: /football/player/chen-xuhuang/1153362
+  - link "H. Zhong":
+    - /url: /football/player/haoran-zhong/850947
+  - text: 65'
+  - img
+  - link "C. Yang":
+    - /url: /football/player/chaosheng-yang/365000
+  - link "J. Wang":
+    - /url: /football/player/jia-nan-wang/817657
+  - text: 64'
+  - img "Goal"
+  - button "3 - 1":
+    - img
+    - text: 3 - 1
+  - link "E. Már Ómarsson":
+    - /url: /football/player/elias-mar-omarsson/187031
+  - link "J. Mbekeli":
+    - /url: /football/player/jerome-mbekeli/1025276
+  - text: 60'
+  - img
+  - link "W. Ziming":
+    - /url: /football/player/wang-ziming/878397
+  - link "L. Liangming":
+    - /url: /football/player/lin-liangming/900549
+  - text: 60'
+  - img
+  - link "H. Fang":
+    - /url: /football/player/hao-fang/1114765
+  - link "Y. Cao":
+    - /url: /football/player/yongjing-cao/817886
+  - text: 56'
+  - img "Goal"
+  - button "3 - 0":
+    - img
+    - text: 3 - 0
+  - link "Z. Yuning":
+    - /url: /football/player/zhang-yuning/828227
+  - text: 46'
+  - img
+  - link "W. Rao":
+    - /url: /football/player/weihui-rao/797485
+  - link "Y. Yang":
+    - /url: /football/player/yihu-yang/797493
+  - text: 46'
+  - img
+  - link "X. Wei":
+    - /url: /football/player/wei-xiangxin/2052700
+  - link "Y. Liu":
+    - /url: /football/player/yun-liu/840939
+  - text: HT 2 - 0 45'
+  - superscript: "+4"
+  - img "Goal"
+  - button "2 - 0":
+    - img
+    - text: 2 - 0
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - link "G. Wang":
+    - /url: /football/player/gang-wang/77758
+  - text: 45'
+  - superscript: "+4"
+  - img "Yellow card"
+  - link "E. Már Ómarsson":
+    - /url: /football/player/elias-mar-omarsson/187031
+  - text: Foul Additional time 4 21'
+  - img "Yellow card"
+  - link "L. Junjian":
+    - /url: /football/player/liao-junjian/833766
+  - text: Foul 18'
+  - img "Goal"
+  - button "1 - 0":
+    - img
+    - text: 1 - 0
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - link "B. Yang":
+    - /url: /football/player/yang-bai/1113798
+  - text: 8'
+  - img "VAR decision"
+  - text: Goal cancelled
+  - link "F. Abreu":
+    - /url: /football/player/fabio-abreu/343673
+  - text: Player of the match
+  - link "Fabio Abreu F. Abreu Beijing Guoan Guoan 10":
+    - /url: /football/player/fabio-abreu/343673
+    - img "Fabio Abreu"
+    - text: F. Abreu
+    - img "Beijing Guoan"
+    - text: Guoan
+    - meter: "10"
+  - link "Quanbo Guo Meizhou Hakka Q. Guo 8.1":
+    - /url: /football/player/quanbo-guo/876570
+    - img "Quanbo Guo"
+    - img "Meizhou Hakka"
+    - text: Q. Guo
+    - meter
+  - link "Guga Beijing Guoan Guga 8.0":
+    - /url: /football/player/goncalo-rodrigues/357740
+    - img "Guga"
+    - img "Beijing Guoan"
+    - text: Guga
+    - meter
+  - link "Zhang Yuning Beijing Guoan Z. Yuning 7.7":
+    - /url: /football/player/zhang-yuning/828227
+    - img "Zhang Yuning"
+    - img "Beijing Guoan"
+    - text: Z. Yuning
+    - meter
+  - text: "Who will win? Total votes: 3.9k"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Beijing Guoan"
+  - text: 82% X 13%
+  - img "Meizhou Hakka"
+  - text: "5% Will both teams score? Total votes: 668"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - text: "Yes 75% No 25% Who will score first? Total votes: 598"
+  - link:
+    - /url: /user/weekly-challenge
+    - button:
+      - img
+  - img "Beijing Guoan"
+  - text: 95%
+  - img
+  - text: 2%
+  - img "Meizhou Hakka"
+  - text: 3%
+  - button "Previous" [disabled]:
+    - img
+    - text: Previous
+  - button "Slide number 1"
+  - button "Next":
+    - text: Next
+    - img
+  - text: Commentary
+  - scrollbar:
+    - tablist:
+      - tab "All" [selected]
+      - tab "Key events"
+  - img
+  - text: "- Match ends, Beijing Guoan 5, Meizhou Hakka 1. 94' Second Half ends, Beijing Guoan 5, Meizhou Hakka 1. 94' Attempt saved. Yang Ruiqi (Meizhou Hakka) header from the left side of the box is saved in the top left corner by Hou Sen (Beijing Guoan). Assisted by Branimir Jocic."
+  - img
+  - img
+  - text: 94' Attempt missed. Branimir Jocic (Meizhou Hakka) header from the centre of the box misses to the left. Assisted by Jérôme Mbekeli with a cross following a set piece situation.
+  - img
+  - img
+  - text: 93' Foul by Bai Yang (Beijing Guoan).
+  - img
+  - img
+  - text: 93' Jérôme Mbekeli (Meizhou Hakka) wins a free kick on the right wing.
+  - img
+  - img
+  - text: 91' Delay over. They are ready to continue. 91' Delay in match because of an injury Branimir Jocic (Meizhou Hakka). 91' Fourth official has announced 3 minutes of added time.
+  - img
+  - text: 89' Yellow card Fang Hao (Beijing Guoan) is shown the yellow card for a bad foul.
+  - img
+  - img
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: "Pre-match standings # Team Latest Pts 4"
+  - link:
+    - /url: /football/team/beijing-guoan/3376
+    - img
+  - text: L W L L W
+  - meter
+  - text: 54 15
+  - link:
+    - /url: /football/team/meizhou-hakka/215186
+    - img
+  - text: L W L L D
+  - meter
+  - text: "21"
+  - img
+  - text: Date and time 22/11/2025 15:30
+  - link "Competition Football, China, Chinese Super League, Round 30":
+    - /url: /football/tournament/china/cfa-super-league/649#id:71364
+    - img
+    - text: Competition Football, China, Chinese Super League, Round 30
+    - img
+  - img
+  - text: Venue Beijing Workers' Stadium
+  - img "CN"
+  - text: Location Beijing, China
+  - link "Referee Xing Qi CN Avg. cards 0.21 4.06":
+    - /url: /football/referee/qi-xing/787557
+    - img
+    - text: Referee Xing Qi
+    - img "CN"
+    - text: Avg. cards
+    - img
+    - text: "0.21"
+    - img
+    - text: "4.06"
+    - img
+  - link "See your league on Sofascore Global visibility and digital tournament management. For free. Learn more":
+    - /url: https://torneo.com
+    - text: See your league on Sofascore Global visibility and digital tournament management. For free.
+    - button "Learn more":
+      - text: Learn more
+      - img
+    - button:
+      - img
+  - text: Gamble responsibly 18+ Advertisement
+  - iframe
+  - iframe
+  - scrollbar:
+    - tablist:
+      - tab "Lineups" [selected]:
+        - link "Lineups":
+          - /url: "#id:13522670,tab:lineups"
+          - heading "Lineups" [level=2]
+      - tab "Statistics":
+        - link "Statistics":
+          - /url: "#id:13522670,tab:statistics"
+          - heading "Statistics" [level=2]
+      - tab "Standings":
+        - link "Standings":
+          - /url: "#id:13522670,tab:standings"
+          - heading "Standings" [level=2]
+      - tab "H2H":
+        - link "H2H":
+          - /url: "#id:13522670,tab:matches"
+          - heading "H2H" [level=2]
+      - tab "Media":
+        - link "Media":
+          - /url: "#id:13522670,tab:media"
+          - heading "Media" [level=2]
+      - tab "AI Insights":
+        - link "AI Insights":
+          - /url: "#id:13522670,tab:ai_insights"
+          - heading "AI Insights" [level=2]
+  - tabpanel:
+    - scrollbar:
+      - tablist:
+        - tab "Lineups"
+        - tab "Player stats" [selected]
+    - tabpanel:
+      - scrollbar:
+        - tablist:
+          - tab "General" [selected]
+          - tab "Attacking"
+          - tab "Defending"
+          - tab "Passing"
+          - tab "Duels"
+          - tab "Goalkeeping"
+      - tabpanel:
+        - scrollbar:
+          - table:
+            - rowgroup:
+              - row "Beijing Guoan + Meizhou Hakka Beijing Guoan Meizhou Hakka Goals Assists Tackles (won) Accurate passes Duels (won) Ground duels (won) Aerial duels (won) Minutes played Position Sofascore Rating":
+                - columnheader
+                - columnheader "Beijing Guoan + Meizhou Hakka Beijing Guoan Meizhou Hakka":
+                  - img "Beijing Guoan"
+                  - text: +
+                  - img "Meizhou Hakka"
+                  - img "Beijing Guoan"
+                  - img "Meizhou Hakka"
+                - columnheader "Goals":
+                  - text: Goals
+                  - img
+                - columnheader "Assists":
+                  - text: Assists
+                  - img
+                - columnheader "Tackles (won)":
+                  - text: Tackles (won)
+                  - img
+                - columnheader "Accurate passes":
+                  - text: Accurate passes
+                  - img
+                - columnheader "Duels (won)":
+                  - text: Duels (won)
+                  - img
+                - columnheader "Ground duels (won)":
+                  - text: Ground duels (won)
+                  - img
+                - columnheader "Aerial duels (won)":
+                  - text: Aerial duels (won)
+                  - img
+                - columnheader "Minutes played":
+                  - text: Minutes played
+                  - img
+                - columnheader "Position":
+                  - text: Position
+                  - img
+                - columnheader "Sofascore Rating":
+                  - text: Sofascore Rating
+                  - img
+            - rowgroup:
+              - row "Beijing Guoan Fabio Abreu 4 15/17 (88%) 14 (8) 10 (6) 4 (2) 90' F 10":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Fabio Abreu":
+                  - link "Fabio Abreu":
+                    - /url: /football/player/fabio-abreu/343673
+                - cell "4"
+                - cell
+                - cell
+                - cell "15/17 (88%)"
+                - cell "14 (8)"
+                - cell "10 (6)"
+                - cell "4 (2)"
+                - cell "90'"
+                - cell "F"
+                - cell "10":
+                  - meter: "10"
+              - row "Meizhou Hakka Quanbo Guo 0 9/20 (45%) 0 (0) 90' G 8.1":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Quanbo Guo":
+                  - link "Quanbo Guo":
+                    - /url: /football/player/quanbo-guo/876570
+                - cell "0"
+                - cell
+                - cell
+                - cell "9/20 (45%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "90'"
+                - cell "G"
+                - cell "8.1":
+                  - meter
+              - row "Beijing Guoan Guga 0 4 43/47 (91%) 9 (4) 9 (4) 78' M 8.0":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Guga":
+                  - link "Guga":
+                    - /url: /football/player/goncalo-rodrigues/357740
+                - cell "0"
+                - cell
+                - cell "4"
+                - cell "43/47 (91%)"
+                - cell "9 (4)"
+                - cell "9 (4)"
+                - cell
+                - cell "78'"
+                - cell "M"
+                - cell "8.0":
+                  - meter
+              - row "Beijing Guoan Yang Bai 0 1 1 38/42 (90%) 5 (3) 3 (1) 2 (2) 90' D 7.7":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yang Bai":
+                  - link "Yang Bai":
+                    - /url: /football/player/yang-bai/1113798
+                - cell "0"
+                - cell "1"
+                - cell "1"
+                - cell "38/42 (90%)"
+                - cell "5 (3)"
+                - cell "3 (1)"
+                - cell "2 (2)"
+                - cell "90'"
+                - cell "D"
+                - cell "7.7":
+                  - meter
+              - row "Beijing Guoan Dawhan 0 1 58/63 (92%) 15 (8) 11 (5) 4 (3) 90' M 7.7":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Dawhan":
+                  - link "Dawhan":
+                    - /url: /football/player/dawhan/926823
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "58/63 (92%)"
+                - cell "15 (8)"
+                - cell "11 (5)"
+                - cell "4 (3)"
+                - cell "90'"
+                - cell "M"
+                - cell "7.7":
+                  - meter
+              - row "Beijing Guoan Zhang Yuning 1 1 27/31 (87%) 7 (3) 5 (2) 2 (1) 70' F 7.7":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Zhang Yuning":
+                  - link "Zhang Yuning":
+                    - /url: /football/player/zhang-yuning/828227
+                - cell "1"
+                - cell
+                - cell "1"
+                - cell "27/31 (87%)"
+                - cell "7 (3)"
+                - cell "5 (2)"
+                - cell "2 (1)"
+                - cell "70'"
+                - cell "F"
+                - cell "7.7":
+                  - meter
+              - row "Beijing Guoan Gang Wang 0 1 3 29/35 (83%) 8 (6) 8 (6) 78' D 7.5":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Gang Wang":
+                  - link "Gang Wang":
+                    - /url: /football/player/gang-wang/77758
+                - cell "0"
+                - cell "1"
+                - cell "3"
+                - cell "29/35 (83%)"
+                - cell "8 (6)"
+                - cell "8 (6)"
+                - cell
+                - cell "78'"
+                - cell "D"
+                - cell "7.5":
+                  - meter
+              - row "Beijing Guoan Hou Sen 0 25/29 (86%) 0 (0) 90' G 7.4":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Hou Sen":
+                  - link "Hou Sen":
+                    - /url: /football/player/hou-sen/793878
+                - cell "0"
+                - cell
+                - cell
+                - cell "25/29 (86%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "90'"
+                - cell "G"
+                - cell "7.4":
+                  - meter
+              - row "Meizhou Hakka Jerome Mbekeli 0 1 2 22/26 (85%) 14 (6) 14 (6) 90' M 7.3":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Jerome Mbekeli":
+                  - link "Jerome Mbekeli":
+                    - /url: /football/player/jerome-mbekeli/1025276
+                - cell "0"
+                - cell "1"
+                - cell "2"
+                - cell "22/26 (85%)"
+                - cell "14 (6)"
+                - cell "14 (6)"
+                - cell
+                - cell "90'"
+                - cell "M"
+                - cell "7.3":
+                  - meter
+              - row "Beijing Guoan Hao Fang 0 1 4 11/13 (85%) 10 (6) 9 (6) 1 (0) 30' F 7.2":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Hao Fang":
+                  - link "Hao Fang":
+                    - /url: /football/player/hao-fang/1114765
+                - cell "0"
+                - cell "1"
+                - cell "4"
+                - cell "11/13 (85%)"
+                - cell "10 (6)"
+                - cell "9 (6)"
+                - cell "1 (0)"
+                - cell "30'"
+                - cell "F"
+                - cell "7.2":
+                  - meter
+              - row "Beijing Guoan Zhang Xizhe 0 1 11/15 (73%) 2 (0) 2 (0) 20' M 7.2":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Zhang Xizhe":
+                  - link "Zhang Xizhe":
+                    - /url: /football/player/zhang-xizhe/231992
+                - cell "0"
+                - cell "1"
+                - cell
+                - cell "11/15 (73%)"
+                - cell "2 (0)"
+                - cell "2 (0)"
+                - cell
+                - cell "20'"
+                - cell "M"
+                - cell "7.2":
+                  - meter
+              - row "Beijing Guoan Wu Shaocong 0 5 39/45 (87%) 6 (5) 6 (5) 90' D 7.1":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Wu Shaocong":
+                  - link "Wu Shaocong":
+                    - /url: /football/player/wu-shaocong/941005
+                - cell "0"
+                - cell
+                - cell "5"
+                - cell "39/45 (87%)"
+                - cell "6 (5)"
+                - cell "6 (5)"
+                - cell
+                - cell "90'"
+                - cell "D"
+                - cell "7.1":
+                  - meter
+              - row "Beijing Guoan Lin Liangming 0 19/20 (95%) 8 (4) 7 (4) 1 (0) 60' M 6.9":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Lin Liangming":
+                  - link "Lin Liangming":
+                    - /url: /football/player/lin-liangming/900549
+                - cell "0"
+                - cell
+                - cell
+                - cell "19/20 (95%)"
+                - cell "8 (4)"
+                - cell "7 (4)"
+                - cell "1 (0)"
+                - cell "60'"
+                - cell "M"
+                - cell "6.9":
+                  - meter
+              - row "Beijing Guoan Yongjing Cao 0 1 16/19 (84%) 9 (2) 8 (2) 1 (0) 60' M 6.9":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yongjing Cao":
+                  - link "Yongjing Cao":
+                    - /url: /football/player/yongjing-cao/817886
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "16/19 (84%)"
+                - cell "9 (2)"
+                - cell "8 (2)"
+                - cell "1 (0)"
+                - cell "60'"
+                - cell "M"
+                - cell "6.9":
+                  - meter
+              - row "Beijing Guoan Yupeng He 0 1 35/41 (85%) 6 (3) 5 (2) 1 (1) 90' D 6.9":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yupeng He":
+                  - link "Yupeng He":
+                    - /url: /football/player/yupeng-he/977985
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "35/41 (85%)"
+                - cell "6 (3)"
+                - cell "5 (2)"
+                - cell "1 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.9":
+                  - meter
+              - row "Meizhou Hakka Elías Már Ómarsson 1 8/11 (73%) 6 (1) 5 (1) 1 (0) 90' F 6.8":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Elías Már Ómarsson":
+                  - link "Elías Már Ómarsson":
+                    - /url: /football/player/elias-mar-omarsson/187031
+                - cell "1"
+                - cell
+                - cell
+                - cell "8/11 (73%)"
+                - cell "6 (1)"
+                - cell "5 (1)"
+                - cell "1 (0)"
+                - cell "90'"
+                - cell "F"
+                - cell "6.8":
+                  - meter
+              - row "Beijing Guoan Yang Liyu 0 2 2/2 (100%) 3 (2) 3 (2) 12' F 6.8":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Yang Liyu":
+                  - link "Yang Liyu":
+                    - /url: /football/player/yang-liyu/872209
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "2/2 (100%)"
+                - cell "3 (2)"
+                - cell "3 (2)"
+                - cell
+                - cell "12'"
+                - cell "F"
+                - cell "6.8":
+                  - meter
+              - row "Meizhou Hakka Yun Liu 0 1 6/7 (86%) 6 (3) 4 (3) 2 (0) 45' M 6.7":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Yun Liu":
+                  - link "Yun Liu":
+                    - /url: /football/player/yun-liu/840939
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "6/7 (86%)"
+                - cell "6 (3)"
+                - cell "4 (3)"
+                - cell "2 (0)"
+                - cell "45'"
+                - cell "M"
+                - cell "6.7":
+                  - meter
+              - row "Meizhou Hakka Branimir Jočić 0 1 18/28 (64%) 5 (4) 1 (1) 4 (3) 90' M 6.6":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Branimir Jočić":
+                  - link "Branimir Jočić":
+                    - /url: /football/player/branimir-jocic/796224
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "18/28 (64%)"
+                - cell "5 (4)"
+                - cell "1 (1)"
+                - cell "4 (3)"
+                - cell "90'"
+                - cell "M"
+                - cell "6.6":
+                  - meter
+              - row "Beijing Guoan Chi Zhongguo 0 14/17 (82%) 0 (0) 12' M 6.6":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Chi Zhongguo":
+                  - link "Chi Zhongguo":
+                    - /url: /football/player/chi-zhongguo/797459
+                - cell "0"
+                - cell
+                - cell
+                - cell "14/17 (82%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "12'"
+                - cell "M"
+                - cell "6.6":
+                  - meter
+              - row "Meizhou Hakka Jia’nan Wang 0 1 6/14 (43%) 7 (4) 4 (2) 3 (2) 65' D 6.5":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Jia’nan Wang":
+                  - link "Jia’nan Wang":
+                    - /url: /football/player/jia-nan-wang/817657
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "6/14 (43%)"
+                - cell "7 (4)"
+                - cell "4 (2)"
+                - cell "3 (2)"
+                - cell "65'"
+                - cell "D"
+                - cell "6.5":
+                  - meter
+              - row "Meizhou Hakka Liao Junjian 0 1 9/12 (75%) 7 (2) 5 (2) 2 (0) 75' D 6.5":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Liao Junjian":
+                  - link "Liao Junjian":
+                    - /url: /football/player/liao-junjian/833766
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "9/12 (75%)"
+                - cell "7 (2)"
+                - cell "5 (2)"
+                - cell "2 (0)"
+                - cell "75'"
+                - cell "D"
+                - cell "6.5":
+                  - meter
+              - row "Meizhou Hakka Rodrigo Henrique 0 1 22/29 (76%) 12 (7) 11 (7) 1 (0) 90' M 6.5":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Rodrigo Henrique":
+                  - link "Rodrigo Henrique":
+                    - /url: /football/player/rodrigo-henrique/845077
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "22/29 (76%)"
+                - cell "12 (7)"
+                - cell "11 (7)"
+                - cell "1 (0)"
+                - cell "90'"
+                - cell "M"
+                - cell "6.5":
+                  - meter
+              - row "Beijing Guoan Wang Ziming 0 1 11/13 (85%) 5 (1) 3 (1) 2 (0) 30' F 6.5":
+                - cell "Beijing Guoan":
+                  - img "Beijing Guoan"
+                - cell "Wang Ziming":
+                  - link "Wang Ziming":
+                    - /url: /football/player/wang-ziming/878397
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "11/13 (85%)"
+                - cell "5 (1)"
+                - cell "3 (1)"
+                - cell "2 (0)"
+                - cell "30'"
+                - cell "F"
+                - cell "6.5":
+                  - meter
+              - row "Meizhou Hakka Yang Ruiqi 0 2 18/25 (72%) 7 (4) 5 (3) 2 (1) 90' D 6.5":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Yang Ruiqi":
+                  - link "Yang Ruiqi":
+                    - /url: /football/player/yang-ruiqi/1210264
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "18/25 (72%)"
+                - cell "7 (4)"
+                - cell "5 (3)"
+                - cell "2 (1)"
+                - cell "90'"
+                - cell "D"
+                - cell "6.5":
+                  - meter
+              - row "Meizhou Hakka Xuhuang Chen 0 2 8/9 (89%) 6 (2) 6 (2) 25' M 6.4":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Xuhuang Chen":
+                  - link "Xuhuang Chen":
+                    - /url: /football/player/chen-xuhuang/1153362
+                - cell "0"
+                - cell
+                - cell "2"
+                - cell "8/9 (89%)"
+                - cell "6 (2)"
+                - cell "6 (2)"
+                - cell
+                - cell "25'"
+                - cell "M"
+                - cell "6.4":
+                  - meter
+              - row "Meizhou Hakka Haoran Zhong 0 1 14/18 (78%) 11 (5) 10 (4) 1 (1) 65' M 6.4":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Haoran Zhong":
+                  - link "Haoran Zhong":
+                    - /url: /football/player/haoran-zhong/850947
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "14/18 (78%)"
+                - cell "11 (5)"
+                - cell "10 (4)"
+                - cell "1 (1)"
+                - cell "65'"
+                - cell "M"
+                - cell "6.4":
+                  - meter
+              - row "Meizhou Hakka Weihui Rao 0 1 14/20 (70%) 2 (1) 2 (1) 45' D 6.3":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Weihui Rao":
+                  - link "Weihui Rao":
+                    - /url: /football/player/weihui-rao/797485
+                - cell "0"
+                - cell
+                - cell "1"
+                - cell "14/20 (70%)"
+                - cell "2 (1)"
+                - cell "2 (1)"
+                - cell
+                - cell "45'"
+                - cell "D"
+                - cell "6.3":
+                  - meter
+              - row "Meizhou Hakka Ziyi Tian 0 4/7 (57%) 0 (0) 15' D 6.3":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Ziyi Tian":
+                  - link "Ziyi Tian":
+                    - /url: /football/player/tian-ziyi/1087165
+                - cell "0"
+                - cell
+                - cell
+                - cell "4/7 (57%)"
+                - cell
+                - cell "0 (0)"
+                - cell
+                - cell "15'"
+                - cell "D"
+                - cell "6.3":
+                  - meter
+              - row "Meizhou Hakka Chaosheng Yang 0 5/11 (45%) 1 (0) 1 (0) 25' M 6.2":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Chaosheng Yang":
+                  - link "Chaosheng Yang":
+                    - /url: /football/player/chaosheng-yang/365000
+                - cell "0"
+                - cell
+                - cell
+                - cell "5/11 (45%)"
+                - cell "1 (0)"
+                - cell "1 (0)"
+                - cell
+                - cell "25'"
+                - cell "M"
+                - cell "6.2":
+                  - meter
+              - row "Meizhou Hakka Xiangxin Wei 0 3 7/10 (70%) 12 (7) 11 (6) 1 (1) 45' D 6.1":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Xiangxin Wei":
+                  - link "Xiangxin Wei":
+                    - /url: /football/player/wei-xiangxin/2052700
+                - cell "0"
+                - cell
+                - cell "3"
+                - cell "7/10 (70%)"
+                - cell "12 (7)"
+                - cell "11 (6)"
+                - cell "1 (1)"
+                - cell "45'"
+                - cell "D"
+                - cell "6.1":
+                  - meter
+              - row "Meizhou Hakka Yihu Yang 0 3 9/16 (56%) 11 (6) 10 (5) 1 (1) 45' D 6.1":
+                - cell "Meizhou Hakka":
+                  - img "Meizhou Hakka"
+                - cell "Yihu Yang":
+                  - link "Yihu Yang":
+                    - /url: /football/player/yihu-yang/797493
+                - cell "0"
+                - cell
+                - cell "3"
+                - cell "9/16 (56%)"
+                - cell "11 (6)"
+                - cell "10 (5)"
+                - cell "1 (1)"
+                - cell "45'"
+                - cell "D"
+                - cell "6.1":
+                  - meter
+          - button:
+            - img
+  - text: About the match Check the Match Momentum graph to see which team is dominating the match in real time. Beijing Guoan played against Meizhou Hakka in 2 matches this season. Currently, Beijing Guoan rank 4th, while Meizhou Hakka hold 15th position. Looking to compare the best-rated player on both teams? Sofascore's rating system assigns each player a specific rating based on numerous data factors.
+  - button "Show more":
+    - text: Show more
+    - img
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - iframe
+  - text: Advertisement
+  - img
+  - iframe
+- button "Close slide-in banner":
+  - img
+- text: Download the app
+- img
+- region "Notifications Alt+T"
+- text: "About Football live scores on Sofascore livescore has live coverage from more than 500 worldwide soccer leagues, cups and tournaments with live updated results, statistics, league tables, video highlights, and fixtures. Live matches from all football leagues have fast and accurate updates for minutes, scores, halftime and full time soccer results, goal scorers and assistants, cards, substitutions, and match statistics. Video highlights are available for most popular football leagues: Spain La Liga BBVA league and Copa del Rey , Italy Serie and Coppa Italia, German Bundesliga and DFB pokal, France Ligue 1 and UEFA Champions League, Europa league and International tournaments like World Championship, European Championship. Sofascore live score has details for each team where you can see last 10 soccer matches, tables, fixtures, results, statistics and much more. In match details you can find dropping/rising odds. Also, all scores on Sofascore.com livescore are automatically updated and you don't need to refresh it manually. With adding football matches or teams you want to follow in favorites, following your matches or teams livescores, results and statistics will be even more simple. There is an option to select All or Live football matches. The latest stories"
+- link "George Russell takes Azerbaijan GP pole in Baku qualifying":
+  - /url: /news/george-russell-takes-azerbaijan-gp-pole-in-baku-qualifying
+- text: •
+- 'link "U20 Women’s World Cup Team of the Week: Semifinals standouts"':
+  - /url: /news/u20-womens-world-cup-team-of-the-week-semifinals-standouts
+- text: •
+- link "Brazil held to disappointing draw by Australia after World Cup":
+  - /url: /news/brazil-held-to-disappointing-draw-by-australia-after-world-cup
+- text: •
+- 'link "Sofascore Player of the Season Award: Vitinha (Ligue 1)"':
+  - /url: /news/sofascore-player-of-the-season-award-vitinha-ligue-1
+- text: •
+- 'link "Fenerbahçe Tarfin vs Virtus Bologna: EuroLeague Round 1 preview"':
+  - /url: /news/fenerbahce-tarfin-vs-virtus-bologna-euroleague-round-1-preview
+- text: •
+- 'link "Partizan vs EA7 Milano: Euroleague opener preview with odds, H2H trends and what to expect in Belgrade"':
+  - /url: /news/partizan-vs-ea7-milano-euroleague-opener-preview-with-odds-h2h-trends-and-what-to-expect-in-belgrade
+- text: •
+- link "Statistical Anomaly or Form Crisis?":
+  - /url: /news/statistical-anomaly-or-form-crisis
+- text: Football
+- link "LaLiga":
+  - /url: /football/tournament/spain/laliga/8
+- link "Premier League":
+  - /url: /football/tournament/england/premier-league/17
+- link "Ligue 1":
+  - /url: /football/tournament/france/ligue-1/34
+- link "Serie A":
+  - /url: /football/tournament/italy/serie-a/23
+- link "Bundesliga":
+  - /url: /football/tournament/germany/bundesliga/35
+- link "FIFA Rankings":
+  - /url: /football/rankings/fifa
+- link "UEFA Champions League":
+  - /url: /football/tournament/europe/uefa-champions-league/7
+- link "UEFA Rankings":
+  - /url: /football/rankings/uefa
+- text: Basketball
+- link "NBA":
+  - /url: /basketball/tournament/usa/nba/132
+- link "Euroleague":
+  - /url: /basketball/tournament/international/euroleague/138
+- link "Stoiximan GBL":
+  - /url: /basketball/tournament/greece/stoiximan-basket-league/304
+- link "Liga ACB":
+  - /url: /basketball/tournament/spain/liga-acb/264
+- link "Lega A Basket":
+  - /url: /basketball/tournament/italy/serie-a/262
+- link "Turkish Basketball Super League":
+  - /url: /basketball/tournament/turkey/turkiye-sigorta-basketbol-super-ligi/519
+- text: Tennis
+- link "Shanghai":
+  - /url: /tennis/tournament/atp/shanghai/2519
+- link "Beijing":
+  - /url: /tennis/tournament/wta/beijing/2557
+- link "US Open, Men":
+  - /url: /tennis/tournament/atp/us-open/2449
+- link "US Open, Women":
+  - /url: /tennis/tournament/wta/us-open/2601
+- link "ATP Rankings":
+  - /url: /tennis/rankings/atp
+- link "WTA Rankings":
+  - /url: /tennis/rankings/wta
+- link "ATP":
+  - /url: /tennis/atp
+- link "Laver Cup":
+  - /url: /tennis/tournament/exhibition/laver-cup/10524
+- text: Trending
+- link "UFC":
+  - /url: /mma/tournament/world/ufc/19906
+- link "MLB":
+  - /url: /baseball/tournament/usa/mlb/11205
+- link "NHL":
+  - /url: /ice-hockey/tournament/usa/nhl/234
+- link "Italy GP":
+  - /url: /motorsport/race/italy-gp/214239
+- link "Spain GP":
+  - /url: /motorsport/race/spain-gp/214246
+- link "EHF Champions League":
+  - /url: /handball/tournament/international/ehf-champions-league/30
+- text: Football Scores
+- link "Australia - Brazil":
+  - /url: /football/match/brazil-australia/QUbsYUb#id:16814493
+- link "England - Spain":
+  - /url: /football/match/england-spain/YTbsnUb#id:15534084
+- link "Portugal - Wales":
+  - /url: /football/match/portugal-wales/cUbseUb#id:15534097
+- link "Türkiye - France":
+  - /url: /football/match/turkiye-france/GObsaUb#id:15534031
+- link "Netherlands - Germany":
+  - /url: /football/match/germany-netherlands/fUbslUb#id:15534057
+- link "Italy - Belgium":
+  - /url: /football/match/belgium-italy/hUbsrUb#id:15534037
+- link "Morocco - Gabon":
+  - /url: /football/match/morocco-gabon/lVbsDVb#id:17018552
+- link "Norway - Denmark":
+  - /url: /football/match/denmark-norway/AObsBOb#id:15534100
+- text: Basketball Scores
+- link "Dubai - Real Madrid":
+  - /url: /basketball/match/bc-dubai-real-madrid/Pvbspyke#id:16670551
+- link "Crvena zvezda - Žalgiris":
+  - /url: /basketball/match/kk-crvena-zvezda-kauno-zalgiris/mIcsITx#id:16670558
+- link "Partizan Mozzart - EA7 Milano":
+  - /url: /basketball/match/kk-partizan-mozzart-bet-ea7-emporio-armani-milano/FwbsMHc#id:16670565
+- link "Panathinaikos - Paris Basketball":
+  - /url: /basketball/match/paris-basketball-panathinaikos-bc/ivbszhtc#id:16670550
+- link "Baskonia - Olympiacos":
+  - /url: /basketball/match/kosner-baskonia-olympiacos-bc/bvbsdwb#id:16670561
+- link "Barça - Anadolu Efes":
+  - /url: /basketball/match/barca-basket-anadolu-efes/pvbsTvb#id:16670562
+- link "Fenerbahçe - V. Bologna":
+  - /url: /basketball/match/virtus-bologna-fenerbahce-beko/ovbswmc#id:16670555
+- link "Borac Mozzart - Crvena zvezda":
+  - /url: /basketball/match/kk-crvena-zvezda-kk-borac-mozzart/nqpsITx#id:16943045
+- img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/eAnU/owzhv581?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13522670
+  - img
+- link "Download Sofascore":
+  - /url: https://app.sofascore.com/L1k1/yxdg6mhl?deep_link_value=https%3A%2F%2Fwww.sofascore.com%2Fevent%2F13522670
+  - img
+- link "Advertise":
+  - /url: https://corporate.sofascore.com/advertising/
+- link "Contact":
+  - /url: https://corporate.sofascore.com/contact
+- link "Torneo by Sofascore":
+  - /url: https://torneo.com/
+- link "Sofascore News":
+  - /url: https://www.sofascore.com/news
+- link "Sofascore Facebook page":
+  - /url: https://www.facebook.com/Sofascore
+  - img
+- link "Sofascore Twitter":
+  - /url: https://x.com/Sofascore
+  - img
+- link "Sofascore Instagram":
+  - /url: https://instagram.com/sofascore_football/
+  - img
+- link "Sofascore TikTok":
+  - /url: https://www.tiktok.com/@sofascore_football
+  - img
+- img
+- text: When the fun stops, STOP © 2026 Sofascore – All rights reserved.
+- link "Privacy Policy":
+  - /url: /privacy-policy
+- link "Cookie Policy":
+  - /url: /cookies-policy
+- link "Accessibility Policy":
+  - /url: /accessibility
+- link "Terms & Conditions":
+  - /url: /terms-and-conditions
+- link "GDPR & Journalism":
+  - /url: /gdpr-and-journalism
+- link "Impressum":
+  - /url: /impressum
+- alert

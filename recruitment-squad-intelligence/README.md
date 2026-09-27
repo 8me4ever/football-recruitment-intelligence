@@ -1,5 +1,11 @@
 # Recruitment & Squad Planning Intelligence System
 
+> **2026-09-27 项目治理更新：2026中超是主决策数据，2025是历史参照与稳健性验证。**
+> 2025中超240/240场均通过身份及六分类验收，形成7,417条球员比赛记录；2026全范围截至采集日含265场中超/相关亚冠赛事卡片，211/211场已完赛目标赛事通过六分类离线审计，形成6,503条球员比赛记录。2026赛季仍在进行，未赛和延期场次保留在赛程台账。
+> 可复用的 Scrapling 网页采集链路与全赛季运行命令见 [2026采集手册](data/csl/season_2026/COLLECTION_RUNBOOK_2026.md)，数据质量基线见 [2026数据目录](data/csl/season_2026/README.md)。
+> 正式目标、C0–C5 路线与 Gate 只以 [正式项目章程](docs/正式项目章程.md) 为准；历程和当前状态见 [项目进度](docs/PROJECT_HISTORY_AND_STATUS.md)、[中超项目简报](docs/CSL_PROJECT_BRIEF.md) 和 [数据可行性报告](reports/analysis/CSL_DATA_FEASIBILITY.md)。
+> 下文的 M1 完成状态仅指保留的意甲原型，不代表中超数据已完成。
+
 > 引援与阵容规划智能系统
 > **状态：M1（干净数据层）✅ 已完成**
 

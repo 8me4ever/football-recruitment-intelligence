@@ -1,0 +1,4 @@
+﻿event_id,transfermarkt_source_url,transfermarkt_xi_names,xi_count,xi_names_resolved_to_stats_rows,missing_xi_names,user_review_status,nonstarter_appearances_classified,started_status_decision,status
+15551891,https://www.transfermarkt.com/spielbericht/index/spielbericht/4826113,张健智;拉莫斯;邓捷夫;阿不都海米提;王刚;孔特;塞尔吉尼奥;曹永竞;恩科洛洛;张玉宁;法比奥,11,11,,confirmed_correct_by_user_2026-09-27,3,apply_user_reviewed_transfermarkt_xi_with_third_party_tier,pass_crosswalk_and_user_review
+15552547,https://www.transfermarkt.co.uk/spielbericht/index/spielbericht/4827804,侯森;拉莫斯;柏杨;茹子楠;王刚;达万;孔特;张稀哲;塞尔吉尼奥;张玉宁;法比奥,11,11,,confirmed_correct_by_user_2026-09-27,4,apply_user_reviewed_transfermarkt_xi_with_third_party_tier,pass_crosswalk_and_user_review
+15552563,https://www.transfermarkt.com/spielbericht/index/spielbericht/4827828,侯森;拉莫斯;柏杨;何宇鹏;达万;孔特;塞尔吉尼奥;林良铭;恩科洛洛;张玉宁;法比奥,11,11,,confirmed_correct_by_user_2026-09-27,5,apply_user_reviewed_transfermarkt_xi_with_third_party_tier,pass_crosswalk_and_user_review

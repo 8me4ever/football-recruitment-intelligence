@@ -1,0 +1,34 @@
+{
+  "started_at": "2026-09-27T06:07:50.045297+00:00",
+  "source": "Sofascore rendered webpages",
+  "route": "CSL tournament > season > round > exact fixture card > Player stats > six categories",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "headed": true,
+  "viewport": "1440x1000",
+  "locale": "en-GB",
+  "timezone": "Asia/Shanghai",
+  "temp_dir": "F:\\Samuel\\football recruitment\\recruitment-squad-intelligence\\data\\csl\\season_2026\\runtime_temp",
+  "fixtures_requested": 1,
+  "results": [
+    {
+      "match_id": "15551883",
+      "status": "validated",
+      "file": "csl_2026_capture\\scrapling_raw\\15551883_95d7211d6ece.json",
+      "row_counts": {
+        "General": 32,
+        "Attacking": 32,
+        "Defending": 32,
+        "Passing": 32,
+        "Duels": 32,
+        "Goalkeeping": 2
+      },
+      "route": "CSL tournament round > exact visible finished card",
+      "round": "1",
+      "card_text": "06/03/26 FT Chengdu Shenzhen 5 1"
+    }
+  ],
+  "failures": [],
+  "browser_version": "153.0.8010.53"
+}

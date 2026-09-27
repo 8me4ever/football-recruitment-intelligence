@@ -1,0 +1,272 @@
+{
+  "round": 29,
+  "selected_round": "Round 29",
+  "observed_at": "2026-09-27T06:02:14.579816+00:00",
+  "cards": [
+    {
+      "match_id": "15552663",
+      "href": "https://www.sofascore.com/football/match/dalian-yingbo-fc-chengdu-rongcheng/QzNbsRZOd#id:15552663",
+      "text": "24/10/26 15:30 Chengdu Dalian Yingbo",
+      "team_alts": [
+        "Chengdu Rongcheng",
+        "Dalian Yingbo FC"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552663\" class=\"event-hl-15552663 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/dalian-yingbo-fc-chengdu-rongcheng/QzNbsRZOd#id:15552663\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552663 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Chengdu Rongcheng Dalian Yingbo FC live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Chengdu Rongcheng\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/221241/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Chengdu</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Dalian Yingbo FC\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/474992/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Dalian Yingbo</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552663",
+        "status": "-",
+        "home_team": "Chengdu Rongcheng",
+        "away_team": "Dalian Yingbo FC",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/dalian-yingbo-fc-chengdu-rongcheng/QzNbsRZOd#id:15552663",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552659",
+      "href": "https://www.sofascore.com/football/match/chongqing-tonglianglong-fc-qingdao-hainiu/VTnsOZOd#id:15552659",
+      "text": "24/10/26 15:30 Tongliang Long Hainiu",
+      "team_alts": [
+        "Chongqing Tonglianglong FC",
+        "Qingdao Hainiu"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552659\" class=\"event-hl-15552659 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/chongqing-tonglianglong-fc-qingdao-hainiu/VTnsOZOd#id:15552659\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552659 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Chongqing Tonglianglong FC Qingdao Hainiu live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Chongqing Tonglianglong FC\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/474989/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Tongliang Long</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Qingdao Hainiu\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/34695/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Hainiu</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552659",
+        "status": "-",
+        "home_team": "Chongqing Tonglianglong FC",
+        "away_team": "Qingdao Hainiu",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/chongqing-tonglianglong-fc-qingdao-hainiu/VTnsOZOd#id:15552659",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552656",
+      "href": "https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-beijing-guoan/BrbsRTn#id:15552656",
+      "text": "24/10/26 15:30 Henan Guoan",
+      "team_alts": [
+        "Henan FC",
+        "Beijing Guoan"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552656\" class=\"event-hl-15552656 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/henan-fc-jiuzu-dukang-beijing-guoan/BrbsRTn#id:15552656\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552656 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Henan FC Beijing Guoan live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Henan FC\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/34692/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Henan</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Beijing Guoan\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/3376/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Guoan</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552656",
+        "status": "-",
+        "home_team": "Henan FC",
+        "away_team": "Beijing Guoan",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/henan-fc-jiuzu-dukang-beijing-guoan/BrbsRTn#id:15552656",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552658",
+      "href": "https://www.sofascore.com/football/match/liaoning-tieren-fc-zhejiang/XTnsPzNb#id:15552658",
+      "text": "24/10/26 15:30 Tieren Zhejiang",
+      "team_alts": [
+        "Liaoning Tieren FC",
+        "Zhejiang"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552658\" class=\"event-hl-15552658 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/liaoning-tieren-fc-zhejiang/XTnsPzNb#id:15552658\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552658 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Liaoning Tieren FC Zhejiang live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Liaoning Tieren FC\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/221240/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Tieren</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Zhejiang\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/34697/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Zhejiang</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552658",
+        "status": "-",
+        "home_team": "Liaoning Tieren FC",
+        "away_team": "Zhejiang",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/liaoning-tieren-fc-zhejiang/XTnsPzNb#id:15552658",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552660",
+      "href": "https://www.sofascore.com/football/match/yunnan-yukun-qingdao-west-coast/HPXcsQZOd#id:15552660",
+      "text": "24/10/26 15:30 Qingdao Yukun",
+      "team_alts": [
+        "Qingdao West Coast",
+        "Yunnan Yukun"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552660\" class=\"event-hl-15552660 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/yunnan-yukun-qingdao-west-coast/HPXcsQZOd#id:15552660\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552660 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Qingdao West Coast Yunnan Yukun live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Qingdao West Coast\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/369532/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Qingdao </bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Yunnan Yukun\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/474991/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Yukun</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552660",
+        "status": "-",
+        "home_team": "Qingdao West Coast",
+        "away_team": "Yunnan Yukun",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/yunnan-yukun-qingdao-west-coast/HPXcsQZOd#id:15552660",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552657",
+      "href": "https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:15552657",
+      "text": "24/10/26 15:30 Shenzhen Shenhua",
+      "team_alts": [
+        "Shenzhen Peng City",
+        "Shanghai Shenhua"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552657\" class=\"event-hl-15552657 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:15552657\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552657 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Shenzhen Peng City Shanghai Shenhua live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Shenzhen Peng City\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/281331/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Shenzhen</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Shanghai Shenhua\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/3373/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Shenhua</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552657",
+        "status": "-",
+        "home_team": "Shenzhen Peng City",
+        "away_team": "Shanghai Shenhua",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/shenzhen-peng-city-shanghai-shenhua/yrbsGBmc#id:15552657",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552668",
+      "href": "https://www.sofascore.com/football/match/shanghai-port-tianjin-jinmen-tiger/rrbsMFq#id:15552668",
+      "text": "24/10/26 15:30 Jinmen Tiger Port",
+      "team_alts": [
+        "Tianjin Jinmen Tiger",
+        "Shanghai Port"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552668\" class=\"event-hl-15552668 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/shanghai-port-tianjin-jinmen-tiger/rrbsMFq#id:15552668\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552668 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Tianjin Jinmen Tiger Shanghai Port live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Tianjin Jinmen Tiger\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/3367/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Jinmen Tiger</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Shanghai Port\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/41537/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Port</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552668",
+        "status": "-",
+        "home_team": "Tianjin Jinmen Tiger",
+        "away_team": "Shanghai Port",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/shanghai-port-tianjin-jinmen-tiger/rrbsMFq#id:15552668",
+        "source": "Sofascore rendered tournament round card"
+      }
+    },
+    {
+      "match_id": "15552661",
+      "href": "https://www.sofascore.com/football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:15552661",
+      "text": "24/10/26 15:30 Three Towns Taishan",
+      "team_alts": [
+        "Wuhan Three Towns",
+        "Shandong Taishan"
+      ],
+      "raw_date": "24/10/26",
+      "status": "-",
+      "score_tokens": [
+        "15:30"
+      ],
+      "numeric_scores": [],
+      "html": "<a data-id=\"15552661\" class=\"event-hl-15552661 d_block br_2xs hover:bg_surface.s2 active:bg_surface.s0\" href=\"/football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:15552661\"><div><div class=\"d_flex ai_center h_4xl my_xs c_neutrals.nLv1 pos_relative js-list-cell-target js-list-cell-target-15552661 [&amp;.active]:bg_neutral.highlight\"><div class=\"w_7xl\"><div class=\"pos_absolute top_0 inset-s_xs w_[calc(100%_-_8px)] h_4xl bdr_[28px] ov_hidden\"><div class=\"pos_relative w_100% h_100% bg_status.live/10 trf_translate(-100%) anim-tmf_ease-out anim-ic_1 anim-fm_forwards\" style=\"opacity: 0; transition: opacity 300ms ease-out; animation-duration: 300ms;\"></div></div><div title=\"-\" class=\"ta_center mx_sm flex-sh_0 flex-b_5xl\"><bdi class=\"textStyle_body.small c_neutrals.nLv3\">24/10/26</bdi><div class=\"pos_relative d_flex flex-d_column min-w_lg h_[17px] ai_flex-end bd-w_1px border-style_solid bd-c_[transparent] ov_hidden [&amp;_+_&amp;]:mt_2xs\" style=\"align-items: center;\"><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"><bdi class=\"textStyle_body.small c_neutrals.nLv1 ta_center w_5xl d_block trunc_true\" style=\"color: var(--colors-neutrals-n-lv3);\">15:30</bdi></span><span class=\"textStyle_display.small c_neutrals.nLv1 pos_relative min-w_lg ta_center score\"></span></div></div></div><div class=\"flex-g_1 ov-x_clip min-w_0\"><div class=\"d_flex ai_center\"><div title=\"Wuhan Three Towns Shandong Taishan live score\" class=\"ov_hidden min-w_0\" style=\"flex: 1 1 140px;\"><div class=\"d_flex ai_center mb_xs\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Wuhan Three Towns\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/295152/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Three Towns</bdi></div><div class=\"d_flex ai_center\"><div class=\"w_lg h_lg me_sm\"><img alt=\"Shandong Taishan\" class=\"\" src=\"https://img.sofascore.com/api/v1/team/3371/image/small\" style=\"object-fit: cover; font-size: 0px; width: var(--sizes-lg); height: var(--sizes-lg);\"></div><bdi class=\"textStyle_body.medium c_neutrals.nLv1 trunc_true\">Taishan</bdi></div></div><div class=\"w_[38px] me_sm\"></div></div></div><div class=\"me_sm\"><span class=\"textStyle_body.medium c_neutrals.nLv1 ta_center pos_relative ov_visible trunc_true\"><div class=\"w_fit\"><button class=\"bd_1px_solid bd-c_neutrals.nLv5 ai_center ap_none cursor_pointer d_inline-flex isolation_isolate jc_center ring_none pos_relative us_none flex-sh_0 white-space_nowrap h_[40px] w_[40px] px_[0px] textStyle_action.button.primary gap_xs br_50% c_primary.default bg-c_[transparent] disabled:op_0.5 disabled:c_neutral.default disabled:cursor_not-allowed hover:bg_primary.default/8 active:bg_primary.default/15\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"stk_currentColor fill_currentColor stk-w_0 rtl:trf_scaleX(-1) is-rtl-prevented_false c_neutral.default\" style=\"width: 24px; height: 24px;\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"m12 6.515 1.3 2.627.47.94 1.04.15 2.9.419-2.1 2.048-.75.729.18 1.039.5 2.887-2.59-1.359-.93-.49-.93.49-2.59 1.359.5-2.887.18-1.039-.75-.73-2.1-2.047 2.9-.42 1.04-.15.47-.939 1.3-2.627m0-4.515L8.95 8.253 2 9.263l5 4.864L5.82 21 12 17.753 18.18 21 17 14.127l5-4.865-6.91-.999L12 2z\"></path></svg></button></div></span></div></div></div></a>",
+      "fixture": {
+        "observed_on": "2026-09-27",
+        "season_year": "2026",
+        "round": "29",
+        "match_date": "2026-10-24",
+        "competition": "Chinese Super League",
+        "competition_id": "649",
+        "competition_season_id": "90049",
+        "match_id": "15552661",
+        "status": "-",
+        "home_team": "Wuhan Three Towns",
+        "away_team": "Shandong Taishan",
+        "home_goals": "",
+        "away_goals": "",
+        "source_url": "https://www.sofascore.com/football/match/wuhan-three-towns-shandong-taishan/wrbscdtc#id:15552661",
+        "source": "Sofascore rendered tournament round card"
+      }
+    }
+  ],
+  "page_url": "https://www.sofascore.com/football/tournament/china/cfa-super-league/649#id:90049,tab:matches"
+}

@@ -1,0 +1,77 @@
+# C1 Guoan Decision Layer — 2026-09-27
+
+**Snapshot cut-off:** 2026-09-27  
+**Status:** C1 remains `IN PROGRESS` while source references and exact membership intervals are completed. The user has clarified that the 2026-09-27 cohort reconciliation is based on public roster/registration evidence; it is recorded as user-supplied public evidence, not as non-public operational information. Exact source links or artifact references are not yet attached to every individual reconciliation row.
+
+## What is now built
+
+The builder at `scripts/build_guoan_c1_snapshot.py` combines the canonical 2026 Guoan player-match rows with public registration and official match-report evidence. A reconciliation against the full-season fixture ledger found that the older Guoan-specific ledger had omitted Round 1 event `15551889` (Wuhan Three Towns 0–2 Beijing Guoan, 2026-03-08), even though its saved DOM and canonical six-category data were present. The fixture was restored to the Guoan ledger, and its dedicated export/audit were rebuilt; the current Guoan capture audit is now 27/27 completed fixtures, 26 CSL + 1 AFC Elite, and 823 player-match rows across both teams. It generated:
+
+- `data/csl/decision_snapshot_2026-09-27/public_source_register.csv`
+- `data/csl/decision_snapshot_2026-09-27/squad_registration_evidence_2026.csv`
+- `data/csl/decision_snapshot_2026-09-27/squad_membership_decision_snapshot_2026-09-27.csv`
+- `data/csl/decision_snapshot_2026-09-27/c2_operational_cohort_2026-09-27.csv` — 39-person, pre-Gate operational cohort for provisional C2 analysis; its public-source limitation is carried on every row.
+- `data/csl/decision_snapshot_2026-09-27/user_provided_membership_reconciliation_2026-09-27.csv`
+- `data/csl/decision_snapshot_2026-09-27/player_match_participation_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/player_season_usage_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/player_position_evidence_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/official_starting_xi_audit_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/secondary_starting_xi_audit_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/transfermarkt_starting_xi_crosscheck_2026_guoan.csv`
+- `data/csl/decision_snapshot_2026-09-27/c1_snapshot_build_summary.json`
+
+The outputs are reproducible from `data/csl/season_2026/player_match_stats_2026.csv`; they preserve source links and distinguish registration, observed appearance, official start, broad observed position group, nominal position, and functional role.
+
+## Evidence reconciliation
+
+| Evidence set | Rows / people | What it supports | Limit |
+|---|---:|---|---|
+| Club-attributed 2026 CSL roster post, 2026-03-03 | 35 registrations | Opening domestic registration candidate set | The club-attributed source is an image-only mirror; exact names/numbers are transcribed from third-party reporting. It is not a decision-date roster. |
+| Beijing Guoan verified CSL second-window roster post, 2026-07-23 | 35 registrations | Dated evidence of domestic CSL registration; includes the roster's broad position groups | The club post is image-only. Names, numbers, and groups come from a linked secondary transcription that could not be independently OCR-read from the image in this pass. It does not establish status on 2026-09-27. |
+| Verified club AFC Elite roster post, 2026-09-13 | 35 registrations | Latest dated club registration evidence before the cut-off; broadcaster transcription supplies the broad position groups | Competition-specific list; does not establish a complete domestic first-team list or prove no changes through 2026-09-27. |
+| Union of March, July, and September registration evidence | 45 unique candidates | Evidence universe to reconcile | Not asserted to be the complete squad on the decision date. |
+| Later-list reconciliation | 31 in both July CSL and September AFC lists; 4 July CSL only; 4 September AFC only; 4 March-only; 2 additional publicly documented transitions | Makes competition-specific scope and list turnover visible without treating omission as departure; supplemented by the user's public roster/registration reconciliation | These three dated source rows alone are not a single 2026-09-27 roster artifact; the user-supplied public evidence is accepted, with item-level source links still to be recorded. |
+| User-supplied public roster/registration reconciliation | 43 candidates: 39 first-team members and 4 outside the first team | Defines the 2026-09-27 C2 cohort, with injuries, competition registration, U20 status, and youth-goalkeeper status separately recorded | The user identifies public roster/registration materials as the basis. Exact item-level links or artifact references are not attached to every row yet; effective dates for four transitions remain blank where unknown. |
+| Registration-derived nominal position group | 39 of 45 candidates classified; 6 unknown | Broad goalkeeper/defender/midfielder/forward category from the July CSL or September AFC roster grouping | These are registration-list categories, not tactical roles. Four initial-list-only candidates and the two confirmed departures have no later roster position evidence. |
+| Sofascore Guoan player-stat rows | 406 rows / 32 player IDs across 27/27 completed in-scope fixtures | Positive-minute appearance evidence and source-displayed match position group | A missing row does not prove non-selection; no unused-substitute inference. |
+| Latest positive-minute match evidence | 32 of 45 candidates; latest observation 2026-09-15 | Dated evidence of a candidate's last observed on-field participation for Guoan; match ID, competition, and source URL are retained in the membership and usage outputs | It confirms participation only on that match date, not continued club membership on 2026-09-27. Thirteen candidates have no positive-minute sample in the in-scope 2026 rows. |
+| Official CFL match reports | 13 of 27 completed in-scope Guoan fixtures | Complete starting XI for those 13 matches; all 13 XIs contain 11 unique players and resolve to player-stat rows | Official-source coverage remains partial; bench and unused-substitute status are not complete. |
+| Secondary public match reports / lineup pages | 11 additional fixtures | Complete reported XI for each; all 11 XIs contain 11 unique players and resolve to player-stat rows | Tagged separately from official CFL evidence; the reports confirm only their named XIs and do not provide a complete season bench ledger. |
+| Transfermarkt match sheets | 3 additional fixtures: `15551891`, `15552547`, `15552563` | Complete XI and formation are listed for each; all 33 names resolve to the corresponding Sofascore Guoan match-stat rows | The user reviewed and confirmed these lineups on 2026-09-27. Recorded as a distinct third-party database tier, never as official evidence. |
+| Combined starting-XI evidence | 27 of 27 completed in-scope Guoan fixtures | `started` is now evidence-backed for observed player-stat rows in every completed in-scope fixture, with source tier and URL retained per row | Starting-XI coverage does not establish complete benches, unused substitutes, or non-selection. |
+
+Two changes are supported by dated public announcements: Feng Boxuan joined Dalian Yingbo on 2026-07-03; Jiaao Wei was loaned to Beijing Institute of Technology through 2026-12-31. Their 2026 Guoan appearances remain in historical usage totals, but they are not treated as active Guoan first-team members on the cut-off date. For the other 43 candidates, the user supplied a reconciliation based on public roster/registration materials: 39 remain in the first team, while Jiang Wenhao and Zhang Jianzhi are loaned out and Lin Hanqi and Ma Mingyang are with the U20 team. Within the 39, He Yupeng and Wu Shaocong remain registered despite season-ending injuries; Jia Feifan is CSL-only registered; Akolo and Dudziak are AFC-only registered; Nkololo remains a first-team member, was removed from CSL registration in summer, and continues to play in AFC; Nueraili Abasi and Lu Tongjun are youth goalkeepers registered with the first team and have no appearance record. These details stay in a separate reconciliation file because it records the user's evidence provenance, not because the evidence is non-public. The 39-person cohort has 28 members showing positive minutes and 11 with no positive-minute sample; across all 45 candidates, the season totals remain 32 with positive minutes and 13 without. The latest observed positive-minute match is 2026-09-15. No absence is treated as zero performance, unavailability, or proof of non-selection.
+
+## Semantic rules applied
+
+- A player row in the completed-match General table with positive displayed minutes is coded as `appeared_in_player_stats_table`.
+- Latest appearance fields point to the most recent positive-minute row, not to a contract interval. The final observed date is 2026-09-15, twelve days before the frozen decision date; it cannot close the membership gap by itself.
+- All 32 distinct Guoan provider player identities in the 2026 match-stat export resolve through the maintained name crosswalk. The 11 current first-team members in the user-supplied public-evidence reconciliation with blank `player_id` have no row in the in-scope 2026 Guoan player-match export; this is recorded as no observed sample, not a failed alias match and not proof that a player was omitted from a matchday squad.
+- Official CFL match reports set `started=true` for the named XI, and `started=false` for other observed appearances in those same matches. Separately tagged secondary reports and the three user-reviewed Transfermarkt lineups do the same only for their own events. Every in-scope Guoan appearance row now has a source-backed `started` value.
+- Transfermarkt's complete XIs for events `15551891`, `15552547`, and `15552563` were manually reviewed and confirmed by the user. All 33 names crosswalk to their corresponding Sofascore player-stat rows. A verified BRTV post, the verified CSL account's matchday lineup graphic, and Beijing Youth Daily's match report remain documented as additional corroborating context; the Transfermarkt records stay visibly tagged as third-party database evidence.
+- Provider values `G`, `D`, `M`, and `F` are retained only as `observed_position_group`. `nominal_position` now records the broad position category printed by the July CSL or September AFC registration list for 39 candidates; each category points to a source ID in the public source register. Six candidates without a later position-group source remain unknown. Match-specific `observed_role` is populated for 22 rows across two fixtures: 11 formation-line roles from the 2026-09-15 ACL 4-4-2 lineup, and 11 broad match-reported position groups from the 2026-08-15 CSL lineup report. Public sources disagree on the latter match's exact formation, so that field remains blank and the roles use only the directly reported groups. The other 384 appearance rows stay unknown; no role is inferred from `G/D/M/F`.
+- No row absent from a match-stat table is coded as `did_not_play`, `not_selected`, or `unused_substitute`.
+- No competition weight is applied to minutes, appearances, or starts. Performance weighting belongs in the later analysis view after C1 passes.
+- First-team membership is separate from CSL/AFC competition registration and availability. The snapshot retains the user's transcription of public evidence about season-ending injuries, competition-specific registration, summer CSL registration withdrawal, and youth-goalkeeper status. Exact source links should be attached to the corresponding reconciliation rows as they are recovered.
+- `valid_from` and `valid_to` remain blank where exact first-team transition dates were not provided or supported. A roster-registration date is not silently substituted for a membership interval boundary.
+
+## C1 blockers and next work
+
+1. Attach the precise public roster/registration source links or archived artifact references behind the user's 43-row reconciliation to the local evidence ledger. The evidence is treated as public; the remaining gap is item-level traceability, not public availability.
+2. Resolve exact first-team transition dates for the four user-reported exits/reassignments and exact interval boundaries where needed. `valid_from`/`valid_to` are not inferred when the date is unknown.
+3. Continue seeking official match reports for the 11 events currently supported only by secondary reports and, where available, official confirmation for the three user-reviewed Transfermarkt XIs. Keep all source tiers distinct.
+4. Build the matchday squad/substitute ledger if a public source supports it; until then, keep unobserved player-match statuses unknown.
+5. Validate the transcribed registration position groups against the underlying club images or official player profiles where accessible; keep the match-level provider group and functional deployment role in separate fields.
+
+The 39-person cohort is sufficient to continue C2 analysis without another player-by-player confirmation. C1 remains in progress while source-level traceability and any required interval evidence are completed; C2 outputs should identify the cohort as reconciled from user-supplied public roster evidence and use the 39-person cohort for current depth while retaining the 45-person season contribution universe.
+
+## Source URLs recorded in the output
+
+- [Club-attributed March first-team roster post](https://news.zhibo8.com/zuqiu/2026-03-03/69a69592d5bbcnative.htm) and [third-party transcription](https://www.ppsport.com/360news/news/2495413.html?plt=clt)
+- [Verified Beijing Guoan July CSL second-window roster post](https://www.sina.cn/news/detail/5323868302478142.html) and [secondary transcription of names, numbers, and position groups](https://www.yndredu.com/news/zuqiu/186139.html)
+- [Verified Beijing Guoan September AFC roster post](https://weibo.com/2/detail/5342666443459201) and [verified Migu Football transcription](https://www.sina.cn/news/detail/5342688482169115.html)
+- [Sofascore Beijing Guoan team page](https://www.sofascore.com/football/team/beijing-guoan/3376) is the recorded rendered-stat source; event-specific links are retained per appearance row in the output ledger.
+- [Official CFL 2026-09-05 Guoan–Port report](https://www.cfl-china.cn/zh/content/news/nDAQ.html)
+- Transfermarkt 2026 Guoan lineup sources, user-reviewed and confirmed on 2026-09-27: [Shandong–Guoan, 14 March](https://www.transfermarkt.com/spielbericht/index/spielbericht/4826113), [Chongqing–Guoan, 30 May](https://www.transfermarkt.co.uk/spielbericht/index/spielbericht/4827804), and [Guoan–Shandong, 4 July](https://www.transfermarkt.com/spielbericht/index/spielbericht/4827828). They remain a separate third-party database evidence tier.
+- Corroborating public sources located: [verified BRTV Football 100 lineup post for 14 March](https://www.sina.cn/news/detail/5276379853625238.html), [verified CSL account's 30 May starting-lineup graphic](https://www.sina.cn/news/detail/5304345402807057.html), and [Beijing Youth Daily's 4 July match report](https://app.bjtitle.com/8816/newshow.php?did=356416815496248&mood=&newsid=6762008&typeid=16&uid=0).
+- Official CFL lineup reports for 13 matches and secondary public lineup sources for 11 additional matches are listed by event in `public_source_register.csv` and their separate audit CSVs.

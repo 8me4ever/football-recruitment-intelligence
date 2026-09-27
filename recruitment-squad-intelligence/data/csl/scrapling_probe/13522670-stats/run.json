@@ -1,0 +1,37 @@
+{
+  "url_requested": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+  "observed_at": "2026-09-25T15:04:01.905285+00:00",
+  "python": "3.12.14",
+  "scrapling": "0.4.15",
+  "playwright": "1.63.0",
+  "snapshots": [
+    {
+      "seconds": 5,
+      "title": "Beijing Guoan vs Meizhou Hakka live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+      "text_length": 7199,
+      "tables": 0
+    },
+    {
+      "seconds": 15,
+      "title": "Beijing Guoan vs Meizhou Hakka live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+      "text_length": 7199,
+      "tables": 0
+    },
+    {
+      "seconds": 30,
+      "title": "Beijing Guoan vs Meizhou Hakka live score, H2H and lineups | Sofascore",
+      "url": "https://www.sofascore.com/football/match/meizhou-hakka-beijing-guoan/BrbsLdLb#id:13522670",
+      "text_length": 7199,
+      "tables": 0
+    }
+  ],
+  "browser_version": "153.0.8010.52",
+  "player_table_rows": [
+    32
+  ],
+  "http_status": 200,
+  "outcome": "captured_for_review",
+  "elapsed_seconds": 51.3
+}
