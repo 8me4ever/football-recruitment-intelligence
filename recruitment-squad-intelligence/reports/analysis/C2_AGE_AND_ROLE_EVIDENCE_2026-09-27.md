@@ -28,7 +28,9 @@
 
 ## 位置证据与实际角色
 
-现有公开名单或球员简介中，24 人有边后卫、中后卫、后腰、中前卫、前腰、边锋或更具体的球员位置标签；14 人只有宽泛位置组标签；1 人没有找到独立球员简介位置标签。相应来源与原文位置标签保存在球员证据表中。
+现有公开名单或球员简介中，27 人有边后卫、中后卫、后腰、中前卫、前腰、边锋或更具体的球员位置标签；12 人只有宽泛位置组标签；没有完全缺少球员简介位置标签的成员。相应来源与原文位置标签保存在球员证据表中。
+
+2026-09-30 补充的 Transfermarkt 公开搜索索引为范双杰提供了主位置中后卫及其他位置后腰、右后卫，为贾非凡提供了主位置中前卫及其他位置后腰、前腰；国安 2026 详细名单索引将王思泽标为后腰、卢彤鋆标为门将。四条资料的原文英文标签、身份生日、页面定位和检索方式见 `transfermarkt_profile_position_supplement_2026-09-30.csv`。Transfermarkt 直达页面触发人机验证，故这些字段只标为搜索索引摘录，尚未完成页面正文复核。卢彤鋆的门将标签仍按宽泛位置组计数；范双杰、贾非凡、王思泽使具体标签人数增加 3 人。它们均不改变注册名义位置或比赛实际角色。
 
 这些公开标签只是名单或球员简介中的位置资料，不能说明球员本赛季每场实际担任的角色。现有 406 条国安球员比赛行中，22 条有比赛级角色资料：2026-09-15 亚冠对浦项铁人一场记录了 4-4-2 阵型线路；2026-08-15 中超对天津津门虎一场依据中足联首发与北青体育报道，记录了该场报告的门将/后卫/中场/前锋组别。后者的公开第三方阵型页存在 4-4-2 与 4-2-3-1 分歧，因此 formation 留空，只采用媒体报道明确给出的宽泛首发位置组。其余 384 条比赛行仍没有比赛级角色证据。两场样本都不细分左右/中路，也不外推至其他比赛或赛季角色；尚不足以诊断具体战术位置深度。
 
@@ -47,6 +49,7 @@
 
 - 球员级年龄与证据：[c2_age_structure_2026_guoan.csv](../../data/csl/decision_snapshot_2026-09-27/c2_age_structure_2026_guoan.csv)
 - 出生日期与球员简介位置原始摘录：[player_public_profile_evidence_2026_guoan.csv](../../data/csl/decision_snapshot_2026-09-27/player_public_profile_evidence_2026_guoan.csv)
+- Transfermarkt 位置补充记录：[transfermarkt_profile_position_supplement_2026-09-30.csv](../../data/csl/decision_snapshot_2026-09-27/transfermarkt_profile_position_supplement_2026-09-30.csv)
 - 机器汇总：[c2_age_structure_summary_2026_guoan.json](../../data/csl/decision_snapshot_2026-09-27/c2_age_structure_summary_2026_guoan.json)
 - 来源登记：[public_source_register.csv](../../data/csl/decision_snapshot_2026-09-27/public_source_register.csv)
 - 单场比赛实际角色证据：[match_role_evidence_2026_guoan.csv](../../data/csl/decision_snapshot_2026-09-27/match_role_evidence_2026_guoan.csv)
@@ -57,6 +60,7 @@
 - [National Football Teams：Beijing Guoan 2026](https://www.national-football-teams.com/club/437/2026_2/Beijing_Guoan.html)
 - [中国足协青少年运动员公开注册名单（卢彤鋆，2023）](https://imageoss.thecfa.cn/upload/file/20230628/1687936794968511.pdf)
 - [Transfermarkt：北京国安2026一线队名单](https://www.transfermarkt.com/beijing-guoan/kader/verein/3176/saison_id/2025/plus/1)；[北京国安U20名单](https://www.transfermarkt.com/beijing-guoan-u20/kader/verein/93911/saison_id/2025/plus/1)
+- [Transfermarkt：范双杰球员资料](https://www.transfermarkt.com/shuangjie-fan/profil/spieler/1130473)；[贾非凡球员资料](https://www.transfermarkt.com/feifan-jia/profil/spieler/824089)（位置字段为搜索索引摘录）。
 - [Transfermarkt：卢彤鋆球员资料](https://www.transfermarkt.co.uk/beijing-guoan/startseite/verein/3176/saison_id/2025)，用于复核中国足协登记生日。
 - [FotMob：罗子祥](https://www.fotmob.com/players/2092752/zixiang-luo)、[Tuttosport：陈康悦](https://www.tuttosport.com/giocatore/calcio/kangyue-chen/673154)、[Sina Sports：刘俊泽](https://match.sports.sina.com.cn/football/player.php?dpc=1&id=9057656)、[Goal：夏晓雨](https://www.goal.com/en-sa/player/x-xia/sEnarSgXdEhTmhC89ehkj)
 - [Starting11：国安对浦项的确认首发与4-4-2阵型](https://starting11.com/fixtures/beijing-guoan-vs-pohang-steelers)；[FotMob：同场首发与阵型交叉核对](https://www.fotmob.com/matches/beijing-guoan-vs-pohang-steelers/2ymampm)

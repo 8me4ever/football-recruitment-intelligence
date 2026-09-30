@@ -96,9 +96,9 @@
     }
   },
   "public_position_label_evidence": {
-    "has_specific_public_position_label": 24,
-    "broad_position_group_only": 14,
-    "no_profile_position_label": 1
+    "has_specific_public_position_label": 27,
+    "broad_position_group_only": 12,
+    "no_profile_position_label": 0
   },
   "match_participation_rows": 406,
   "match_participation_rows_with_observed_role": 22,

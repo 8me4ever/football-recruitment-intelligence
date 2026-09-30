@@ -21,6 +21,7 @@ STATS = ROOT / "data" / "csl" / "season_2026" / "player_match_stats_2026.csv"
 FIXTURES = ROOT / "data" / "csl" / "season_2026" / "fixtures_2026_in_scope.csv"
 OUTPUT = ROOT / "data" / "csl" / "decision_snapshot_2026-09-27"
 USER_ROSTER_RECONCILIATION = OUTPUT / "user_provided_membership_reconciliation_2026-09-27.csv"
+PUBLIC_TRANSITION_EVIDENCE = OUTPUT / "public_transition_evidence_2026-09-30.csv"
 DECISION_DATE = "2026-09-27"
 
 DOMESTIC_URL = "https://news.zhibo8.com/zuqiu/2026-03-03/69a69592d5bbcnative.htm"
@@ -219,6 +220,10 @@ SOURCE_ROWS = [
     {"source_id": "guoan_acl_roster_transcription_2026-09-13", "source_type": "verified_broadcaster_account_transcription", "published_at": "2026-09-13", "url": AFC_TRANSCRIPTION_URL, "transcription_url": AFC_URL, "evidence_note": "Verified Migu Football account publishes the full AFC Elite squad grouped by nominal position and links the announcement to the club's roster post; retained as transcription/cross-check, not as the club's own source."},
     {"source_id": "feng_boxuan_transfer_2026-07-03", "source_type": "new_club_official_announcement_mirror", "published_at": "2026-07-03", "url": FENG_TRANSFER_URL, "transcription_url": "", "evidence_note": "Dalian Yingbo official announcement states Feng Boxuan joined after agreement with Beijing Guoan and the player."},
     {"source_id": "wei_jiaao_loan_2026-07-03", "source_type": "club_announcement_mirror", "published_at": "2026-07-03", "url": WEI_LOAN_URL, "transcription_url": "", "evidence_note": "Reports Beijing Guoan's announcement that Jiaao Wei and Ma Longjian joined Beijing Institute of Technology on loan through 2026-12-31."},
+    {"source_id": "transfermarkt_jiang_wenhao_profile_index_2026-09-30", "source_type": "third_party_player_profile_search_index_excerpt", "published_at": "", "url": "https://www.transfermarkt.com/wenhao-jiang/profil/spieler/839306", "transcription_url": "", "evidence_note": "Search-index excerpt of Transfermarkt player profile lists Shaanxi Union joined date 2026-07-03 and loan parent Beijing Guoan. Direct page access triggered human verification on 2026-09-30; indexed fields are not a live page inspection."},
+    {"source_id": "shaanxi_union_jiang_wenhao_loan_announcement_mirror_2026-07-03", "source_type": "new_club_announcement_mirror", "published_at": "2026-07-03", "url": "https://i.ifeng.com/c/8uSMhET63Rq", "transcription_url": "", "evidence_note": "Phoenix mirror reports Shaanxi Union's 2026-07-03 announcement of Jiang Wenhao's loan from Beijing Guoan. It corroborates the move and announcement date, while Transfermarkt supplies the joined date."},
+    {"source_id": "transfermarkt_fan_shuangjie_profile_index_2026-09-30", "source_type": "third_party_player_profile_search_index_excerpt", "published_at": "", "url": "https://www.transfermarkt.com/shuangjie-fan/profil/spieler/1130473", "transcription_url": "", "evidence_note": "Search-index excerpt lists Fan Shuangjie's main profile position as Centre-Back and other positions as Defensive Midfield and Right-Back. Profile labels only; direct page access triggered human verification."},
+    {"source_id": "transfermarkt_jia_feifan_profile_index_2026-09-30", "source_type": "third_party_player_profile_search_index_excerpt", "published_at": "", "url": "https://www.transfermarkt.com/feifan-jia/profil/spieler/824089", "transcription_url": "", "evidence_note": "Search-index excerpt lists Jia Feifan's main profile position as Central Midfield and other positions as Defensive Midfield and Attacking Midfield. Profile labels only; direct page access triggered human verification."},
     {"source_id": "sofascore_visible_match_stats", "source_type": "rendered_player_stats_tables", "published_at": "", "url": "https://www.sofascore.com/football/team/beijing-guoan/3376", "transcription_url": "", "evidence_note": "Local 2026 player-match export; a player row with positive minutes is treated as observed match participation. Row absence does not prove non-selection."},
 ]
 for event_id, (url, _) in OFFICIAL_STARTERS.items():
@@ -234,7 +239,7 @@ SOURCE_ROWS.extend([
     {"source_id": "brtv_verified_lineup_post_15551891", "source_type": "verified_broadcaster_social_post_mirror", "published_at": "2026-03-14", "url": "https://www.sina.cn/news/detail/5276379853625238.html", "transcription_url": "", "evidence_note": "Verified BRTV Football 100 post states the match starting lineups and explicitly confirms Zhang Jianzhi started instead of Hou Sen; image's full XI was not transcribed in the text extraction."},
     {"source_id": "csl_verified_lineup_post_15552547", "source_type": "verified_league_social_post_mirror", "published_at": "2026-05-30", "url": "https://www.sina.cn/news/detail/5304345402807057.html", "transcription_url": "", "evidence_note": "Verified Chinese Super League account published the Round 15 starting-lineup graphic for Chongqing Tonglianglong v Beijing Guoan; the image's full XI was not transcribed in the text extraction."},
     {"source_id": "beijing_youth_daily_match_report_15552563", "source_type": "established_newspaper_match_report", "published_at": "2026-07-04", "url": "https://app.bjtitle.com/8816/newshow.php?did=356416815496248&mood=&newsid=6762008&typeid=16&uid=0", "transcription_url": "", "evidence_note": "Beijing Youth Daily's match report independently describes multiple Guoan starters and substitution events, but does not print the complete XI in searchable text."},
-    {"source_id": "transfermarkt_guoan_2026_squad", "source_type": "secondary_player_profile_database", "published_at": "", "url": "https://www.transfermarkt.com/beijing-guoan/kader/verein/3176/saison_id/2025/plus/1", "transcription_url": "", "evidence_note": "Transfermarkt Beijing Guoan 2026 detailed squad page independently lists dates of birth for 14 current-profile rows cross-checked in the C2 player evidence table. Used only as a DOB cross-check, not to establish decision-date cohort membership or match role."},
+    {"source_id": "transfermarkt_guoan_2026_squad", "source_type": "secondary_player_profile_database", "published_at": "", "url": "https://www.transfermarkt.com/beijing-guoan/kader/verein/3176/saison_id/2025/plus/1", "transcription_url": "", "evidence_note": "Transfermarkt 2026 detailed squad lists dates of birth for 14 current-profile rows. The new Size Wang Defensive Midfield and Tongyun Lu Goalkeeper labels were retrieved from a search-index excerpt on 2026-09-30; direct page access triggered human verification. Used only for profile attributes, not decision-date membership or match role."},
     {"source_id": "transfermarkt_guoan_u20_squad", "source_type": "secondary_player_profile_database", "published_at": "", "url": "https://www.transfermarkt.com/beijing-guoan-u20/kader/verein/93911/saison_id/2025/plus/1", "transcription_url": "", "evidence_note": "Transfermarkt Beijing Guoan U20 detailed squad page independently lists dates of birth for Zicheng Jiang and Haoran Zhang. Used only as a DOB cross-check, not to establish decision-date cohort membership or match role."},
     {"source_id": "transfermarkt_tongyun_lu_profile", "source_type": "secondary_player_profile_database", "published_at": "", "url": "https://www.transfermarkt.co.uk/beijing-guoan/startseite/verein/3176/saison_id/2025", "transcription_url": "", "evidence_note": "Transfermarkt Beijing Guoan club profile lists Tongyun Lu date of birth as 2008-03-30. Used to independently cross-check the CFA youth-athlete registration entry; not to establish decision-date cohort membership or match role."},
     {"source_id": "fotmob_luo_zixiang_player_profile", "source_type": "secondary_player_profile_database", "published_at": "", "url": "https://www.fotmob.com/players/2092752/zixiang-luo", "transcription_url": "", "evidence_note": "FotMob player profile lists Luo Zixiang date of birth as 2007-12-16. Used only as an independent DOB cross-check, not to establish decision-date cohort membership or match role."},
@@ -289,6 +294,18 @@ def main() -> None:
     user_roster_by_name = {r["player_name_zh"]: r for r in user_roster_rows}
     if len(user_roster_by_name) != len(user_roster_rows):
         raise SystemExit("Duplicate player identity in user-provided roster reconciliation")
+    transition_rows = read_csv(PUBLIC_TRANSITION_EVIDENCE)
+    public_transition_by_name = {r["player_name_zh"]: r for r in transition_rows}
+    if len(public_transition_by_name) != len(transition_rows):
+        raise SystemExit("Duplicate player identity in public transition evidence")
+    registered_source_ids = {r["source_id"] for r in SOURCE_ROWS}
+    for transition in transition_rows:
+        if transition["player_name_zh"] not in user_roster_by_name:
+            raise SystemExit(f"Transition player missing from reconciliation: {transition['player_name_zh']}")
+        datetime.strptime(transition["transition_effective_date"], "%Y-%m-%d")
+        source_ids = transition["source_ids"].split(";")
+        if not source_ids or any(source_id not in registered_source_ids for source_id in source_ids):
+            raise SystemExit(f"Unregistered transition source: {transition['player_name_zh']}")
     expected_finished_guoan = {
         r["match_id"] for r in fixtures
         if r.get("status") == "finished"
@@ -475,6 +492,14 @@ def main() -> None:
                 "availability": user_entry.get("reported_availability_detail", ""),
                 "appearance": user_entry.get("reported_appearance_detail", ""),
             }
+            public_transition = public_transition_by_name.get(name)
+            if public_transition:
+                if is_member:
+                    raise SystemExit(f"Public exit conflicts with active-first-team reconciliation: {name}")
+                transition_date = public_transition["transition_effective_date"]
+                status_source = public_transition["source_ids"] + ";user_supplied_public_roster_reconciliation_2026-09-27"
+                status_source_tier = "public_announcement_and_third_party_profile_index"
+                status_note += " Public transition evidence: " + public_transition["evidence_note"]
         elif "CSL 2026 second-window" in scopes and "AFC Champions League Elite 2026/27" in scopes:
             decision_status = "registered_in_CSL_second_window_and_AFC_squad; exact_2026-09-27_membership_pending"
             status_note = "Listed in the 2026-07-23 CSL second-window roster and the 2026-09-13 AFC roster; no complete official roster exactly dated 2026-09-27 located."
@@ -729,6 +754,7 @@ def main() -> None:
         "decision_date_publicly_confirmed_transitions": sum(x["membership_status_confidence"] == "public_confirmed_transition" for x in roster_rows),
         "decision_date_first_team_members_reconciled_from_user_supplied_public_evidence": sum(x["decision_cohort_member"] == "true" and x["membership_status_confidence"] == "public_roster_evidence_user_reconciled" for x in roster_rows),
         "decision_date_candidates_reconciled_out_of_first_team_from_user_supplied_public_evidence": sum(x["decision_cohort_member"] == "false" and x["membership_status_confidence"] == "public_roster_evidence_user_reconciled" for x in roster_rows),
+        "user_reconciled_exits_with_publicly_sourced_transition_date": len(public_transition_by_name),
         "decision_date_membership_pending_public_verification": sum(x["membership_status_confidence"] == "pending_public_verification" for x in roster_rows),
         "provisional_c2_operational_cohort_rows": len(c2_cohort_rows),
         "provisional_c2_nominal_position_unknown": sum(not bool(row["nominal_position"]) for row in c2_cohort_rows),
@@ -740,7 +766,7 @@ def main() -> None:
             "The July 23 CSL registration is a verified club image post whose names and broad position groups are transcribed by a secondary report; the evidence ledger preserves both links and the source tier.",
             "The September AFC roster is competition-specific. Neither its inclusions nor omissions alone prove domestic registration or club departure.",
             "The exact 2026-09-27 cohort is reconciled from public roster/registration evidence supplied by the user. Exact public source links or artifact references are not yet attached to each of the 43 status rows in the local ledger; this is a traceability gap, not evidence that the information is private or non-public.",
-            "Exact valid_from/valid_to intervals were not supplied for the user-reported loans, U20 reassignment, or other membership transitions; interval fields remain blank rather than inferred from registration or announcement dates.",
+            "Jiang Wenhao's loan joined date is recorded from an indexed Transfermarkt profile and corroborated by the receiving club announcement mirror. The other three user-reported loans/U20 reassignments lack exact transition dates; valid_from/valid_to intervals remain blank rather than inferred from registration or announcement dates.",
             "Competition registration is recorded separately from first-team membership and player availability. Injury, CSL/AFC scope, and no-appearance notes are retained as details transcribed from public materials by the user; exact source links should be associated with the relevant row when available.",
             "A positive-minute match row documents participation for Guoan on that match date only; the latest such date does not by itself prove continued club membership on 2026-09-27.",
             "Official CFL starting XIs, public secondary reports, and user-reviewed Transfermarkt lineups remain distinctly source-tiered; no third-party source is labelled official.",
