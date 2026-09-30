@@ -1,0 +1,47 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+  "observed_at": "2026-09-30T17:57:04.287668+00:00",
+  "width": 1440,
+  "headed": true,
+  "via_team": false,
+  "stages": [
+    {
+      "name": "match_5",
+      "url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "title": "Beijing Guoan vs Pohang Steelers live score, H2H and lineups | Sofascore",
+      "text_length": 4150,
+      "tabs": [
+        "H2H",
+        "",
+        ""
+      ],
+      "tables": 0
+    },
+    {
+      "name": "match_15",
+      "url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "title": "Beijing Guoan vs Pohang Steelers live score, H2H and lineups | Sofascore",
+      "text_length": 4150,
+      "tabs": [
+        "H2H",
+        "",
+        ""
+      ],
+      "tables": 0
+    },
+    {
+      "name": "match_30",
+      "url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+      "title": "Beijing Guoan vs Pohang Steelers live score, H2H and lineups | Sofascore",
+      "text_length": 4150,
+      "tabs": [
+        "H2H",
+        "",
+        ""
+      ],
+      "tables": 0
+    }
+  ],
+  "status": "observed",
+  "http_status": 200
+}

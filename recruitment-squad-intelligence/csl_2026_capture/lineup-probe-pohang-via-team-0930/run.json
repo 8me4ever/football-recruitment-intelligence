@@ -1,0 +1,76 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671",
+  "observed_at": "2026-09-30T17:58:36.585650+00:00",
+  "width": 1440,
+  "headed": true,
+  "via_team": true,
+  "stages": [
+    {
+      "name": "team",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 5361,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    },
+    {
+      "name": "failure",
+      "url": "https://www.sofascore.com/football/team/beijing-guoan/3376#tab:matches",
+      "title": "Beijing Guoan live score, schedule & player stats | Sofascore",
+      "text_length": 5361,
+      "tabs": [
+        "List",
+        "Calendar",
+        "Players",
+        "Details"
+      ],
+      "tables": 0
+    }
+  ],
+  "status": "failed",
+  "team_match_links": [
+    {
+      "href": "https://www.sofascore.com/football/match/qingdao-hainiu-beijing-guoan/BrbsVTn#id:15552642",
+      "text": "Qingdao Hainiu vs Beijing Guoan"
+    },
+    {
+      "href": "/football/match/india-brazil/YUbsDWb#id:17184820",
+      "text": "India - Brazil"
+    },
+    {
+      "href": "/football/match/brazil-australia/QUbsYUb#id:16814491",
+      "text": "Australia - Brazil"
+    },
+    {
+      "href": "/football/match/croatia-spain/YTbspUb#id:15534081",
+      "text": "Spain - Croatia"
+    },
+    {
+      "href": "/football/match/argentina-burkina-faso/ZUbsuWb#id:17167377",
+      "text": "Argentina - Burkina Faso"
+    },
+    {
+      "href": "/football/match/argentina-bolivia/WUbsuWb#id:17167343",
+      "text": "Argentina - Bolivia"
+    },
+    {
+      "href": "/football/match/czechia-spain/YTbsoUb#id:15534085",
+      "text": "Spain - Czechia"
+    },
+    {
+      "href": "/football/match/portugal-denmark/BObseUb#id:15534094",
+      "text": "Denmark - Portugal"
+    },
+    {
+      "href": "/football/match/italy-france/GObshUb#id:15534028",
+      "text": "France - Italy"
+    }
+  ],
+  "error": "ValueError: Expected unique rendered fixture link, got 0",
+  "http_status": 200
+}
