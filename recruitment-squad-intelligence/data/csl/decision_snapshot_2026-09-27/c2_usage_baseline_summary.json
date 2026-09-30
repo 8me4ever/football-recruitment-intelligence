@@ -1,12 +1,13 @@
 {
   "decision_date": "2026-09-27",
-  "generated_at_utc": "2026-09-27T14:32:17.142674+00:00",
+  "generated_at_utc": "2026-09-30T17:36:23.020337+00:00",
   "analysis_status": "pre_gate_operational_snapshot",
   "season_candidate_universe_size": 45,
   "season_candidate_universe_basis": "45 identities from dated Guoan registrations, reconciled with decision-date membership evidence",
   "decision_date_first_team_members": 39,
   "noncurrent_or_former_first_team_candidates": 6,
-  "public_source_roster_gate": "user_supplied_public_evidence; exact_source_traceability_pending",
+  "roster_authority": "user_direct_authoritative_2026-09-30",
+  "c2_discussion_members": 32,
   "completed_guoan_fixtures": 27,
   "observed_player_stats_rows_all_candidates": 406,
   "observed_player_stats_rows_current_squad": 399,
@@ -138,8 +139,8 @@
   ],
   "limitations": [
     "This is descriptive usage context, not a performance ranking or recruitment recommendation.",
-    "Decision-date first-team status uses a 39-player cohort reconciled by the user from public roster/registration evidence. Exact item-level public references are not yet attached to every local reconciliation row; this is a traceability gap, not a basis for classifying the evidence as private.",
-    "Season contribution totals include all 45 registration candidates and retain match rows for players no longer in the decision-date first team. This is distinct from the 39-player current-squad depth cohort.",
+    "Decision-date first-team status follows the user's authoritative 39-player list; seven listed U20 nonparticipants are excluded from the 32-player C2 discussion scope. External cross-verification is not required for this input.",
+    "Season contribution totals include all 45 registration candidates and retain match rows for players outside the formal decision-date roster. The 39-person formal roster is distinct from the 32-person C2 discussion scope.",
     "No player absent from the match-stat export is classified as not selected, unavailable, or not in the matchday squad.",
     "Displayed minutes and observed appearances remain actual counts; ACL weighting applies only to a later performance view, never to usage totals.",
     "Nominal positions are broad registration groups; role-level diagnosis requires separate match-role evidence and review."

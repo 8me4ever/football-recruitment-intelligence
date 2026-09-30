@@ -137,7 +137,10 @@ def main() -> None:
             "observed_position_groups": pos["observed_position_groups"],
             "season_usage_position_group": season_usage_position,
             "season_usage_position_basis": season_usage_position_basis,
-            "public_verification_status": "user_identified_public_roster_evidence; exact_item_reference_pending" if member["membership_status_confidence"] == "public_roster_evidence_user_reconciled" else "public_transition_or_roster_evidence_only",
+            "public_verification_status": "user_direct_authoritative; external_cross_verification_not_required",
+            "c2_discussion_member": member["c2_discussion_member"],
+            "user_listed_group": member["user_listed_group"],
+            "user_reported_current_role": member["user_reported_current_role"],
             "csl_stats_table_rows": len(csl_rows),
             "csl_positive_minute_matches": len(csl_positive),
             "csl_displayed_minutes_sum": sum(int_value(r.get("minutes_played_numeric", "")) for r in csl_rows),
@@ -220,7 +223,8 @@ def main() -> None:
         "season_candidate_universe_basis": "45 identities from dated Guoan registrations, reconciled with decision-date membership evidence",
         "decision_date_first_team_members": len(current_rows),
         "noncurrent_or_former_first_team_candidates": len(noncurrent_rows),
-        "public_source_roster_gate": "user_supplied_public_evidence; exact_source_traceability_pending",
+        "roster_authority": "user_direct_authoritative_2026-09-30",
+        "c2_discussion_members": sum(r["c2_discussion_member"] == "true" for r in player_rows),
         "completed_guoan_fixtures": len(event_ids),
         "observed_player_stats_rows_all_candidates": sum(r["all_competitions_stats_table_rows"] for r in player_rows),
         "observed_player_stats_rows_current_squad": sum(r["all_competitions_stats_table_rows"] for r in current_rows),
@@ -241,8 +245,8 @@ def main() -> None:
         "position_summary": position_rows,
         "limitations": [
             "This is descriptive usage context, not a performance ranking or recruitment recommendation.",
-            "Decision-date first-team status uses a 39-player cohort reconciled by the user from public roster/registration evidence. Exact item-level public references are not yet attached to every local reconciliation row; this is a traceability gap, not a basis for classifying the evidence as private.",
-            "Season contribution totals include all 45 registration candidates and retain match rows for players no longer in the decision-date first team. This is distinct from the 39-player current-squad depth cohort.",
+            "Decision-date first-team status follows the user's authoritative 39-player list; seven listed U20 nonparticipants are excluded from the 32-player C2 discussion scope. External cross-verification is not required for this input.",
+            "Season contribution totals include all 45 registration candidates and retain match rows for players outside the formal decision-date roster. The 39-person formal roster is distinct from the 32-person C2 discussion scope.",
             "No player absent from the match-stat export is classified as not selected, unavailable, or not in the matchday squad.",
             "Displayed minutes and observed appearances remain actual counts; ACL weighting applies only to a later performance view, never to usage totals.",
             "Nominal positions are broad registration groups; role-level diagnosis requires separate match-role evidence and review.",
@@ -258,11 +262,11 @@ def main() -> None:
     REPORT.write_text(
         """# C2 Initial Usage Baseline — Beijing Guoan, 2026-09-27
 
-**Status:** Preliminary, pre-Gate descriptive baseline. It separates the 39-person decision-date first-team cohort from the 45-person season contribution universe. The user supplied this cohort reconciliation as public roster/registration evidence; exact item-level citations are not yet attached to every player row, so the local evidence ledger still needs traceability completion before formal C1 sign-off.
+**Status:** Preliminary, pre-Gate descriptive baseline. It separates the user's authoritative 39-person formal roster, the 32-person C2 discussion scope after excluding seven U20 nonparticipants, and the 45-person season contribution universe. The user directed that their roster data be used without external cross-verification.
 
 ## Scope
 
-This first C2 artifact uses two compatible but distinct populations. The **39-person decision-date first-team cohort** is used for current squad depth. The **45-person season candidate universe** is used for 2026 season contribution, so appearances and minutes remain counted for players who left, went on loan, or moved to U20 during the season. The full Guoan match ledger covers 27 completed fixtures (26 CSL, 1 AFC Champions League Elite), with 406 player-match rows across both populations. Actual appearances, displayed minutes, and evidence-backed starts remain unweighted; ACL performance weighting is reserved for a separate later performance view.
+This baseline retains the **39-person formal roster** and **45-person season candidate universe** as data populations. Its current-squad columns describe all 39 formal members; the separate C2 Lite discussion uses 32 after excluding seven U20 nonparticipants. Historical appearances for players who left, went on loan, or moved to U20 remain in the 45-person season totals. The Guoan match ledger covers 27 completed fixtures (26 CSL, 1 AFC Champions League Elite), with 406 player-match rows. Actual appearances, displayed minutes, and evidence-backed starts remain unweighted; ACL performance weighting is reserved for a separate later performance view.
 
 The player-level result is `data/csl/decision_snapshot_2026-09-27/c2_player_usage_baseline_2026_guoan.csv`; it contains 45 rows and has an explicit decision-date membership flag. The position-level aggregation is `data/csl/decision_snapshot_2026-09-27/c2_position_usage_baseline_2026_guoan.csv`; the machine-readable summary is `data/csl/decision_snapshot_2026-09-27/c2_usage_baseline_summary.json`.
 

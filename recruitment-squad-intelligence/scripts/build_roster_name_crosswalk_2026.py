@@ -51,7 +51,7 @@ NAMES = """何宇鹏|Yupeng He|Yupeng He|He Yupeng|372652
 法比奥|Fabio Abreu|Fabio Abreu|Fábio Abreu|142269
 王刚|Gang Wang|Gang Wang|Wang Gang|353926
 王思泽|Size Wang|Wang Size||
-王禹|Yu Wang|Wang Yu|Yu Wang|419656
+王禹|Yu Wang|Wang Yu;Yu Wang|Yu Wang|419656
 程熙|Xi Cheng|Cheng Xi|Xi Cheng|612253
 罗子祥||Zixiang Luo||
 范双杰|Shuangjie Fan|Shuangjie Fan|Shuangjie Fan|539618
@@ -79,10 +79,9 @@ TM_PROFILE_URLS = {
 }
 
 UNMATCHED_SOFA = [
-    ("Wang Zihao", "No reliable match in the 45-person decision candidate universe"),
-    ("Yu Wang", "Sofascore also lists Wang Yu; do not merge this second string with 王禹 without a player ID"),
-    ("Shanghan Li", "No reliable match in the 45-person decision candidate universe"),
-    ("Arturo Cheng", "No reliable match in the 45-person decision candidate universe"),
+    ("Wang Zihao", "User confirmed not registered in the 2026 season; exclude from the candidate universe"),
+    ("Shanghan Li", "User confirmed not registered in the 2026 season; exclude from the candidate universe"),
+    ("Arturo Cheng", "User confirmed not registered in the 2026 season; exclude from the candidate universe"),
 ]
 
 
@@ -138,12 +137,12 @@ def main():
         raise SystemExit("One or more candidate identities have no provider cross-check")
     write_csv(UNMATCHED, [
         {"provider": "Sofascore", "name_as_listed": name, "source_url": SOFA_URL,
-         "retrieved_on": "2026-09-30", "resolution_status": "unmatched_or_ambiguous",
+         "retrieved_on": "2026-09-30", "resolution_status": "user_confirmed_not_registered_2026",
          "note": note} for name, note in UNMATCHED_SOFA
     ], ["provider", "name_as_listed", "source_url", "retrieved_on", "resolution_status", "note"])
     counts = {site: sum(bool(r[site]) for r in rows) for site in
               ("transfermarkt_name_as_listed", "sofascore_name_as_listed", "whoscored_name_as_listed")}
-    print(f"45 candidate identities; source presences: {counts}; 4 unmatched Sofascore strings")
+    print(f"45 candidate identities; source presences: {counts}; 3 user-excluded Sofascore strings")
 
 
 if __name__ == "__main__":

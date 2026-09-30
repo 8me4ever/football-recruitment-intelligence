@@ -21,6 +21,7 @@ STATS = ROOT / "data" / "csl" / "season_2026" / "player_match_stats_2026.csv"
 FIXTURES = ROOT / "data" / "csl" / "season_2026" / "fixtures_2026_in_scope.csv"
 OUTPUT = ROOT / "data" / "csl" / "decision_snapshot_2026-09-27"
 USER_ROSTER_RECONCILIATION = OUTPUT / "user_provided_membership_reconciliation_2026-09-27.csv"
+USER_AUTHORITATIVE_ROSTER = OUTPUT / "user_authoritative_roster_2026-09-30.csv"
 PUBLIC_TRANSITION_EVIDENCE = OUTPUT / "public_transition_evidence_2026-09-30.csv"
 DECISION_DATE = "2026-09-27"
 
@@ -294,6 +295,10 @@ def main() -> None:
     user_roster_by_name = {r["player_name_zh"]: r for r in user_roster_rows}
     if len(user_roster_by_name) != len(user_roster_rows):
         raise SystemExit("Duplicate player identity in user-provided roster reconciliation")
+    authoritative_rows = read_csv(USER_AUTHORITATIVE_ROSTER)
+    authoritative_by_name = {r["player_name_zh"]: r for r in authoritative_rows}
+    if len(authoritative_rows) != 45 or len(authoritative_by_name) != 45:
+        raise SystemExit("Authoritative user roster must have 45 unique candidate identities")
     transition_rows = read_csv(PUBLIC_TRANSITION_EVIDENCE)
     public_transition_by_name = {r["player_name_zh"]: r for r in transition_rows}
     if len(public_transition_by_name) != len(transition_rows):
@@ -339,6 +344,12 @@ def main() -> None:
     for r in registrations:
         reg_by_name[r["player_name_zh"]].append(r)
     expected_user_reconciled = set(reg_by_name) - {"冯博轩", "魏家傲"}
+    if set(authoritative_by_name) != set(reg_by_name):
+        raise SystemExit("Authoritative user roster and registration candidate identities differ")
+    if sum(r["decision_cohort_member"] == "true" for r in authoritative_rows) != 39:
+        raise SystemExit("Authoritative user roster must contain 39 formal first-team members")
+    if sum(r["c2_discussion_member"] == "true" for r in authoritative_rows) != 32:
+        raise SystemExit("Authoritative user roster must contain 32 C2 discussion members")
     if set(user_roster_by_name) != expected_user_reconciled:
         raise SystemExit(
             "User-supplied public-evidence reconciliation does not cover exactly the candidates without the two separately linked public transitions; "
@@ -456,7 +467,26 @@ def main() -> None:
         pid = ids[0] if ids else ""
         scopes = sorted({e["registration_scope"] for e in evidence})
         user_entry = user_roster_by_name.get(name)
-        if name == "冯博轩":
+        authoritative = authoritative_by_name[name]
+        if authoritative:
+            is_member = authoritative["decision_cohort_member"] == "true"
+            decision_status = "user_authoritative_first_team" if is_member else "user_authoritative_outside_first_team"
+            decision_cohort_member = "true" if is_member else "false"
+            membership_confidence = "user_direct_authoritative"
+            status_source_tier = "user_direct_authoritative"
+            status_source = "user_authoritative_roster_2026-09-30"
+            status_note = "User-designated authoritative roster; no external cross-verification required. " + (
+                authoritative["user_transition_note"] or authoritative["user_registration_note"] or authoritative["user_availability_note"]
+            )
+            transition_date = authoritative["transition_effective_date"]
+            old_detail = user_entry or {}
+            user_detail = {
+                "status": authoritative["user_transition_note"] or "Included in user-designated formal roster",
+                "registration": authoritative["user_registration_note"] or old_detail.get("reported_registration_detail", ""),
+                "availability": authoritative["user_availability_note"] or old_detail.get("reported_availability_detail", ""),
+                "appearance": old_detail.get("reported_appearance_detail", ""),
+            }
+        elif name == "冯博轩":
             decision_status = "confirmed_transferred_out_2026-07-03"
             status_note = "Dalian Yingbo official announcement confirms permanent joining; not an active Guoan first-team member at decision date."
             membership_confidence = "public_confirmed_transition"
@@ -550,6 +580,9 @@ def main() -> None:
             "player_id": pid, "player_name_zh": name, "player_name_provider": player_by_id.get(pid, {}).get("player_name_provider", ""),
             "team_id": "Beijing Guoan", "membership_scope": "first_team_squad",
             "decision_cohort_member": decision_cohort_member,
+            "c2_discussion_member": authoritative["c2_discussion_member"],
+            "user_listed_group": authoritative["user_listed_group"],
+            "user_reported_current_role": authoritative["user_current_role_note"],
             "shirt_numbers_by_source": ";".join(f"{e['registration_scope']}:{e['shirt_number']}" for e in evidence),
             "registration_scopes": ";".join(scopes), "registration_evidence_count": len(evidence),
             "membership_status_as_of_decision_date": decision_status, "membership_status_confidence": membership_confidence,
@@ -634,12 +667,8 @@ def main() -> None:
     cohort_counts = defaultdict(int)
     for row in roster_rows:
         cohort_counts[(row["membership_status_confidence"], row["decision_cohort_member"])] += 1
-    if cohort_counts[("public_roster_evidence_user_reconciled", "true")] != 39:
-        raise SystemExit("Expected 39 first-team members reconciled from user-supplied public roster evidence, got " + str(cohort_counts[("public_roster_evidence_user_reconciled", "true")]))
-    if cohort_counts[("public_roster_evidence_user_reconciled", "false")] != 4:
-        raise SystemExit("Expected 4 non-first-team candidates reconciled from user-supplied public roster evidence, got " + str(cohort_counts[("public_roster_evidence_user_reconciled", "false")]))
-    if cohort_counts[("public_confirmed_transition", "false")] != 2:
-        raise SystemExit("Expected 2 publicly documented transitions, got " + str(cohort_counts[("public_confirmed_transition", "false")]))
+    if cohort_counts[("user_direct_authoritative", "true")] != 39 or cohort_counts[("user_direct_authoritative", "false")] != 6:
+        raise SystemExit("Authoritative roster must resolve 39 first-team and 6 outside-first-team candidates")
     if any(row["decision_cohort_member"] == "unknown" for row in roster_rows):
         raise SystemExit("Cannot construct operational C2 cohort while any candidate membership remains unknown")
 
@@ -661,9 +690,12 @@ def main() -> None:
             "player_name_provider": member["player_name_provider"],
             "team_id": member["team_id"],
             "membership_scope": member["membership_scope"],
+            "c2_discussion_member": member["c2_discussion_member"],
+            "user_listed_group": member["user_listed_group"],
+            "user_reported_current_role": member["user_reported_current_role"],
             "membership_status_source_tier": member["membership_status_source_tier"],
             "membership_status_source": member["membership_status_source"],
-            "public_verification_status": "user_identified_public_roster_evidence; exact_item_reference_pending",
+            "public_verification_status": "user_direct_authoritative; external_cross_verification_not_required",
             "registration_scopes": member["registration_scopes"],
             "user_reported_registration_detail": member["user_reported_registration_detail"],
             "user_reported_availability_detail": member["user_reported_availability_detail"],
@@ -678,14 +710,14 @@ def main() -> None:
             "competitions_observed": use["competitions_observed"],
             "latest_positive_minutes_match_date": member["latest_positive_minutes_match_date"],
             "latest_positive_minutes_event_id": member["latest_positive_minutes_event_id"],
-            "source_limitations": "Membership follows public roster/registration evidence supplied by the user; exact item-level source references are not yet attached in this workspace, and exact membership interval dates remain unrecorded where unknown.",
+            "source_limitations": "Membership and C2 discussion scope follow the user's direct authoritative roster. Exact transition dates remain blank where the user did not provide them.",
         })
 
     OUTPUT.mkdir(parents=True, exist_ok=True)
     write_csv(OUTPUT / "public_source_register.csv", SOURCE_ROWS, ["source_id", "source_type", "published_at", "url", "transcription_url", "evidence_note"])
     write_csv(OUTPUT / "squad_registration_evidence_2026.csv", registrations, ["player_name_zh", "shirt_number", "registration_scope", "source_id", "registered_on", "nominal_position", "nominal_position_source"])
-    write_csv(OUTPUT / "squad_membership_decision_snapshot_2026-09-27.csv", roster_rows, ["player_id", "player_name_zh", "player_name_provider", "team_id", "membership_scope", "decision_cohort_member", "shirt_numbers_by_source", "registration_scopes", "registration_evidence_count", "membership_status_as_of_decision_date", "membership_status_confidence", "membership_status_note", "membership_status_source_tier", "membership_status_source", "user_reported_status_detail", "user_reported_registration_detail", "user_reported_availability_detail", "user_reported_appearance_detail", "membership_transition_effective_date", "valid_from", "valid_to", "latest_positive_minutes_match_date", "latest_positive_minutes_event_id", "latest_positive_minutes_competition", "latest_positive_minutes_source_url", "decision_date"])
-    write_csv(OUTPUT / "c2_operational_cohort_2026-09-27.csv", c2_cohort_rows, ["decision_date", "analysis_status", "player_key", "player_id", "player_identity_resolution_status", "player_name_zh", "player_name_provider", "team_id", "membership_scope", "membership_status_source_tier", "membership_status_source", "public_verification_status", "registration_scopes", "user_reported_registration_detail", "user_reported_availability_detail", "user_reported_appearance_detail", "nominal_position", "nominal_position_source", "observed_position_groups", "season_stats_appearances", "stats_sample_status", "season_minutes_sum_from_displayed_minutes", "source_supported_starts_count_partial", "competitions_observed", "latest_positive_minutes_match_date", "latest_positive_minutes_event_id", "source_limitations"])
+    write_csv(OUTPUT / "squad_membership_decision_snapshot_2026-09-27.csv", roster_rows, ["player_id", "player_name_zh", "player_name_provider", "team_id", "membership_scope", "decision_cohort_member", "c2_discussion_member", "user_listed_group", "user_reported_current_role", "shirt_numbers_by_source", "registration_scopes", "registration_evidence_count", "membership_status_as_of_decision_date", "membership_status_confidence", "membership_status_note", "membership_status_source_tier", "membership_status_source", "user_reported_status_detail", "user_reported_registration_detail", "user_reported_availability_detail", "user_reported_appearance_detail", "membership_transition_effective_date", "valid_from", "valid_to", "latest_positive_minutes_match_date", "latest_positive_minutes_event_id", "latest_positive_minutes_competition", "latest_positive_minutes_source_url", "decision_date"])
+    write_csv(OUTPUT / "c2_operational_cohort_2026-09-27.csv", c2_cohort_rows, ["decision_date", "analysis_status", "player_key", "player_id", "player_identity_resolution_status", "player_name_zh", "player_name_provider", "team_id", "membership_scope", "c2_discussion_member", "user_listed_group", "user_reported_current_role", "membership_status_source_tier", "membership_status_source", "public_verification_status", "registration_scopes", "user_reported_registration_detail", "user_reported_availability_detail", "user_reported_appearance_detail", "nominal_position", "nominal_position_source", "observed_position_groups", "season_stats_appearances", "stats_sample_status", "season_minutes_sum_from_displayed_minutes", "source_supported_starts_count_partial", "competitions_observed", "latest_positive_minutes_match_date", "latest_positive_minutes_event_id", "source_limitations"])
     write_csv(OUTPUT / "player_match_participation_2026_guoan.csv", participation_rows, ["event_id", "match_date", "competition", "player_id", "player_name_provider", "player_name_zh", "team_id_or_name", "participation_status", "minutes_played_raw", "minutes_played_numeric", "started", "started_source", "started_source_tier", "observed_position_group", "observed_role", "participation_source", "evidence_timestamp", "source_url"])
     write_csv(OUTPUT / "match_role_evidence_2026_guoan.csv", role_evidence_rows, ["event_id", "match_date", "competition", "player_id", "player_name_provider", "player_name_zh", "formation", "observed_role", "role_granularity", "role_evidence_source_ids", "limitations"])
     write_csv(OUTPUT / "player_season_usage_2026_guoan.csv", usage_rows, ["player_id", "player_name_zh", "player_name_provider", "registration_scopes", "season_stats_appearances", "season_minutes_sum_from_displayed_minutes", "source_supported_starts_count_partial", "appearance_rows_with_source_supported_start_status", "appearance_rows_with_start_status_unknown", "minutes_parseable_row_count", "competitions_observed", "latest_positive_minutes_match_date", "latest_positive_minutes_event_id", "latest_positive_minutes_competition", "latest_positive_minutes_source_url", "observed_position_groups", "appearance_sample_status", "interpretation", "membership_status_as_of_decision_date"])
@@ -751,23 +783,23 @@ def main() -> None:
         "transfermarkt_xi_crosschecks_resolved_to_player_stats_rows": sum(x["status"] == "pass_crosswalk_and_user_review" for x in transfermarkt_lineup_audit),
         "transfermarkt_xi_user_reviewed": sum(x["user_review_status"] == "confirmed_correct_by_user_2026-09-27" for x in transfermarkt_lineup_audit),
         "fixtures_with_starting_xi_evidence_in_decision_layer": len(set(OFFICIAL_STARTERS) | set(SECONDARY_STARTERS) | set(TRANSFERMARKT_STARTERS)),
-        "decision_date_publicly_confirmed_transitions": sum(x["membership_status_confidence"] == "public_confirmed_transition" for x in roster_rows),
-        "decision_date_first_team_members_reconciled_from_user_supplied_public_evidence": sum(x["decision_cohort_member"] == "true" and x["membership_status_confidence"] == "public_roster_evidence_user_reconciled" for x in roster_rows),
-        "decision_date_candidates_reconciled_out_of_first_team_from_user_supplied_public_evidence": sum(x["decision_cohort_member"] == "false" and x["membership_status_confidence"] == "public_roster_evidence_user_reconciled" for x in roster_rows),
+        "decision_date_first_team_members_user_authoritative": sum(x["decision_cohort_member"] == "true" for x in roster_rows),
+        "decision_date_candidates_outside_first_team_user_authoritative": sum(x["decision_cohort_member"] == "false" for x in roster_rows),
+        "decision_date_c2_discussion_members_user_authoritative": sum(x["c2_discussion_member"] == "true" for x in roster_rows),
         "user_reconciled_exits_with_publicly_sourced_transition_date": len(public_transition_by_name),
         "decision_date_membership_pending_public_verification": sum(x["membership_status_confidence"] == "pending_public_verification" for x in roster_rows),
         "provisional_c2_operational_cohort_rows": len(c2_cohort_rows),
         "provisional_c2_nominal_position_unknown": sum(not bool(row["nominal_position"]) for row in c2_cohort_rows),
-        "provisional_c2_public_source_traceability_limitation": "The user states the 39-person cohort and four exclusions were reconciled from public roster/registration evidence. Exact item-level public source references are not yet attached to every reconciliation row in this workspace.",
+        "roster_authority": "The user's 2026-09-30 direct roster input is authoritative for the frozen 2026-09-27 cohort and C2 discussion scope; no external cross-verification is required.",
         "active_first_team_members_with_positive_minutes": sum(x["decision_cohort_member"] == "true" and bool(x["latest_positive_minutes_match_date"]) for x in roster_rows),
         "active_first_team_members_without_positive_minutes": sum(x["decision_cohort_member"] == "true" and not bool(x["latest_positive_minutes_match_date"]) for x in roster_rows),
         "limitations": [
-            "The registration union is a 45-person evidence candidate universe. The 2026-09-27 cohort has 39 first-team members and 4 exclusions reconciled from public roster/registration evidence supplied by the user; two further exits are supported by linked public announcements. User-supplied public evidence is not classified as non-public operational information.",
+            "The registration union is a 45-person season candidate universe. The user's direct authoritative roster places 39 in the formal first team and six outside it; seven U20 players remain in the 39 but are excluded from the 32-person C2 discussion scope.",
             "The July 23 CSL registration is a verified club image post whose names and broad position groups are transcribed by a secondary report; the evidence ledger preserves both links and the source tier.",
             "The September AFC roster is competition-specific. Neither its inclusions nor omissions alone prove domestic registration or club departure.",
-            "The exact 2026-09-27 cohort is reconciled from public roster/registration evidence supplied by the user. Exact public source links or artifact references are not yet attached to each of the 43 status rows in the local ledger; this is a traceability gap, not evidence that the information is private or non-public.",
-            "Jiang Wenhao's loan joined date is recorded from an indexed Transfermarkt profile and corroborated by the receiving club announcement mirror. The other three user-reported loans/U20 reassignments lack exact transition dates; valid_from/valid_to intervals remain blank rather than inferred from registration or announcement dates.",
-            "Competition registration is recorded separately from first-team membership and player availability. Injury, CSL/AFC scope, and no-appearance notes are retained as details transcribed from public materials by the user; exact source links should be associated with the relevant row when available.",
+            "The user explicitly designated the supplied formal roster and status notes as authoritative. External provider lists remain identity context and do not override user input.",
+            "Jiang Wenhao's 2026-07-03 loan date also has public support. Exact dates for Zhang Jianzhi's Guangxi Hengchen loan and the U20 moves of Lin Hanqi and Ma Mingyang were not supplied; valid_from/valid_to remain blank.",
+            "Competition registration, user-reported current role, first-team membership, U20 C2 discussion exclusion, and availability are separate fields. No user role note is converted into a match-specific observed role.",
             "A positive-minute match row documents participation for Guoan on that match date only; the latest such date does not by itself prove continued club membership on 2026-09-27.",
             "Official CFL starting XIs, public secondary reports, and user-reviewed Transfermarkt lineups remain distinctly source-tiered; no third-party source is labelled official.",
             "Transfermarkt XIs for events 15551891, 15552547, and 15552563 were manually reviewed and confirmed by the user on 2026-09-27; all 33 names resolve to Sofascore participant rows and source-backed started status is now included for those events.",

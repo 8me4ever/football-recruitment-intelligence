@@ -1,5 +1,4 @@
 ﻿provider,name_as_listed,source_url,retrieved_on,resolution_status,note
-Sofascore,Wang Zihao,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,unmatched_or_ambiguous,No reliable match in the 45-person decision candidate universe
-Sofascore,Yu Wang,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,unmatched_or_ambiguous,Sofascore also lists Wang Yu; do not merge this second string with 王禹 without a player ID
-Sofascore,Shanghan Li,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,unmatched_or_ambiguous,No reliable match in the 45-person decision candidate universe
-Sofascore,Arturo Cheng,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,unmatched_or_ambiguous,No reliable match in the 45-person decision candidate universe
+Sofascore,Wang Zihao,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,user_confirmed_not_registered_2026,User confirmed not registered in the 2026 season; exclude from the candidate universe
+Sofascore,Shanghan Li,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,user_confirmed_not_registered_2026,User confirmed not registered in the 2026 season; exclude from the candidate universe
+Sofascore,Arturo Cheng,https://www.sofascore.com/football/team/beijing-guoan/3376,2026-09-30,user_confirmed_not_registered_2026,User confirmed not registered in the 2026 season; exclude from the candidate universe
