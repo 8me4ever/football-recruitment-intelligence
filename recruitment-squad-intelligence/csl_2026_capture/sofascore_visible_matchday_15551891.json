@@ -205,6 +205,41 @@
           "out_display_name": null,
           "appeared_as_substitute": false
         }
+      ],
+      "substitution_events": [
+        {
+          "incoming_player_id": "1475448",
+          "outgoing_player_id": "387800",
+          "incoming_timeline_name": "P. Xiao",
+          "outgoing_timeline_name": "Z. Gao",
+          "minute_timeline_display": "46'",
+          "minute_base": 46,
+          "stoppage_minute": 0,
+          "minute_card_display": "46'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "792254",
+          "outgoing_player_id": "1115986",
+          "incoming_timeline_name": "T. Wang",
+          "outgoing_timeline_name": "X. Wenneng",
+          "minute_timeline_display": "76'",
+          "minute_base": 76,
+          "stoppage_minute": 0,
+          "minute_card_display": "76'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "196432",
+          "outgoing_player_id": "833639",
+          "incoming_timeline_name": "Z. Zheng",
+          "outgoing_timeline_name": "Z. Huang",
+          "minute_timeline_display": "81'",
+          "minute_base": 81,
+          "stoppage_minute": 0,
+          "minute_card_display": "81'",
+          "minute_surfaces_differ": false
+        }
       ]
     },
     {
@@ -407,6 +442,41 @@
           "substitution_minute_display": null,
           "out_display_name": null,
           "appeared_as_substitute": false
+        }
+      ],
+      "substitution_events": [
+        {
+          "incoming_player_id": "900549",
+          "outgoing_player_id": "817886",
+          "incoming_timeline_name": "L. Liangming",
+          "outgoing_timeline_name": "Y. Cao",
+          "minute_timeline_display": "71'",
+          "minute_base": 71,
+          "stoppage_minute": 0,
+          "minute_card_display": "71'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "231992",
+          "outgoing_player_id": "843735",
+          "incoming_timeline_name": "Z. Xizhe",
+          "outgoing_timeline_name": "S. Erjini'ao",
+          "minute_timeline_display": "71'",
+          "minute_base": 71,
+          "stoppage_minute": 0,
+          "minute_card_display": "71'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "1121219",
+          "outgoing_player_id": "77758",
+          "incoming_timeline_name": "F. Jia",
+          "outgoing_timeline_name": "G. Wang",
+          "minute_timeline_display": "90' +6",
+          "minute_base": 90,
+          "stoppage_minute": 6,
+          "minute_card_display": "90'",
+          "minute_surfaces_differ": true
         }
       ]
     }

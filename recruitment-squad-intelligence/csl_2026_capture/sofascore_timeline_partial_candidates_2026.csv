@@ -1,0 +1,217 @@
+event_id,match_date,home_team,away_team,minute_display,first_display_name,second_display_name,evidence_class,source_file,capture_text_chars,timeline_end_visible
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,88',W. Yu,A. Konte,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,86',S. Li,L. Song,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,82',L. Lei,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,82',C. Zhongguo,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,71',L. Jiashen,N. Anđelković,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549838,2026-05-15,Beijing Guoan,Qingdao Hainiu,63',Y. Cong,C. Lin,two_player_candidate,csl_2026_capture\scrapling_raw\15549838_cf5e04aba8ce.json,700,False
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,90' +3,A. Aisikaer,Davidson,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,90' +3,Z. Yang,N. Luz,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,90' +3,D. Jiefu,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,82',J. Sun,Aziz,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,82',M. Jingchao,C. Zhang,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,72',L. Liangming,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,66',P. Wang,X. Peng,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,61',Card changed,Rezende,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549843,2026-05-19,Qingdao West Coast,Beijing Guoan,57',Y. Cao,L. Lei,two_player_candidate,csl_2026_capture\scrapling_raw\15549843_b84932f17c4f.json,700,True
+15549855,2026-05-23,Beijing Guoan,Henan FC,90' +6,L. Jiahui,C. He,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,84',L. Lei,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,83',A. Abudulam,S. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,83',O. Gerbig,Y. Zhong,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,77',A. Abduhamit,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,77',Y. Cao,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,73',L. Liangming,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,67',Y. Yang,J. Mboula,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15549855,2026-05-23,Beijing Guoan,Henan FC,45' +4,No penalty confirmed,Y. Zhong,two_player_candidate,csl_2026_capture\scrapling_raw\15549855_71e9a8170e9f.json,700,False
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,82',K. Wang,D. W. Yi,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,82',W. Long,X. Jizheng,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,82',C. Zhongguo,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,82',W. Jiaao,B. Nkololo,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,71',F. Jia,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,71',Z. Xizhe,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,69',J. Wang,L. Jiang,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,63',Y. Cao,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,60',J. Zhong,Z. Haoqian,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551889,2026-03-08,Wuhan Three Towns,Beijing Guoan,60',J. Cádiz,Z. Chen,two_player_candidate,csl_2026_capture\scrapling_raw\15551889_5df772ed2803.json,900,True
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,90' +6,F. Jia,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,81',Z. Zheng,Z. Huang,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,76',T. Wang,X. Wenneng,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,71',Z. Xizhe,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,71',L. Liangming,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551891,2026-03-14,Shandong Taishan,Beijing Guoan,46',P. Xiao,Z. Gao,two_player_candidate,csl_2026_capture\scrapling_raw\15551891_e144460102b0.json,700,False
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,85',X. Haoyang,G. Tianyi,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,78',Y. Cao,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,78',C. Zhongguo,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,75',X. Pengfei,Saulo Mineiro,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,62',F. Boxuan,D. Jiefu,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15551900,2026-03-21,Beijing Guoan,Shanghai Shenhua,60',Y. Zexiang,H. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15551900_6aad6a086a16.json,700,True
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,90',Y. Tian,G. Mbenza,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,71',B. Chen,Jeffinho,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,60',A. Kouamé,D. Yan,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,46',Y. Cao,F. Jia,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,46',J. Wenhao,D. Jiefu,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,46',S. Erjini'ao,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552476,2026-04-04,Liaoning Tieren FC,Beijing Guoan,15',Penalty awarded,T. Kunimoto,two_player_candidate,csl_2026_capture\scrapling_raw\15552476_97683eb020da.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,90' +7,Y. Li,Rômulo,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,76',W. Dongsheng,H. Yiran,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,76',L. Lisheng,M. Jussa,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,73',F. Jia,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,62',C. Zhongguo,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,52',L. Lei,D. Jiefu,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,52',Y. Cao,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552489,2026-04-12,Beijing Guoan,Chengdu Rongcheng,46',Z. Yuning,F. Abreu,two_player_candidate,csl_2026_capture\scrapling_raw\15552489_68788cf0ac8b.json,700,False
+15552493,2026-04-17,Zhejiang,Beijing Guoan,90' +4,A. Ablikim,W. Yudong,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,90',C. Zhongguo,B. Nkololo,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,86',X. Junchi,T. Lei,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,84',Y. Cao,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,74',C. Jin,M. Tolić,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,73',Z. Xizhe,Dawhan,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,69',A. Abduhamit,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,59',H. Fang,Q. Tao,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,59',A. N'Doumbou,W. Wu,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552493,2026-04-17,Zhejiang,Beijing Guoan,46',S. Wang,G. Sun,two_player_candidate,csl_2026_capture\scrapling_raw\15552493_f06cd6c148d1.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,90' +7,D. Jiefu,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,86',S. Nan,Z. Jiang,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,86',L. Ning,D. O. Sekyere,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,76',Z. Xizhe,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,70',S. Hujahmat,J. Yao,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,70',T. Chow,D. W. Tsun,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552498,2026-04-21,Shenzhen Peng City,Beijing Guoan,55',X. Zhang,S. Huanming,two_player_candidate,csl_2026_capture\scrapling_raw\15552498_cf8dcc8dfc65.json,700,True
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,83',S. Yan,X. Wu,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,76',C. Zhongguo,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,76',D. Jiefu,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,72',X. Weijun,J. Huang,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,57',Z. Xizhe,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552507,2026-04-25,Beijing Guoan,Tianjin Jinmen Tiger,46',Q. Wang,G. Schettine,two_player_candidate,csl_2026_capture\scrapling_raw\15552507_d46b6d4394b7.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,83',D. Jiefu,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,74',E. Fei,Y. Zhao,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,74',B. Abdusalam,Z. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,73',F. Boxuan,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,61',C. Zhang,M. Tang,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,60',Z. Huang,X. Xu,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,60',J. H. Sæter,C. Ye,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,60',T. Yue,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552529,2026-05-02,Yunnan Yukun,Beijing Guoan,58',Penalty awarded,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552529_ce342cce04e6.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,86',D. Jiefu,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,80',C. Zhang,Y. Mingrui,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,74',P. Shunjie,J. Bi,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,71',W. Yu,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,70',A. Abduhamit,Dawhan,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,68',P. Lü,L. Jing,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,46',L. Liangming,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552536,2026-05-06,Beijing Guoan,Dalian Yingbo FC,46',L. Zhuoyi,M. Weijie,two_player_candidate,csl_2026_capture\scrapling_raw\15552536_15b65276678a.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,90' +14,C. Zhongguo,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,84',Penalty awarded,Dawhan,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,81',W. Lei,L. Xinxiang,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,75',J. Guangtai,Z. Linpeng,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,64',L. Liangming,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,64',W. Zhenao,B. Shimeng,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552546,2026-05-10,Beijing Guoan,Shanghai Port,64',L. Yongtao,L. Zhurun,two_player_candidate,csl_2026_capture\scrapling_raw\15552546_31170a7f09ee.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,90' +6,Y. Cao,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,90' +3,C. Zhongguo,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,84',Y. Xiang,N. Dimata,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,82',L. Lei,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,82',L. Liangming,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,81',P. Jin,A. G. Cîmpanu,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552547,2026-05-30,Chongqing Tonglianglong FC,Beijing Guoan,55',Goal awarded,N. Dimata,two_player_candidate,csl_2026_capture\scrapling_raw\15552547_cb3b00cb6d4b.json,700,False
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,77',W. Long,L. Chengjian,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,77',B. Liu,X. Haofeng,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,75',D. Jiefu,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,68',K. Bevis,J. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,68',S. Li,X. Jizheng,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,61',B. Nkololo,L. Liangming,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,61',Y. He,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,55',Penalty cancelled,Gustavo Sauer,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,45',A. Li,K. Zheng,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552561,2026-06-27,Beijing Guoan,Wuhan Three Towns,10',S. Erjini'ao,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552561_5f360763f038.json,700,True
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,89',L. Junwei,V. Qazaishvili,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,89',I. Memet,Z. Huang,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,86',C. Zhongguo,F. Abreu,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,85',D. Jiefu,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,75',R. Merkies,X. Wenneng,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,61',Y. Liyu,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,58',Y. Cao,B. Nkololo,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,46',T. Yue,Y. He,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552563,2026-07-04,Beijing Guoan,Shandong Taishan,36',P. Xiao,C. Pu,two_player_candidate,csl_2026_capture\scrapling_raw\15552563_137917c1d143.json,700,False
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,83',D. Yan,T. Kunimoto,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,71',D. Mawlanyaz,L. Haoran,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,63',Z. Yifeng,T. Li,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,63',X. Pan,J. Gao,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,63',Y. Liyu,B. Nkololo,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,63',F. Shuangjie,A. Abduhamit,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,63',Y. Cao,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552576,2026-07-17,Beijing Guoan,Liaoning Tieren FC,38',A. Abduhamit,Y. He,two_player_candidate,csl_2026_capture\scrapling_raw\15552576_0fd8affe560b.json,700,True
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,83',L. Rongxiang,H. Yiran,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,81',F. Shuangjie,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,78',W. Ziming,G. Chao,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,78',D. Yanfeng,Y. Li,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,67',W. Yu,C. Zhongguo,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,64',F. Jia,Y. Liyu,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552587,2026-07-26,Chengdu Rongcheng,Beijing Guoan,62',Rômulo,B. Abuduwaili,two_player_candidate,csl_2026_capture\scrapling_raw\15552587_0e483c58a756.json,700,False
+15552596,2026-08-01,Beijing Guoan,Zhejiang,78',A. N'Doumbou,C. Jin,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,78',A. Abduhamit,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,78',D. Jiefu,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,78',Q. Tao,X. Junchi,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,78',F. Jia,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,69',Z. Xizhe,U. Spajić,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,61',G. Sun,T. Lei,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,61',F. Cardoso,M. Tolić,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,57',S. Erjini'ao,Y. Liyu,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552596,2026-08-01,Beijing Guoan,Zhejiang,6',Penalty awarded,U. Spajić,two_player_candidate,csl_2026_capture\scrapling_raw\15552596_31efba3e94f9.json,700,True
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,84',J. Zhao,Z. Yufeng,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,83',J. Zicheng,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,73',G. Wang,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,72',F. Jia,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,64',Y. Menghui,E. Karzev,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,62',Z. Xizhe,D. Jiefu,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,62',Y. Liyu,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,61',Y. Yang,S. Huanming,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552600,2026-08-07,Beijing Guoan,Shenzhen Peng City,27',Goal awarded,Dawhan,two_player_candidate,csl_2026_capture\scrapling_raw\15552600_f725716811aa.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,84',S. Yan,M. Sun,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,79',Z. Xizhe,F. Abreu,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,78',L. Lei,A. Abduhamit,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,62',Y. Liyu,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,62',F. Shuangjie,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,62',J. Shengpan,Z. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,62',J. Liu,G. Schettine,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552613,2026-08-15,Tianjin Jinmen Tiger,Beijing Guoan,46',Y. Cao,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552613_22700942829a.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,85',Z. Han,B. Abdusalam,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,84',L. Lei,Z. Yuning,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,80',Z. Huang,C. Zhang,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,80',L. Duan,X. Xu,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,80',Cléber,J. H. Sæter,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,62',T. Yue,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552619,2026-08-22,Beijing Guoan,Yunnan Yukun,62',Z. Xizhe,D. Jiefu,two_player_candidate,csl_2026_capture\scrapling_raw\15552619_a5e8b75cb023.json,700,False
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,80',F. Boxuan,P. Delgado,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,73',D. Jiefu,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,73',L. Lei,Y. Liyu,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,73',W. Yu,Dawhan,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,57',A. Abduhamit,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,57',Z. Xizhe,F. Abreu,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552624,2026-08-28,Dalian Yingbo FC,Beijing Guoan,46',L. Jing,Y. Mingrui,two_player_candidate,csl_2026_capture\scrapling_raw\15552624_6a6f41c5187b.json,700,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,90' +3,W. Shenchao,X. Y. Alex,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,90',L. Lei,Y. Liyu,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,81',F. Jia,S. Erjini'ao,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,81',C. Xi,W. Yu,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,79',K. Jiwen,P. Ampem,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,79',L. Xinxiang,L. Zhurun,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,70',W. Lei,Leonardo,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,70',Y. Xin,L. Shuai,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+15552633,2026-09-05,Shanghai Port,Beijing Guoan,46',D. Jiefu,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\15552633_1fcc5342d0d2.json,900,True
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,88',W. Qipeng,J. Teixeira,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,81',X. Pengfei,L. Asué,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,81',Y. Zexiang,S. Chan,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,81',X. Haoyang,G. Tianyi,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,81',F. Jia,Y. Cao,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,76',L. Lei,B. Yang,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,64',Saulo Mineiro,H. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,62',G. Wang,T. Yue,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16851672,2026-08-18,Shanghai Shenhua,Beijing Guoan,62',Z. Xizhe,Y. Liyu,two_player_candidate,csl_2026_capture\scrapling_raw\16851672_13476a8d14fc.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,82',F. Abreu,B. Nkololo,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,82',W. Yu,J. Dudziak,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,73',K. Shin,C. Lee,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,68',A. Abduhamit,Z. Xizhe,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,68',L. Lei,G. Wang,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,58',D. Kim,H. M. Jung,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,46',J. Teixeira,H. Kim,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False
+16863671,2026-09-15,Beijing Guoan,Pohang Steelers,46',Wanderson,K. Ye-Sung,two_player_candidate,csl_2026_capture\scrapling_raw\16863671_9ba0cd9a01b5.json,700,False

@@ -1,0 +1,17 @@
+{
+  "requested_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671,tab:lineups",
+  "observed_at": "2026-10-01T03:37:54.071163+00:00",
+  "status": "verification_stop",
+  "observed_url": "https://www.sofascore.com/football/match/pohang-steelers-beijing-guoan/Brbsadd#id:16863671,tab:lineups",
+  "title": "Beijing Guoan vs Pohang Steelers live score, H2H and lineups | Sofascore",
+  "verification_frame_count": 0,
+  "verification_text_visible": false,
+  "tabs": [
+    "H2H",
+    "",
+    ""
+  ],
+  "http_status": 200,
+  "turnstile_widget_count": 1,
+  "visual_verification_confirmed": true
+}

@@ -1,0 +1,493 @@
+{
+  "event_id": "15552633",
+  "source_html": "csl_2026_capture\\route-team-2026-0927-card\\match_5.html",
+  "page_title": "Shanghai Port vs Beijing Guoan live score, H2H and lineups | Sofascore",
+  "source_method": "Scrapling-rendered visible DOM snapshot",
+  "teams": [
+    {
+      "team": "Port",
+      "formation": "3-4-3",
+      "starters": [
+        {
+          "player_id": "786053",
+          "display_name": "Y. Junling",
+          "shirt_number": "1",
+          "captain": true,
+          "formation_line": 1,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1168282",
+          "display_name": "J. C. Aziangbe",
+          "shirt_number": "8",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1401160",
+          "display_name": "J. Guangtai",
+          "shirt_number": "3",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 2,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "844086",
+          "display_name": "Z. Wei",
+          "shirt_number": "13",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 3,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1977665",
+          "display_name": "X. Y. Alex",
+          "shirt_number": "22",
+          "captain": false,
+          "formation_line": 3,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "861317",
+          "display_name": "Ó. Melendo",
+          "shirt_number": "21",
+          "captain": false,
+          "formation_line": 3,
+          "slot_in_line": 2,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "823653",
+          "display_name": "M. Vital",
+          "shirt_number": "10",
+          "captain": false,
+          "formation_line": 3,
+          "slot_in_line": 3,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "840640",
+          "display_name": "L. Shuai",
+          "shirt_number": "32",
+          "captain": false,
+          "formation_line": 3,
+          "slot_in_line": 4,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1017409",
+          "display_name": "L. Zhurun",
+          "shirt_number": "33",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "979522",
+          "display_name": "Leonardo",
+          "shirt_number": "45",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 2,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "923888",
+          "display_name": "P. Ampem",
+          "shirt_number": "17",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 3,
+          "position_semantics": "nominal_visible_formation_slot"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "817864",
+          "display_name": "Yue Xin",
+          "shirt_number": "28",
+          "substitution_minute_display": "70'",
+          "out_display_name": "L. Shuai",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "223232",
+          "display_name": "Wu Lei",
+          "shirt_number": "7",
+          "substitution_minute_display": "70'",
+          "out_display_name": "Leonardo",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "1501972",
+          "display_name": "Kuai Jiwen",
+          "shirt_number": "47",
+          "substitution_minute_display": "79'",
+          "out_display_name": "P. Ampem",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "1933818",
+          "display_name": "Xinxiang Li",
+          "shirt_number": "49",
+          "substitution_minute_display": "79'",
+          "out_display_name": "L. Zhurun",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "797337",
+          "display_name": "Wang Shenchao",
+          "shirt_number": "4",
+          "substitution_minute_display": "90'",
+          "out_display_name": "X. Y. Alex",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "871775",
+          "display_name": "Chen Wei",
+          "shirt_number": "12",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "137746",
+          "display_name": "Zhang Linpeng",
+          "shirt_number": "5",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "797338",
+          "display_name": "Fu Huan",
+          "shirt_number": "23",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "1210260",
+          "display_name": "Lu Yongtao",
+          "shirt_number": "38",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "887582",
+          "display_name": "Yuan Zhang",
+          "shirt_number": "6",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "806479",
+          "display_name": "Yang Shiyuan",
+          "shirt_number": "20",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "1101120",
+          "display_name": "Matthew Orr",
+          "shirt_number": "14",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        }
+      ],
+      "substitution_events": [
+        {
+          "incoming_player_id": "817864",
+          "outgoing_player_id": "840640",
+          "incoming_timeline_name": "Y. Xin",
+          "outgoing_timeline_name": "L. Shuai",
+          "minute_timeline_display": "70'",
+          "minute_base": 70,
+          "stoppage_minute": 0,
+          "minute_card_display": "70'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "223232",
+          "outgoing_player_id": "979522",
+          "incoming_timeline_name": "W. Lei",
+          "outgoing_timeline_name": "Leonardo",
+          "minute_timeline_display": "70'",
+          "minute_base": 70,
+          "stoppage_minute": 0,
+          "minute_card_display": "70'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "1501972",
+          "outgoing_player_id": "923888",
+          "incoming_timeline_name": "K. Jiwen",
+          "outgoing_timeline_name": "P. Ampem",
+          "minute_timeline_display": "79'",
+          "minute_base": 79,
+          "stoppage_minute": 0,
+          "minute_card_display": "79'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "1933818",
+          "outgoing_player_id": "1017409",
+          "incoming_timeline_name": "L. Xinxiang",
+          "outgoing_timeline_name": "L. Zhurun",
+          "minute_timeline_display": "79'",
+          "minute_base": 79,
+          "stoppage_minute": 0,
+          "minute_card_display": "79'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "797337",
+          "outgoing_player_id": "1977665",
+          "incoming_timeline_name": "W. Shenchao",
+          "outgoing_timeline_name": "X. Y. Alex",
+          "minute_timeline_display": "90' +3",
+          "minute_base": 90,
+          "stoppage_minute": 3,
+          "minute_card_display": "90'",
+          "minute_surfaces_differ": true
+        }
+      ]
+    },
+    {
+      "team": "Guoan",
+      "formation": "4-1-4-1",
+      "starters": [
+        {
+          "player_id": "793878",
+          "display_name": "H. Sen",
+          "shirt_number": "34",
+          "captain": false,
+          "formation_line": 1,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "967088",
+          "display_name": "T. Yue",
+          "shirt_number": "21",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "77758",
+          "display_name": "G. Wang",
+          "shirt_number": "27",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 2,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "827192",
+          "display_name": "G. Ramos",
+          "shirt_number": "5",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 3,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1113798",
+          "display_name": "B. Yang",
+          "shirt_number": "26",
+          "captain": false,
+          "formation_line": 2,
+          "slot_in_line": 4,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "1130184",
+          "display_name": "W. Yu",
+          "shirt_number": "18",
+          "captain": false,
+          "formation_line": 3,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "872209",
+          "display_name": "Y. Liyu",
+          "shirt_number": "17",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "817886",
+          "display_name": "Y. Cao",
+          "shirt_number": "37",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 2,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "843735",
+          "display_name": "S. Erjini'ao",
+          "shirt_number": "7",
+          "captain": false,
+          "formation_line": 4,
+          "slot_in_line": 3,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "231992",
+          "display_name": "Z. Xizhe",
+          "shirt_number": "10",
+          "captain": true,
+          "formation_line": 4,
+          "slot_in_line": 4,
+          "position_semantics": "nominal_visible_formation_slot"
+        },
+        {
+          "player_id": "828227",
+          "display_name": "Z. Yuning",
+          "shirt_number": "9",
+          "captain": false,
+          "formation_line": 5,
+          "slot_in_line": 1,
+          "position_semantics": "nominal_visible_formation_slot"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "2443057",
+          "display_name": "Deng Jiefu",
+          "shirt_number": "47",
+          "substitution_minute_display": "46'",
+          "out_display_name": "Z. Xizhe",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "1121219",
+          "display_name": "Feifan Jia",
+          "shirt_number": "36",
+          "substitution_minute_display": "81'",
+          "out_display_name": "S. Erjini'ao",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "2487614",
+          "display_name": "Cheng Xi",
+          "shirt_number": "41",
+          "substitution_minute_display": "81'",
+          "out_display_name": "W. Yu",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "791491",
+          "display_name": "Li Lei",
+          "shirt_number": "4",
+          "substitution_minute_display": "90'",
+          "out_display_name": "Y. Liyu",
+          "appeared_as_substitute": true
+        },
+        {
+          "player_id": "1487427",
+          "display_name": "Nureli Abbas",
+          "shirt_number": "33",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "920987",
+          "display_name": "Abdugheni Abduhamit",
+          "shirt_number": "24",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "1886700",
+          "display_name": "Shuangjie Fan",
+          "shirt_number": "30",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "2664506",
+          "display_name": "Zhang Haoran",
+          "shirt_number": "50",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        },
+        {
+          "player_id": "2664505",
+          "display_name": "Xia Xiaoyu",
+          "shirt_number": "43",
+          "substitution_minute_display": null,
+          "out_display_name": null,
+          "appeared_as_substitute": false
+        }
+      ],
+      "substitution_events": [
+        {
+          "incoming_player_id": "2443057",
+          "outgoing_player_id": "231992",
+          "incoming_timeline_name": "D. Jiefu",
+          "outgoing_timeline_name": "Z. Xizhe",
+          "minute_timeline_display": "46'",
+          "minute_base": 46,
+          "stoppage_minute": 0,
+          "minute_card_display": "46'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "1121219",
+          "outgoing_player_id": "843735",
+          "incoming_timeline_name": "F. Jia",
+          "outgoing_timeline_name": "S. Erjini'ao",
+          "minute_timeline_display": "81'",
+          "minute_base": 81,
+          "stoppage_minute": 0,
+          "minute_card_display": "81'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "2487614",
+          "outgoing_player_id": "1130184",
+          "incoming_timeline_name": "C. Xi",
+          "outgoing_timeline_name": "W. Yu",
+          "minute_timeline_display": "81'",
+          "minute_base": 81,
+          "stoppage_minute": 0,
+          "minute_card_display": "81'",
+          "minute_surfaces_differ": false
+        },
+        {
+          "incoming_player_id": "791491",
+          "outgoing_player_id": "872209",
+          "incoming_timeline_name": "L. Lei",
+          "outgoing_timeline_name": "Y. Liyu",
+          "minute_timeline_display": "90'",
+          "minute_base": 90,
+          "stoppage_minute": 0,
+          "minute_card_display": "90'",
+          "minute_surfaces_differ": false
+        }
+      ]
+    }
+  ]
+}

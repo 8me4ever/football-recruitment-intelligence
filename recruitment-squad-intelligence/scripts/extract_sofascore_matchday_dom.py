@@ -27,6 +27,41 @@ def image_player_id(element):
     return None
 
 
+def timeline_substitutions(tree):
+    """Read substitution icons and adjacent player links from visible event cards."""
+    events = []
+    cards = tree.xpath('//div[contains(@class,"hover:bg_surface.s2") and '
+                       'contains(@class,"cursor_pointer")][.//bdi and '
+                       './/a[contains(@href,"/football/player/")]]')
+    for card in cards:
+        links = card.xpath('.//a[contains(@href,"/football/player/")]')
+        if len(links) != 2:
+            continue
+        fills = card.xpath('.//path/@fill')
+        is_substitution = (any("status-error" in fill for fill in fills) and
+                           any("status-success" in fill for fill in fills))
+        is_substitution |= "Substitution" in text(card)
+        if not is_substitution:
+            continue
+        minute_nodes = card.xpath('.//bdi[1]')
+        if len(minute_nodes) != 1:
+            continue
+        minute_display = text(minute_nodes[0])
+        minute_match = re.fullmatch(r"(\d+)'(?:\s*\+(\d+))?", minute_display)
+        if not minute_match:
+            continue
+        events.append({
+            "incoming_player_id": links[0].get("href", "").rstrip("/").split("/")[-1],
+            "outgoing_player_id": links[1].get("href", "").rstrip("/").split("/")[-1],
+            "incoming_timeline_name": text(links[0]),
+            "outgoing_timeline_name": text(links[1]),
+            "minute_timeline_display": minute_display,
+            "minute_base": int(minute_match.group(1)),
+            "stoppage_minute": int(minute_match.group(2)) if minute_match.group(2) else 0,
+        })
+    return events
+
+
 def extract(path, event_id):
     tree = html.fromstring(path.read_text(encoding="utf-8"))
     title = text(tree.xpath("//title")[0]) if tree.xpath("//title") else ""
@@ -109,6 +144,26 @@ def extract(path, event_id):
         if not bench or len({p["player_id"] for p in bench}) != len(bench):
             raise ValueError(f"Missing or duplicate bench players for {team['team']}")
         team["bench"] = bench
+
+    timeline_events = timeline_substitutions(tree)
+    for team in teams:
+        roster_ids = {player["player_id"] for player in team["starters"] + team["bench"]}
+        substitutions = []
+        for player in team["bench"]:
+            if not player["appeared_as_substitute"]:
+                continue
+            candidates = [event for event in timeline_events
+                          if event["incoming_player_id"] == player["player_id"]
+                          and event["outgoing_player_id"] in roster_ids]
+            if len(candidates) != 1:
+                raise ValueError(f"Expected one visible timeline event for {team['team']} "
+                                 f"substitute {player['display_name']}; got {len(candidates)}")
+            event = dict(candidates[0])
+            event["minute_card_display"] = player["substitution_minute_display"]
+            event["minute_surfaces_differ"] = (
+                event["minute_card_display"] != event["minute_timeline_display"])
+            substitutions.append(event)
+        team["substitution_events"] = substitutions
     return {"event_id": event_id, "source_html": str(path), "page_title": title,
             "source_method": "Scrapling-rendered visible DOM snapshot", "teams": teams}
 
@@ -125,7 +180,7 @@ def main():
     print(json.dumps({"output": str(args.output), "teams": [t["team"] for t in result["teams"]],
                       "starters": [len(t["starters"]) for t in result["teams"]],
                       "bench": [len(t["bench"]) for t in result["teams"]],
-                      "substitution_events": [sum(p["appeared_as_substitute"] for p in t["bench"])
+                      "substitution_events": [len(t["substitution_events"])
                                               for t in result["teams"]]}, ensure_ascii=False))
 
 
